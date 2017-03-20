@@ -1,6 +1,612 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Mon Mar 20 17:09:24 +0000 2017",
+		"id": 843872110263128000,
+		"id_str": "843872110263128064",
+		"text": "RT @pbump: Did you know that The Post’s in-tweet fact-checking also works on @POTUS tweets in Chrome? https://t.co/p2lfwlK22N https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pbump",
+					"name": "Philip Bump",
+					"id": 950531,
+					"id_str": "950531",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "POTUS",
+					"name": "President Trump",
+					"id": 822215679726100500,
+					"id_str": "822215679726100480",
+					"indices": [
+						77,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p2lfwlK22N",
+					"expanded_url": "https://twitter.com/POTUS/status/843865267008655360",
+					"display_url": "twitter.com/POTUS/status/8…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6177,
+			"friends_count": 2241,
+			"listed_count": 397,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 602,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 20 16:54:03 +0000 2017",
+			"id": 843868247946674200,
+			"id_str": "843868247946674177",
+			"text": "Did you know that The Post’s in-tweet fact-checking also works on @POTUS tweets in Chrome? https://t.co/p2lfwlK22N https://t.co/dqXKzgZQMn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "POTUS",
+						"name": "President Trump",
+						"id": 822215679726100500,
+						"id_str": "822215679726100480",
+						"indices": [
+							66,
+							72
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/p2lfwlK22N",
+						"expanded_url": "https://twitter.com/POTUS/status/843865267008655360",
+						"display_url": "twitter.com/POTUS/status/8…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 843868236718338000,
+						"id_str": "843868236718338048",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/C7YFsLbU8AAiHxk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7YFsLbU8AAiHxk.jpg",
+						"url": "https://t.co/dqXKzgZQMn",
+						"display_url": "pic.twitter.com/dqXKzgZQMn",
+						"expanded_url": "https://twitter.com/pbump/status/843868247946674177/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 537,
+								"h": 731,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 537,
+								"h": 731,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 843868236718338000,
+						"id_str": "843868236718338048",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/C7YFsLbU8AAiHxk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7YFsLbU8AAiHxk.jpg",
+						"url": "https://t.co/dqXKzgZQMn",
+						"display_url": "pic.twitter.com/dqXKzgZQMn",
+						"expanded_url": "https://twitter.com/pbump/status/843868247946674177/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 537,
+								"h": 731,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 537,
+								"h": 731,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 950531,
+				"id_str": "950531",
+				"name": "Philip Bump",
+				"screen_name": "pbump",
+				"location": "NYC",
+				"description": "National correspondent for The Washington Post. philip.bump@washpost.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49136,
+				"friends_count": 575,
+				"listed_count": 1987,
+				"created_at": "Sun Mar 11 19:58:10 +0000 2007",
+				"favourites_count": 39733,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 65153,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/549553025/photo_lo.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/549553025/photo_lo.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/549342284542525440/F_qM5k07_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/549342284542525440/F_qM5k07_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/950531/1484786846",
+				"profile_link_color": "15131E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FCF4F4",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 843865267008655400,
+			"quoted_status_id_str": "843865267008655360",
+			"quoted_status": {
+				"created_at": "Mon Mar 20 16:42:12 +0000 2017",
+				"id": 843865267008655400,
+				"id_str": "843865267008655360",
+				"text": "The NSA and FBI tell Congress that Russia did not influence electoral process. https://t.co/d9HqkxYBt5",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 843863508127166500,
+							"id_str": "843863508127166465",
+							"indices": [
+								79,
+								102
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/843863508127166465/pu/img/m0CQ3NXP5cmqSrv7.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/843863508127166465/pu/img/m0CQ3NXP5cmqSrv7.jpg",
+							"url": "https://t.co/d9HqkxYBt5",
+							"display_url": "pic.twitter.com/d9HqkxYBt5",
+							"expanded_url": "https://twitter.com/POTUS/status/843865267008655360/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 628,
+									"h": 360,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 195,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 600,
+									"h": 344,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 843863508127166500,
+							"id_str": "843863508127166465",
+							"indices": [
+								79,
+								102
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/843863508127166465/pu/img/m0CQ3NXP5cmqSrv7.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/843863508127166465/pu/img/m0CQ3NXP5cmqSrv7.jpg",
+							"url": "https://t.co/d9HqkxYBt5",
+							"display_url": "pic.twitter.com/d9HqkxYBt5",
+							"expanded_url": "https://twitter.com/POTUS/status/843865267008655360/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 628,
+									"h": 360,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 195,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 600,
+									"h": 344,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									157,
+									90
+								],
+								"duration_millis": 51051,
+								"variants": [
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/843863508127166465/pu/pl/0hgCvMfUsWEBL2s_.m3u8"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/843863508127166465/pu/vid/628x360/SuVtDQMk2XVS--fQ.mp4"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/843863508127166465/pu/vid/314x180/mLOdL5qQt32L3WQf.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 822215679726100500,
+					"id_str": "822215679726100480",
+					"name": "President Trump",
+					"screen_name": "POTUS",
+					"location": "Washington, D.C.",
+					"description": "45th @POTUS @realDonaldTrump. Working on behalf of the American people to make our country great again. Tweets by @Scavino45. Tweets by #POTUS signed -DJT.",
+					"url": "https://t.co/IxLjEB2zlE",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/IxLjEB2zlE",
+									"expanded_url": null,
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 16166948,
+					"friends_count": 38,
+					"listed_count": 11562,
+					"created_at": "Thu Jan 19 22:54:28 +0000 2017",
+					"favourites_count": 0,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 348,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/822248776169504768/McYZqda-_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/822248776169504768/McYZqda-_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/822215679726100480/1487967995",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3434,
+				"favorite_count": 7986,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 30,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 843865267008655400,
+		"quoted_status_id_str": "843865267008655360",
+		"retweet_count": 30,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 20 16:40:10 +0000 2017",
+		"id": 843864753931980800,
+		"id_str": "843864753931980801",
+		"text": "Just got @duetdisplay set up. Wow. What a difference having a second display on a MacBook makes. #Productivity",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Productivity",
+					"indices": [
+						97,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duetdisplay",
+					"name": "Duet Display",
+					"id": 2902223007,
+					"id_str": "2902223007",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6177,
+			"friends_count": 2241,
+			"listed_count": 397,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 602,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 20 14:32:20 +0000 2017",
 		"id": 843832585591705600,
 		"id_str": "843832585591705600",

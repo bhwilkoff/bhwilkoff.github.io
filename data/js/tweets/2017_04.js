@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Fri Apr 07 11:24:57 +0000 2017",
+		"id": 850308407894708200,
+		"id_str": "850308407894708226",
+		"text": "RT @pressgazette: Google rolls out fact-checking labels on news stories and search results to help 'distinguish fact from fiction' https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pressgazette",
+					"name": "Press Gazette",
+					"id": 1417251,
+					"id_str": "1417251",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6200,
+			"friends_count": 2291,
+			"listed_count": 396,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 610,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17117,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 07 11:11:18 +0000 2017",
+			"id": 850304975901163500,
+			"id_str": "850304975901163521",
+			"text": "Google rolls out fact-checking labels on news stories and search results to help 'distinguish fact from fiction'… https://t.co/eAEViOY7Du",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eAEViOY7Du",
+						"expanded_url": "https://twitter.com/i/web/status/850304975901163521",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1417251,
+				"id_str": "1417251",
+				"name": "Press Gazette",
+				"screen_name": "pressgazette",
+				"location": "London, UK",
+				"description": "Latest UK journalism news. Free daily email newsletter: https://t.co/hoT99qnsbM \nJobs4Journalists: https://t.co/HTxeyt06ba\nPodcast: https://t.co/c4B0mEpHqH",
+				"url": "http://t.co/sOCp6G0aRX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/sOCp6G0aRX",
+								"expanded_url": "http://www.pressgazette.co.uk",
+								"display_url": "pressgazette.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hoT99qnsbM",
+								"expanded_url": "http://bit.ly/1Pfl3s4",
+								"display_url": "bit.ly/1Pfl3s4",
+								"indices": [
+									56,
+									79
+								]
+							},
+							{
+								"url": "https://t.co/HTxeyt06ba",
+								"expanded_url": "http://bit.ly/29YDhhL",
+								"display_url": "bit.ly/29YDhhL",
+								"indices": [
+									99,
+									122
+								]
+							},
+							{
+								"url": "https://t.co/c4B0mEpHqH",
+								"expanded_url": "http://bit.ly/29XfvSs",
+								"display_url": "bit.ly/29XfvSs",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 61656,
+				"friends_count": 12329,
+				"listed_count": 2063,
+				"created_at": "Sun Mar 18 14:07:24 +0000 2007",
+				"favourites_count": 105,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 32326,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68293200/PGZ_Logo2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68293200/PGZ_Logo2.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/755782955138748417/k7do0fe5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/755782955138748417/k7do0fe5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1417251/1474475480",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "C15C5C",
+				"profile_sidebar_fill_color": "EE8989",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 11,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 06 23:41:54 +0000 2017",
 		"id": 850131482458939400,
 		"id_str": "850131482458939392",

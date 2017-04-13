@@ -1,6 +1,488 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 13 21:02:57 +0000 2017",
+		"id": 852628194889015300,
+		"id_str": "852628194889015296",
+		"text": "One of the best student videos I have seen in a while. #poetry https://t.co/adHaLANCEy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "poetry",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/adHaLANCEy",
+					"expanded_url": "https://twitter.com/lloydcrew/status/852627619786960896",
+					"display_url": "twitter.com/lloydcrew/stat…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6207,
+			"friends_count": 2305,
+			"listed_count": 396,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 614,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17122,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 852627619786960900,
+		"quoted_status_id_str": "852627619786960896",
+		"quoted_status": {
+			"created_at": "Thu Apr 13 21:00:40 +0000 2017",
+			"id": 852627619786960900,
+			"id_str": "852627619786960896",
+			"text": "Watch “A Room Where I Can Be Who I Am”  https://t.co/u8nw9jFDY2 If you are moved, donate here! https://t.co/ZDLYG7ZpFD #826Boston",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "826Boston",
+						"indices": [
+							119,
+							129
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/u8nw9jFDY2",
+						"expanded_url": "https://vimeo.com/126715822?ref=tw-share",
+						"display_url": "vimeo.com/126715822?ref=…",
+						"indices": [
+							40,
+							63
+						]
+					},
+					{
+						"url": "https://t.co/ZDLYG7ZpFD",
+						"expanded_url": "http://bit.ly/2oasTdC",
+						"display_url": "bit.ly/2oasTdC",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8055862,
+				"id_str": "8055862",
+				"name": "Elizabeth Lloyd",
+				"screen_name": "lloydcrew",
+				"location": "Newton, MA",
+				"description": "school based occupational therapist turned innovation specialist, creative spirit, triathlete, runner, kayaker, wannabe reader, light lover, seaglass collector",
+				"url": "http://t.co/fbLiRSKGSO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fbLiRSKGSO",
+								"expanded_url": "http://hosmerot.blogspot.com",
+								"display_url": "hosmerot.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1896,
+				"friends_count": 1706,
+				"listed_count": 115,
+				"created_at": "Wed Aug 08 14:21:04 +0000 2007",
+				"favourites_count": 307,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4034,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "84BBBE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2763837/IMG_4493.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2763837/IMG_4493.JPG",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/558233057371500544/WqSSkrPX_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/558233057371500544/WqSSkrPX_normal.jpeg",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "9F44BC",
+				"profile_sidebar_fill_color": "A2D6E9",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 13 21:00:43 +0000 2017",
+		"id": 852627635108794400,
+		"id_str": "852627635108794369",
+		"text": "RT @RusulAlrubail: 'Set Phasers to Love Me' one of the best keynotes I've heard by @ruha9 for @isteconnects  https://t.co/Bx8o55KmlJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RusulAlrubail",
+					"name": "Rusul الربيعي ✊🏼",
+					"id": 2380961067,
+					"id_str": "2380961067",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "ruha9",
+					"name": "Analog B. Wells",
+					"id": 49129289,
+					"id_str": "49129289",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"screen_name": "isteconnects",
+					"name": "ISTE",
+					"id": 18119242,
+					"id_str": "18119242",
+					"indices": [
+						94,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Bx8o55KmlJ",
+					"expanded_url": "https://www.youtube.com/watch?v=9xmrJJESCt8&sns=tw",
+					"display_url": "youtube.com/watch?v=9xmrJJ…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6207,
+			"friends_count": 2305,
+			"listed_count": 396,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 614,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17122,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 20:55:17 +0000 2017",
+			"id": 852626267648163800,
+			"id_str": "852626267648163840",
+			"text": "'Set Phasers to Love Me' one of the best keynotes I've heard by @ruha9 for @isteconnects  https://t.co/Bx8o55KmlJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ruha9",
+						"name": "Analog B. Wells",
+						"id": 49129289,
+						"id_str": "49129289",
+						"indices": [
+							64,
+							70
+						]
+					},
+					{
+						"screen_name": "isteconnects",
+						"name": "ISTE",
+						"id": 18119242,
+						"id_str": "18119242",
+						"indices": [
+							75,
+							88
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Bx8o55KmlJ",
+						"expanded_url": "https://www.youtube.com/watch?v=9xmrJJESCt8&sns=tw",
+						"display_url": "youtube.com/watch?v=9xmrJJ…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2380961067,
+				"id_str": "2380961067",
+				"name": "Rusul الربيعي ✊🏼",
+				"screen_name": "RusulAlrubail",
+				"location": "Canada",
+				"description": "Author. Speaker. Executive Director @helloTWP empowering student impact. Partner @cfndrs. Formerly @edutopia. Recovering adjunct. Mom of two. 🇮🇶",
+				"url": "https://t.co/bMaDtXvlSo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bMaDtXvlSo",
+								"expanded_url": "http://www.rusulalrubail.com",
+								"display_url": "rusulalrubail.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9958,
+				"friends_count": 3030,
+				"listed_count": 716,
+				"created_at": "Tue Mar 04 01:34:52 +0000 2014",
+				"favourites_count": 59760,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 55157,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804371098481676289/sAK-98zI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804371098481676289/sAK-98zI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2380961067/1463347537",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 12 12:16:30 +0000 2017",
 		"id": 852133323807830000,
 		"id_str": "852133323807830019",

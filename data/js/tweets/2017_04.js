@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 25 22:04:49 +0000 2017",
+		"id": 856992417383317500,
+		"id_str": "856992417383317504",
+		"text": "RT @TRUENorthAurora: Another great day of learning @ North! Thanks to @WylandORG &amp; @conocophillips for an amazing experience! #savewater #b…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "savewater",
+					"indices": [
+						130,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TRUENorthAurora",
+					"name": "North Middle School",
+					"id": 762853834217562100,
+					"id_str": "762853834217562112",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "WylandORG",
+					"name": "Wyland Foundation",
+					"id": 26863382,
+					"id_str": "26863382",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"screen_name": "conocophillips",
+					"name": "ConocoPhillips",
+					"id": 23449774,
+					"id_str": "23449774",
+					"indices": [
+						87,
+						102
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6215,
+			"friends_count": 2323,
+			"listed_count": 396,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 623,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 25 21:57:15 +0000 2017",
+			"id": 856990514163236900,
+			"id_str": "856990514163236864",
+			"text": "Another great day of learning @ North! Thanks to @WylandORG &amp; @conocophillips for an amazing experience! #savewater… https://t.co/W3Gn2Zrde7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "savewater",
+						"indices": [
+							109,
+							119
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WylandORG",
+						"name": "Wyland Foundation",
+						"id": 26863382,
+						"id_str": "26863382",
+						"indices": [
+							49,
+							59
+						]
+					},
+					{
+						"screen_name": "conocophillips",
+						"name": "ConocoPhillips",
+						"id": 23449774,
+						"id_str": "23449774",
+						"indices": [
+							66,
+							81
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/W3Gn2Zrde7",
+						"expanded_url": "https://twitter.com/i/web/status/856990514163236864",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 762853834217562100,
+				"id_str": "762853834217562112",
+				"name": "North Middle School",
+				"screen_name": "TRUENorthAurora",
+				"location": "Aurora, CO",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57,
+				"friends_count": 106,
+				"listed_count": 3,
+				"created_at": "Tue Aug 09 03:31:42 +0000 2016",
+				"favourites_count": 63,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 87,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/779146167670013956/AKPiIo9j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/779146167670013956/AKPiIo9j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/762853834217562112/1470713874",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 25 19:34:06 +0000 2017",
 		"id": 856954490188116000,
 		"id_str": "856954490188115968",

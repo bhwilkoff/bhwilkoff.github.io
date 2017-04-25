@@ -1,6 +1,795 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 25 19:34:06 +0000 2017",
+		"id": 856954490188116000,
+		"id_str": "856954490188115968",
+		"text": "RT @SenorG: These are *devices* until you learn how to use them. They then become *tools*\n- @bhwilkoff on \"shades of 1:1\" in @aurorak12 cc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SenorG",
+					"name": "Noah Geisel",
+					"id": 21132309,
+					"id_str": "21132309",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"screen_name": "aurorak12",
+					"name": "Aurora PublicSchools",
+					"id": 31184923,
+					"id_str": "31184923",
+					"indices": [
+						125,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6215,
+			"friends_count": 2323,
+			"listed_count": 396,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 622,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17157,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 25 18:40:43 +0000 2017",
+			"id": 856941055786315800,
+			"id_str": "856941055786315776",
+			"text": "These are *devices* until you learn how to use them. They then become *tools*\n- @bhwilkoff on \"shades of 1:1\" in @aurorak12 cc @edgarageco",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							80,
+							90
+						]
+					},
+					{
+						"screen_name": "aurorak12",
+						"name": "Aurora PublicSchools",
+						"id": 31184923,
+						"id_str": "31184923",
+						"indices": [
+							113,
+							123
+						]
+					},
+					{
+						"screen_name": "edgarageco",
+						"name": "edGarage",
+						"id": 786342149793034200,
+						"id_str": "786342149793034241",
+						"indices": [
+							127,
+							138
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21132309,
+				"id_str": "21132309",
+				"name": "Noah Geisel",
+				"screen_name": "SenorG",
+				"location": "Denver",
+				"description": "2013 ACTFL National Language Teacher of the Year. EdTech PD, consulting, keynotes. #BadgechatK12 co-founder. Education Dir @StackupScore. Take risks/Dream Big!",
+				"url": "https://t.co/DAux9HDx4r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DAux9HDx4r",
+								"expanded_url": "https://medium.com/@senorg/",
+								"display_url": "medium.com/@senorg/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8087,
+				"friends_count": 4993,
+				"listed_count": 734,
+				"created_at": "Tue Feb 17 21:24:46 +0000 2009",
+				"favourites_count": 4785,
+				"utc_offset": -21600,
+				"time_zone": "America/Denver",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25676,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/607976460712710144/_ZFQJiF2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/607976460712710144/_ZFQJiF2_normal.jpg",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3A075F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 25 19:34:02 +0000 2017",
+		"id": 856954474593701900,
+		"id_str": "856954474593701889",
+		"text": "RT @SenorG: 1:1 starts with access and a ratio. The goal is for the numbers to become a relationship - @bhwilkoff speaking at @edgarageco",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SenorG",
+					"name": "Noah Geisel",
+					"id": 21132309,
+					"id_str": "21132309",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"screen_name": "edgarageco",
+					"name": "edGarage",
+					"id": 786342149793034200,
+					"id_str": "786342149793034241",
+					"indices": [
+						126,
+						137
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6215,
+			"friends_count": 2323,
+			"listed_count": 396,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 622,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17157,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 25 18:46:08 +0000 2017",
+			"id": 856942420520558600,
+			"id_str": "856942420520558594",
+			"text": "1:1 starts with access and a ratio. The goal is for the numbers to become a relationship - @bhwilkoff speaking at @edgarageco",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							91,
+							101
+						]
+					},
+					{
+						"screen_name": "edgarageco",
+						"name": "edGarage",
+						"id": 786342149793034200,
+						"id_str": "786342149793034241",
+						"indices": [
+							114,
+							125
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21132309,
+				"id_str": "21132309",
+				"name": "Noah Geisel",
+				"screen_name": "SenorG",
+				"location": "Denver",
+				"description": "2013 ACTFL National Language Teacher of the Year. EdTech PD, consulting, keynotes. #BadgechatK12 co-founder. Education Dir @StackupScore. Take risks/Dream Big!",
+				"url": "https://t.co/DAux9HDx4r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DAux9HDx4r",
+								"expanded_url": "https://medium.com/@senorg/",
+								"display_url": "medium.com/@senorg/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8087,
+				"friends_count": 4993,
+				"listed_count": 734,
+				"created_at": "Tue Feb 17 21:24:46 +0000 2009",
+				"favourites_count": 4785,
+				"utc_offset": -21600,
+				"time_zone": "America/Denver",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25676,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/607976460712710144/_ZFQJiF2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/607976460712710144/_ZFQJiF2_normal.jpg",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3A075F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 25 19:33:54 +0000 2017",
+		"id": 856954437730009100,
+		"id_str": "856954437730009088",
+		"text": "RT @CDLinEd: @bhwilkoff is at @edgarageco on how @aurorak12 is building the relationship between students and their devices https://t.co/1F…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CDLinEd",
+					"name": "Christine DeLeon",
+					"id": 1300862588,
+					"id_str": "1300862588",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "edgarageco",
+					"name": "edGarage",
+					"id": 786342149793034200,
+					"id_str": "786342149793034241",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "aurorak12",
+					"name": "Aurora PublicSchools",
+					"id": 31184923,
+					"id_str": "31184923",
+					"indices": [
+						49,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6215,
+			"friends_count": 2323,
+			"listed_count": 396,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 622,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17157,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 25 18:50:39 +0000 2017",
+			"id": 856943555029291000,
+			"id_str": "856943555029291008",
+			"text": "@bhwilkoff is at @edgarageco on how @aurorak12 is building the relationship between students and their devices https://t.co/1FxrIXrDUg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "edgarageco",
+						"name": "edGarage",
+						"id": 786342149793034200,
+						"id_str": "786342149793034241",
+						"indices": [
+							17,
+							28
+						]
+					},
+					{
+						"screen_name": "aurorak12",
+						"name": "Aurora PublicSchools",
+						"id": 31184923,
+						"id_str": "31184923",
+						"indices": [
+							36,
+							46
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 856943534863077400,
+						"id_str": "856943534863077376",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/C-R5mswU0AAmMqy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-R5mswU0AAmMqy.jpg",
+						"url": "https://t.co/1FxrIXrDUg",
+						"display_url": "pic.twitter.com/1FxrIXrDUg",
+						"expanded_url": "https://twitter.com/CDLinEd/status/856943555029291008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 856943534863077400,
+						"id_str": "856943534863077376",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/C-R5mswU0AAmMqy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-R5mswU0AAmMqy.jpg",
+						"url": "https://t.co/1FxrIXrDUg",
+						"display_url": "pic.twitter.com/1FxrIXrDUg",
+						"expanded_url": "https://twitter.com/CDLinEd/status/856943555029291008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1710871,
+			"in_reply_to_user_id_str": "1710871",
+			"in_reply_to_screen_name": "bhwilkoff",
+			"user": {
+				"id": 1300862588,
+				"id_str": "1300862588",
+				"name": "Christine DeLeon",
+				"screen_name": "CDLinEd",
+				"location": "Denver, CO",
+				"description": "passionate about school redesign to best serve all students, passionate about building community around entrepreneurship and innovation. loves fun and family",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 475,
+				"friends_count": 188,
+				"listed_count": 22,
+				"created_at": "Mon Mar 25 19:46:47 +0000 2013",
+				"favourites_count": 105,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 200,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/543477351762255872/aqkaPro3_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/543477351762255872/aqkaPro3_normal.jpeg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 24 12:15:24 +0000 2017",
 		"id": 856481697705197600,
 		"id_str": "856481697705197569",

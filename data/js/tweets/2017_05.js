@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Mon May 15 21:13:19 +0000 2017",
+		"id": 864227214761570300,
+		"id_str": "864227214761570304",
+		"text": "We get to talk about transforming 1:1 from a student to device ratio into a conversation about relationships betwee… https://t.co/Tu9j1LV8u0",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tu9j1LV8u0",
+					"expanded_url": "https://twitter.com/i/web/status/864227214761570304",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6225,
+			"friends_count": 2349,
+			"listed_count": 390,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 625,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17182,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 864226894887219200,
+		"quoted_status_id_str": "864226894887219200",
+		"quoted_status": {
+			"created_at": "Mon May 15 21:12:02 +0000 2017",
+			"id": 864226894887219200,
+			"id_str": "864226894887219200",
+			"text": "Come to our event to hear from our speakers Benjamin Wilkoff (@bhwilkoff) and Bob Berry about exciting #edtech topi… https://t.co/m3gkRIX5s4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtech",
+						"indices": [
+							103,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							62,
+							72
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/m3gkRIX5s4",
+						"expanded_url": "https://twitter.com/i/web/status/864226894887219200",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34048082,
+				"id_str": "34048082",
+				"name": "Troxell Comm., Inc.",
+				"screen_name": "troxellcomm",
+				"location": "Phoenix, AZ",
+				"description": "The Leader in Education Technology & Collaboration Solutions. \n\nLike us on Facebook at https://t.co/UqZF2ALJEz",
+				"url": "http://t.co/g9uvrG5BK2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/g9uvrG5BK2",
+								"expanded_url": "http://www.etroxell.com",
+								"display_url": "etroxell.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UqZF2ALJEz",
+								"expanded_url": "http://facebook.com/troxellcomm",
+								"display_url": "facebook.com/troxellcomm",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 939,
+				"friends_count": 1790,
+				"listed_count": 126,
+				"created_at": "Tue Apr 21 21:25:19 +0000 2009",
+				"favourites_count": 323,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3900,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/825317599/c37d940ba18fbb9cbd0a43843cad11f5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/825317599/c37d940ba18fbb9cbd0a43843cad11f5.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/835272057298440192/-oUsEcTI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/835272057298440192/-oUsEcTI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34048082/1492466102",
+				"profile_link_color": "00AEEF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 13 23:31:46 +0000 2017",
 		"id": 863537281545752600,
 		"id_str": "863537281545752577",

@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 23 23:28:47 +0000 2017",
+		"id": 867160412088827900,
+		"id_str": "867160412088827904",
+		"text": "RT @SenorG: Sweet TOSA posting 4 chance to work on awesome team w @bhwilkoff in @aurorak12 in Colorado. https://t.co/w773yui01T #TOSAchat #…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TOSAchat",
+					"indices": [
+						128,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SenorG",
+					"name": "Noah Geisel",
+					"id": 21132309,
+					"id_str": "21132309",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"screen_name": "aurorak12",
+					"name": "Aurora PublicSchools",
+					"id": 31184923,
+					"id_str": "31184923",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/w773yui01T",
+					"expanded_url": "https://www.applitrack.com/aurorak12/onlineapp/default.aspx?AppliTrackPostingSearch=Personalized&AppliTrackJobId=9296&AppliTrackLayoutMode=detail",
+					"display_url": "applitrack.com/aurorak12/onli…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6224,
+			"friends_count": 2355,
+			"listed_count": 391,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 626,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17191,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 23 23:10:18 +0000 2017",
+			"id": 867155760622514200,
+			"id_str": "867155760622514176",
+			"text": "Sweet TOSA posting 4 chance to work on awesome team w @bhwilkoff in @aurorak12 in Colorado. https://t.co/w773yui01T #TOSAchat #innedco17",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TOSAchat",
+						"indices": [
+							116,
+							125
+						]
+					},
+					{
+						"text": "innedco17",
+						"indices": [
+							126,
+							136
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							54,
+							64
+						]
+					},
+					{
+						"screen_name": "aurorak12",
+						"name": "Aurora PublicSchools",
+						"id": 31184923,
+						"id_str": "31184923",
+						"indices": [
+							68,
+							78
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/w773yui01T",
+						"expanded_url": "https://www.applitrack.com/aurorak12/onlineapp/default.aspx?AppliTrackPostingSearch=Personalized&AppliTrackJobId=9296&AppliTrackLayoutMode=detail",
+						"display_url": "applitrack.com/aurorak12/onli…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21132309,
+				"id_str": "21132309",
+				"name": "Noah Geisel",
+				"screen_name": "SenorG",
+				"location": "Denver",
+				"description": "2013 ACTFL National Language Teacher of the Year. EdTech PD, consulting, keynotes. #BadgechatK12 co-founder. Education Dir @StackupScore. Take risks/Dream Big!",
+				"url": "https://t.co/DAux9HDx4r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DAux9HDx4r",
+								"expanded_url": "https://medium.com/@senorg/",
+								"display_url": "medium.com/@senorg/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8181,
+				"friends_count": 5123,
+				"listed_count": 734,
+				"created_at": "Tue Feb 17 21:24:46 +0000 2009",
+				"favourites_count": 4940,
+				"utc_offset": -21600,
+				"time_zone": "America/Denver",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26463,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/607976460712710144/_ZFQJiF2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/607976460712710144/_ZFQJiF2_normal.jpg",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3A075F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 23 12:21:30 +0000 2017",
 		"id": 866992483133251600,
 		"id_str": "866992483133251585",

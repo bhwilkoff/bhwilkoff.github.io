@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Tue Jun 06 00:12:51 +0000 2017",
+		"id": 871882543812968400,
+		"id_str": "871882543812968452",
+		"text": "Woohoo! #InnEdCO17 https://t.co/nuSFt43wW5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO17",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nuSFt43wW5",
+					"expanded_url": "https://twitter.com/InnEdCO/status/871882094066245633",
+					"display_url": "twitter.com/InnEdCO/status…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6241,
+			"friends_count": 2370,
+			"listed_count": 391,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 627,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17214,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 871882094066245600,
+		"quoted_status_id_str": "871882094066245633",
+		"quoted_status": {
+			"created_at": "Tue Jun 06 00:11:04 +0000 2017",
+			"id": 871882094066245600,
+			"id_str": "871882094066245633",
+			"text": "Find out how to create your own schedule and navigate the #InnEdCO17 App. (Also, Get Excited for next week!) https://t.co/DmirDVU0U0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCO17",
+						"indices": [
+							58,
+							68
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DmirDVU0U0",
+						"expanded_url": "http://youtu.be/j2XrzWyhLsY?a",
+						"display_url": "youtu.be/j2XrzWyhLsY?a",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 103948271,
+				"id_str": "103948271",
+				"name": "InnEdCO",
+				"screen_name": "InnEdCO",
+				"location": "",
+				"description": "A premier organization that provides year-round networks for educators that support engagement in sustainable digital age leadership, teaching, and learning.",
+				"url": "http://t.co/l7V5xzyPjY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/l7V5xzyPjY",
+								"expanded_url": "http://innedco.org",
+								"display_url": "innedco.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1681,
+				"friends_count": 575,
+				"listed_count": 73,
+				"created_at": "Mon Jan 11 19:36:47 +0000 2010",
+				"favourites_count": 141,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1371,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/731378715/8ed750258e6af95b4bcb72e402a9ef19.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/731378715/8ed750258e6af95b4bcb72e402a9ef19.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/560832218096885760/96-qg4IL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/560832218096885760/96-qg4IL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103948271/1422549092",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 04 20:07:23 +0000 2017",
 		"id": 871458378484129800,
 		"id_str": "871458378484129793",

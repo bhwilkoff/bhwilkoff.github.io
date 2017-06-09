@@ -1,6 +1,627 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 09 01:44:51 +0000 2017",
+		"id": 872992856792813600,
+		"id_str": "872992856792813569",
+		"text": "RT @MrChase: If you don't like @bhwilkoff's brain, you're doing it wrong. #FutureReadyTI https://t.co/jmHgQgdLjS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FutureReadyTI",
+					"indices": [
+						74,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrChase",
+					"name": "Zac Chase",
+					"id": 2879711,
+					"id_str": "2879711",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						31,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 872855716771409900,
+					"id_str": "872855716771409920",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/DB0BplpUMAAlNCX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DB0BplpUMAAlNCX.jpg",
+					"url": "https://t.co/jmHgQgdLjS",
+					"display_url": "pic.twitter.com/jmHgQgdLjS",
+					"expanded_url": "https://twitter.com/MrChase/status/872855762904784897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1013,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 336,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 872855762904784900,
+					"source_status_id_str": "872855762904784897",
+					"source_user_id": 2879711,
+					"source_user_id_str": "2879711"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 872855716771409900,
+					"id_str": "872855716771409920",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/DB0BplpUMAAlNCX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DB0BplpUMAAlNCX.jpg",
+					"url": "https://t.co/jmHgQgdLjS",
+					"display_url": "pic.twitter.com/jmHgQgdLjS",
+					"expanded_url": "https://twitter.com/MrChase/status/872855762904784897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1013,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 336,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 872855762904784900,
+					"source_status_id_str": "872855762904784897",
+					"source_user_id": 2879711,
+					"source_user_id_str": "2879711"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6245,
+			"friends_count": 2373,
+			"listed_count": 395,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 631,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17223,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 08 16:40:05 +0000 2017",
+			"id": 872855762904784900,
+			"id_str": "872855762904784897",
+			"text": "If you don't like @bhwilkoff's brain, you're doing it wrong. #FutureReadyTI https://t.co/jmHgQgdLjS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FutureReadyTI",
+						"indices": [
+							61,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							18,
+							28
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 872855716771409900,
+						"id_str": "872855716771409920",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DB0BplpUMAAlNCX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DB0BplpUMAAlNCX.jpg",
+						"url": "https://t.co/jmHgQgdLjS",
+						"display_url": "pic.twitter.com/jmHgQgdLjS",
+						"expanded_url": "https://twitter.com/MrChase/status/872855762904784897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 594,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1013,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 336,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 872855716771409900,
+						"id_str": "872855716771409920",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DB0BplpUMAAlNCX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DB0BplpUMAAlNCX.jpg",
+						"url": "https://t.co/jmHgQgdLjS",
+						"display_url": "pic.twitter.com/jmHgQgdLjS",
+						"expanded_url": "https://twitter.com/MrChase/status/872855762904784897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 594,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1013,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 336,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2879711,
+				"id_str": "2879711",
+				"name": "Zac Chase",
+				"screen_name": "MrChase",
+				"location": "Longmont, CO",
+				"description": "Student. Always. Opinions are mine, and retweet =/= endorsement.",
+				"url": "https://t.co/O4uiaDw10t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O4uiaDw10t",
+								"expanded_url": "http://about.me/MrChase",
+								"display_url": "about.me/MrChase",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4393,
+				"friends_count": 2083,
+				"listed_count": 225,
+				"created_at": "Thu Mar 29 19:03:26 +0000 2007",
+				"favourites_count": 940,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14580,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FDFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/538022/HPIM0953.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/538022/HPIM0953.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693213381852041216/lc3iTh25_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693213381852041216/lc3iTh25_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2879711/1407956654",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 09 01:23:34 +0000 2017",
+		"id": 872987501153177600,
+		"id_str": "872987501153177601",
+		"text": "RT @educollabor8ors: @bhwilkoff- saying \"from 1 to 1\" instead of 1:1 changes convo from ratio to a relationship. #futurereadyTI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "futurereadyTI",
+					"indices": [
+						113,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "educollabor8ors",
+					"name": "Edu Collaborators",
+					"id": 168683999,
+					"id_str": "168683999",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6245,
+			"friends_count": 2373,
+			"listed_count": 395,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 631,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17223,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 08 16:40:35 +0000 2017",
+			"id": 872855887089508400,
+			"id_str": "872855887089508353",
+			"text": "@bhwilkoff- saying \"from 1 to 1\" instead of 1:1 changes convo from ratio to a relationship. #futurereadyTI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "futurereadyTI",
+						"indices": [
+							92,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1710871,
+			"in_reply_to_user_id_str": "1710871",
+			"in_reply_to_screen_name": "bhwilkoff",
+			"user": {
+				"id": 168683999,
+				"id_str": "168683999",
+				"name": "Edu Collaborators",
+				"screen_name": "educollabor8ors",
+				"location": "",
+				"description": "Educational Collaborators is an international consulting organization comprised of many of the best practitioners in the field of education.  #edtech",
+				"url": "http://t.co/VOvvQkmDko",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VOvvQkmDko",
+								"expanded_url": "http://www.educollaborators.com",
+								"display_url": "educollaborators.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1307,
+				"friends_count": 1321,
+				"listed_count": 89,
+				"created_at": "Tue Jul 20 14:42:11 +0000 2010",
+				"favourites_count": 300,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2435,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/395233127/TwitterGIF.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/395233127/TwitterGIF.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1082005815/EC_Edited_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082005815/EC_Edited_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 08 04:56:42 +0000 2017",
 		"id": 872678752253345800,
 		"id_str": "872678752253345792",

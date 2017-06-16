@@ -1,6 +1,748 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 15 22:18:55 +0000 2017",
+		"id": 875477746729664500,
+		"id_str": "875477746729664512",
+		"text": "RT @kjsain: Love ending #InnEdCO17 conference with Ts sharing their #Ignite sessions. Ts showing tips for #GoogleKeep &amp; trasformed classroo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO17",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"text": "Ignite",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "GoogleKeep",
+					"indices": [
+						106,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kjsain",
+					"name": "Kelly Sain",
+					"id": 13887282,
+					"id_str": "13887282",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6268,
+			"friends_count": 2405,
+			"listed_count": 395,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 643,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17295,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 15 19:07:50 +0000 2017",
+			"id": 875429661379100700,
+			"id_str": "875429661379100674",
+			"text": "Love ending #InnEdCO17 conference with Ts sharing their #Ignite sessions. Ts showing tips for #GoogleKeep &amp; trasfor… https://t.co/k63my6UPib",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCO17",
+						"indices": [
+							12,
+							22
+						]
+					},
+					{
+						"text": "Ignite",
+						"indices": [
+							56,
+							63
+						]
+					},
+					{
+						"text": "GoogleKeep",
+						"indices": [
+							94,
+							105
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/k63my6UPib",
+						"expanded_url": "https://twitter.com/i/web/status/875429661379100674",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13887282,
+				"id_str": "13887282",
+				"name": "Kelly Sain",
+				"screen_name": "kjsain",
+				"location": "Boulder, Colorado",
+				"description": "Always learning! Digital leader, mom, PD mentor, teacher, tech enthusiast. Director of Ed Tech,  @InnEdCO Board member. #ISTE2016 BYOD CoChair",
+				"url": "https://t.co/YaQcFrXZ7O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YaQcFrXZ7O",
+								"expanded_url": "http://bvsd.org/IT/edtech/Pages/default.aspx",
+								"display_url": "bvsd.org/IT/edtech/Page…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1965,
+				"friends_count": 1893,
+				"listed_count": 193,
+				"created_at": "Sun Feb 24 02:22:31 +0000 2008",
+				"favourites_count": 2281,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3812,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000006388971/f77a731f5df34951b936c80ef747e0fe_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000006388971/f77a731f5df34951b936c80ef747e0fe_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13887282/1372384956",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 15 22:17:59 +0000 2017",
+		"id": 875477515300511700,
+		"id_str": "875477515300511744",
+		"text": "RT @brianrozinsky: Time now to clear my thoughts, which are running like this stream. Thanks, #InnEdCO17! https://t.co/82hHZpgQ3V",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO17",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brianrozinsky",
+					"name": "Brian Rozinsky",
+					"id": 3236477179,
+					"id_str": "3236477179",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 875445251439181800,
+					"id_str": "875445251439181824",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/875445251439181824/pu/img/hEnQVaBk_XFfsM4C.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/875445251439181824/pu/img/hEnQVaBk_XFfsM4C.jpg",
+					"url": "https://t.co/82hHZpgQ3V",
+					"display_url": "pic.twitter.com/82hHZpgQ3V",
+					"expanded_url": "https://twitter.com/brianrozinsky/status/875445301393465347/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 875445301393465300,
+					"source_status_id_str": "875445301393465347",
+					"source_user_id": 3236477179,
+					"source_user_id_str": "3236477179"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 875445251439181800,
+					"id_str": "875445251439181824",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/875445251439181824/pu/img/hEnQVaBk_XFfsM4C.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/875445251439181824/pu/img/hEnQVaBk_XFfsM4C.jpg",
+					"url": "https://t.co/82hHZpgQ3V",
+					"display_url": "pic.twitter.com/82hHZpgQ3V",
+					"expanded_url": "https://twitter.com/brianrozinsky/status/875445301393465347/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 875445301393465300,
+					"source_status_id_str": "875445301393465347",
+					"source_user_id": 3236477179,
+					"source_user_id_str": "3236477179",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 4265,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/875445251439181824/pu/vid/360x640/w5xi4BmcHPsGRBMT.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/875445251439181824/pu/vid/720x1280/J4rSYV-7mABG37XB.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/875445251439181824/pu/vid/180x320/wwDTaPZPER6pCagX.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/875445251439181824/pu/pl/NDd106kn-Lu9pxSQ.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3236477179,
+							"id_str": "3236477179",
+							"name": "Brian Rozinsky",
+							"screen_name": "brianrozinsky",
+							"location": "",
+							"description": "I teach middle-school students English. The intersection of literacy & technology is a fascinating place for me to be.",
+							"url": "http://t.co/vmRzlCKk7K",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/vmRzlCKk7K",
+											"expanded_url": "http://about.me/brianrozinsky",
+											"display_url": "about.me/brianrozinsky",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1399,
+							"friends_count": 441,
+							"listed_count": 92,
+							"created_at": "Thu Jun 04 22:48:12 +0000 2015",
+							"favourites_count": 2591,
+							"utc_offset": -21600,
+							"time_zone": "Mountain Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 9131,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/606595550490685441/KYns4X_X_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/606595550490685441/KYns4X_X_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3236477179/1434496827",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6268,
+			"friends_count": 2405,
+			"listed_count": 395,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 643,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17295,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 15 20:09:59 +0000 2017",
+			"id": 875445301393465300,
+			"id_str": "875445301393465347",
+			"text": "Time now to clear my thoughts, which are running like this stream. Thanks, #InnEdCO17! https://t.co/82hHZpgQ3V",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCO17",
+						"indices": [
+							75,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 875445251439181800,
+						"id_str": "875445251439181824",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/875445251439181824/pu/img/hEnQVaBk_XFfsM4C.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/875445251439181824/pu/img/hEnQVaBk_XFfsM4C.jpg",
+						"url": "https://t.co/82hHZpgQ3V",
+						"display_url": "pic.twitter.com/82hHZpgQ3V",
+						"expanded_url": "https://twitter.com/brianrozinsky/status/875445301393465347/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 875445251439181800,
+						"id_str": "875445251439181824",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/875445251439181824/pu/img/hEnQVaBk_XFfsM4C.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/875445251439181824/pu/img/hEnQVaBk_XFfsM4C.jpg",
+						"url": "https://t.co/82hHZpgQ3V",
+						"display_url": "pic.twitter.com/82hHZpgQ3V",
+						"expanded_url": "https://twitter.com/brianrozinsky/status/875445301393465347/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 4265,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/875445251439181824/pu/vid/360x640/w5xi4BmcHPsGRBMT.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/875445251439181824/pu/vid/720x1280/J4rSYV-7mABG37XB.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/875445251439181824/pu/vid/180x320/wwDTaPZPER6pCagX.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/875445251439181824/pu/pl/NDd106kn-Lu9pxSQ.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3236477179,
+				"id_str": "3236477179",
+				"name": "Brian Rozinsky",
+				"screen_name": "brianrozinsky",
+				"location": "",
+				"description": "I teach middle-school students English. The intersection of literacy & technology is a fascinating place for me to be.",
+				"url": "http://t.co/vmRzlCKk7K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/vmRzlCKk7K",
+								"expanded_url": "http://about.me/brianrozinsky",
+								"display_url": "about.me/brianrozinsky",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1399,
+				"friends_count": 441,
+				"listed_count": 92,
+				"created_at": "Thu Jun 04 22:48:12 +0000 2015",
+				"favourites_count": 2591,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9131,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/606595550490685441/KYns4X_X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/606595550490685441/KYns4X_X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3236477179/1434496827",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 15 16:35:06 +0000 2017",
 		"id": 875391225863569400,
 		"id_str": "875391225863569408",

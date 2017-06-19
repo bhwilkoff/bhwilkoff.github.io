@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 19 15:33:02 +0000 2017",
+		"id": 876825157058351100,
+		"id_str": "876825157058351111",
+		"text": "RT @mustefaJ: Dear @InnEdCO #InnEdCO17, we're home &amp; brought back to Toronto ur tremendous love and kindness.. \"Words cannot express\" ~ @Ru…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO17",
+					"indices": [
+						28,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mustefaJ",
+					"name": "Mustefa– مصطفى جوشنْ",
+					"id": 194357577,
+					"id_str": "194357577",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "InnEdCO",
+					"name": "InnEdCO",
+					"id": 103948271,
+					"id_str": "103948271",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6272,
+			"friends_count": 2406,
+			"listed_count": 397,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 644,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17297,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 15 00:22:42 +0000 2017",
+			"id": 875146513495842800,
+			"id_str": "875146513495842816",
+			"text": "Dear @InnEdCO #InnEdCO17, we're home &amp; brought back to Toronto ur tremendous love and kindness.. \"Words cannot expr… https://t.co/Z3YphNi8gc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCO17",
+						"indices": [
+							14,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "InnEdCO",
+						"name": "InnEdCO",
+						"id": 103948271,
+						"id_str": "103948271",
+						"indices": [
+							5,
+							13
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Z3YphNi8gc",
+						"expanded_url": "https://twitter.com/i/web/status/875146513495842816",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 194357577,
+				"id_str": "194357577",
+				"name": "Mustefa– مصطفى جوشنْ",
+				"screen_name": "mustefaJ",
+				"location": "Parkdale, Toronto",
+				"description": "I work on a Design Thinking company called @cfndrs and help young people express their voice using @helloTWP. Operator @ind_pendent 🇮🇶✌",
+				"url": "https://t.co/lTjgE36095",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lTjgE36095",
+								"expanded_url": "https://twitter.com/cfndrs",
+								"display_url": "twitter.com/cfndrs",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2185,
+				"friends_count": 1385,
+				"listed_count": 192,
+				"created_at": "Thu Sep 23 23:05:19 +0000 2010",
+				"favourites_count": 10122,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18577,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/872823312635875330/3Mshp4wi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/872823312635875330/3Mshp4wi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/194357577/1492248314",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 31,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 19 13:51:51 +0000 2017",
 		"id": 876799690477633500,
 		"id_str": "876799690477633537",

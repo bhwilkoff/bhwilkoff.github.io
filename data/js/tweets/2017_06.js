@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 28 01:13:02 +0000 2017",
+		"id": 879870222265724900,
+		"id_str": "879870222265724929",
+		"text": "RT @thebradmontague: I am learning a lot from the kids right in front of me. About life. love. fidget spinners.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebradmontague",
+					"name": "Brad Montague",
+					"id": 13143682,
+					"id_str": "13143682",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6280,
+			"friends_count": 2420,
+			"listed_count": 396,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 645,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 28 01:12:44 +0000 2017",
+			"id": 879870143551217700,
+			"id_str": "879870143551217664",
+			"text": "I am learning a lot from the kids right in front of me. About life. love. fidget spinners.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 879869790252388400,
+			"in_reply_to_status_id_str": "879869790252388352",
+			"in_reply_to_user_id": 13143682,
+			"in_reply_to_user_id_str": "13143682",
+			"in_reply_to_screen_name": "thebradmontague",
+			"user": {
+				"id": 13143682,
+				"id_str": "13143682",
+				"name": "Brad Montague",
+				"screen_name": "thebradmontague",
+				"location": "Tennessee",
+				"description": "Writer. Director. Joy rebel. Creator of @iamkidpresident + Socktober + more. Helping kids and grown-ups change the world together. Instagram: bradmontague",
+				"url": "https://t.co/is4s0fTvM8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/is4s0fTvM8",
+								"expanded_url": "http://montagueworkshop.com",
+								"display_url": "montagueworkshop.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32423,
+				"friends_count": 2986,
+				"listed_count": 372,
+				"created_at": "Wed Feb 06 05:49:10 +0000 2008",
+				"favourites_count": 90869,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7140,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/304752576/1btwitback.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/304752576/1btwitback.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/771792611447300096/sOXgc-vh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/771792611447300096/sOXgc-vh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13143682/1357240172",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 27 19:37:15 +0000 2017",
 		"id": 879785716829618200,
 		"id_str": "879785716829618178",

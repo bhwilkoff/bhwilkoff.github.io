@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 23 20:21:38 +0000 2017",
+		"id": 889218974172332000,
+		"id_str": "889218974172332033",
+		"text": "The best way to understand a practice is to experience it. You can learn about a theory or idea, but a practice must be experienced.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6303,
+			"friends_count": 2455,
+			"listed_count": 394,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17356,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "85c09b7b6a803faf",
+			"url": "https://api.twitter.com/1.1/geo/id/85c09b7b6a803faf.json",
+			"place_type": "city",
+			"name": "Southglenn",
+			"full_name": "Southglenn, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-104.988399,
+							39.565951
+						],
+						[
+							-104.922825,
+							39.565951
+						],
+						[
+							-104.922825,
+							39.613203
+						],
+						[
+							-104.988399,
+							39.613203
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 23 20:18:12 +0000 2017",
+		"id": 889218107901788200,
+		"id_str": "889218107901788161",
+		"text": "\"Holacracy\" by Brian Robertson - https://t.co/YnkB8GfVRG https://t.co/9VvcDHhQvo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YnkB8GfVRG",
+					"expanded_url": "https://www.youtube.com/watch?v=0FmKsDf_CnI",
+					"display_url": "youtube.com/watch?v=0FmKsD…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 889218103988691000,
+					"id_str": "889218103988690944",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DFcjJ4AXoAADpYJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFcjJ4AXoAADpYJ.jpg",
+					"url": "https://t.co/9VvcDHhQvo",
+					"display_url": "pic.twitter.com/9VvcDHhQvo",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/889218107901788161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1015,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1015,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 889218103988691000,
+					"id_str": "889218103988690944",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DFcjJ4AXoAADpYJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFcjJ4AXoAADpYJ.jpg",
+					"url": "https://t.co/9VvcDHhQvo",
+					"display_url": "pic.twitter.com/9VvcDHhQvo",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/889218107901788161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1015,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1015,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6303,
+			"friends_count": 2455,
+			"listed_count": 394,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17356,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 23 20:04:44 +0000 2017",
+		"id": 889214718195281900,
+		"id_str": "889214718195281924",
+		"text": "Pretty good definition of tension in an organization. https://t.co/Cw245zGVeA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 889214715146141700,
+					"id_str": "889214715146141696",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DFcgEnlWAAA84bp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFcgEnlWAAA84bp.jpg",
+					"url": "https://t.co/Cw245zGVeA",
+					"display_url": "pic.twitter.com/Cw245zGVeA",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/889214718195281924/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 127,
+							"h": 127,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 127,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 84,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 127,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 889214715146141700,
+					"id_str": "889214715146141696",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/DFcgEnlWAAA84bp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFcgEnlWAAA84bp.jpg",
+					"url": "https://t.co/Cw245zGVeA",
+					"display_url": "pic.twitter.com/Cw245zGVeA",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/889214718195281924/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 127,
+							"h": 127,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 127,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 84,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 127,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6303,
+			"friends_count": 2455,
+			"listed_count": 394,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17356,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 23 19:32:30 +0000 2017",
+		"id": 889206605832753200,
+		"id_str": "889206605832753152",
+		"text": "I’m reading up on Holacracy and this resonates a lot. Anyone implemented the structure within schools or districts?… https://t.co/WHTQRZqtH8",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WHTQRZqtH8",
+					"expanded_url": "https://twitter.com/i/web/status/889206605832753152",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6303,
+			"friends_count": 2455,
+			"listed_count": 394,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17356,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 23 18:13:10 +0000 2017",
 		"id": 889186642048581600,
 		"id_str": "889186642048581632",

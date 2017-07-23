@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 23 18:13:10 +0000 2017",
+		"id": 889186642048581600,
+		"id_str": "889186642048581632",
+		"text": "https://t.co/pIK9cPFuUq and Photo slideshows is going away! https://t.co/HlMM7wZQ6t https://t.co/umtNkGB7N1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pIK9cPFuUq",
+					"expanded_url": "http://youtube.com/editor",
+					"display_url": "youtube.com/editor",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/HlMM7wZQ6t",
+					"expanded_url": "https://support.google.com/youtube/forum/AAAAiuErobUdx5xKn6v6rM/?hl=en",
+					"display_url": "support.google.com/youtube/forum/…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 889186639054082000,
+					"id_str": "889186639054082048",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DFcGiX_XkAA15_I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFcGiX_XkAA15_I.jpg",
+					"url": "https://t.co/umtNkGB7N1",
+					"display_url": "pic.twitter.com/umtNkGB7N1",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/889186642048581632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 570,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 889186639054082000,
+					"id_str": "889186639054082048",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DFcGiX_XkAA15_I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFcGiX_XkAA15_I.jpg",
+					"url": "https://t.co/umtNkGB7N1",
+					"display_url": "pic.twitter.com/umtNkGB7N1",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/889186642048581632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 570,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Blended and Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. Learning is Change.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6302,
+			"friends_count": 2455,
+			"listed_count": 394,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 650,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17352,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 21 12:14:03 +0000 2017",
 		"id": 888371492437807100,
 		"id_str": "888371492437807104",

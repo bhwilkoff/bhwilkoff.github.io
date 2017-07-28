@@ -1,6 +1,843 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Fri Jul 28 20:31:16 +0000 2017",
+		"id": 891033334100312000,
+		"id_str": "891033334100312064",
+		"text": "How about something like this for #innedco18? @Den_Petersen @TyrnaD @kjsain @gregmillerCO @techimomma @emdisi1 https://t.co/UHg8iFqrHu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "innedco18",
+					"indices": [
+						34,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Den_Petersen",
+					"name": "Brandon Petersen",
+					"id": 867056726,
+					"id_str": "867056726",
+					"indices": [
+						46,
+						59
+					]
+				},
+				{
+					"screen_name": "TyrnaD",
+					"name": "Jessica Raleigh",
+					"id": 426285610,
+					"id_str": "426285610",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"screen_name": "kjsain",
+					"name": "Kelly Sain",
+					"id": 13887282,
+					"id_str": "13887282",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"screen_name": "gregmillerCO",
+					"name": "Greg Miller",
+					"id": 50470217,
+					"id_str": "50470217",
+					"indices": [
+						76,
+						89
+					]
+				},
+				{
+					"screen_name": "techimomma",
+					"name": "Sheila Bowman",
+					"id": 1874064223,
+					"id_str": "1874064223",
+					"indices": [
+						90,
+						101
+					]
+				},
+				{
+					"screen_name": "emdisi1",
+					"name": "Erin Magley",
+					"id": 2683447614,
+					"id_str": "2683447614",
+					"indices": [
+						102,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UHg8iFqrHu",
+					"expanded_url": "https://twitter.com/mguhlin/status/891032149780037632",
+					"display_url": "twitter.com/mguhlin/status…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6307,
+			"friends_count": 2462,
+			"listed_count": 394,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17368,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 891032149780037600,
+		"quoted_status_id_str": "891032149780037632",
+		"quoted_status": {
+			"created_at": "Fri Jul 28 20:26:33 +0000 2017",
+			"id": 891032149780037600,
+			"id_str": "891032149780037632",
+			"text": "creations on the @TCEA lego wall at #tceachromebook @preimers https://t.co/DEYbLyE07w",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tceachromebook",
+						"indices": [
+							36,
+							51
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TCEA",
+						"name": "TCEA",
+						"id": 44133359,
+						"id_str": "44133359",
+						"indices": [
+							17,
+							22
+						]
+					},
+					{
+						"screen_name": "preimers",
+						"name": "Peggy Reimers",
+						"id": 30782163,
+						"id_str": "30782163",
+						"indices": [
+							52,
+							61
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 891032147729035300,
+						"id_str": "891032147729035265",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DF2VBHjXsAEx1_u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DF2VBHjXsAEx1_u.jpg",
+						"url": "https://t.co/DEYbLyE07w",
+						"display_url": "pic.twitter.com/DEYbLyE07w",
+						"expanded_url": "https://twitter.com/mguhlin/status/891032149780037632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 891032147729035300,
+						"id_str": "891032147729035265",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DF2VBHjXsAEx1_u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DF2VBHjXsAEx1_u.jpg",
+						"url": "https://t.co/DEYbLyE07w",
+						"display_url": "pic.twitter.com/DEYbLyE07w",
+						"expanded_url": "https://twitter.com/mguhlin/status/891032149780037632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5700782,
+				"id_str": "5700782",
+				"name": "Miguel Guhlin",
+				"screen_name": "mguhlin",
+				"location": "Texas",
+				"description": "Sharing to connect, connecting to learn, learning to lead, leading to grow, growing to transform. GCT,GCI,GCA; MIET, MIEE, CCGA;M:EE See https://t.co/MggjQJNYR5",
+				"url": "https://t.co/MggjQJNYR5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MggjQJNYR5",
+								"expanded_url": "http://bit.ly/mgstuff",
+								"display_url": "bit.ly/mgstuff",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MggjQJNYR5",
+								"expanded_url": "http://bit.ly/mgstuff",
+								"display_url": "bit.ly/mgstuff",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12404,
+				"friends_count": 13136,
+				"listed_count": 1031,
+				"created_at": "Wed May 02 02:16:33 +0000 2007",
+				"favourites_count": 16378,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 56590,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/856340941006807040/D1HYJtSL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/856340941006807040/D1HYJtSL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5700782/1487902873",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 28 20:27:14 +0000 2017",
+		"id": 891032321331044400,
+		"id_str": "891032321331044353",
+		"text": "RT @mguhlin: creations on the @TCEA lego wall at #tceachromebook @preimers https://t.co/DEYbLyE07w",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tceachromebook",
+					"indices": [
+						49,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mguhlin",
+					"name": "Miguel Guhlin",
+					"id": 5700782,
+					"id_str": "5700782",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "TCEA",
+					"name": "TCEA",
+					"id": 44133359,
+					"id_str": "44133359",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"screen_name": "preimers",
+					"name": "Peggy Reimers",
+					"id": 30782163,
+					"id_str": "30782163",
+					"indices": [
+						65,
+						74
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 891032147729035300,
+					"id_str": "891032147729035265",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DF2VBHjXsAEx1_u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DF2VBHjXsAEx1_u.jpg",
+					"url": "https://t.co/DEYbLyE07w",
+					"display_url": "pic.twitter.com/DEYbLyE07w",
+					"expanded_url": "https://twitter.com/mguhlin/status/891032149780037632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 891032149780037600,
+					"source_status_id_str": "891032149780037632",
+					"source_user_id": 5700782,
+					"source_user_id_str": "5700782"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 891032147729035300,
+					"id_str": "891032147729035265",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DF2VBHjXsAEx1_u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DF2VBHjXsAEx1_u.jpg",
+					"url": "https://t.co/DEYbLyE07w",
+					"display_url": "pic.twitter.com/DEYbLyE07w",
+					"expanded_url": "https://twitter.com/mguhlin/status/891032149780037632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 891032149780037600,
+					"source_status_id_str": "891032149780037632",
+					"source_user_id": 5700782,
+					"source_user_id_str": "5700782"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6307,
+			"friends_count": 2462,
+			"listed_count": 394,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17368,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 28 20:26:33 +0000 2017",
+			"id": 891032149780037600,
+			"id_str": "891032149780037632",
+			"text": "creations on the @TCEA lego wall at #tceachromebook @preimers https://t.co/DEYbLyE07w",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tceachromebook",
+						"indices": [
+							36,
+							51
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TCEA",
+						"name": "TCEA",
+						"id": 44133359,
+						"id_str": "44133359",
+						"indices": [
+							17,
+							22
+						]
+					},
+					{
+						"screen_name": "preimers",
+						"name": "Peggy Reimers",
+						"id": 30782163,
+						"id_str": "30782163",
+						"indices": [
+							52,
+							61
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 891032147729035300,
+						"id_str": "891032147729035265",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DF2VBHjXsAEx1_u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DF2VBHjXsAEx1_u.jpg",
+						"url": "https://t.co/DEYbLyE07w",
+						"display_url": "pic.twitter.com/DEYbLyE07w",
+						"expanded_url": "https://twitter.com/mguhlin/status/891032149780037632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 891032147729035300,
+						"id_str": "891032147729035265",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DF2VBHjXsAEx1_u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DF2VBHjXsAEx1_u.jpg",
+						"url": "https://t.co/DEYbLyE07w",
+						"display_url": "pic.twitter.com/DEYbLyE07w",
+						"expanded_url": "https://twitter.com/mguhlin/status/891032149780037632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5700782,
+				"id_str": "5700782",
+				"name": "Miguel Guhlin",
+				"screen_name": "mguhlin",
+				"location": "Texas",
+				"description": "Sharing to connect, connecting to learn, learning to lead, leading to grow, growing to transform. GCT,GCI,GCA; MIET, MIEE, CCGA;M:EE See https://t.co/MggjQJNYR5",
+				"url": "https://t.co/MggjQJNYR5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MggjQJNYR5",
+								"expanded_url": "http://bit.ly/mgstuff",
+								"display_url": "bit.ly/mgstuff",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MggjQJNYR5",
+								"expanded_url": "http://bit.ly/mgstuff",
+								"display_url": "bit.ly/mgstuff",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12404,
+				"friends_count": 13136,
+				"listed_count": 1031,
+				"created_at": "Wed May 02 02:16:33 +0000 2007",
+				"favourites_count": 16378,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 56590,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/856340941006807040/D1HYJtSL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/856340941006807040/D1HYJtSL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5700782/1487902873",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 28 20:10:13 +0000 2017",
 		"id": 891028038049247200,
 		"id_str": "891028038049247232",

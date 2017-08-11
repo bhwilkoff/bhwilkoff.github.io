@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 11 18:36:36 +0000 2017",
+		"id": 896077908191486000,
+		"id_str": "896077908191485952",
+		"text": "RT @ElaBenUr: @Dawn_McWilliams+@GarrettWMason+I need your vote+comment to empower everyday #designthinking at @SXSWedu! https://t.co/ljCZI3…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "designthinking",
+					"indices": [
+						91,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElaBenUr",
+					"name": "Ela Ben-Ur",
+					"id": 75519918,
+					"id_str": "75519918",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "Dawn_McWilliams",
+					"name": "Dr. Dawn McWilliams",
+					"id": 40355657,
+					"id_str": "40355657",
+					"indices": [
+						14,
+						30
+					]
+				},
+				{
+					"screen_name": "GarrettWMason",
+					"name": "Garrett Mason",
+					"id": 1626695989,
+					"id_str": "1626695989",
+					"indices": [
+						31,
+						45
+					]
+				},
+				{
+					"screen_name": "SXSWedu",
+					"name": "SXSW EDU",
+					"id": 189271022,
+					"id_str": "189271022",
+					"indices": [
+						110,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6325,
+			"friends_count": 2479,
+			"listed_count": 393,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 656,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 11 17:54:39 +0000 2017",
+			"id": 896067351262617600,
+			"id_str": "896067351262617600",
+			"text": "@Dawn_McWilliams+@GarrettWMason+I need your vote+comment to empower everyday #designthinking at @SXSWedu!… https://t.co/KiS8WqNDrE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "designthinking",
+						"indices": [
+							77,
+							92
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Dawn_McWilliams",
+						"name": "Dr. Dawn McWilliams",
+						"id": 40355657,
+						"id_str": "40355657",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "GarrettWMason",
+						"name": "Garrett Mason",
+						"id": 1626695989,
+						"id_str": "1626695989",
+						"indices": [
+							17,
+							31
+						]
+					},
+					{
+						"screen_name": "SXSWedu",
+						"name": "SXSW EDU",
+						"id": 189271022,
+						"id_str": "189271022",
+						"indices": [
+							96,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KiS8WqNDrE",
+						"expanded_url": "https://twitter.com/i/web/status/896067351262617600",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 40355657,
+			"in_reply_to_user_id_str": "40355657",
+			"in_reply_to_screen_name": "Dawn_McWilliams",
+			"user": {
+				"id": 75519918,
+				"id_str": "75519918",
+				"name": "Ela Ben-Ur",
+				"screen_name": "ElaBenUr",
+				"location": "Cambridge, MA",
+				"description": "Developer of #InnovatorsCompass—https://t.co/NeriJFsUki. Coach & co-experimenter. 13-year IDEO veteran. Olin College educator. Improviser on violin and in life.",
+				"url": "https://t.co/2CU0nlMeLR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2CU0nlMeLR",
+								"expanded_url": "http://www.i2iexperience.com",
+								"display_url": "i2iexperience.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NeriJFsUki",
+								"expanded_url": "http://InnovatorsCompass.org",
+								"display_url": "InnovatorsCompass.org",
+								"indices": [
+									32,
+									55
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 758,
+				"friends_count": 627,
+				"listed_count": 55,
+				"created_at": "Sat Sep 19 10:12:34 +0000 2009",
+				"favourites_count": 1416,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1216,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/571757792063549440/TuLpba3v_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/571757792063549440/TuLpba3v_normal.jpeg",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 8,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 10 15:11:25 +0000 2017",
 		"id": 895663886178730000,
 		"id_str": "895663886178729984",

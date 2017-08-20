@@ -1,6 +1,486 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 20 15:21:28 +0000 2017",
+		"id": 899290294386126800,
+		"id_str": "899290294386126849",
+		"text": "RT @MikeJohnstonCO: Today I announced that I’m running for Governor, here’s why. –MJ https://t.co/nLS1o465PS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MikeJohnstonCO",
+					"name": "Mike Johnston",
+					"id": 76386268,
+					"id_str": "76386268",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 821407917815394300,
+					"id_str": "821407917815394305",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/821407917815394305/pu/img/VCuUCKQ8c3FUfc30.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/821407917815394305/pu/img/VCuUCKQ8c3FUfc30.jpg",
+					"url": "https://t.co/nLS1o465PS",
+					"display_url": "pic.twitter.com/nLS1o465PS",
+					"expanded_url": "https://twitter.com/MikeJohnstonCO/status/821408127757197314/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 821408127757197300,
+					"source_status_id_str": "821408127757197314",
+					"source_user_id": 76386268,
+					"source_user_id_str": "76386268"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 821407917815394300,
+					"id_str": "821407917815394305",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/821407917815394305/pu/img/VCuUCKQ8c3FUfc30.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/821407917815394305/pu/img/VCuUCKQ8c3FUfc30.jpg",
+					"url": "https://t.co/nLS1o465PS",
+					"display_url": "pic.twitter.com/nLS1o465PS",
+					"expanded_url": "https://twitter.com/MikeJohnstonCO/status/821408127757197314/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 821408127757197300,
+					"source_status_id_str": "821408127757197314",
+					"source_user_id": 76386268,
+					"source_user_id_str": "76386268",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 120120,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/821407917815394305/pu/vid/320x180/LDZpR_2wkOx2eTeN.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/821407917815394305/pu/pl/656DWmiDVTx_65Wy.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/821407917815394305/pu/vid/640x360/jMioC42hzbopmiVL.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/821407917815394305/pu/vid/1280x720/6Ql57XhN4Oxjkj6R.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 76386268,
+							"id_str": "76386268",
+							"name": "Mike Johnston",
+							"screen_name": "MikeJohnstonCO",
+							"location": "Denver, Colorado",
+							"description": "Educator, small business owner, candidate for gov of CO, U9 flag football coach. My go to karaoke song is \"The Gambler\". Driver for Emmet, Seamus, Ava. Donuts!",
+							"url": "https://t.co/53dz5qw1Cl",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/53dz5qw1Cl",
+											"expanded_url": "http://www.mikejohnstonforcolorado.com",
+											"display_url": "mikejohnstonforcolorado.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 8390,
+							"friends_count": 300,
+							"listed_count": 326,
+							"created_at": "Tue Sep 22 17:05:24 +0000 2009",
+							"favourites_count": 481,
+							"utc_offset": -21600,
+							"time_zone": "Mountain Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 2567,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/895389666664263680/CzAE0Zl6_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/895389666664263680/CzAE0Zl6_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/76386268/1485987854",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6337,
+			"friends_count": 2489,
+			"listed_count": 393,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 657,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 17 17:25:33 +0000 2017",
+			"id": 821408127757197300,
+			"id_str": "821408127757197314",
+			"text": "Today I announced that I’m running for Governor, here’s why. –MJ https://t.co/nLS1o465PS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 821407917815394300,
+						"id_str": "821407917815394305",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/821407917815394305/pu/img/VCuUCKQ8c3FUfc30.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/821407917815394305/pu/img/VCuUCKQ8c3FUfc30.jpg",
+						"url": "https://t.co/nLS1o465PS",
+						"display_url": "pic.twitter.com/nLS1o465PS",
+						"expanded_url": "https://twitter.com/MikeJohnstonCO/status/821408127757197314/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 821407917815394300,
+						"id_str": "821407917815394305",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/821407917815394305/pu/img/VCuUCKQ8c3FUfc30.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/821407917815394305/pu/img/VCuUCKQ8c3FUfc30.jpg",
+						"url": "https://t.co/nLS1o465PS",
+						"display_url": "pic.twitter.com/nLS1o465PS",
+						"expanded_url": "https://twitter.com/MikeJohnstonCO/status/821408127757197314/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 120120,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/821407917815394305/pu/vid/320x180/LDZpR_2wkOx2eTeN.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/821407917815394305/pu/pl/656DWmiDVTx_65Wy.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/821407917815394305/pu/vid/640x360/jMioC42hzbopmiVL.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/821407917815394305/pu/vid/1280x720/6Ql57XhN4Oxjkj6R.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 76386268,
+				"id_str": "76386268",
+				"name": "Mike Johnston",
+				"screen_name": "MikeJohnstonCO",
+				"location": "Denver, Colorado",
+				"description": "Educator, small business owner, candidate for gov of CO, U9 flag football coach. My go to karaoke song is \"The Gambler\". Driver for Emmet, Seamus, Ava. Donuts!",
+				"url": "https://t.co/53dz5qw1Cl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/53dz5qw1Cl",
+								"expanded_url": "http://www.mikejohnstonforcolorado.com",
+								"display_url": "mikejohnstonforcolorado.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8390,
+				"friends_count": 300,
+				"listed_count": 326,
+				"created_at": "Tue Sep 22 17:05:24 +0000 2009",
+				"favourites_count": 481,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2567,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895389666664263680/CzAE0Zl6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895389666664263680/CzAE0Zl6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/76386268/1485987854",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 174,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 20 13:32:03 +0000 2017",
 		"id": 899262756192272400,
 		"id_str": "899262756192272385",

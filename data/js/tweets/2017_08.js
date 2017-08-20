@@ -1,6 +1,175 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 20 13:32:03 +0000 2017",
+		"id": 899262756192272400,
+		"id_str": "899262756192272385",
+		"text": "The Google glass iOS app was updated for the first time in over 2 years. What!? https://t.co/QkeJQ7AsFA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 899262752220356600,
+					"id_str": "899262752220356610",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DHrStWnVoAID4VD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHrStWnVoAID4VD.jpg",
+					"url": "https://t.co/QkeJQ7AsFA",
+					"display_url": "pic.twitter.com/QkeJQ7AsFA",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/899262756192272385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 341,
+							"h": 243,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 341,
+							"h": 243,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 341,
+							"h": 243,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 899262752220356600,
+					"id_str": "899262752220356610",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DHrStWnVoAID4VD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHrStWnVoAID4VD.jpg",
+					"url": "https://t.co/QkeJQ7AsFA",
+					"display_url": "pic.twitter.com/QkeJQ7AsFA",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/899262756192272385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 341,
+							"h": 243,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 341,
+							"h": 243,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 341,
+							"h": 243,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6336,
+			"friends_count": 2489,
+			"listed_count": 393,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 656,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 19 03:07:45 +0000 2017",
 		"id": 898743259991687200,
 		"id_str": "898743259991687168",

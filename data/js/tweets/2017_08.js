@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 31 15:43:18 +0000 2017",
+		"id": 903282055567425500,
+		"id_str": "903282055567425536",
+		"text": "RT @JackiSloan: Fun design challenge at Personalized Learning Networking Session @apsPLP #ReclaimPL https://t.co/oG7lIpolAa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ReclaimPL",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackiSloan",
+					"name": "Jacki Sloan",
+					"id": 284230762,
+					"id_str": "284230762",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "apsPLP",
+					"name": "Learning is Personal",
+					"id": 888121241747378200,
+					"id_str": "888121241747378176",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 903281449549180900,
+					"id_str": "903281449549180928",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DIkZsUyUMAAAU8L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIkZsUyUMAAAU8L.jpg",
+					"url": "https://t.co/oG7lIpolAa",
+					"display_url": "pic.twitter.com/oG7lIpolAa",
+					"expanded_url": "https://twitter.com/JackiSloan/status/903281467312058368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 903281467312058400,
+					"source_status_id_str": "903281467312058368",
+					"source_user_id": 284230762,
+					"source_user_id_str": "284230762"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 903281449549180900,
+					"id_str": "903281449549180928",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DIkZsUyUMAAAU8L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIkZsUyUMAAAU8L.jpg",
+					"url": "https://t.co/oG7lIpolAa",
+					"display_url": "pic.twitter.com/oG7lIpolAa",
+					"expanded_url": "https://twitter.com/JackiSloan/status/903281467312058368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 903281467312058400,
+					"source_status_id_str": "903281467312058368",
+					"source_user_id": 284230762,
+					"source_user_id_str": "284230762"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6337,
+			"friends_count": 2489,
+			"listed_count": 391,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 31 15:40:58 +0000 2017",
+			"id": 903281467312058400,
+			"id_str": "903281467312058368",
+			"text": "Fun design challenge at Personalized Learning Networking Session @apsPLP #ReclaimPL https://t.co/oG7lIpolAa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ReclaimPL",
+						"indices": [
+							73,
+							83
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "apsPLP",
+						"name": "Learning is Personal",
+						"id": 888121241747378200,
+						"id_str": "888121241747378176",
+						"indices": [
+							65,
+							72
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 903281449549180900,
+						"id_str": "903281449549180928",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DIkZsUyUMAAAU8L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIkZsUyUMAAAU8L.jpg",
+						"url": "https://t.co/oG7lIpolAa",
+						"display_url": "pic.twitter.com/oG7lIpolAa",
+						"expanded_url": "https://twitter.com/JackiSloan/status/903281467312058368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 903281449549180900,
+						"id_str": "903281449549180928",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DIkZsUyUMAAAU8L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIkZsUyUMAAAU8L.jpg",
+						"url": "https://t.co/oG7lIpolAa",
+						"display_url": "pic.twitter.com/oG7lIpolAa",
+						"expanded_url": "https://twitter.com/JackiSloan/status/903281467312058368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 284230762,
+				"id_str": "284230762",
+				"name": "Jacki Sloan",
+				"screen_name": "JackiSloan",
+				"location": "Colorado",
+				"description": "Personalized Learning Partner, Ed Tech Coach, Google Certified Trainer, Seesaw Ambassador, DenStar, Business Teacher",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 509,
+				"friends_count": 418,
+				"listed_count": 82,
+				"created_at": "Mon Apr 18 22:10:22 +0000 2011",
+				"favourites_count": 652,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1825,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3182231069/7f18878c3921895cfb344eb229ab7b51_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3182231069/7f18878c3921895cfb344eb229ab7b51_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/284230762/1457208361",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 31 13:25:00 +0000 2017",
 		"id": 903247250884894700,
 		"id_str": "903247250884894720",

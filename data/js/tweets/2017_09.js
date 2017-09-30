@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 30 17:11:02 +0000 2017",
+		"id": 914175767365296100,
+		"id_str": "914175767365296128",
+		"text": "I trust @gregmillerCO @edtechmusings @lindaphorne @kjsain @ejwalhof @Den_Petersen @techimomma to create the future of @InnEdCO. #IAmInnEdCO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IAmInnEdCO",
+					"indices": [
+						128,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gregmillerCO",
+					"name": "Greg Miller",
+					"id": 50470217,
+					"id_str": "50470217",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "edtechmusings",
+					"name": "Nannette McMurtry",
+					"id": 153451779,
+					"id_str": "153451779",
+					"indices": [
+						22,
+						36
+					]
+				},
+				{
+					"screen_name": "lindaphorne",
+					"name": "Linda Horne",
+					"id": 151146525,
+					"id_str": "151146525",
+					"indices": [
+						37,
+						49
+					]
+				},
+				{
+					"screen_name": "kjsain",
+					"name": "Kelly Sain",
+					"id": 13887282,
+					"id_str": "13887282",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"screen_name": "ejwalhof",
+					"name": "ejwalhof",
+					"id": 15134637,
+					"id_str": "15134637",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"screen_name": "Den_Petersen",
+					"name": "Brandon Petersen",
+					"id": 867056726,
+					"id_str": "867056726",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"screen_name": "techimomma",
+					"name": "Sheila Bowman",
+					"id": 1874064223,
+					"id_str": "1874064223",
+					"indices": [
+						82,
+						93
+					]
+				},
+				{
+					"screen_name": "InnEdCO",
+					"name": "InnEdCO",
+					"id": 103948271,
+					"id_str": "103948271",
+					"indices": [
+						118,
+						126
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6343,
+			"friends_count": 2494,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17420,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "33b5296a2c700697",
+			"url": "https://api.twitter.com/1.1/geo/id/33b5296a2c700697.json",
+			"place_type": "neighborhood",
+			"name": "Cherry Creek",
+			"full_name": "Cherry Creek, Denver",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-104.960156,
+							39.711531
+						],
+						[
+							-104.940772,
+							39.711531
+						],
+						[
+							-104.940772,
+							39.7256354
+						],
+						[
+							-104.960156,
+							39.7256354
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 28 16:28:05 +0000 2017",
 		"id": 913440185710370800,
 		"id_str": "913440185710370816",

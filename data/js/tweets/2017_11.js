@@ -1,6 +1,2117 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 07 15:49:16 +0000 2017",
+		"id": 927925930516930600,
+		"id_str": "927925930516930560",
+		"text": "“What kinda of things can I do as a learner to learn better within this environment?” Via @dubsmitheagles",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dubsmitheagles",
+					"name": "William Smith Eagles",
+					"id": 1534549988,
+					"id_str": "1534549988",
+					"indices": [
+						90,
+						105
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6325,
+			"friends_count": 2500,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 07 15:45:14 +0000 2017",
+		"id": 927924914404737000,
+		"id_str": "927924914404737024",
+		"text": "“How do you learn?” One of my favorite all-time questions. Via @dubsmitheagles https://t.co/NqeO03P42z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dubsmitheagles",
+					"name": "William Smith Eagles",
+					"id": 1534549988,
+					"id_str": "1534549988",
+					"indices": [
+						63,
+						78
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 927924901985468400,
+					"id_str": "927924901985468417",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DOCmyDEVQAE1qpr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOCmyDEVQAE1qpr.jpg",
+					"url": "https://t.co/NqeO03P42z",
+					"display_url": "pic.twitter.com/NqeO03P42z",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927924914404737024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927924901985468400,
+					"id_str": "927924901985468417",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DOCmyDEVQAE1qpr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOCmyDEVQAE1qpr.jpg",
+					"url": "https://t.co/NqeO03P42z",
+					"display_url": "pic.twitter.com/NqeO03P42z",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927924914404737024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6325,
+			"friends_count": 2500,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 07 15:42:21 +0000 2017",
+		"id": 927924189922672600,
+		"id_str": "927924189922672648",
+		"text": "@dubsmitheagles “Redesign the game to reflect a different phase of the war” https://t.co/mI94dpw9Jh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dubsmitheagles",
+					"name": "William Smith Eagles",
+					"id": 1534549988,
+					"id_str": "1534549988",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 927924175360032800,
+					"id_str": "927924175360032769",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DOCmHwLVAAEDvN4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOCmHwLVAAEDvN4.jpg",
+					"url": "https://t.co/mI94dpw9Jh",
+					"display_url": "pic.twitter.com/mI94dpw9Jh",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927924189922672648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927924175360032800,
+					"id_str": "927924175360032769",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DOCmHwLVAAEDvN4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOCmHwLVAAEDvN4.jpg",
+					"url": "https://t.co/mI94dpw9Jh",
+					"display_url": "pic.twitter.com/mI94dpw9Jh",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927924189922672648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 927923945650585600,
+		"in_reply_to_status_id_str": "927923945650585601",
+		"in_reply_to_user_id": 1710871,
+		"in_reply_to_user_id_str": "1710871",
+		"in_reply_to_screen_name": "bhwilkoff",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6325,
+			"friends_count": 2500,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 07 15:41:23 +0000 2017",
+		"id": 927923945650585600,
+		"id_str": "927923945650585601",
+		"text": "What can we learn from playing Axis &amp; Allies? Via @dubsmitheagles “Make plans.  Coordinate on strategy.” https://t.co/bEnsNv90ca",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dubsmitheagles",
+					"name": "William Smith Eagles",
+					"id": 1534549988,
+					"id_str": "1534549988",
+					"indices": [
+						54,
+						69
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 927923929607368700,
+					"id_str": "927923929607368704",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DOCl5crU8AAMf2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOCl5crU8AAMf2Y.jpg",
+					"url": "https://t.co/bEnsNv90ca",
+					"display_url": "pic.twitter.com/bEnsNv90ca",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927923945650585601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927923929607368700,
+					"id_str": "927923929607368704",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DOCl5crU8AAMf2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOCl5crU8AAMf2Y.jpg",
+					"url": "https://t.co/bEnsNv90ca",
+					"display_url": "pic.twitter.com/bEnsNv90ca",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927923945650585601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6325,
+			"friends_count": 2500,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 07 15:38:18 +0000 2017",
+		"id": 927923168974479400,
+		"id_str": "927923168974479360",
+		"text": "Holden and his “people hunting hat”. #StudentArt via @dubsmitheagles https://t.co/UNrVDHBWas",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StudentArt",
+					"indices": [
+						37,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dubsmitheagles",
+					"name": "William Smith Eagles",
+					"id": 1534549988,
+					"id_str": "1534549988",
+					"indices": [
+						53,
+						68
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 927923154122555400,
+					"id_str": "927923154122555392",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DOClMTxVwAA_C69.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOClMTxVwAA_C69.jpg",
+					"url": "https://t.co/UNrVDHBWas",
+					"display_url": "pic.twitter.com/UNrVDHBWas",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927923168974479360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927923154122555400,
+					"id_str": "927923154122555392",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DOClMTxVwAA_C69.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOClMTxVwAA_C69.jpg",
+					"url": "https://t.co/UNrVDHBWas",
+					"display_url": "pic.twitter.com/UNrVDHBWas",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927923168974479360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6325,
+			"friends_count": 2500,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 07 15:35:20 +0000 2017",
+		"id": 927922424779178000,
+		"id_str": "927922424779177985",
+		"text": "Essential questions for “the things they carried”. Via @dubsmitheagles https://t.co/QTRJLdf4BJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dubsmitheagles",
+					"name": "William Smith Eagles",
+					"id": 1534549988,
+					"id_str": "1534549988",
+					"indices": [
+						55,
+						70
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 927922418990989300,
+					"id_str": "927922418990989312",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DOCkhhMUQAAiS61.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOCkhhMUQAAiS61.jpg",
+					"url": "https://t.co/QTRJLdf4BJ",
+					"display_url": "pic.twitter.com/QTRJLdf4BJ",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927922424779177985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 841,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 279,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927922418990989300,
+					"id_str": "927922418990989312",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DOCkhhMUQAAiS61.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOCkhhMUQAAiS61.jpg",
+					"url": "https://t.co/QTRJLdf4BJ",
+					"display_url": "pic.twitter.com/QTRJLdf4BJ",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927922424779177985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 841,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 279,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6325,
+			"friends_count": 2500,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 07 15:31:06 +0000 2017",
+		"id": 927921357173661700,
+		"id_str": "927921357173661696",
+		"text": "I love the phone timer on a doc camera to set expectations. Via @dubsmitheagles https://t.co/oBgVoUZCl5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dubsmitheagles",
+					"name": "William Smith Eagles",
+					"id": 1534549988,
+					"id_str": "1534549988",
+					"indices": [
+						64,
+						79
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 927921347874795500,
+					"id_str": "927921347874795520",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DOCjjK-UMAAkSk5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOCjjK-UMAAkSk5.jpg",
+					"url": "https://t.co/oBgVoUZCl5",
+					"display_url": "pic.twitter.com/oBgVoUZCl5",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927921357173661696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927921347874795500,
+					"id_str": "927921347874795520",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DOCjjK-UMAAkSk5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOCjjK-UMAAkSk5.jpg",
+					"url": "https://t.co/oBgVoUZCl5",
+					"display_url": "pic.twitter.com/oBgVoUZCl5",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927921357173661696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6325,
+			"friends_count": 2500,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 07 15:29:29 +0000 2017",
+		"id": 927920951634702300,
+		"id_str": "927920951634702336",
+		"text": "Two tires and a pillow as a seat in your classroom? Sure! Via @dubsmitheagles https://t.co/elNQobE6Wx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dubsmitheagles",
+					"name": "William Smith Eagles",
+					"id": 1534549988,
+					"id_str": "1534549988",
+					"indices": [
+						62,
+						77
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 927920944399528000,
+					"id_str": "927920944399527937",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DOCjLr6UMAEtB38.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOCjLr6UMAEtB38.jpg",
+					"url": "https://t.co/elNQobE6Wx",
+					"display_url": "pic.twitter.com/elNQobE6Wx",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927920951634702336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927920944399528000,
+					"id_str": "927920944399527937",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DOCjLr6UMAEtB38.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOCjLr6UMAEtB38.jpg",
+					"url": "https://t.co/elNQobE6Wx",
+					"display_url": "pic.twitter.com/elNQobE6Wx",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927920951634702336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6325,
+			"friends_count": 2500,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 07 15:28:10 +0000 2017",
+		"id": 927920621320728600,
+		"id_str": "927920621320728577",
+		"text": "Gaining the skills we need to analyze and understand difficult text. Via @dubsmitheagles “gist statements” #BrainTraining",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BrainTraining",
+					"indices": [
+						107,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dubsmitheagles",
+					"name": "William Smith Eagles",
+					"id": 1534549988,
+					"id_str": "1534549988",
+					"indices": [
+						73,
+						88
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6325,
+			"friends_count": 2500,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 07 15:24:59 +0000 2017",
+		"id": 927919821190074400,
+		"id_str": "927919821190074368",
+		"text": "Discussing screen printing options for authentic Student-created projects. https://t.co/D5jSq5m0sa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 927919812327612400,
+					"id_str": "927919812327612416",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DOCiJynVoAAsHor.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOCiJynVoAAsHor.jpg",
+					"url": "https://t.co/D5jSq5m0sa",
+					"display_url": "pic.twitter.com/D5jSq5m0sa",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927919821190074368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927919812327612400,
+					"id_str": "927919812327612416",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DOCiJynVoAAsHor.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOCiJynVoAAsHor.jpg",
+					"url": "https://t.co/D5jSq5m0sa",
+					"display_url": "pic.twitter.com/D5jSq5m0sa",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/927919821190074368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6325,
+			"friends_count": 2500,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 07 15:22:36 +0000 2017",
+		"id": 927919217893978100,
+		"id_str": "927919217893978112",
+		"text": "What would the term “brain training” mean to you? \n\nAt @dubsmitheagles it means you get to fill in your gaps and build understanding.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dubsmitheagles",
+					"name": "William Smith Eagles",
+					"id": 1534549988,
+					"id_str": "1534549988",
+					"indices": [
+						55,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6325,
+			"friends_count": 2500,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 07 15:17:58 +0000 2017",
 		"id": 927918052271833100,
 		"id_str": "927918052271833088",

@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 15 01:47:10 +0000 2017",
+		"id": 930613112570396700,
+		"id_str": "930613112570396672",
+		"text": "RT @smithdianemarie: I’ve found that if students have voice in identifying an authentic and motivating goal that most can get excited about…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "smithdianemarie",
+					"name": "Diane Smith",
+					"id": 26594001,
+					"id_str": "26594001",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6335,
+			"friends_count": 2556,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 666,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 15 01:32:51 +0000 2017",
+			"id": 930609509353054200,
+			"id_str": "930609509353054208",
+			"text": "I’ve found that if students have voice in identifying an authentic and motivating goal that most can get excited ab… https://t.co/BOUR1mDhIM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BOUR1mDhIM",
+						"expanded_url": "https://twitter.com/i/web/status/930609509353054208",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26594001,
+				"id_str": "26594001",
+				"name": "Diane Smith",
+				"screen_name": "smithdianemarie",
+				"location": "Chapel Hill, North Carolina",
+				"description": "Interested in 21st century skills, inquiry, authentic learning, and community connections • Teacher & Doctoral student (Curriculum & Instruction) •",
+				"url": "https://t.co/e2owZVJSQd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/e2owZVJSQd",
+								"expanded_url": "http://dianemariesmith.wordpress.com",
+								"display_url": "dianemariesmith.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 594,
+				"friends_count": 453,
+				"listed_count": 123,
+				"created_at": "Wed Mar 25 21:16:51 +0000 2009",
+				"favourites_count": 2435,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3059,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/752640364822036480/-Ip-pClG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/752640364822036480/-Ip-pClG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26594001/1508549000",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 930606527269912600,
+			"quoted_status_id_str": "930606527269912576",
+			"quoted_status": {
+				"created_at": "Wed Nov 15 01:21:00 +0000 2017",
+				"id": 930606527269912600,
+				"id_str": "930606527269912576",
+				"text": "RTQ3: The 4 Cs – Creativity, Critical Thinking, Communication &amp;Collaboration – seem linked to curiosity. Students a… https://t.co/H2ImnF1z7v",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/H2ImnF1z7v",
+							"expanded_url": "https://twitter.com/i/web/status/930606527269912576",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 279063219,
+					"id_str": "279063219",
+					"name": "Chris Weber, Ed.D.",
+					"screen_name": "WeberEducation",
+					"location": "Irvine, CA",
+					"description": "Educator @IUSD, CA | Aspiring education futurist | Author on RTI, behavior, & mathematics | Tweets are my own | #divergED teaching and learning",
+					"url": "https://t.co/wMNXM3HDj4",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/wMNXM3HDj4",
+									"expanded_url": "http://chriswebereducation.com",
+									"display_url": "chriswebereducation.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 7396,
+					"friends_count": 1289,
+					"listed_count": 357,
+					"created_at": "Fri Apr 08 14:24:45 +0000 2011",
+					"favourites_count": 11579,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 32951,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/511889505/twilk_background_4f85b2d86ffac.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/511889505/twilk_background_4f85b2d86ffac.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/3771833989/a636d088ea021dd259cb44be8cc87fc7_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/3771833989/a636d088ea021dd259cb44be8cc87fc7_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/279063219/1481072209",
+					"profile_link_color": "E25344",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 930606527269912600,
+		"quoted_status_id_str": "930606527269912576",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 14 14:21:41 +0000 2017",
 		"id": 930440605636943900,
 		"id_str": "930440605636943872",

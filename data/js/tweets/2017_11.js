@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 15 15:54:10 +0000 2017",
+		"id": 930826265065648100,
+		"id_str": "930826265065648133",
+		"text": "@manuelherrera33 @MindWise_CK Is @MindWise_CK presenting? I’d love to see those slides. The one you photographed is… https://t.co/aGPXvBOAvV",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "manuelherrera33",
+					"name": "Manuel S. Herrera",
+					"id": 93713408,
+					"id_str": "93713408",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "MindWise_CK",
+					"name": "Caitlin E. Krause",
+					"id": 23375706,
+					"id_str": "23375706",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "MindWise_CK",
+					"name": "Caitlin E. Krause",
+					"id": 23375706,
+					"id_str": "23375706",
+					"indices": [
+						33,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aGPXvBOAvV",
+					"expanded_url": "https://twitter.com/i/web/status/930826265065648133",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 930825736998539300,
+		"in_reply_to_status_id_str": "930825736998539264",
+		"in_reply_to_user_id": 93713408,
+		"in_reply_to_user_id_str": "93713408",
+		"in_reply_to_screen_name": "manuelherrera33",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6335,
+			"friends_count": 2559,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 667,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17469,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7c46947784451941",
+			"url": "https://api.twitter.com/1.1/geo/id/7c46947784451941.json",
+			"place_type": "admin",
+			"name": "Denver CO",
+			"full_name": "Denver CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-109.051163,
+							37.643642
+						],
+						[
+							-102.041585,
+							37.643642
+						],
+						[
+							-102.041585,
+							41.692855
+						],
+						[
+							-109.051163,
+							41.692855
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 15 15:53:12 +0000 2017",
+		"id": 930826025281482800,
+		"id_str": "930826025281482754",
+		"text": "RT @manuelherrera33: How are we welcoming our students into our spaces each day? Are we create environments fleixble enough to adapt to the…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "manuelherrera33",
+					"name": "Manuel S. Herrera",
+					"id": 93713408,
+					"id_str": "93713408",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6335,
+			"friends_count": 2559,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 667,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17469,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 15 15:52:04 +0000 2017",
+			"id": 930825736998539300,
+			"id_str": "930825736998539264",
+			"text": "How are we welcoming our students into our spaces each day? Are we create environments fleixble enough to adapt to… https://t.co/LC8fug6reC",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LC8fug6reC",
+						"expanded_url": "https://twitter.com/i/web/status/930825736998539264",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 93713408,
+				"id_str": "93713408",
+				"name": "Manuel S. Herrera",
+				"screen_name": "manuelherrera33",
+				"location": "St. Louis, Missouri",
+				"description": "He runs. He teaches. He doodles & dabbles. He can Julienne fries! Level 2 Certified Sketching Educator. More here https://t.co/UAZntmsGzb",
+				"url": "https://t.co/Fugwr0kvdI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Fugwr0kvdI",
+								"expanded_url": "http://www.instagram.com/manuelherrera33",
+								"display_url": "instagram.com/manuelherrera33",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UAZntmsGzb",
+								"expanded_url": "http://www.alearningmanuel.weebly.com",
+								"display_url": "alearningmanuel.weebly.com",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2791,
+				"friends_count": 1601,
+				"listed_count": 222,
+				"created_at": "Mon Nov 30 21:29:55 +0000 2009",
+				"favourites_count": 6001,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9087,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000062743502/dcdf262b829bea9a9ffbc6cfb5d87e08.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000062743502/dcdf262b829bea9a9ffbc6cfb5d87e08.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/767820676266795008/6lzeGYGy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/767820676266795008/6lzeGYGy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/93713408/1508782559",
+				"profile_link_color": "1E2340",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "1F98C7",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "67b98f17fdcf20be",
+				"url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json",
+				"place_type": "city",
+				"name": "Boston",
+				"full_name": "Boston, MA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-71.191421,
+								42.227797
+							],
+							[
+								-70.986004,
+								42.227797
+							],
+							[
+								-70.986004,
+								42.399542
+							],
+							[
+								-71.191421,
+								42.399542
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 15 15:52:42 +0000 2017",
+		"id": 930825896688259100,
+		"id_str": "930825896688259073",
+		"text": "Two Things every app should have on iPhone: Dark Mode and 3D Touch (peak and pop). #iphonex #FeatureRequests",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iphonex",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "FeatureRequests",
+					"indices": [
+						92,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6335,
+			"friends_count": 2559,
+			"listed_count": 389,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 667,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17469,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7c46947784451941",
+			"url": "https://api.twitter.com/1.1/geo/id/7c46947784451941.json",
+			"place_type": "admin",
+			"name": "Denver CO",
+			"full_name": "Denver CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-109.051163,
+							37.643642
+						],
+						[
+							-102.041585,
+							37.643642
+						],
+						[
+							-102.041585,
+							41.692855
+						],
+						[
+							-109.051163,
+							41.692855
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 15 01:47:10 +0000 2017",
 		"id": 930613112570396700,
 		"id_str": "930613112570396672",

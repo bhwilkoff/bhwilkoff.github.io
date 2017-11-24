@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 24 04:59:38 +0000 2017",
+		"id": 933923036654321700,
+		"id_str": "933923036654321664",
+		"text": "RT @3j0hn: When am I ever going to use algebra in “real life”?  When you need 4.5oz of 72% dark chocolate. https://t.co/wDm1CxD1pH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "3j0hn",
+					"name": "John May",
+					"id": 15005003,
+					"id_str": "15005003",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 933424359598784500,
+					"id_str": "933424359598784512",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DPQwgnKVAAAbJMN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPQwgnKVAAAbJMN.jpg",
+					"url": "https://t.co/wDm1CxD1pH",
+					"display_url": "pic.twitter.com/wDm1CxD1pH",
+					"expanded_url": "https://twitter.com/3j0hn/status/933425839416393728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933425839416393700,
+					"source_status_id_str": "933425839416393728",
+					"source_user_id": 15005003,
+					"source_user_id_str": "15005003"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 933424359598784500,
+					"id_str": "933424359598784512",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DPQwgnKVAAAbJMN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPQwgnKVAAAbJMN.jpg",
+					"url": "https://t.co/wDm1CxD1pH",
+					"display_url": "pic.twitter.com/wDm1CxD1pH",
+					"expanded_url": "https://twitter.com/3j0hn/status/933425839416393728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933425839416393700,
+					"source_status_id_str": "933425839416393728",
+					"source_user_id": 15005003,
+					"source_user_id_str": "15005003"
+				},
+				{
+					"id": 933425823947751400,
+					"id_str": "933425823947751424",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DPQx12SVAAA7E51.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPQx12SVAAA7E51.jpg",
+					"url": "https://t.co/wDm1CxD1pH",
+					"display_url": "pic.twitter.com/wDm1CxD1pH",
+					"expanded_url": "https://twitter.com/3j0hn/status/933425839416393728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933425839416393700,
+					"source_status_id_str": "933425839416393728",
+					"source_user_id": 15005003,
+					"source_user_id_str": "15005003"
+				},
+				{
+					"id": 933424358659199000,
+					"id_str": "933424358659198976",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DPQwgjqUEAA525V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPQwgjqUEAA525V.jpg",
+					"url": "https://t.co/wDm1CxD1pH",
+					"display_url": "pic.twitter.com/wDm1CxD1pH",
+					"expanded_url": "https://twitter.com/3j0hn/status/933425839416393728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933425839416393700,
+					"source_status_id_str": "933425839416393728",
+					"source_user_id": 15005003,
+					"source_user_id_str": "15005003"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6343,
+			"friends_count": 2568,
+			"listed_count": 388,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 669,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17474,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 20:03:56 +0000 2017",
+			"id": 933425839416393700,
+			"id_str": "933425839416393728",
+			"text": "When am I ever going to use algebra in “real life”?  When you need 4.5oz of 72% dark chocolate. https://t.co/wDm1CxD1pH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 933424359598784500,
+						"id_str": "933424359598784512",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DPQwgnKVAAAbJMN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPQwgnKVAAAbJMN.jpg",
+						"url": "https://t.co/wDm1CxD1pH",
+						"display_url": "pic.twitter.com/wDm1CxD1pH",
+						"expanded_url": "https://twitter.com/3j0hn/status/933425839416393728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 933424359598784500,
+						"id_str": "933424359598784512",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DPQwgnKVAAAbJMN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPQwgnKVAAAbJMN.jpg",
+						"url": "https://t.co/wDm1CxD1pH",
+						"display_url": "pic.twitter.com/wDm1CxD1pH",
+						"expanded_url": "https://twitter.com/3j0hn/status/933425839416393728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 933425823947751400,
+						"id_str": "933425823947751424",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DPQx12SVAAA7E51.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPQx12SVAAA7E51.jpg",
+						"url": "https://t.co/wDm1CxD1pH",
+						"display_url": "pic.twitter.com/wDm1CxD1pH",
+						"expanded_url": "https://twitter.com/3j0hn/status/933425839416393728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 933424358659199000,
+						"id_str": "933424358659198976",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DPQwgjqUEAA525V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPQwgjqUEAA525V.jpg",
+						"url": "https://t.co/wDm1CxD1pH",
+						"display_url": "pic.twitter.com/wDm1CxD1pH",
+						"expanded_url": "https://twitter.com/3j0hn/status/933425839416393728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15005003,
+				"id_str": "15005003",
+				"name": "John May",
+				"screen_name": "3j0hn",
+				"location": "Altadena, CA",
+				"description": "I write math software for a living.  I ride bikes for fun.  Both bikes and math are awesome but software is kinda horrible.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 430,
+				"friends_count": 419,
+				"listed_count": 25,
+				"created_at": "Wed Jun 04 13:49:17 +0000 2008",
+				"favourites_count": 11878,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8130,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0D0002",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000062377619/97560e9533ef4f7b73037c7e7a7c9d4c.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000062377619/97560e9533ef4f7b73037c7e7a7c9d4c.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914256821686231040/dt5o8r0S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914256821686231040/dt5o8r0S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15005003/1456252791",
+				"profile_link_color": "015C6B",
+				"profile_sidebar_border_color": "FCBE02",
+				"profile_sidebar_fill_color": "F5003B",
+				"profile_text_color": "DC5D01",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 65,
+			"favorite_count": 114,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 23 00:59:25 +0000 2017",
 		"id": 933500199292620800,
 		"id_str": "933500199292620801",

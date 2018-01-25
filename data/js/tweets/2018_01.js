@@ -1,6 +1,1007 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 25 15:55:41 +0000 2018",
+		"id": 956556187452911600,
+		"id_str": "956556187452911616",
+		"text": "RT @Kt_Be: @mingaling13 @iste @Ms_A_Yeh @EdTechErika Accio #InnEdCO18! https://t.co/MI0LQZyRI7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO18",
+					"indices": [
+						59,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kt_Be",
+					"name": "Katie Wolfson",
+					"id": 16388811,
+					"id_str": "16388811",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "mingaling13",
+					"name": "Ming Scheid",
+					"id": 819751103281659900,
+					"id_str": "819751103281659904",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "iste",
+					"name": "ISTE",
+					"id": 18119242,
+					"id_str": "18119242",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"screen_name": "Ms_A_Yeh",
+					"name": "Aubrey Yeh",
+					"id": 747501040220536800,
+					"id_str": "747501040220536832",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"screen_name": "EdTechErika",
+					"name": "Erika Morreale",
+					"id": 872185615,
+					"id_str": "872185615",
+					"indices": [
+						40,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 956367630796861400,
+					"id_str": "956367630796861441",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DUWzSwxUMAEOUNJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DUWzSwxUMAEOUNJ.jpg",
+					"url": "https://t.co/MI0LQZyRI7",
+					"display_url": "pic.twitter.com/MI0LQZyRI7",
+					"expanded_url": "https://twitter.com/Kt_Be/status/956367639860793345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 244,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 244,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956367639860793300,
+					"source_status_id_str": "956367639860793345",
+					"source_user_id": 16388811,
+					"source_user_id_str": "16388811"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 956367630796861400,
+					"id_str": "956367630796861441",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DUWzSwxUMAEOUNJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DUWzSwxUMAEOUNJ.jpg",
+					"url": "https://t.co/MI0LQZyRI7",
+					"display_url": "pic.twitter.com/MI0LQZyRI7",
+					"expanded_url": "https://twitter.com/Kt_Be/status/956367639860793345/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 244,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 244,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956367639860793300,
+					"source_status_id_str": "956367639860793345",
+					"source_user_id": 16388811,
+					"source_user_id_str": "16388811",
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							61
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DUWzSwxUMAEOUNJ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6347,
+			"friends_count": 2646,
+			"listed_count": 388,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 690,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17524,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 25 03:26:28 +0000 2018",
+			"id": 956367639860793300,
+			"id_str": "956367639860793345",
+			"text": "@mingaling13 @iste @Ms_A_Yeh @EdTechErika Accio #InnEdCO18! https://t.co/MI0LQZyRI7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCO18",
+						"indices": [
+							48,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mingaling13",
+						"name": "Ming Scheid",
+						"id": 819751103281659900,
+						"id_str": "819751103281659904",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "iste",
+						"name": "ISTE",
+						"id": 18119242,
+						"id_str": "18119242",
+						"indices": [
+							13,
+							18
+						]
+					},
+					{
+						"screen_name": "Ms_A_Yeh",
+						"name": "Aubrey Yeh",
+						"id": 747501040220536800,
+						"id_str": "747501040220536832",
+						"indices": [
+							19,
+							28
+						]
+					},
+					{
+						"screen_name": "EdTechErika",
+						"name": "Erika Morreale",
+						"id": 872185615,
+						"id_str": "872185615",
+						"indices": [
+							29,
+							41
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 956367630796861400,
+						"id_str": "956367630796861441",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DUWzSwxUMAEOUNJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DUWzSwxUMAEOUNJ.jpg",
+						"url": "https://t.co/MI0LQZyRI7",
+						"display_url": "pic.twitter.com/MI0LQZyRI7",
+						"expanded_url": "https://twitter.com/Kt_Be/status/956367639860793345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 244,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 244,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 244,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 956367630796861400,
+						"id_str": "956367630796861441",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DUWzSwxUMAEOUNJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DUWzSwxUMAEOUNJ.jpg",
+						"url": "https://t.co/MI0LQZyRI7",
+						"display_url": "pic.twitter.com/MI0LQZyRI7",
+						"expanded_url": "https://twitter.com/Kt_Be/status/956367639860793345/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 244,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 244,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 244,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								125,
+								61
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DUWzSwxUMAEOUNJ.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 956299983434670100,
+			"in_reply_to_status_id_str": "956299983434670080",
+			"in_reply_to_user_id": 819751103281659900,
+			"in_reply_to_user_id_str": "819751103281659904",
+			"in_reply_to_screen_name": "mingaling13",
+			"user": {
+				"id": 16388811,
+				"id_str": "16388811",
+				"name": "Katie Wolfson",
+				"screen_name": "Kt_Be",
+				"location": "Colorado, USA",
+				"description": "Biologist. Educator. Filmmaker. Distance Learning Coordinator.   (Opinions are my own.)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 153,
+				"friends_count": 408,
+				"listed_count": 6,
+				"created_at": "Sun Sep 21 08:21:38 +0000 2008",
+				"favourites_count": 486,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 466,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874438674527604737/pwIfsTCU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874438674527604737/pwIfsTCU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16388811/1419888788",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es"
+	},
+	{
+		"created_at": "Thu Jan 25 15:55:31 +0000 2018",
+		"id": 956556146340327400,
+		"id_str": "956556146340327425",
+		"text": "RT @JonathanAlmon: Excited to be presenting about @tinkercad this summer @InnEdCO #innedco18 #edtech #denverpublicschools",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "innedco18",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "denverpublicschools",
+					"indices": [
+						101,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JonathanAlmon",
+					"name": "Jonathan Almon",
+					"id": 1528369267,
+					"id_str": "1528369267",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "tinkercad",
+					"name": "Tinkercad",
+					"id": 90323375,
+					"id_str": "90323375",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"screen_name": "InnEdCO",
+					"name": "InnEdCO",
+					"id": 103948271,
+					"id_str": "103948271",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6347,
+			"friends_count": 2646,
+			"listed_count": 388,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 690,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17524,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 25 15:53:50 +0000 2018",
+			"id": 956555721146957800,
+			"id_str": "956555721146957824",
+			"text": "Excited to be presenting about @tinkercad this summer @InnEdCO #innedco18 #edtech #denverpublicschools",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "innedco18",
+						"indices": [
+							63,
+							73
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							74,
+							81
+						]
+					},
+					{
+						"text": "denverpublicschools",
+						"indices": [
+							82,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tinkercad",
+						"name": "Tinkercad",
+						"id": 90323375,
+						"id_str": "90323375",
+						"indices": [
+							31,
+							41
+						]
+					},
+					{
+						"screen_name": "InnEdCO",
+						"name": "InnEdCO",
+						"id": 103948271,
+						"id_str": "103948271",
+						"indices": [
+							54,
+							62
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1528369267,
+				"id_str": "1528369267",
+				"name": "Jonathan Almon",
+				"screen_name": "JonathanAlmon",
+				"location": "Denver, CO",
+				"description": "Elementary Librarian/Tech Teacher, Regional Team Specialist, @Google Certified Educator, @CommonSense Certified Educator",
+				"url": "https://t.co/fl4FKyTJtJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fl4FKyTJtJ",
+								"expanded_url": "http://jonathanalmon.com",
+								"display_url": "jonathanalmon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 79,
+				"friends_count": 180,
+				"listed_count": 34,
+				"created_at": "Tue Jun 18 17:28:30 +0000 2013",
+				"favourites_count": 94,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 415,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/639246638561628164/qaKJ8gSG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/639246638561628164/qaKJ8gSG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1528369267/1513707951",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 25 15:55:21 +0000 2018",
+		"id": 956556104699330600,
+		"id_str": "956556104699330562",
+		"text": "RT @stegalltj: Presenting at #InnEdCO18 with @ACPK8ATeam and @Sch_Co_McCann all about leveraging teacher leadership using tech in the sessi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO18",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stegalltj",
+					"name": "Tracy Stegall",
+					"id": 2881343708,
+					"id_str": "2881343708",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "ACPK8ATeam",
+					"name": "Aspen Creek PreK-8",
+					"id": 745669914090831900,
+					"id_str": "745669914090831874",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "Sch_Co_McCann",
+					"name": "Christina McCann",
+					"id": 1638725606,
+					"id_str": "1638725606",
+					"indices": [
+						61,
+						75
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6347,
+			"friends_count": 2646,
+			"listed_count": 388,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 690,
+			"utc_offset": -25200,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17524,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 25 13:46:29 +0000 2018",
+			"id": 956523673271222300,
+			"id_str": "956523673271222272",
+			"text": "Presenting at #InnEdCO18 with @ACPK8ATeam and @Sch_Co_McCann all about leveraging teacher leadership using tech in… https://t.co/dBEifRl2gx",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCO18",
+						"indices": [
+							14,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ACPK8ATeam",
+						"name": "Aspen Creek PreK-8",
+						"id": 745669914090831900,
+						"id_str": "745669914090831874",
+						"indices": [
+							30,
+							41
+						]
+					},
+					{
+						"screen_name": "Sch_Co_McCann",
+						"name": "Christina McCann",
+						"id": 1638725606,
+						"id_str": "1638725606",
+						"indices": [
+							46,
+							60
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dBEifRl2gx",
+						"expanded_url": "https://twitter.com/i/web/status/956523673271222272",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2881343708,
+				"id_str": "2881343708",
+				"name": "Tracy Stegall",
+				"screen_name": "stegalltj",
+				"location": "Boulder Valley Schools",
+				"description": "Principal, Aspen Creek PreK-8 School.  Passionate school leader interested in the intersection of school culture and student achievement.  Champion for equity.",
+				"url": "https://t.co/Z7d8f4sBW7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z7d8f4sBW7",
+								"expanded_url": "https://sites.google.com/bvsd.org/ac8-ateam/home",
+								"display_url": "sites.google.com/bvsd.org/ac8-a…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 163,
+				"friends_count": 64,
+				"listed_count": 4,
+				"created_at": "Tue Oct 28 23:58:32 +0000 2014",
+				"favourites_count": 126,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 117,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/939091602865192960/JRNh4U6A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939091602865192960/JRNh4U6A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2881343708/1452881667",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 25 14:18:00 +0000 2018",
 		"id": 956531605610422300,
 		"id_str": "956531605610422272",

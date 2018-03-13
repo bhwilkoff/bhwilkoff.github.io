@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 13 17:49:17 +0000 2018",
+		"id": 973617003150819300,
+		"id_str": "973617003150819334",
+		"text": "RT @kjsain: Congrats to St Vrain! Winner of CoSN Team Award Winner  #CoSN18. So deserving!! Congrats friends, way to represent Ss, CO and q…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CoSN18",
+					"indices": [
+						68,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kjsain",
+					"name": "Kelly Sain",
+					"id": 13887282,
+					"id_str": "13887282",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6345,
+			"friends_count": 2669,
+			"listed_count": 387,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 704,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17552,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 13 17:49:02 +0000 2018",
+			"id": 973616941083570200,
+			"id_str": "973616941083570178",
+			"text": "Congrats to St Vrain! Winner of CoSN Team Award Winner  #CoSN18. So deserving!! Congrats friends, way to represent… https://t.co/QzSBKX7wvS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CoSN18",
+						"indices": [
+							56,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QzSBKX7wvS",
+						"expanded_url": "https://twitter.com/i/web/status/973616941083570178",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13887282,
+				"id_str": "13887282",
+				"name": "Kelly Sain",
+				"screen_name": "kjsain",
+				"location": "Boulder, Colorado",
+				"description": "Always learning! #Leader| mom |#womenintech| PD creator| #BVSD Director of Ed Tech| @InnEdCO Board member|#ISTE BYOD Denver| I ❤️2 share & collaborate. #edtech",
+				"url": "https://t.co/YaQcFsfAwo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YaQcFsfAwo",
+								"expanded_url": "http://bvsd.org/IT/edtech/Pages/default.aspx",
+								"display_url": "bvsd.org/IT/edtech/Page…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2181,
+				"friends_count": 2082,
+				"listed_count": 193,
+				"created_at": "Sun Feb 24 02:22:31 +0000 2008",
+				"favourites_count": 2831,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4705,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000006388971/f77a731f5df34951b936c80ef747e0fe_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000006388971/f77a731f5df34951b936c80ef747e0fe_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13887282/1372384956",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 09 20:32:17 +0000 2018",
 		"id": 972208475576008700,
 		"id_str": "972208475576008704",

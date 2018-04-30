@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 30 16:04:34 +0000 2018",
+		"id": 990985267568824300,
+		"id_str": "990985267568824320",
+		"text": "RT @VrainWaves: Welcome to Monday, with a brand new @VrainWaves episode just for you! Listen to our interview with @katiemartinedu to hear…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VrainWaves",
+					"name": "Vrain Waves Podcast",
+					"id": 964553633621618700,
+					"id_str": "964553633621618688",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "VrainWaves",
+					"name": "Vrain Waves Podcast",
+					"id": 964553633621618700,
+					"id_str": "964553633621618688",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"screen_name": "katiemartinedu",
+					"name": "Katie Martin",
+					"id": 2196571862,
+					"id_str": "2196571862",
+					"indices": [
+						115,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6367,
+			"friends_count": 2697,
+			"listed_count": 386,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17589,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 30 12:38:52 +0000 2018",
+			"id": 990933504950124500,
+			"id_str": "990933504950124544",
+			"text": "Welcome to Monday, with a brand new @VrainWaves episode just for you! Listen to our interview with @katiemartinedu… https://t.co/m0I8e4DDqW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "VrainWaves",
+						"name": "Vrain Waves Podcast",
+						"id": 964553633621618700,
+						"id_str": "964553633621618688",
+						"indices": [
+							36,
+							47
+						]
+					},
+					{
+						"screen_name": "katiemartinedu",
+						"name": "Katie Martin",
+						"id": 2196571862,
+						"id_str": "2196571862",
+						"indices": [
+							99,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/m0I8e4DDqW",
+						"expanded_url": "https://twitter.com/i/web/status/990933504950124544",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 964553633621618700,
+				"id_str": "964553633621618688",
+				"name": "Vrain Waves Podcast",
+				"screen_name": "VrainWaves",
+				"location": "Longmont, CO",
+				"description": "The podcast aimed at making us all more informed, inspired, and connected educators. https://t.co/KKNNKSbddL @MrKalb @BeckyEPeters #VrainWaves",
+				"url": "https://t.co/KKNNKSbddL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KKNNKSbddL",
+								"expanded_url": "http://www.vrainwaves.com",
+								"display_url": "vrainwaves.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KKNNKSbddL",
+								"expanded_url": "http://www.vrainwaves.com",
+								"display_url": "vrainwaves.com",
+								"indices": [
+									85,
+									108
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 145,
+				"friends_count": 45,
+				"listed_count": 1,
+				"created_at": "Fri Feb 16 17:34:41 +0000 2018",
+				"favourites_count": 146,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 65,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/979504436862058496/cUAkEyWf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/979504436862058496/cUAkEyWf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/964553633621618688/1518806352",
+				"profile_link_color": "8A2E3D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 30 15:20:48 +0000 2018",
 		"id": 990974255377477600,
 		"id_str": "990974255377477632",

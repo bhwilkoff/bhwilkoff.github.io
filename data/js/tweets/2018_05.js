@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sun May 06 01:57:52 +0000 2018",
+		"id": 992946517643182100,
+		"id_str": "992946517643182080",
+		"text": "RT @mcleod: Colorado Ed Tech Potluck! #COedtechpotluck @bhwilkoff  @michellek107 @SenorG https://t.co/vVf440HTCV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COedtechpotluck",
+					"indices": [
+						38,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mcleod",
+					"name": "Scott McLeod",
+					"id": 4132841,
+					"id_str": "4132841",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"screen_name": "michellek107",
+					"name": "Michelle Baldwin",
+					"id": 14528703,
+					"id_str": "14528703",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"screen_name": "SenorG",
+					"name": "Noah Geisel",
+					"id": 21132309,
+					"id_str": "21132309",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 992922827773788200,
+					"id_str": "992922827773788160",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/DceSDRbVQAAu3SF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DceSDRbVQAAu3SF.jpg",
+					"url": "https://t.co/vVf440HTCV",
+					"display_url": "pic.twitter.com/vVf440HTCV",
+					"expanded_url": "https://twitter.com/mcleod/status/992922831456436226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992922831456436200,
+					"source_status_id_str": "992922831456436226",
+					"source_user_id": 4132841,
+					"source_user_id_str": "4132841"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 992922827773788200,
+					"id_str": "992922827773788160",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/DceSDRbVQAAu3SF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DceSDRbVQAAu3SF.jpg",
+					"url": "https://t.co/vVf440HTCV",
+					"display_url": "pic.twitter.com/vVf440HTCV",
+					"expanded_url": "https://twitter.com/mcleod/status/992922831456436226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992922831456436200,
+					"source_status_id_str": "992922831456436226",
+					"source_user_id": 4132841,
+					"source_user_id_str": "4132841"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6368,
+			"friends_count": 2704,
+			"listed_count": 386,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 740,
+			"utc_offset": -21600,
+			"time_zone": "Mountain Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17598,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 06 00:23:45 +0000 2018",
+			"id": 992922831456436200,
+			"id_str": "992922831456436226",
+			"text": "Colorado Ed Tech Potluck! #COedtechpotluck @bhwilkoff  @michellek107 @SenorG https://t.co/vVf440HTCV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COedtechpotluck",
+						"indices": [
+							26,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							43,
+							53
+						]
+					},
+					{
+						"screen_name": "michellek107",
+						"name": "Michelle Baldwin",
+						"id": 14528703,
+						"id_str": "14528703",
+						"indices": [
+							55,
+							68
+						]
+					},
+					{
+						"screen_name": "SenorG",
+						"name": "Noah Geisel",
+						"id": 21132309,
+						"id_str": "21132309",
+						"indices": [
+							69,
+							76
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 992922827773788200,
+						"id_str": "992922827773788160",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DceSDRbVQAAu3SF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DceSDRbVQAAu3SF.jpg",
+						"url": "https://t.co/vVf440HTCV",
+						"display_url": "pic.twitter.com/vVf440HTCV",
+						"expanded_url": "https://twitter.com/mcleod/status/992922831456436226/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 992922827773788200,
+						"id_str": "992922827773788160",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DceSDRbVQAAu3SF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DceSDRbVQAAu3SF.jpg",
+						"url": "https://t.co/vVf440HTCV",
+						"display_url": "pic.twitter.com/vVf440HTCV",
+						"expanded_url": "https://twitter.com/mcleod/status/992922831456436226/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4132841,
+				"id_str": "4132841",
+				"name": "Scott McLeod",
+				"screen_name": "mcleod",
+				"location": "Lafayette, CO",
+				"description": "Associate Professor. CASTLE Founder. Blogger. Idea generator. Solution builder. Agitator. Catalyst. “If the leaders don’t get it, it’s not going to happen.”",
+				"url": "http://t.co/8W5TQsejfw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8W5TQsejfw",
+								"expanded_url": "http://www.dangerouslyirrelevant.org",
+								"display_url": "dangerouslyirrelevant.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53243,
+				"friends_count": 8279,
+				"listed_count": 2785,
+				"created_at": "Wed Apr 11 06:19:46 +0000 2007",
+				"favourites_count": 3935,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 57684,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2B3244",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/116327027/Dark_Blue_Blank_copy.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/116327027/Dark_Blue_Blank_copy.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/528513398003077123/U0fv_0fy_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/528513398003077123/U0fv_0fy_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4132841/1474343460",
+				"profile_link_color": "2B3244",
+				"profile_sidebar_border_color": "2B3244",
+				"profile_sidebar_fill_color": "E7A417",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "pl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pl"
+	},
+	{
 		"created_at": "Thu May 03 03:29:02 +0000 2018",
 		"id": 991882298818678800,
 		"id_str": "991882298818678785",

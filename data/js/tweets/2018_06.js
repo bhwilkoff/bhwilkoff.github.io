@@ -1,6 +1,699 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 12 02:36:52 +0000 2018",
+		"id": 1006364681324204000,
+		"id_str": "1006364681324204032",
+		"text": "RT @staceyduval5: Beautiful ending to a fantastic first day at #InnEdCo18. Can't wait to see what tomorrow has in store! https://t.co/uqRND…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCo18",
+					"indices": [
+						63,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "staceyduval5",
+					"name": "Stacey Minster Duval",
+					"id": 3850021813,
+					"id_str": "3850021813",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6390,
+			"friends_count": 2801,
+			"listed_count": 385,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17689,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 12 02:07:54 +0000 2018",
+			"id": 1006357392425013200,
+			"id_str": "1006357392425013248",
+			"text": "Beautiful ending to a fantastic first day at #InnEdCo18. Can't wait to see what tomorrow has in store! https://t.co/uqRNDhB2XV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCo18",
+						"indices": [
+							45,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1006357381607927800,
+						"id_str": "1006357381607927808",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/DfdMtOfVMAAh85P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfdMtOfVMAAh85P.jpg",
+						"url": "https://t.co/uqRNDhB2XV",
+						"display_url": "pic.twitter.com/uqRNDhB2XV",
+						"expanded_url": "https://twitter.com/staceyduval5/status/1006357392425013248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1006357381607927800,
+						"id_str": "1006357381607927808",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/DfdMtOfVMAAh85P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfdMtOfVMAAh85P.jpg",
+						"url": "https://t.co/uqRNDhB2XV",
+						"display_url": "pic.twitter.com/uqRNDhB2XV",
+						"expanded_url": "https://twitter.com/staceyduval5/status/1006357392425013248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3850021813,
+				"id_str": "3850021813",
+				"name": "Stacey Minster Duval",
+				"screen_name": "staceyduval5",
+				"location": "Boulder, CO",
+				"description": "Passionate middle school science teacher. Ed tech enthusiast. Lover of food, travel, and outdoor adventures.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 375,
+				"friends_count": 612,
+				"listed_count": 23,
+				"created_at": "Sat Oct 10 18:07:42 +0000 2015",
+				"favourites_count": 608,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 281,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/805151643339632640/QineqpXN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/805151643339632640/QineqpXN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3850021813/1463460474",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 12 02:36:31 +0000 2018",
+		"id": 1006364597140402200,
+		"id_str": "1006364597140402176",
+		"text": "RT @klychock: What a lovely place to learn! #keystone #InnEdCO18 https://t.co/u7qV9rsPok",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "keystone",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"text": "InnEdCO18",
+					"indices": [
+						54,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "klychock",
+					"name": "Kiffany Lychock",
+					"id": 70773108,
+					"id_str": "70773108",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1006362597153599500,
+					"id_str": "1006362597153599488",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DfdRcz6UcAA2OYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfdRcz6UcAA2OYx.jpg",
+					"url": "https://t.co/u7qV9rsPok",
+					"display_url": "pic.twitter.com/u7qV9rsPok",
+					"expanded_url": "https://twitter.com/klychock/status/1006362605794021377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006362605794021400,
+					"source_status_id_str": "1006362605794021377",
+					"source_user_id": 70773108,
+					"source_user_id_str": "70773108"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1006362597153599500,
+					"id_str": "1006362597153599488",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DfdRcz6UcAA2OYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfdRcz6UcAA2OYx.jpg",
+					"url": "https://t.co/u7qV9rsPok",
+					"display_url": "pic.twitter.com/u7qV9rsPok",
+					"expanded_url": "https://twitter.com/klychock/status/1006362605794021377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006362605794021400,
+					"source_status_id_str": "1006362605794021377",
+					"source_user_id": 70773108,
+					"source_user_id_str": "70773108"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6390,
+			"friends_count": 2801,
+			"listed_count": 385,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17689,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 12 02:28:37 +0000 2018",
+			"id": 1006362605794021400,
+			"id_str": "1006362605794021377",
+			"text": "What a lovely place to learn! #keystone #InnEdCO18 https://t.co/u7qV9rsPok",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "keystone",
+						"indices": [
+							30,
+							39
+						]
+					},
+					{
+						"text": "InnEdCO18",
+						"indices": [
+							40,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1006362597153599500,
+						"id_str": "1006362597153599488",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DfdRcz6UcAA2OYx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfdRcz6UcAA2OYx.jpg",
+						"url": "https://t.co/u7qV9rsPok",
+						"display_url": "pic.twitter.com/u7qV9rsPok",
+						"expanded_url": "https://twitter.com/klychock/status/1006362605794021377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1006362597153599500,
+						"id_str": "1006362597153599488",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DfdRcz6UcAA2OYx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfdRcz6UcAA2OYx.jpg",
+						"url": "https://t.co/u7qV9rsPok",
+						"display_url": "pic.twitter.com/u7qV9rsPok",
+						"expanded_url": "https://twitter.com/klychock/status/1006362605794021377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70773108,
+				"id_str": "70773108",
+				"name": "Kiffany Lychock",
+				"screen_name": "klychock",
+				"location": "Denver Metro Area",
+				"description": "Wife, mom, Director of Educational Innovations for BVSD, National Faculty for @BIEpbl, Co-Owner of DLI LLC, passionate advocate of learning.",
+				"url": "http://t.co/MmEqXWwfGO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MmEqXWwfGO",
+								"expanded_url": "http://goo.gl/xX6B8I",
+								"display_url": "goo.gl/xX6B8I",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2234,
+				"friends_count": 2524,
+				"listed_count": 88,
+				"created_at": "Tue Sep 01 20:11:59 +0000 2009",
+				"favourites_count": 1400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2669,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/755602151557115904/aJBFn138_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/755602151557115904/aJBFn138_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70773108/1401510071",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "00dfedc95def9e04",
+				"url": "https://api.twitter.com/1.1/geo/id/00dfedc95def9e04.json",
+				"place_type": "city",
+				"name": "Keystone",
+				"full_name": "Keystone, CO",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-106.020258,
+								39.579716
+							],
+							[
+								-105.936383,
+								39.579716
+							],
+							[
+								-105.936383,
+								39.610434
+							],
+							[
+								-106.020258,
+								39.610434
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 12 01:37:51 +0000 2018",
 		"id": 1006349832091385900,
 		"id_str": "1006349832091385856",

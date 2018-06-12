@@ -1,6 +1,625 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 12 01:18:12 +0000 2018",
+		"id": 1006344886432378900,
+		"id_str": "1006344886432378880",
+		"text": "RT @eileenhuang: Be sure to catch the latest #GoogleEDU Live Stream! #chromebooks #edchat #edtech #InnEdCO18 #azgoogle https://t.co/pj83kAO…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleEDU",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"text": "chromebooks",
+					"indices": [
+						69,
+						81
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "InnEdCO18",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "azgoogle",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eileenhuang",
+					"name": "Eileen Huang",
+					"id": 31586558,
+					"id_str": "31586558",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6390,
+			"friends_count": 2798,
+			"listed_count": 385,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 12 00:57:00 +0000 2018",
+			"id": 1006339552125112300,
+			"id_str": "1006339552125112320",
+			"text": "Be sure to catch the latest #GoogleEDU Live Stream! #chromebooks #edchat #edtech #InnEdCO18 #azgoogle https://t.co/pj83kAOVQ1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleEDU",
+						"indices": [
+							28,
+							38
+						]
+					},
+					{
+						"text": "chromebooks",
+						"indices": [
+							52,
+							64
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							65,
+							72
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							73,
+							80
+						]
+					},
+					{
+						"text": "InnEdCO18",
+						"indices": [
+							81,
+							91
+						]
+					},
+					{
+						"text": "azgoogle",
+						"indices": [
+							92,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pj83kAOVQ1",
+						"expanded_url": "https://twitter.com/GoogleForEdu/status/1005211874076524544",
+						"display_url": "twitter.com/GoogleForEdu/s…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31586558,
+				"id_str": "31586558",
+				"name": "Eileen Huang",
+				"screen_name": "eileenhuang",
+				"location": "San Francisco, CA",
+				"description": "@GoogleForEDU program manager | @Yale alum | certified #yoga instructor @eileenhuangyoga",
+				"url": "https://t.co/MF9Om2PR0b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MF9Om2PR0b",
+								"expanded_url": "http://google.com/edu",
+								"display_url": "google.com/edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1116,
+				"friends_count": 765,
+				"listed_count": 114,
+				"created_at": "Thu Apr 16 01:14:10 +0000 2009",
+				"favourites_count": 379,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1181,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/662161923341815808/uR7dMmDc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/662161923341815808/uR7dMmDc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31586558/1436985058",
+				"profile_link_color": "55AB9A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1005211874076524500,
+			"quoted_status_id_str": "1005211874076524544",
+			"quoted_status": {
+				"created_at": "Fri Jun 08 22:16:01 +0000 2018",
+				"id": 1005211874076524500,
+				"id_str": "1005211874076524544",
+				"text": "Join us on June 13, 2018 for a Live Stream covering enhanced security and G Suite Enterprise for Education edition… https://t.co/mnBTHDWdrn",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/mnBTHDWdrn",
+							"expanded_url": "https://twitter.com/i/web/status/1005211874076524544",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 254218142,
+					"id_str": "254218142",
+					"name": "Google For Education",
+					"screen_name": "GoogleForEdu",
+					"location": "USA",
+					"description": "Helping prepare students to create the future. The best of Google, for education. Follow for product announcements, program updates and news #GoogleEdu",
+					"url": "http://t.co/uvx6X92Pm8",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/uvx6X92Pm8",
+									"expanded_url": "http://www.google.com/edu",
+									"display_url": "google.com/edu",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 414616,
+					"friends_count": 664,
+					"listed_count": 4612,
+					"created_at": "Fri Feb 18 21:20:12 +0000 2011",
+					"favourites_count": 1992,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 7282,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/961295529018761216/6w6owI4-_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/961295529018761216/6w6owI4-_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/254218142/1526305519",
+					"profile_link_color": "4286F4",
+					"profile_sidebar_border_color": "BBCCFF",
+					"profile_sidebar_fill_color": "EBEFF9",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 28,
+				"favorite_count": 60,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1005211874076524500,
+		"quoted_status_id_str": "1005211874076524544",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 12 01:18:03 +0000 2018",
+		"id": 1006344849946103800,
+		"id_str": "1006344849946103808",
+		"text": "RT @NMezaTechLearn: Planning your #InnEdCo18 sessions for tomorrow? Join me and @JayVeanCCSD as we share awesome ideas for PD using the Edc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCo18",
+					"indices": [
+						34,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NMezaTechLearn",
+					"name": "Nanci Meza",
+					"id": 1587415368,
+					"id_str": "1587415368",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "JayVeanCCSD",
+					"name": "Jay Vean",
+					"id": 1514177172,
+					"id_str": "1514177172",
+					"indices": [
+						80,
+						92
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6390,
+			"friends_count": 2798,
+			"listed_count": 385,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 12 01:10:04 +0000 2018",
+			"id": 1006342839733801000,
+			"id_str": "1006342839733800960",
+			"text": "Planning your #InnEdCo18 sessions for tomorrow? Join me and @JayVeanCCSD as we share awesome ideas for PD using the… https://t.co/F6ct6rAIDo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCo18",
+						"indices": [
+							14,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JayVeanCCSD",
+						"name": "Jay Vean",
+						"id": 1514177172,
+						"id_str": "1514177172",
+						"indices": [
+							60,
+							72
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/F6ct6rAIDo",
+						"expanded_url": "https://twitter.com/i/web/status/1006342839733800960",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1587415368,
+				"id_str": "1587415368",
+				"name": "Nanci Meza",
+				"screen_name": "NMezaTechLearn",
+				"location": "",
+				"description": "Technology & Blended Learning Coach. Writer, sharer, thinker, collaborator. Passion. Laughter. Relationships. Queso-always queso.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 908,
+				"friends_count": 1302,
+				"listed_count": 67,
+				"created_at": "Fri Jul 12 03:08:47 +0000 2013",
+				"favourites_count": 1711,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3245,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "251810",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/629424509099966464/FcV_N3H1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/629424509099966464/FcV_N3H1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1587415368/1381033318",
+				"profile_link_color": "A98E6F",
+				"profile_sidebar_border_color": "94A4AE",
+				"profile_sidebar_fill_color": "1D110A",
+				"profile_text_color": "94A4AE",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 11 22:48:23 +0000 2018",
 		"id": 1006307181640273900,
 		"id_str": "1006307181640273920",

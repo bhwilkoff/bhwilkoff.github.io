@@ -1,6 +1,780 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 12 22:28:04 +0000 2018",
+		"id": 1006664459643998200,
+		"id_str": "1006664459643998210",
+		"text": "RT @Whamies: @jill_weaves and I had a great time playing with a #greenscreen and @DoInkTweets at #InnEdCO18! https://t.co/zYwcySBTEq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "greenscreen",
+					"indices": [
+						64,
+						76
+					]
+				},
+				{
+					"text": "InnEdCO18",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Whamies",
+					"name": "Amie Adams",
+					"id": 36360583,
+					"id_str": "36360583",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "jill_weaves",
+					"name": "Jill Weaver",
+					"id": 949320364596723700,
+					"id_str": "949320364596723712",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "DoInkTweets",
+					"name": "DoInk Tweets",
+					"id": 85589214,
+					"id_str": "85589214",
+					"indices": [
+						81,
+						93
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1006662990135873500,
+					"id_str": "1006662990135873536",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/Dfhip--U0AAKbiR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dfhip--U0AAKbiR.jpg",
+					"url": "https://t.co/zYwcySBTEq",
+					"display_url": "pic.twitter.com/zYwcySBTEq",
+					"expanded_url": "https://twitter.com/Whamies/status/1006662996213448704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006662996213448700,
+					"source_status_id_str": "1006662996213448704",
+					"source_user_id": 36360583,
+					"source_user_id_str": "36360583"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1006662990135873500,
+					"id_str": "1006662990135873536",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/Dfhip--U0AAKbiR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dfhip--U0AAKbiR.jpg",
+					"url": "https://t.co/zYwcySBTEq",
+					"display_url": "pic.twitter.com/zYwcySBTEq",
+					"expanded_url": "https://twitter.com/Whamies/status/1006662996213448704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006662996213448700,
+					"source_status_id_str": "1006662996213448704",
+					"source_user_id": 36360583,
+					"source_user_id_str": "36360583"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6396,
+			"friends_count": 2820,
+			"listed_count": 385,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 12 22:22:15 +0000 2018",
+			"id": 1006662996213448700,
+			"id_str": "1006662996213448704",
+			"text": "@jill_weaves and I had a great time playing with a #greenscreen and @DoInkTweets at #InnEdCO18! https://t.co/zYwcySBTEq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "greenscreen",
+						"indices": [
+							51,
+							63
+						]
+					},
+					{
+						"text": "InnEdCO18",
+						"indices": [
+							84,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jill_weaves",
+						"name": "Jill Weaver",
+						"id": 949320364596723700,
+						"id_str": "949320364596723712",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "DoInkTweets",
+						"name": "DoInk Tweets",
+						"id": 85589214,
+						"id_str": "85589214",
+						"indices": [
+							68,
+							80
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1006662990135873500,
+						"id_str": "1006662990135873536",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/Dfhip--U0AAKbiR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dfhip--U0AAKbiR.jpg",
+						"url": "https://t.co/zYwcySBTEq",
+						"display_url": "pic.twitter.com/zYwcySBTEq",
+						"expanded_url": "https://twitter.com/Whamies/status/1006662996213448704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1006662990135873500,
+						"id_str": "1006662990135873536",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/Dfhip--U0AAKbiR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dfhip--U0AAKbiR.jpg",
+						"url": "https://t.co/zYwcySBTEq",
+						"display_url": "pic.twitter.com/zYwcySBTEq",
+						"expanded_url": "https://twitter.com/Whamies/status/1006662996213448704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 949320364596723700,
+			"in_reply_to_user_id_str": "949320364596723712",
+			"in_reply_to_screen_name": "jill_weaves",
+			"user": {
+				"id": 36360583,
+				"id_str": "36360583",
+				"name": "Amie Adams",
+				"screen_name": "Whamies",
+				"location": "Arvada, CO",
+				"description": "Ed Tech Specialist by day, wife and mom of 2 by night. If I have free time, I am baking cakes, binge watching 90's TV shows, reading, or taking a nap!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 201,
+				"friends_count": 289,
+				"listed_count": 6,
+				"created_at": "Wed Apr 29 13:48:25 +0000 2009",
+				"favourites_count": 300,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 366,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2675303603/8c37c53397348a505ab670f1ea082154_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2675303603/8c37c53397348a505ab670f1ea082154_normal.png",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "0084B4",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 12 22:24:04 +0000 2018",
+		"id": 1006663450507006000,
+		"id_str": "1006663450507005952",
+		"text": "RT @Lucylinus8: So many presenters and so much information thank you #InnEdCo18 my brain is full https://t.co/csQRFnxBMP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCo18",
+					"indices": [
+						69,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lucylinus8",
+					"name": "Rae Platt Young",
+					"id": 783496456900481000,
+					"id_str": "783496456900481024",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1006660222968971300,
+					"id_str": "1006660222968971265",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DfhgI6eUwAECzTw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfhgI6eUwAECzTw.jpg",
+					"url": "https://t.co/csQRFnxBMP",
+					"display_url": "pic.twitter.com/csQRFnxBMP",
+					"expanded_url": "https://twitter.com/Lucylinus8/status/1006660226265722880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 377,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 377,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 377,
+							"h": 378,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006660226265722900,
+					"source_status_id_str": "1006660226265722880",
+					"source_user_id": 783496456900481000,
+					"source_user_id_str": "783496456900481024"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1006660222968971300,
+					"id_str": "1006660222968971265",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DfhgI6eUwAECzTw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfhgI6eUwAECzTw.jpg",
+					"url": "https://t.co/csQRFnxBMP",
+					"display_url": "pic.twitter.com/csQRFnxBMP",
+					"expanded_url": "https://twitter.com/Lucylinus8/status/1006660226265722880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 377,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 377,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 377,
+							"h": 378,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1006660226265722900,
+					"source_status_id_str": "1006660226265722880",
+					"source_user_id": 783496456900481000,
+					"source_user_id_str": "783496456900481024"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6396,
+			"friends_count": 2820,
+			"listed_count": 385,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 12 22:11:15 +0000 2018",
+			"id": 1006660226265722900,
+			"id_str": "1006660226265722880",
+			"text": "So many presenters and so much information thank you #InnEdCo18 my brain is full https://t.co/csQRFnxBMP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCo18",
+						"indices": [
+							53,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1006660222968971300,
+						"id_str": "1006660222968971265",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DfhgI6eUwAECzTw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfhgI6eUwAECzTw.jpg",
+						"url": "https://t.co/csQRFnxBMP",
+						"display_url": "pic.twitter.com/csQRFnxBMP",
+						"expanded_url": "https://twitter.com/Lucylinus8/status/1006660226265722880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 377,
+								"h": 378,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 377,
+								"h": 378,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 377,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1006660222968971300,
+						"id_str": "1006660222968971265",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DfhgI6eUwAECzTw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfhgI6eUwAECzTw.jpg",
+						"url": "https://t.co/csQRFnxBMP",
+						"display_url": "pic.twitter.com/csQRFnxBMP",
+						"expanded_url": "https://twitter.com/Lucylinus8/status/1006660226265722880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 377,
+								"h": 378,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 377,
+								"h": 378,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 377,
+								"h": 378,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 783496456900481000,
+				"id_str": "783496456900481024",
+				"name": "Rae Platt Young",
+				"screen_name": "Lucylinus8",
+				"location": "",
+				"description": "teacher -student - dreamer - the glass is half full !",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 0,
+				"friends_count": 9,
+				"listed_count": 0,
+				"created_at": "Wed Oct 05 02:38:06 +0000 2016",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1006658630253363201/n8XaS7xy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006658630253363201/n8XaS7xy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/783496456900481024/1528841096",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 12 22:20:42 +0000 2018",
 		"id": 1006662604629205000,
 		"id_str": "1006662604629204993",

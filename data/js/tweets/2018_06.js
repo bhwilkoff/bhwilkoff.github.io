@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Fri Jun 15 02:21:56 +0000 2018",
+		"id": 1007448090494681100,
+		"id_str": "1007448090494681089",
+		"text": "RT @Trevor_Timmons: Reflecting back on the amazing 3+ days of learning that was #InnEdCO18 -- a huge thank you to the @InnEdCO Board for ma…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO18",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Trevor_Timmons",
+					"name": "Trevor Timmons",
+					"id": 160333577,
+					"id_str": "160333577",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "InnEdCO",
+					"name": "InnEdCO",
+					"id": 103948271,
+					"id_str": "103948271",
+					"indices": [
+						118,
+						126
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6411,
+			"friends_count": 2830,
+			"listed_count": 385,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17773,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 15 02:15:50 +0000 2018",
+			"id": 1007446552707678200,
+			"id_str": "1007446552707678209",
+			"text": "Reflecting back on the amazing 3+ days of learning that was #InnEdCO18 -- a huge thank you to the @InnEdCO Board fo… https://t.co/67LRmZRcvE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCO18",
+						"indices": [
+							60,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "InnEdCO",
+						"name": "InnEdCO",
+						"id": 103948271,
+						"id_str": "103948271",
+						"indices": [
+							98,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/67LRmZRcvE",
+						"expanded_url": "https://twitter.com/i/web/status/1007446552707678209",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 160333577,
+				"id_str": "160333577",
+				"name": "Trevor Timmons",
+				"screen_name": "Trevor_Timmons",
+				"location": "80550",
+				"description": "Tech Director, Swim Coach, and proud dad! \r\n\r\nObviously, these views are my own and not necessarily those of my employer.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 351,
+				"friends_count": 382,
+				"listed_count": 27,
+				"created_at": "Sun Jun 27 22:08:17 +0000 2010",
+				"favourites_count": 456,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 468,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1001939874788720640/duKvXOOU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001939874788720640/duKvXOOU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/160333577/1527716308",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 15 01:12:50 +0000 2018",
 		"id": 1007430700809773000,
 		"id_str": "1007430700809773056",

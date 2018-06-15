@@ -1,6 +1,921 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Fri Jun 15 00:17:04 +0000 2018",
+		"id": 1007416665368227800,
+		"id_str": "1007416665368227840",
+		"text": "RT @sommbhart: Rock on! #InnEdCO18 https://t.co/nI71PZzJIs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO18",
+					"indices": [
+						24,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sommbhart",
+					"name": "Sommer Breithart",
+					"id": 748612440,
+					"id_str": "748612440",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nI71PZzJIs",
+					"expanded_url": "https://twitter.com/robin_schuh/status/1007372659200593920",
+					"display_url": "twitter.com/robin_schuh/st…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6408,
+			"friends_count": 2830,
+			"listed_count": 385,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17771,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 14 22:05:46 +0000 2018",
+			"id": 1007383622570000400,
+			"id_str": "1007383622570000385",
+			"text": "Rock on! #InnEdCO18 https://t.co/nI71PZzJIs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCO18",
+						"indices": [
+							9,
+							19
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nI71PZzJIs",
+						"expanded_url": "https://twitter.com/robin_schuh/status/1007372659200593920",
+						"display_url": "twitter.com/robin_schuh/st…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 748612440,
+				"id_str": "748612440",
+				"name": "Sommer Breithart",
+				"screen_name": "sommbhart",
+				"location": "Colorado, USA",
+				"description": "2nd grade teacher RRE DCSD",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71,
+				"friends_count": 92,
+				"listed_count": 28,
+				"created_at": "Fri Aug 10 04:36:07 +0000 2012",
+				"favourites_count": 198,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 318,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/488125796599349248/dLlHxgtW_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/488125796599349248/dLlHxgtW_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/748612440/1396345366",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1007372659200593900,
+			"quoted_status_id_str": "1007372659200593920",
+			"quoted_status": {
+				"created_at": "Thu Jun 14 21:22:12 +0000 2018",
+				"id": 1007372659200593900,
+				"id_str": "1007372659200593920",
+				"text": "Way to kill it, Team Maverick! #makerchallenge #InnEdCO18 #WINNERS @Kinnerswinners @sommbhart 🤘🏻❤️😂 https://t.co/BdoSlR823G",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "makerchallenge",
+							"indices": [
+								31,
+								46
+							]
+						},
+						{
+							"text": "InnEdCO18",
+							"indices": [
+								47,
+								57
+							]
+						},
+						{
+							"text": "WINNERS",
+							"indices": [
+								58,
+								66
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Kinnerswinners",
+							"name": "Kristin p kinner",
+							"id": 1892212190,
+							"id_str": "1892212190",
+							"indices": [
+								67,
+								82
+							]
+						},
+						{
+							"screen_name": "sommbhart",
+							"name": "Sommer Breithart",
+							"id": 748612440,
+							"id_str": "748612440",
+							"indices": [
+								83,
+								93
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 1007372441268523000,
+							"id_str": "1007372441268523008",
+							"indices": [
+								100,
+								123
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007372441268523008/pu/img/UECks6O4ayrCMYDe.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007372441268523008/pu/img/UECks6O4ayrCMYDe.jpg",
+							"url": "https://t.co/BdoSlR823G",
+							"display_url": "pic.twitter.com/BdoSlR823G",
+							"expanded_url": "https://twitter.com/robin_schuh/status/1007372659200593920/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1280,
+									"h": 720,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1007372441268523000,
+							"id_str": "1007372441268523008",
+							"indices": [
+								100,
+								123
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1007372441268523008/pu/img/UECks6O4ayrCMYDe.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1007372441268523008/pu/img/UECks6O4ayrCMYDe.jpg",
+							"url": "https://t.co/BdoSlR823G",
+							"display_url": "pic.twitter.com/BdoSlR823G",
+							"expanded_url": "https://twitter.com/robin_schuh/status/1007372659200593920/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1280,
+									"h": 720,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 32490,
+								"variants": [
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/1007372441268523008/pu/pl/XNMBDfcotVqAYq7K.m3u8?tag=3"
+									},
+									{
+										"bitrate": 256000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/1007372441268523008/pu/vid/320x180/6MUU6RvIWnhBwEcq.mp4?tag=3"
+									},
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/1007372441268523008/pu/vid/1280x720/QSYc95GfhPwUkriL.mp4?tag=3"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/1007372441268523008/pu/vid/640x360/NAOsFa0lLzkC_8Yk.mp4?tag=3"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 729867415538925600,
+					"id_str": "729867415538925568",
+					"name": "Robin Schuhmacher",
+					"screen_name": "robin_schuh",
+					"location": "Denver, CO",
+					"description": "Elem. Teacher, Diff. Coach, #SeesawAmbasador, 2014 DCSD Elem. Teacher of the Year, Techie, Challenge Seeker, Passionate Learner, God-Loving Wife and Mom",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2166,
+					"friends_count": 4759,
+					"listed_count": 29,
+					"created_at": "Tue May 10 02:55:26 +0000 2016",
+					"favourites_count": 5733,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1322,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1005189333098217472/g0VALDrJ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005189333098217472/g0VALDrJ_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/729867415538925568/1468979821",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 4,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1007372659200593900,
+		"quoted_status_id_str": "1007372659200593920",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 15 00:14:01 +0000 2018",
+		"id": 1007415899538616300,
+		"id_str": "1007415899538616321",
+		"text": "RT @PederHansenCo: Thank You #InnEdCO18 for an awesome week! I can honestly say I am a better teacher for spending time in sessions and wit…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO18",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PederHansenCo",
+					"name": "Peder Hansen",
+					"id": 4248355160,
+					"id_str": "4248355160",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6408,
+			"friends_count": 2830,
+			"listed_count": 385,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17771,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 14 23:55:31 +0000 2018",
+			"id": 1007411243030724600,
+			"id_str": "1007411243030724608",
+			"text": "Thank You #InnEdCO18 for an awesome week! I can honestly say I am a better teacher for spending time in sessions an… https://t.co/F5eDlHeVw6",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCO18",
+						"indices": [
+							10,
+							20
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/F5eDlHeVw6",
+						"expanded_url": "https://twitter.com/i/web/status/1007411243030724608",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4248355160,
+				"id_str": "4248355160",
+				"name": "Peder Hansen",
+				"screen_name": "PederHansenCo",
+				"location": "Breckenridge, CO",
+				"description": "Middle School Tech/CS Teacher and STEM Coordinator for Summit School District. Fan of all things outdoor,bike, and innovation.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 326,
+				"friends_count": 146,
+				"listed_count": 29,
+				"created_at": "Sun Nov 15 18:38:37 +0000 2015",
+				"favourites_count": 979,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 643,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/665969793506238465/F8C60B8D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/665969793506238465/F8C60B8D_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 15 00:13:31 +0000 2018",
+		"id": 1007415772761604100,
+		"id_str": "1007415772761604096",
+		"text": "RT @wfryer: @bhwilkoff Looks great! Wish I had a timeturner to be there now too! #InnEdCO18",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO18",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wfryer",
+					"name": "Wesley Fryer 🌎🎙🚀",
+					"id": 7095342,
+					"id_str": "7095342",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6408,
+			"friends_count": 2830,
+			"listed_count": 385,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17771,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 14 17:56:20 +0000 2018",
+			"id": 1007320849307832300,
+			"id_str": "1007320849307832320",
+			"text": "@bhwilkoff Looks great! Wish I had a timeturner to be there now too! #InnEdCO18",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCO18",
+						"indices": [
+							69,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1007320401725218800,
+			"in_reply_to_status_id_str": "1007320401725218817",
+			"in_reply_to_user_id": 1710871,
+			"in_reply_to_user_id_str": "1710871",
+			"in_reply_to_screen_name": "bhwilkoff",
+			"user": {
+				"id": 7095342,
+				"id_str": "7095342",
+				"name": "Wesley Fryer 🌎🎙🚀",
+				"screen_name": "wfryer",
+				"location": "Oklahoma City, USA",
+				"description": "I ❤️ unleashing creative potential, helping others #Create2Learn w digital media @MakeMediaCamp. Sharing my song w @sfryer. @edtechSR co-host. ATA @pocketshare",
+				"url": "https://t.co/6EaGxrxTvV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6EaGxrxTvV",
+								"expanded_url": "http://www.speedofcreativity.org",
+								"display_url": "speedofcreativity.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40555,
+				"friends_count": 30135,
+				"listed_count": 2683,
+				"created_at": "Tue Jun 26 20:46:40 +0000 2007",
+				"favourites_count": 13360,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 95148,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913242468790951936/vmvQ-Ao7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913242468790951936/vmvQ-Ao7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7095342/1528592740",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "c3f37afa9efcf94b",
+				"url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json",
+				"place_type": "city",
+				"name": "Austin",
+				"full_name": "Austin, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-97.928935,
+								30.127892
+							],
+							[
+								-97.5805133,
+								30.127892
+							],
+							[
+								-97.5805133,
+								30.5187994
+							],
+							[
+								-97.928935,
+								30.5187994
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 14 18:20:11 +0000 2018",
 		"id": 1007326850438189000,
 		"id_str": "1007326850438189057",

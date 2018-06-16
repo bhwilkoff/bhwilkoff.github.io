@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 16 15:17:56 +0000 2018",
+		"id": 1008005764118728700,
+		"id_str": "1008005764118728704",
+		"text": "RT @robin_schuh: This is just a tiny snapshot of @InnEdCO!!❤️#passionbasedlearning #swimmingsphero #dashanddot #maverickteaching #connectio…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "passionbasedlearning",
+					"indices": [
+						61,
+						82
+					]
+				},
+				{
+					"text": "swimmingsphero",
+					"indices": [
+						83,
+						98
+					]
+				},
+				{
+					"text": "dashanddot",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"text": "maverickteaching",
+					"indices": [
+						111,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robin_schuh",
+					"name": "Robin Schuhmacher",
+					"id": 729867415538925600,
+					"id_str": "729867415538925568",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "InnEdCO",
+					"name": "InnEdCO",
+					"id": 103948271,
+					"id_str": "103948271",
+					"indices": [
+						49,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Director of Personalized Learning for @aurorak12. Passionate about equity, agency, and creating one new thing every day. In short, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6410,
+			"friends_count": 2830,
+			"listed_count": 385,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17776,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 15 03:02:11 +0000 2018",
+			"id": 1007458218707243000,
+			"id_str": "1007458218707243008",
+			"text": "This is just a tiny snapshot of @InnEdCO!!❤️#passionbasedlearning #swimmingsphero #dashanddot #maverickteaching… https://t.co/OoAApZyraq",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "passionbasedlearning",
+						"indices": [
+							44,
+							65
+						]
+					},
+					{
+						"text": "swimmingsphero",
+						"indices": [
+							66,
+							81
+						]
+					},
+					{
+						"text": "dashanddot",
+						"indices": [
+							82,
+							93
+						]
+					},
+					{
+						"text": "maverickteaching",
+						"indices": [
+							94,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "InnEdCO",
+						"name": "InnEdCO",
+						"id": 103948271,
+						"id_str": "103948271",
+						"indices": [
+							32,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/OoAApZyraq",
+						"expanded_url": "https://twitter.com/i/web/status/1007458218707243008",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 729867415538925600,
+				"id_str": "729867415538925568",
+				"name": "Robin Schuhmacher",
+				"screen_name": "robin_schuh",
+				"location": "Denver, CO",
+				"description": "Elem. Teacher, Diff. Coach, #SeesawAmbasador, 2014 DCSD Elem. Teacher of the Year, Techie, Challenge Seeker, Passionate Learner, God-Loving Wife and Mom",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2197,
+				"friends_count": 4816,
+				"listed_count": 29,
+				"created_at": "Tue May 10 02:55:26 +0000 2016",
+				"favourites_count": 5762,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1329,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1005189333098217472/g0VALDrJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005189333098217472/g0VALDrJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/729867415538925568/1468979821",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 16 00:27:03 +0000 2018",
 		"id": 1007781563352748000,
 		"id_str": "1007781563352748032",

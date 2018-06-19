@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 19 12:58:52 +0000 2018",
+		"id": 1009057931772346400,
+		"id_str": "1009057931772346369",
+		"text": "RT @Transsomething: St Francis of a CC, the patron saint of ignoring emails",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Transsomething",
+					"name": "Natalie",
+					"id": 1594298539,
+					"id_str": "1594298539",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6413,
+			"friends_count": 2868,
+			"listed_count": 385,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17778,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 19 10:40:24 +0000 2018",
+			"id": 1009023084521840600,
+			"id_str": "1009023084521840641",
+			"text": "St Francis of a CC, the patron saint of ignoring emails",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1594298539,
+				"id_str": "1594298539",
+				"name": "Natalie",
+				"screen_name": "Transsomething",
+				"location": "NE Hampshire, UK",
+				"description": "Footballer - @RCFCLadies | Project Mgr - @TPrideBrighton | Founder - @n_gendr | IAG Member - @HampshireFA | Fiancee - @DrCharlotteMcC | I named a gritter",
+				"url": "https://t.co/ZvMDC12GAF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZvMDC12GAF",
+								"expanded_url": "https://www.youtube.com/channel/UCZLD-bhIdA-5Ig48gLkNkuw",
+								"display_url": "youtube.com/channel/UCZLD-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7295,
+				"friends_count": 884,
+				"listed_count": 64,
+				"created_at": "Sun Jul 14 21:14:18 +0000 2013",
+				"favourites_count": 10094,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42229,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789974853923311616/e0rOpaTL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789974853923311616/e0rOpaTL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1594298539/1452887668",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 238,
+			"favorite_count": 752,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jun 19 12:56:15 +0000 2018",
+		"id": 1009057271962263600,
+		"id_str": "1009057271962263552",
+		"text": "Does anyone have a good Higher Ed twitter list for me to follow? Looking to connect and build in new spaces in the… https://t.co/z9E0BQRzna",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z9E0BQRzna",
+					"expanded_url": "https://twitter.com/i/web/status/1009057271962263552",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6413,
+			"friends_count": 2868,
+			"listed_count": 385,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17778,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491548197668405248/VVuZKH3d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "85c09b7b6a803faf",
+			"url": "https://api.twitter.com/1.1/geo/id/85c09b7b6a803faf.json",
+			"place_type": "city",
+			"name": "Southglenn",
+			"full_name": "Southglenn, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-104.988399,
+							39.565951
+						],
+						[
+							-104.922825,
+							39.565951
+						],
+						[
+							-104.922825,
+							39.613203
+						],
+						[
+							-104.988399,
+							39.613203
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 16 15:17:56 +0000 2018",
 		"id": 1008005764118728700,
 		"id_str": "1008005764118728704",

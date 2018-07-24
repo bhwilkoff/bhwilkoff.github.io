@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 24 18:03:48 +0000 2018",
+		"id": 1021818244603076600,
+		"id_str": "1021818244603076608",
+		"text": "RT @LizstokedStokes: Our album is 2 weeks away and you can pre-order it on @AppleMusic please do this.\nhttps://t.co/8Wwpbc07zs\n\nAlso here's…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LizstokedStokes",
+					"name": "The Beths",
+					"id": 1371768242,
+					"id_str": "1371768242",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8Wwpbc07zs",
+					"expanded_url": "https://smarturl.it/fmhm_itunes",
+					"display_url": "smarturl.it/fmhm_itunes",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6404,
+			"friends_count": 107,
+			"listed_count": 383,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17834,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 24 17:32:05 +0000 2018",
+			"id": 1021810263941697500,
+			"id_str": "1021810263941697537",
+			"text": "Our album is 2 weeks away and you can pre-order it on @AppleMusic please do this.\nhttps://t.co/8Wwpbc07zs\n\nAlso her… https://t.co/6UcXqRxxyE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AppleMusic",
+						"name": "Apple Music",
+						"id": 74580436,
+						"id_str": "74580436",
+						"indices": [
+							54,
+							65
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8Wwpbc07zs",
+						"expanded_url": "https://smarturl.it/fmhm_itunes",
+						"display_url": "smarturl.it/fmhm_itunes",
+						"indices": [
+							82,
+							105
+						]
+					},
+					{
+						"url": "https://t.co/6UcXqRxxyE",
+						"expanded_url": "https://twitter.com/i/web/status/1021810263941697537",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1371768242,
+				"id_str": "1371768242",
+				"name": "The Beths",
+				"screen_name": "LizstokedStokes",
+				"location": "Auckland",
+				"description": "The Beths",
+				"url": "https://t.co/qNwd8JuelK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qNwd8JuelK",
+								"expanded_url": "http://www.thebethsnz.bandcamp.com",
+								"display_url": "thebethsnz.bandcamp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 601,
+				"friends_count": 186,
+				"listed_count": 7,
+				"created_at": "Mon Apr 22 10:05:47 +0000 2013",
+				"favourites_count": 925,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 220,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/575070931963400193/4KtIdpOi_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/575070931963400193/4KtIdpOi_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1371768242/1510118457",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "18a56c12e2fd2a28",
+				"url": "https://api.twitter.com/1.1/geo/id/18a56c12e2fd2a28.json",
+				"place_type": "city",
+				"name": "Chelva",
+				"full_name": "Chelva, España",
+				"country_code": "ES",
+				"country": "Spain",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-1.1468374,
+								39.6133719
+							],
+							[
+								-0.8834274,
+								39.6133719
+							],
+							[
+								-0.8834274,
+								39.8492847
+							],
+							[
+								-1.1468374,
+								39.8492847
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 24 12:30:57 +0000 2018",
 		"id": 1021734478010441700,
 		"id_str": "1021734478010441728",

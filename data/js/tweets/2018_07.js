@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 24 12:30:57 +0000 2018",
+		"id": 1021734478010441700,
+		"id_str": "1021734478010441728",
+		"text": "What exactly is a 17% Choir Teacher? #K12Connundrum https://t.co/lyC1Wt9Gax",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "K12Connundrum",
+					"indices": [
+						37,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1021734471807037400,
+					"id_str": "1021734471807037441",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/Di3uFrbUcAERe_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di3uFrbUcAERe_9.jpg",
+					"url": "https://t.co/lyC1Wt9Gax",
+					"display_url": "pic.twitter.com/lyC1Wt9Gax",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1021734478010441728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1021734471807037400,
+					"id_str": "1021734471807037441",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/Di3uFrbUcAERe_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di3uFrbUcAERe_9.jpg",
+					"url": "https://t.co/lyC1Wt9Gax",
+					"display_url": "pic.twitter.com/lyC1Wt9Gax",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1021734478010441728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6404,
+			"friends_count": 102,
+			"listed_count": 383,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17833,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 23 02:56:29 +0000 2018",
 		"id": 1021227523110080500,
 		"id_str": "1021227523110080512",

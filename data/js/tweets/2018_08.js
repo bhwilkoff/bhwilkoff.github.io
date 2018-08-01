@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 01 21:01:50 +0000 2018",
+		"id": 1024762150907076600,
+		"id_str": "1024762150907076609",
+		"text": "@GrantatCU @thatpsychprof A renewable assignment (as I understand it) is one that is truly Open: Retainable (Creati… https://t.co/S1wQNDqm2j",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrantatCU",
+					"name": "Grant Matheny",
+					"id": 333494118,
+					"id_str": "333494118",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "thatpsychprof",
+					"name": "Rajiv Jhangiani",
+					"id": 39835900,
+					"id_str": "39835900",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S1wQNDqm2j",
+					"expanded_url": "https://twitter.com/i/web/status/1024762150907076609",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1024756633103003600,
+		"in_reply_to_status_id_str": "1024756633103003648",
+		"in_reply_to_user_id": 333494118,
+		"in_reply_to_user_id_str": "333494118",
+		"in_reply_to_screen_name": "GrantatCU",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6397,
+			"friends_count": 128,
+			"listed_count": 383,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17855,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "fd70c22040963ac7",
+			"url": "https://api.twitter.com/1.1/geo/id/fd70c22040963ac7.json",
+			"place_type": "city",
+			"name": "Boulder",
+			"full_name": "Boulder, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.3017759,
+							39.953552
+						],
+						[
+							-105.183597,
+							39.953552
+						],
+						[
+							-105.183597,
+							40.094411
+						],
+						[
+							-105.3017759,
+							40.094411
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 01 20:36:58 +0000 2018",
+		"id": 1024755894498644000,
+		"id_str": "1024755894498643968",
+		"text": "I really like these questions from @thatpsychprof on how to redesign assignments for #OpenPedagogy. \n\n#coltt2018 https://t.co/Iyf5P7NSIu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenPedagogy",
+					"indices": [
+						85,
+						98
+					]
+				},
+				{
+					"text": "coltt2018",
+					"indices": [
+						102,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thatpsychprof",
+					"name": "Rajiv Jhangiani",
+					"id": 39835900,
+					"id_str": "39835900",
+					"indices": [
+						35,
+						49
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1024755888588914700,
+					"id_str": "1024755888588914688",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DjiqDSDVAAAyMFu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjiqDSDVAAAyMFu.jpg",
+					"url": "https://t.co/Iyf5P7NSIu",
+					"display_url": "pic.twitter.com/Iyf5P7NSIu",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1024755894498643968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1102,
+							"h": 963,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1102,
+							"h": 963,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1024755888588914700,
+					"id_str": "1024755888588914688",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DjiqDSDVAAAyMFu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjiqDSDVAAAyMFu.jpg",
+					"url": "https://t.co/Iyf5P7NSIu",
+					"display_url": "pic.twitter.com/Iyf5P7NSIu",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1024755894498643968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1102,
+							"h": 963,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1102,
+							"h": 963,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6397,
+			"friends_count": 128,
+			"listed_count": 383,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17855,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "fd70c22040963ac7",
+			"url": "https://api.twitter.com/1.1/geo/id/fd70c22040963ac7.json",
+			"place_type": "city",
+			"name": "Boulder",
+			"full_name": "Boulder, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.3017759,
+							39.953552
+						],
+						[
+							-105.183597,
+							39.953552
+						],
+						[
+							-105.183597,
+							40.094411
+						],
+						[
+							-105.3017759,
+							40.094411
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 01 19:48:17 +0000 2018",
 		"id": 1024743642001375200,
 		"id_str": "1024743642001375233",

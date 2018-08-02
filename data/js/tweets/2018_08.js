@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 02 15:15:09 +0000 2018",
+		"id": 1025037292442808300,
+		"id_str": "1025037292442808320",
+		"text": "@vollmerdp Do you have any other suggestions than breaking into smaller and more intentional groups? I was hoping f… https://t.co/sjrwjWXGIr",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vollmerdp",
+					"name": "Patricia Vollmer",
+					"id": 19222806,
+					"id_str": "19222806",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sjrwjWXGIr",
+					"expanded_url": "https://twitter.com/i/web/status/1025037292442808320",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1025035288685502500,
+		"in_reply_to_status_id_str": "1025035288685502465",
+		"in_reply_to_user_id": 19222806,
+		"in_reply_to_user_id_str": "19222806",
+		"in_reply_to_screen_name": "vollmerdp",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6396,
+			"friends_count": 132,
+			"listed_count": 383,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17858,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "fd70c22040963ac7",
+			"url": "https://api.twitter.com/1.1/geo/id/fd70c22040963ac7.json",
+			"place_type": "city",
+			"name": "Boulder",
+			"full_name": "Boulder, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.3017759,
+							39.953552
+						],
+						[
+							-105.183597,
+							39.953552
+						],
+						[
+							-105.183597,
+							40.094411
+						],
+						[
+							-105.3017759,
+							40.094411
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 02 14:57:31 +0000 2018",
+		"id": 1025032853061427200,
+		"id_str": "1025032853061427201",
+		"text": "@deckheather What is the dedicated app that you use? #coltt2018",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coltt2018",
+					"indices": [
+						53,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deckheather",
+					"name": "Heather Tobin",
+					"id": 129653008,
+					"id_str": "129653008",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1024767729272807400,
+		"in_reply_to_status_id_str": "1024767729272807426",
+		"in_reply_to_user_id": 129653008,
+		"in_reply_to_user_id_str": "129653008",
+		"in_reply_to_screen_name": "deckheather",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6396,
+			"friends_count": 132,
+			"listed_count": 383,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17858,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "fd70c22040963ac7",
+			"url": "https://api.twitter.com/1.1/geo/id/fd70c22040963ac7.json",
+			"place_type": "city",
+			"name": "Boulder",
+			"full_name": "Boulder, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.3017759,
+							39.953552
+						],
+						[
+							-105.183597,
+							39.953552
+						],
+						[
+							-105.183597,
+							40.094411
+						],
+						[
+							-105.3017759,
+							40.094411
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 02 14:55:39 +0000 2018",
+		"id": 1025032383303577600,
+		"id_str": "1025032383303577601",
+		"text": "Going to be thinking about online discussion this morning at #coltt2018. Good questions to start with: https://t.co/y4jZV0UU4o",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coltt2018",
+					"indices": [
+						61,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1025032378446569500,
+					"id_str": "1025032378446569478",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DjmlhHCU4AYJhBB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjmlhHCU4AYJhBB.jpg",
+					"url": "https://t.co/y4jZV0UU4o",
+					"display_url": "pic.twitter.com/y4jZV0UU4o",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1025032383303577601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1295,
+							"h": 781,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1025032378446569500,
+					"id_str": "1025032378446569478",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DjmlhHCU4AYJhBB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjmlhHCU4AYJhBB.jpg",
+					"url": "https://t.co/y4jZV0UU4o",
+					"display_url": "pic.twitter.com/y4jZV0UU4o",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1025032383303577601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1295,
+							"h": 781,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6396,
+			"friends_count": 132,
+			"listed_count": 383,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17858,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "fd70c22040963ac7",
+			"url": "https://api.twitter.com/1.1/geo/id/fd70c22040963ac7.json",
+			"place_type": "city",
+			"name": "Boulder",
+			"full_name": "Boulder, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.3017759,
+							39.953552
+						],
+						[
+							-105.183597,
+							39.953552
+						],
+						[
+							-105.183597,
+							40.094411
+						],
+						[
+							-105.3017759,
+							40.094411
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 01 21:01:50 +0000 2018",
 		"id": 1024762150907076600,
 		"id_str": "1024762150907076609",

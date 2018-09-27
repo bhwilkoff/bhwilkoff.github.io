@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Thu Sep 27 14:13:57 +0000 2018",
+		"id": 1045315613042724900,
+		"id_str": "1045315613042724864",
+		"text": "RT @RJSzczerba: https://t.co/dV1RnIt08V",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RJSzczerba",
+					"name": "Rob Szczerba",
+					"id": 175711277,
+					"id_str": "175711277",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1045270577764806700,
+					"id_str": "1045270577764806657",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DoGMDWnWsAECBZ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DoGMDWnWsAECBZ9.jpg",
+					"url": "https://t.co/dV1RnIt08V",
+					"display_url": "pic.twitter.com/dV1RnIt08V",
+					"expanded_url": "https://twitter.com/RJSzczerba/status/1045270677559934981/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1106,
+							"h": 1106,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1106,
+							"h": 1106,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1045270677559935000,
+					"source_status_id_str": "1045270677559934981",
+					"source_user_id": 175711277,
+					"source_user_id_str": "175711277"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1045270577764806700,
+					"id_str": "1045270577764806657",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DoGMDWnWsAECBZ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DoGMDWnWsAECBZ9.jpg",
+					"url": "https://t.co/dV1RnIt08V",
+					"display_url": "pic.twitter.com/dV1RnIt08V",
+					"expanded_url": "https://twitter.com/RJSzczerba/status/1045270677559934981/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1106,
+							"h": 1106,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1106,
+							"h": 1106,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1045270677559935000,
+					"source_status_id_str": "1045270677559934981",
+					"source_user_id": 175711277,
+					"source_user_id_str": "175711277"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6290,
+			"friends_count": 155,
+			"listed_count": 381,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17885,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 27 11:15:24 +0000 2018",
+			"id": 1045270677559935000,
+			"id_str": "1045270677559934981",
+			"text": "https://t.co/dV1RnIt08V",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1045270577764806700,
+						"id_str": "1045270577764806657",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DoGMDWnWsAECBZ9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DoGMDWnWsAECBZ9.jpg",
+						"url": "https://t.co/dV1RnIt08V",
+						"display_url": "pic.twitter.com/dV1RnIt08V",
+						"expanded_url": "https://twitter.com/RJSzczerba/status/1045270677559934981/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1106,
+								"h": 1106,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1106,
+								"h": 1106,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1045270577764806700,
+						"id_str": "1045270577764806657",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DoGMDWnWsAECBZ9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DoGMDWnWsAECBZ9.jpg",
+						"url": "https://t.co/dV1RnIt08V",
+						"display_url": "pic.twitter.com/dV1RnIt08V",
+						"expanded_url": "https://twitter.com/RJSzczerba/status/1045270677559934981/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1106,
+								"h": 1106,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1106,
+								"h": 1106,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 175711277,
+				"id_str": "175711277",
+				"name": "Rob Szczerba",
+				"screen_name": "RJSzczerba",
+				"location": "Pittsburgh, PA",
+				"description": "Rocket Scientist 🚀; CEO X Tech Ventures, Sr. Fellow Emeritus @LockheedMartin, @NotreDame PhD, Write cool stuff @Forbes & Proud Autism Dad!",
+				"url": "https://t.co/a24hf8xfzj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a24hf8xfzj",
+								"expanded_url": "https://www.linkedin.com/in/robertszczerba/",
+								"display_url": "linkedin.com/in/robertszcze…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 159141,
+				"friends_count": 42230,
+				"listed_count": 1605,
+				"created_at": "Sat Aug 07 11:12:56 +0000 2010",
+				"favourites_count": 17962,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17116,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783638214384975872/4BmrQtgC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783638214384975872/4BmrQtgC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/175711277/1513485246",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 227,
+			"favorite_count": 519,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Sep 26 14:06:46 +0000 2018",
 		"id": 1044951414751952900,
 		"id_str": "1044951414751952897",

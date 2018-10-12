@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 12:18:13 +0000 2018",
+		"id": 1050722303187664900,
+		"id_str": "1050722303187664901",
+		"full_text": "I am living in full on “Dark Mode Glory.” Mojave, Chrome with Dark Reader and Mojave Dark Mode theme. Toby with Dark Theme. #DarkModeLife https://t.co/eVAmVX8p4t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DarkModeLife",
+					"indices": [
+						124,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050722267624173600,
+					"id_str": "1050722267624173569",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/DpTqVd9U8AEmyay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpTqVd9U8AEmyay.jpg",
+					"url": "https://t.co/eVAmVX8p4t",
+					"display_url": "pic.twitter.com/eVAmVX8p4t",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1050722303187664901/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050722267624173600,
+					"id_str": "1050722267624173569",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/DpTqVd9U8AEmyay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpTqVd9U8AEmyay.jpg",
+					"url": "https://t.co/eVAmVX8p4t",
+					"display_url": "pic.twitter.com/eVAmVX8p4t",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1050722303187664901/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6302,
+			"friends_count": 170,
+			"listed_count": 381,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17892,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "85c09b7b6a803faf",
+			"url": "https://api.twitter.com/1.1/geo/id/85c09b7b6a803faf.json",
+			"place_type": "city",
+			"name": "Southglenn",
+			"full_name": "Southglenn, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-104.988399,
+							39.565951
+						],
+						[
+							-104.922825,
+							39.565951
+						],
+						[
+							-104.922825,
+							39.613203
+						],
+						[
+							-104.988399,
+							39.613203
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am living in full on “Dark Mode Glory.” Mojave, Chrome with Dark Reader and Mojave Dark Mode theme. Toby with Dark Theme. #DarkModeLife https://t.co/eVAmVX8p4t"
+	},
+	{
 		"created_at": "Wed Oct 10 23:57:41 +0000 2018",
 		"id": 1050173553713143800,
 		"id_str": "1050173553713143808",

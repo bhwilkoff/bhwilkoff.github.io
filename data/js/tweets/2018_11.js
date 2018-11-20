@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 20 15:59:16 +0000 2018",
+		"id": 1064911058375127000,
+		"id_str": "1064911058375127040",
+		"full_text": "What a wonderful service he has provided here. Gonna be playing with this a bunch really soon. #RealWorkOniPad https://t.co/VyggOU0DwN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RealWorkOniPad",
+					"indices": [
+						95,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VyggOU0DwN",
+					"expanded_url": "https://twitter.com/viticci/status/1064907592441495553",
+					"display_url": "twitter.com/viticci/status…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6299,
+			"friends_count": 271,
+			"listed_count": 381,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1064907592441495600,
+		"quoted_status_id_str": "1064907592441495553",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VyggOU0DwN",
+			"expanded": "https://twitter.com/viticci/status/1064907592441495553",
+			"display": "twitter.com/viticci/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 20 15:45:29 +0000 2018",
+			"id": 1064907592441495600,
+			"id_str": "1064907592441495553",
+			"full_text": "I spent the past few weeks working on a shortcut to create custom Home screen icons on iOS.\n\nHome Screen Icon Creator lets you add custom icons to launch any URL, custom shortcut, or action for a specific contact. It also supports solid color icons. \n\nhttps://t.co/3jOZGPttMT https://t.co/RxUaB7fT4T",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3jOZGPttMT",
+						"expanded_url": "https://www.macstories.net/ios/home-screen-icon-creator-a-shortcut-to-create-custom-icons-for-apps-contacts-solid-colors-and-more/",
+						"display_url": "macstories.net/ios/home-scree…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1064907577505525800,
+						"id_str": "1064907577505525762",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/DsdPzLPWsAImA1l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsdPzLPWsAImA1l.jpg",
+						"url": "https://t.co/RxUaB7fT4T",
+						"display_url": "pic.twitter.com/RxUaB7fT4T",
+						"expanded_url": "https://twitter.com/viticci/status/1064907592441495553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 773,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1064907577505525800,
+						"id_str": "1064907577505525762",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/DsdPzLPWsAImA1l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsdPzLPWsAImA1l.jpg",
+						"url": "https://t.co/RxUaB7fT4T",
+						"display_url": "pic.twitter.com/RxUaB7fT4T",
+						"expanded_url": "https://twitter.com/viticci/status/1064907592441495553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 773,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20904050,
+				"id_str": "20904050",
+				"name": "Federico Viticci",
+				"screen_name": "viticci",
+				"location": "In your web browser.",
+				"description": "Founder and Editor-in-Chief of @MacStoriesNet & @ClubMacStories. Co-host of @AppStoriesNet. Italian accent on @_RelayFM.  Email: viticci@macstories.net",
+				"url": "https://t.co/8eXD1ETiUi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8eXD1ETiUi",
+								"expanded_url": "https://www.macstories.net/",
+								"display_url": "macstories.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61664,
+				"friends_count": 666,
+				"listed_count": 3740,
+				"created_at": "Sun Feb 15 10:52:33 +0000 2009",
+				"favourites_count": 16567,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 104024,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "062039",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1005494943677235200/NArzJ6fT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005494943677235200/NArzJ6fT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20904050/1492522863",
+				"profile_link_color": "0081C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7F7F7",
+				"profile_text_color": "191A19",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 146,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a wonderful service he has provided here. Gonna be playing with this a bunch really soon. #RealWorkOniPad https://t.co/VyggOU0DwN"
+	},
+	{
 		"created_at": "Thu Nov 15 21:52:11 +0000 2018",
 		"id": 1063187934449303600,
 		"id_str": "1063187934449303552",

@@ -1,6 +1,511 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 11 16:41:21 +0000 2018",
+		"id": 1072531795483217900,
+		"id_str": "1072531795483217921",
+		"full_text": "This is wonderful resource. Thank you so much @kjsain for sharing it! https://t.co/Yeow6MxIK9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kjsain",
+					"name": "Kelly Sain",
+					"id": 13887282,
+					"id_str": "13887282",
+					"indices": [
+						46,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Yeow6MxIK9",
+					"expanded_url": "https://twitter.com/kjsain/status/1072529688646639618",
+					"display_url": "twitter.com/kjsain/status/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1072529688646639600,
+		"in_reply_to_status_id_str": "1072529688646639618",
+		"in_reply_to_user_id": 13887282,
+		"in_reply_to_user_id_str": "13887282",
+		"in_reply_to_screen_name": "kjsain",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6291,
+			"friends_count": 306,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072529688646639600,
+		"quoted_status_id_str": "1072529688646639618",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yeow6MxIK9",
+			"expanded": "https://twitter.com/kjsain/status/1072529688646639618",
+			"display": "twitter.com/kjsain/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 11 16:32:59 +0000 2018",
+			"id": 1072529688646639600,
+			"id_str": "1072529688646639618",
+			"full_text": "Thanks @todd_burleson @atxcopywriter @DonWettrick for your article, podcast &amp; keynote. #BVSD Ts &amp; leaders reflecting on your messages from these articles. Perfect way to start our PD! https://t.co/utmEFvT3Z6\nhttps://t.co/w4oYMGK8wd\nhttps://t.co/SnvfIyebGw https://t.co/1yBode8fWt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BVSD",
+						"indices": [
+							91,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "todd_burleson",
+						"name": "Todd",
+						"id": 1237185392,
+						"id_str": "1237185392",
+						"indices": [
+							7,
+							21
+						]
+					},
+					{
+						"screen_name": "atxcopywriter",
+						"name": "Kristen Hicks",
+						"id": 309302763,
+						"id_str": "309302763",
+						"indices": [
+							22,
+							36
+						]
+					},
+					{
+						"screen_name": "DonWettrick",
+						"name": "Don Wettrick",
+						"id": 728938712,
+						"id_str": "728938712",
+						"indices": [
+							37,
+							49
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/utmEFvT3Z6",
+						"expanded_url": "http://www.edudemic.com/creativity-in-the-classroom/",
+						"display_url": "edudemic.com/creativity-in-…",
+						"indices": [
+							192,
+							215
+						]
+					},
+					{
+						"url": "https://t.co/w4oYMGK8wd",
+						"expanded_url": "https://youtu.be/qJSHfLx0Tqc",
+						"display_url": "youtu.be/qJSHfLx0Tqc",
+						"indices": [
+							216,
+							239
+						]
+					},
+					{
+						"url": "https://t.co/SnvfIyebGw",
+						"expanded_url": "https://podcast.app/the-cult-of-pedagogy-podcast-p10151/?gclid=EAIaIQobChMIh_rKsJmY3wIVgkNpCh11-gYeEAAYASAAEgIfgvD_BwE",
+						"display_url": "podcast.app/the-cult-of-pe…",
+						"indices": [
+							240,
+							263
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1072529678349598700,
+						"id_str": "1072529678349598720",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/DuJkD1kXgAAV03n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuJkD1kXgAAV03n.jpg",
+						"url": "https://t.co/1yBode8fWt",
+						"display_url": "pic.twitter.com/1yBode8fWt",
+						"expanded_url": "https://twitter.com/kjsain/status/1072529688646639618/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 605,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1032,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 343,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1072529678349598700,
+						"id_str": "1072529678349598720",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/DuJkD1kXgAAV03n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuJkD1kXgAAV03n.jpg",
+						"url": "https://t.co/1yBode8fWt",
+						"display_url": "pic.twitter.com/1yBode8fWt",
+						"expanded_url": "https://twitter.com/kjsain/status/1072529688646639618/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 605,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1032,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 343,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1072529678353731600,
+						"id_str": "1072529678353731584",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/DuJkD1lWkAA8igQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuJkD1lWkAA8igQ.jpg",
+						"url": "https://t.co/1yBode8fWt",
+						"display_url": "pic.twitter.com/1yBode8fWt",
+						"expanded_url": "https://twitter.com/kjsain/status/1072529688646639618/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1072529678336999400,
+						"id_str": "1072529678336999424",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/DuJkD1hXQAAqThS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuJkD1hXQAAqThS.jpg",
+						"url": "https://t.co/1yBode8fWt",
+						"display_url": "pic.twitter.com/1yBode8fWt",
+						"expanded_url": "https://twitter.com/kjsain/status/1072529688646639618/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1072529678345400300,
+						"id_str": "1072529678345400321",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/DuJkD1jXcAEfoDy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuJkD1jXcAEfoDy.jpg",
+						"url": "https://t.co/1yBode8fWt",
+						"display_url": "pic.twitter.com/1yBode8fWt",
+						"expanded_url": "https://twitter.com/kjsain/status/1072529688646639618/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13887282,
+				"id_str": "13887282",
+				"name": "Kelly Sain",
+				"screen_name": "kjsain",
+				"location": "Boulder, Colorado",
+				"description": "Always learning! #Leadership|#womenintech| PD creator| #BVSD Director of Ed Tech| Former @InnEdCO Board| #ISTE BYOD Denver| I ❤️2 share & collaborate. #edtech",
+				"url": "https://t.co/YaQcFrXZ7O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YaQcFrXZ7O",
+								"expanded_url": "http://bvsd.org/IT/edtech/Pages/default.aspx",
+								"display_url": "bvsd.org/IT/edtech/Page…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2400,
+				"friends_count": 2220,
+				"listed_count": 194,
+				"created_at": "Sun Feb 24 02:22:31 +0000 2008",
+				"favourites_count": 3311,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5557,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000006388971/f77a731f5df34951b936c80ef747e0fe_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000006388971/f77a731f5df34951b936c80ef747e0fe_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13887282/1372384956",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is wonderful resource. Thank you so much @kjsain for sharing it! https://t.co/Yeow6MxIK9"
+	},
+	{
 		"created_at": "Mon Dec 10 19:50:15 +0000 2018",
 		"id": 1072216947746467800,
 		"id_str": "1072216947746467840",

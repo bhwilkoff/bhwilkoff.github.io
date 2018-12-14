@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 14 16:47:28 +0000 2018",
+		"id": 1073620499010338800,
+		"id_str": "1073620499010338816",
+		"full_text": "I needed an easy way to share my Mac keyboard to my iPad to type on it. So, this is what I found: MochaSoft - Mocha Keyboard for Mac OS X, Use a Mac as Bluetooth keyboard for an iPhone or Android device https://t.co/ODFO3aKR9s. It works remarkably well! https://t.co/iMoW4tbRwO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ODFO3aKR9s",
+					"expanded_url": "https://buff.ly/2BifjwO",
+					"display_url": "buff.ly/2BifjwO",
+					"indices": [
+						203,
+						226
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1073620497303306200,
+					"id_str": "1073620497303306240",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/DuZEJ21XgAA_Opf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuZEJ21XgAA_Opf.jpg",
+					"url": "https://t.co/iMoW4tbRwO",
+					"display_url": "pic.twitter.com/iMoW4tbRwO",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1073620499010338816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 338,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073620497303306200,
+					"id_str": "1073620497303306240",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/DuZEJ21XgAA_Opf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuZEJ21XgAA_Opf.jpg",
+					"url": "https://t.co/iMoW4tbRwO",
+					"display_url": "pic.twitter.com/iMoW4tbRwO",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1073620499010338816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 338,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6290,
+			"friends_count": 310,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I needed an easy way to share my Mac keyboard to my iPad to type on it. So, this is what I found: MochaSoft - Mocha Keyboard for Mac OS X, Use a Mac as Bluetooth keyboard for an iPhone or Android device https://t.co/ODFO3aKR9s. It works remarkably well! https://t.co/iMoW4tbRwO"
+	},
+	{
 		"created_at": "Tue Dec 11 16:41:21 +0000 2018",
 		"id": 1072531795483217900,
 		"id_str": "1072531795483217921",

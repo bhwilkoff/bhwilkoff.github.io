@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 16 16:59:51 +0000 2019",
+		"id": 1085582416897400800,
+		"id_str": "1085582416897400832",
+		"full_text": "@thinqstudio @cogdog @taykendesign @THiNGkeriNG @mcleod @donncha79 @remikalir What is this thing?",
+		"truncated": false,
+		"display_text_range": [
+			78,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thinqstudio",
+					"name": "thinqstudio",
+					"id": 852252367848427500,
+					"id_str": "852252367848427520",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"screen_name": "taykendesign",
+					"name": "Taylor Kendal",
+					"id": 716093571900649500,
+					"id_str": "716093571900649473",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"screen_name": "THiNGkeriNG",
+					"name": "Brad Hinson",
+					"id": 809534973510381600,
+					"id_str": "809534973510381568",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "mcleod",
+					"name": "Scott McLeod",
+					"id": 4132841,
+					"id_str": "4132841",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"screen_name": "donncha79",
+					"name": "Dennis DeBay",
+					"id": 24829423,
+					"id_str": "24829423",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"screen_name": "remikalir",
+					"name": "Remi Kalir",
+					"id": 2557762548,
+					"id_str": "2557762548",
+					"indices": [
+						67,
+						77
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1085572798632738800,
+		"in_reply_to_status_id_str": "1085572798632738816",
+		"in_reply_to_user_id": 852252367848427500,
+		"in_reply_to_user_id_str": "852252367848427520",
+		"in_reply_to_screen_name": "thinqstudio",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6284,
+			"friends_count": 366,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17946,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thinqstudio @cogdog @taykendesign @THiNGkeriNG @mcleod @donncha79 @remikalir What is this thing?"
+	},
+	{
 		"created_at": "Tue Jan 15 16:06:33 +0000 2019",
 		"id": 1085206615198916600,
 		"id_str": "1085206615198916608",

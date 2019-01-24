@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 20:18:34 +0000 2019",
+		"id": 1088531527409922000,
+		"id_str": "1088531527409922048",
+		"full_text": "If you’ve been wondering what I’ve been up to of late, here is a pretty good summary of the work of Digital Education at my school. https://t.co/mVzS9FTKT2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mVzS9FTKT2",
+					"expanded_url": "https://twitter.com/CUAnschutz/status/1088529879031783424",
+					"display_url": "twitter.com/CUAnschutz/sta…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6282,
+			"friends_count": 379,
+			"listed_count": 377,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "389b6bffced8dd19",
+			"url": "https://api.twitter.com/1.1/geo/id/389b6bffced8dd19.json",
+			"place_type": "neighborhood",
+			"name": "Stapleton",
+			"full_name": "Stapleton, Denver",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-104.9036017,
+							39.747411
+						],
+						[
+							-104.8277726,
+							39.747411
+						],
+						[
+							-104.8277726,
+							39.8129812
+						],
+						[
+							-104.9036017,
+							39.8129812
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088529879031783400,
+		"quoted_status_id_str": "1088529879031783424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mVzS9FTKT2",
+			"expanded": "https://twitter.com/CUAnschutz/status/1088529879031783424",
+			"display": "twitter.com/CUAnschutz/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 24 20:12:01 +0000 2019",
+			"id": 1088529879031783400,
+			"id_str": "1088529879031783424",
+			"full_text": "Students at the CU School of Dental Medicine are getting ahead of the pack thanks to the latest in virtual reality technology https://t.co/uli4ArgKq0 | #meded #dentists https://t.co/Ek0Xbl264G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "meded",
+						"indices": [
+							152,
+							158
+						]
+					},
+					{
+						"text": "dentists",
+						"indices": [
+							159,
+							168
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uli4ArgKq0",
+						"expanded_url": "https://bit.ly/2FKxTl7",
+						"display_url": "bit.ly/2FKxTl7",
+						"indices": [
+							126,
+							149
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1088529874715922400,
+						"id_str": "1088529874715922432",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/media/Dxs8J13X0AA5JG1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dxs8J13X0AA5JG1.jpg",
+						"url": "https://t.co/Ek0Xbl264G",
+						"display_url": "pic.twitter.com/Ek0Xbl264G",
+						"expanded_url": "https://twitter.com/CUAnschutz/status/1088529879031783424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1088529874715922400,
+						"id_str": "1088529874715922432",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/media/Dxs8J13X0AA5JG1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dxs8J13X0AA5JG1.jpg",
+						"url": "https://t.co/Ek0Xbl264G",
+						"display_url": "pic.twitter.com/Ek0Xbl264G",
+						"expanded_url": "https://twitter.com/CUAnschutz/status/1088529879031783424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 761688578,
+				"id_str": "761688578",
+				"name": "CU Anschutz",
+				"screen_name": "CUAnschutz",
+				"location": "Aurora, CO",
+				"description": "Official Twitter account of the University of Colorado Anschutz Medical Campus, a 21st century healthcare city. | #CUAnschutz",
+				"url": "https://t.co/VwTuxHbwfN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VwTuxHbwfN",
+								"expanded_url": "http://www.ucdenver.edu/anschutz",
+								"display_url": "ucdenver.edu/anschutz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7943,
+				"friends_count": 2034,
+				"listed_count": 123,
+				"created_at": "Thu Aug 16 14:47:37 +0000 2012",
+				"favourites_count": 6156,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7189,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1019756189003890688/EGZmE3Al_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019756189003890688/EGZmE3Al_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/761688578/1530308833",
+				"profile_link_color": "B89E65",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you’ve been wondering what I’ve been up to of late, here is a pretty good summary of the work of Digital Education at my school. https://t.co/mVzS9FTKT2"
+	},
+	{
+		"created_at": "Thu Jan 24 20:15:45 +0000 2019",
+		"id": 1088530818681659400,
+		"id_str": "1088530818681659392",
+		"full_text": "I keep forgetting the name of this app.\n\nFuture Ben, please remember: \n\nLazesoft Mac Data Recovery - Free Data Recovery for Mac https://t.co/Gs0sBH1NqV https://t.co/XHSZgtpfRR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gs0sBH1NqV",
+					"expanded_url": "http://www.macdatarecoveryfreeware.com/",
+					"display_url": "macdatarecoveryfreeware.com",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088530816903213000,
+					"id_str": "1088530816903213057",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxs9AryU8AEredy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxs9AryU8AEredy.jpg",
+					"url": "https://t.co/XHSZgtpfRR",
+					"display_url": "pic.twitter.com/XHSZgtpfRR",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1088530818681659392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088530816903213000,
+					"id_str": "1088530816903213057",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxs9AryU8AEredy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxs9AryU8AEredy.jpg",
+					"url": "https://t.co/XHSZgtpfRR",
+					"display_url": "pic.twitter.com/XHSZgtpfRR",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1088530818681659392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6282,
+			"friends_count": 379,
+			"listed_count": 377,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I keep forgetting the name of this app.\n\nFuture Ben, please remember: \n\nLazesoft Mac Data Recovery - Free Data Recovery for Mac https://t.co/Gs0sBH1NqV https://t.co/XHSZgtpfRR"
+	},
+	{
 		"created_at": "Thu Jan 24 02:37:03 +0000 2019",
 		"id": 1088264387826085900,
 		"id_str": "1088264387826085890",

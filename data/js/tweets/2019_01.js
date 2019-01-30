@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 30 18:35:40 +0000 2019",
+		"id": 1090679958517633000,
+		"id_str": "1090679958517633025",
+		"full_text": "@torchapp @LumaTouch @emulsioapp I used an iPad Pro 2018 (11 inch). I found that such a big project worked far better on that iPad!",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "torchapp",
+					"name": "Torch AR",
+					"id": 822860723223023600,
+					"id_str": "822860723223023616",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "LumaTouch",
+					"name": "Luma Touch 📱🎞",
+					"id": 1194866647,
+					"id_str": "1194866647",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "emulsioapp",
+					"name": "Emulsio",
+					"id": 263038916,
+					"id_str": "263038916",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1090674418009878500,
+		"in_reply_to_status_id_str": "1090674418009878528",
+		"in_reply_to_user_id": 822860723223023600,
+		"in_reply_to_user_id_str": "822860723223023616",
+		"in_reply_to_screen_name": "torchapp",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6284,
+			"friends_count": 430,
+			"listed_count": 377,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@torchapp @LumaTouch @emulsioapp I used an iPad Pro 2018 (11 inch). I found that such a big project worked far better on that iPad!"
+	},
+	{
+		"created_at": "Wed Jan 30 17:43:26 +0000 2019",
+		"id": 1090666813808042000,
+		"id_str": "1090666813808041985",
+		"full_text": "Just finished my Apple Distinguished Educator Application video for the Class of 2019. Designed in @torchapp, filmed with iOS 12, edited with @LumaTouch’s Luma Fusion, and stabilized with @emulsioapp. All on iPad: https://t.co/z5erYnmKn8\n\n#builtwithtorch #ade2019 #appleEDUchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "builtwithtorch",
+					"indices": [
+						239,
+						254
+					]
+				},
+				{
+					"text": "ade2019",
+					"indices": [
+						255,
+						263
+					]
+				},
+				{
+					"text": "appleEDUchat",
+					"indices": [
+						264,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "torchapp",
+					"name": "Torch AR",
+					"id": 822860723223023600,
+					"id_str": "822860723223023616",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"screen_name": "LumaTouch",
+					"name": "Luma Touch 📱🎞",
+					"id": 1194866647,
+					"id_str": "1194866647",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"screen_name": "emulsioapp",
+					"name": "Emulsio",
+					"id": 263038916,
+					"id_str": "263038916",
+					"indices": [
+						188,
+						199
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/z5erYnmKn8",
+					"expanded_url": "https://www.youtube.com/watch?v=o_y6LENnlJc",
+					"display_url": "youtube.com/watch?v=o_y6LE…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6284,
+			"friends_count": 430,
+			"listed_count": 377,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just finished my Apple Distinguished Educator Application video for the Class of 2019. Designed in @torchapp, filmed with iOS 12, edited with @LumaTouch’s Luma Fusion, and stabilized with @emulsioapp. All on iPad: https://t.co/z5erYnmKn8\n\n#builtwithtorch #ade2019 #appleEDUchat"
+	},
+	{
 		"created_at": "Tue Jan 29 11:14:55 +0000 2019",
 		"id": 1090206653541011500,
 		"id_str": "1090206653541011456",

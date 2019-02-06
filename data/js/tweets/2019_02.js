@@ -1,6 +1,685 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 21:28:23 +0000 2019",
+		"id": 1093260138842976300,
+		"id_str": "1093260138842976256",
+		"full_text": "@marnixst360 @torchapp Agreed, and if you ask really nicely, they let you open them early. ;)",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marnixst360",
+					"name": "XRealities",
+					"id": 742367938070601700,
+					"id_str": "742367938070601728",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "torchapp",
+					"name": "Torch AR",
+					"id": 822860723223023600,
+					"id_str": "822860723223023616",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1093259535131775000,
+		"in_reply_to_status_id_str": "1093259535131774977",
+		"in_reply_to_user_id": 742367938070601700,
+		"in_reply_to_user_id_str": "742367938070601728",
+		"in_reply_to_screen_name": "marnixst360",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6294,
+			"friends_count": 494,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17963,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@marnixst360 @torchapp Agreed, and if you ask really nicely, they let you open them early. ;)"
+	},
+	{
+		"created_at": "Wed Feb 06 21:27:51 +0000 2019",
+		"id": 1093260002784010200,
+		"id_str": "1093260002784010240",
+		"full_text": "I had so much fun with this project, and @torchapp is the perfect app for making things in AR. I can’t wait to build more with Torch! #ade2019 https://t.co/YlYSGvcBzD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ade2019",
+					"indices": [
+						134,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "torchapp",
+					"name": "Torch AR",
+					"id": 822860723223023600,
+					"id_str": "822860723223023616",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YlYSGvcBzD",
+					"expanded_url": "https://twitter.com/torchapp/status/1093250235776696323",
+					"display_url": "twitter.com/torchapp/statu…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1093250235776696300,
+		"in_reply_to_status_id_str": "1093250235776696323",
+		"in_reply_to_user_id": 822860723223023600,
+		"in_reply_to_user_id_str": "822860723223023616",
+		"in_reply_to_screen_name": "torchapp",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6294,
+			"friends_count": 494,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17963,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093250235776696300,
+		"quoted_status_id_str": "1093250235776696323",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YlYSGvcBzD",
+			"expanded": "https://twitter.com/torchapp/status/1093250235776696323",
+			"display": "twitter.com/torchapp/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 06 20:49:02 +0000 2019",
+			"id": 1093250235776696300,
+			"id_str": "1093250235776696323",
+			"full_text": "When digital educator @bhwilkoff needed a compelling story for his #AppleDistinguishedEducator application, he designed a building-scale #AugmentedReality experience on an iPad. \n\nBen shares why chose #AR for interactive storytelling &amp; how he did it. \n\nhttps://t.co/d9rZAe14Vi https://t.co/NyL3W22kVu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AppleDistinguishedEducator",
+						"indices": [
+							67,
+							94
+						]
+					},
+					{
+						"text": "AugmentedReality",
+						"indices": [
+							137,
+							154
+						]
+					},
+					{
+						"text": "AR",
+						"indices": [
+							201,
+							204
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							22,
+							32
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/d9rZAe14Vi",
+						"expanded_url": "https://www.torch.app/blog/ar-storytelling-apple-distinguished-educator",
+						"display_url": "torch.app/blog/ar-storyt…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1093250232836595700,
+						"id_str": "1093250232836595712",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/DywBS2LWoAAhxBC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DywBS2LWoAAhxBC.jpg",
+						"url": "https://t.co/NyL3W22kVu",
+						"display_url": "pic.twitter.com/NyL3W22kVu",
+						"expanded_url": "https://twitter.com/torchapp/status/1093250235776696323/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 345,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 345,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 345,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1093250232836595700,
+						"id_str": "1093250232836595712",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/DywBS2LWoAAhxBC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DywBS2LWoAAhxBC.jpg",
+						"url": "https://t.co/NyL3W22kVu",
+						"display_url": "pic.twitter.com/NyL3W22kVu",
+						"expanded_url": "https://twitter.com/torchapp/status/1093250235776696323/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 345,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 345,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 345,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://social.zoho.com\" rel=\"nofollow\">Zoho Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 822860723223023600,
+				"id_str": "822860723223023616",
+				"name": "Torch AR",
+				"screen_name": "torchapp",
+				"location": "𝖯𝗈𝗋𝗍𝗅𝖺𝗇𝖽, 𝖮𝖱",
+				"description": "Torch lets you build mobile #AR today. Design, prototype & share interactive #AugmentedReality apps on your phone – code-free!\n📲 Available in the iOS App Store",
+				"url": "https://t.co/4bAu7JitKF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4bAu7JitKF",
+								"expanded_url": "https://torch.app",
+								"display_url": "torch.app",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2335,
+				"friends_count": 726,
+				"listed_count": 66,
+				"created_at": "Sat Jan 21 17:37:39 +0000 2017",
+				"favourites_count": 1067,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1025,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1028015210966085632/mRucVPhS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028015210966085632/mRucVPhS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/822860723223023616/1538669654",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I had so much fun with this project, and @torchapp is the perfect app for making things in AR. I can’t wait to build more with Torch! #ade2019 https://t.co/YlYSGvcBzD"
+	},
+	{
+		"created_at": "Wed Feb 06 21:26:04 +0000 2019",
+		"id": 1093259557235699700,
+		"id_str": "1093259557235699712",
+		"full_text": "@torchapp @marnixst360 I found the tracked image to be incredibly helpful for making sure that each scene was anchored to a particular location in the building. With only the original project anchor, the further I got away from the start, the more things can drift. It is a simple and elegant solution!",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			302
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "torchapp",
+					"name": "Torch AR",
+					"id": 822860723223023600,
+					"id_str": "822860723223023616",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "marnixst360",
+					"name": "XRealities",
+					"id": 742367938070601700,
+					"id_str": "742367938070601728",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1093257893183275000,
+		"in_reply_to_status_id_str": "1093257893183275008",
+		"in_reply_to_user_id": 822860723223023600,
+		"in_reply_to_user_id_str": "822860723223023616",
+		"in_reply_to_screen_name": "torchapp",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6294,
+			"friends_count": 494,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17963,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@torchapp @marnixst360 I found the tracked image to be incredibly helpful for making sure that each scene was anchored to a particular location in the building. With only the original project anchor, the further I got away from the start, the more things can drift. It is a simple and elegant solution!"
+	},
+	{
 		"created_at": "Wed Feb 06 19:53:04 +0000 2019",
 		"id": 1093236150825672700,
 		"id_str": "1093236150825672705",

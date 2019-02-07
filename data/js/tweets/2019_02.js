@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 01:12:14 +0000 2019",
+		"id": 1093316471323689000,
+		"id_str": "1093316471323688960",
+		"full_text": "@SnySciCHS @torchapp @LumaTouch @emulsioapp Ha! I think they take all different kinds of folks. Not just folks who obsess about #RealWorkOniPad",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RealWorkOniPad",
+					"indices": [
+						128,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SnySciCHS",
+					"name": "Amy Snyder",
+					"id": 2512735356,
+					"id_str": "2512735356",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "torchapp",
+					"name": "Torch AR",
+					"id": 822860723223023600,
+					"id_str": "822860723223023616",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "LumaTouch",
+					"name": "Luma Touch 📱🎞",
+					"id": 1194866647,
+					"id_str": "1194866647",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "emulsioapp",
+					"name": "Emulsio",
+					"id": 263038916,
+					"id_str": "263038916",
+					"indices": [
+						32,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1093314832890282000,
+		"in_reply_to_status_id_str": "1093314832890281984",
+		"in_reply_to_user_id": 2512735356,
+		"in_reply_to_user_id_str": "2512735356",
+		"in_reply_to_screen_name": "SnySciCHS",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6297,
+			"friends_count": 503,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17964,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SnySciCHS @torchapp @LumaTouch @emulsioapp Ha! I think they take all different kinds of folks. Not just folks who obsess about #RealWorkOniPad"
+	},
+	{
 		"created_at": "Wed Feb 06 21:28:23 +0000 2019",
 		"id": 1093260138842976300,
 		"id_str": "1093260138842976256",

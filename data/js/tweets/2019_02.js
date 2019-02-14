@@ -163,6 +163,216 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
+			"followers_count": 2391,
+			"friends_count": 735,
+			"listed_count": 71,
+			"created_at": "Sat Jan 21 17:37:39 +0000 2017",
+			"favourites_count": 1131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1052,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028015210966085632/mRucVPhS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028015210966085632/mRucVPhS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822860723223023616/1538669654",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Augmented reality was the perfect tool to share our story.\" When University of Colorado digital educator @bhwilkoff needed a standout storytelling tool, he chose #AR– then he produced this whole video on an iPad. \n#BuiltWithTorch\nhttps://t.co/d9rZAe14Vi https://t.co/LpOScloU9k"
+	},
+	{
+		"created_at": "Tue Feb 12 00:00:01 +0000 2019",
+		"id": 1095110238280212500,
+		"id_str": "1095110238280212480",
+		"full_text": "\"Augmented reality was the perfect tool to share our story.\" When University of Colorado digital educator @bhwilkoff needed a standout storytelling tool, he chose #AR– then he produced this whole video on an iPad. \n#BuiltWithTorch\nhttps://t.co/d9rZAe14Vi https://t.co/LpOScloU9k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AR",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "BuiltWithTorch",
+					"indices": [
+						215,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d9rZAe14Vi",
+					"expanded_url": "https://www.torch.app/blog/ar-storytelling-apple-distinguished-educator",
+					"display_url": "torch.app/blog/ar-storyt…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095110235633668100,
+					"id_str": "1095110235633668096",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/DzKc9QjW0AAOziw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzKc9QjW0AAOziw.jpg",
+					"url": "https://t.co/LpOScloU9k",
+					"display_url": "pic.twitter.com/LpOScloU9k",
+					"expanded_url": "https://twitter.com/torchapp/status/1095110238280212480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 419,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 419,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 419,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095110235633668100,
+					"id_str": "1095110235633668096",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/DzKc9QjW0AAOziw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzKc9QjW0AAOziw.jpg",
+					"url": "https://t.co/LpOScloU9k",
+					"display_url": "pic.twitter.com/LpOScloU9k",
+					"expanded_url": "https://twitter.com/torchapp/status/1095110238280212480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 419,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 419,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 419,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://social.zoho.com\" rel=\"nofollow\">Zoho Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822860723223023600,
+			"id_str": "822860723223023616",
+			"name": "Torch AR",
+			"screen_name": "torchapp",
+			"location": "𝖯𝗈𝗋𝗍𝗅𝖺𝗇𝖽, 𝖮𝖱",
+			"description": "Torch lets you build mobile #AR today. Design, prototype & share interactive #AugmentedReality apps on your phone – code-free!\n📲 Available in the iOS App Store",
+			"url": "https://t.co/4bAu7JitKF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4bAu7JitKF",
+							"expanded_url": "https://torch.app",
+							"display_url": "torch.app",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 2390,
 			"friends_count": 735,
 			"listed_count": 71,

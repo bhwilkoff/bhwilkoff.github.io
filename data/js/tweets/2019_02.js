@@ -1,6 +1,787 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 19:41:19 +0000 2019",
+		"id": 1098669013440188400,
+		"id_str": "1098669013440188416",
+		"full_text": "@mijosano @amazon I don’t know how much work has been done recently, but Mozilla was working on one: https://t.co/wFwsGKQPnL #eli2019",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "eli2019",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mijosano",
+					"name": "Michael Sano",
+					"id": 25131650,
+					"id_str": "25131650",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "amazon",
+					"name": "Amazon.com",
+					"id": 20793816,
+					"id_str": "20793816",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wFwsGKQPnL",
+					"expanded_url": "https://blog.mozilla.org/blog/2017/11/29/announcing-the-initial-release-of-mozillas-open-source-speech-recognition-model-and-voice-dataset/",
+					"display_url": "blog.mozilla.org/blog/2017/11/2…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1098666504600473600,
+		"in_reply_to_status_id_str": "1098666504600473600",
+		"in_reply_to_user_id": 25131650,
+		"in_reply_to_user_id_str": "25131650",
+		"in_reply_to_screen_name": "mijosano",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6330,
+			"friends_count": 666,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "389b6bffced8dd19",
+			"url": "https://api.twitter.com/1.1/geo/id/389b6bffced8dd19.json",
+			"place_type": "neighborhood",
+			"name": "Stapleton",
+			"full_name": "Stapleton, Denver",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-104.9036017,
+							39.747411
+						],
+						[
+							-104.8277726,
+							39.747411
+						],
+						[
+							-104.8277726,
+							39.8129812
+						],
+						[
+							-104.9036017,
+							39.8129812
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mijosano @amazon I don’t know how much work has been done recently, but Mozilla was working on one: https://t.co/wFwsGKQPnL #eli2019"
+	},
+	{
+		"created_at": "Thu Feb 21 19:36:10 +0000 2019",
+		"id": 1098667714485211100,
+		"id_str": "1098667714485211137",
+		"full_text": "@mijosano @RachelSchnepper Yep. I’m wondering how folks would deploy something like that without issues of student data being front and center (FERPA violations, anyone?)",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mijosano",
+					"name": "Michael Sano",
+					"id": 25131650,
+					"id_str": "25131650",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "RachelSchnepper",
+					"name": "Rachel Schnepper",
+					"id": 1183785024,
+					"id_str": "1183785024",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1098667087122190300,
+		"in_reply_to_status_id_str": "1098667087122190336",
+		"in_reply_to_user_id": 25131650,
+		"in_reply_to_user_id_str": "25131650",
+		"in_reply_to_screen_name": "mijosano",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6330,
+			"friends_count": 666,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "389b6bffced8dd19",
+			"url": "https://api.twitter.com/1.1/geo/id/389b6bffced8dd19.json",
+			"place_type": "neighborhood",
+			"name": "Stapleton",
+			"full_name": "Stapleton, Denver",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-104.9036017,
+							39.747411
+						],
+						[
+							-104.8277726,
+							39.747411
+						],
+						[
+							-104.8277726,
+							39.8129812
+						],
+						[
+							-104.9036017,
+							39.8129812
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mijosano @RachelSchnepper Yep. I’m wondering how folks would deploy something like that without issues of student data being front and center (FERPA violations, anyone?)"
+	},
+	{
+		"created_at": "Thu Feb 21 19:31:37 +0000 2019",
+		"id": 1098666569910018000,
+		"id_str": "1098666569910018048",
+		"full_text": "@RachelSchnepper Who is planning on doing that? I think a healthy skepticism about microphones of any kind in dorm rooms is warranted.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RachelSchnepper",
+					"name": "Rachel Schnepper",
+					"id": 1183785024,
+					"id_str": "1183785024",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1098666031734710300,
+		"in_reply_to_status_id_str": "1098666031734710272",
+		"in_reply_to_user_id": 1183785024,
+		"in_reply_to_user_id_str": "1183785024",
+		"in_reply_to_screen_name": "RachelSchnepper",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6330,
+			"friends_count": 666,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "389b6bffced8dd19",
+			"url": "https://api.twitter.com/1.1/geo/id/389b6bffced8dd19.json",
+			"place_type": "neighborhood",
+			"name": "Stapleton",
+			"full_name": "Stapleton, Denver",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-104.9036017,
+							39.747411
+						],
+						[
+							-104.8277726,
+							39.747411
+						],
+						[
+							-104.8277726,
+							39.8129812
+						],
+						[
+							-104.9036017,
+							39.8129812
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RachelSchnepper Who is planning on doing that? I think a healthy skepticism about microphones of any kind in dorm rooms is warranted."
+	},
+	{
+		"created_at": "Thu Feb 21 19:06:57 +0000 2019",
+		"id": 1098660362230984700,
+		"id_str": "1098660362230984704",
+		"full_text": "Already annotating the @EDUCAUSE 2019 Horizon Report at #ELI2019 here:\n\nhttps://t.co/PTW3mKTZnB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELI2019",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "educause",
+					"name": "EDUCAUSE",
+					"id": 15237481,
+					"id_str": "15237481",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PTW3mKTZnB",
+					"expanded_url": "https://hyp.is/YuJm0jYLEemU8S9zTDQdfw/library.educause.edu/~/media/files/library/2019/2/2019horizonreportpreview.pdf",
+					"display_url": "hyp.is/YuJm0jYLEemU8S…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739521654,
+			"id_str": "739521654",
+			"name": "(((Dr. Dean)))",
+			"screen_name": "dr_jdean",
+			"location": "Austin, TX",
+			"description": "Director of Education @hypothes_is, former @Genius, English Teacher-Scholar, Rogue Academic, Close Reader, Digital Human",
+			"url": "https://t.co/tweGhOAEru",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tweGhOAEru",
+							"expanded_url": "http://www.hypothes.is",
+							"display_url": "hypothes.is",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1896,
+			"friends_count": 1196,
+			"listed_count": 120,
+			"created_at": "Mon Aug 06 00:33:32 +0000 2012",
+			"favourites_count": 9160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/583318772360048640/EpGyBjUy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/583318772360048640/EpGyBjUy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739521654/1427909095",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Already annotating the @EDUCAUSE 2019 Horizon Report at #ELI2019 here:\n\nhttps://t.co/PTW3mKTZnB"
+	},
+	{
+		"created_at": "Thu Feb 21 19:11:06 +0000 2019",
+		"id": 1098661410186223600,
+		"id_str": "1098661410186223616",
+		"full_text": "Can any space be an #activelearning space? Mobile experiments from Cheryl Knight ⁦@cwru⁩ #eli2019 https://t.co/brphmPfbkL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "activelearning",
+					"indices": [
+						20,
+						35
+					]
+				},
+				{
+					"text": "eli2019",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cwru",
+					"name": "Case Western Reserve",
+					"id": 16290017,
+					"id_str": "16290017",
+					"indices": [
+						82,
+						87
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098661404091985900,
+					"id_str": "1098661404091985920",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz86ud9VsAAp0Sr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz86ud9VsAAp0Sr.jpg",
+					"url": "https://t.co/brphmPfbkL",
+					"display_url": "pic.twitter.com/brphmPfbkL",
+					"expanded_url": "https://twitter.com/mijosano/status/1098661410186223616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098661404091985900,
+					"id_str": "1098661404091985920",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz86ud9VsAAp0Sr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz86ud9VsAAp0Sr.jpg",
+					"url": "https://t.co/brphmPfbkL",
+					"display_url": "pic.twitter.com/brphmPfbkL",
+					"expanded_url": "https://twitter.com/mijosano/status/1098661410186223616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25131650,
+			"id_str": "25131650",
+			"name": "Michael Sano",
+			"screen_name": "mijosano",
+			"location": "San Francisco",
+			"description": "#highered Community Manager at @HigherEdSurge #EdSurgeLoop #DLNchat, former Associate Dean of Students, creative writer, #LGBTQ, SF Bay Area.",
+			"url": "https://t.co/CwqFNXRJSD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CwqFNXRJSD",
+							"expanded_url": "https://www.edsurge.com/higher-ed",
+							"display_url": "edsurge.com/higher-ed",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 917,
+			"friends_count": 1434,
+			"listed_count": 11,
+			"created_at": "Wed Mar 18 19:13:24 +0000 2009",
+			"favourites_count": 7223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2321,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884966970130546689/fzzhXRW9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884966970130546689/fzzhXRW9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25131650/1523917745",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can any space be an #activelearning space? Mobile experiments from Cheryl Knight ⁦@cwru⁩ #eli2019 https://t.co/brphmPfbkL"
+	},
+	{
 		"created_at": "Thu Feb 21 19:11:06 +0000 2019",
 		"id": 1098661410186223600,
 		"id_str": "1098661410186223616",

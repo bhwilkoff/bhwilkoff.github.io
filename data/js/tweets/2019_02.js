@@ -105,6 +105,158 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
+			"followers_count": 6607,
+			"friends_count": 1228,
+			"listed_count": 352,
+			"created_at": "Sat Apr 28 03:52:49 +0000 2012",
+			"favourites_count": 11843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20114,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8A6915",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963501917866307584/bPbRqJzR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963501917866307584/bPbRqJzR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/565218468/1536805765",
+			"profile_link_color": "0B9E10",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My keynote from today's presentation with @jessifer at #ATD_DREAM. A wonderful experience—very grateful to @AchieveTheDream for the opportunity!  https://t.co/5cVE1KA4ds #digped"
+	},
+	{
+		"created_at": "Fri Feb 22 00:57:54 +0000 2019",
+		"id": 1098748682709561300,
+		"id_str": "1098748682709561344",
+		"full_text": "My keynote from today's presentation with @jessifer at #ATD_DREAM. A wonderful experience—very grateful to @AchieveTheDream for the opportunity!  https://t.co/5cVE1KA4ds #digped",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ATD_DREAM",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "digped",
+					"indices": [
+						170,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jessifer",
+					"name": "Jesse Stommel",
+					"id": 11702102,
+					"id_str": "11702102",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"screen_name": "AchieveTheDream",
+					"name": "Achieving the Dream",
+					"id": 479001720,
+					"id_str": "479001720",
+					"indices": [
+						107,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5cVE1KA4ds",
+					"expanded_url": "https://www.seanmichaelmorris.com/the-production-of-tomorrow/",
+					"display_url": "seanmichaelmorris.com/the-production…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 565218468,
+			"id_str": "565218468",
+			"name": "Sean Michael Morris",
+			"screen_name": "slamteacher",
+			"location": "Portland, OR",
+			"description": "Agonist. Critical Digital Pedagogy. Director: @DigPedLab. Author: An Urgency of Teachers (https://t.co/R92CXp9X00). Married to @MattMorris. He/him. #digped",
+			"url": "https://t.co/KOiKNx8wVK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KOiKNx8wVK",
+							"expanded_url": "http://www.seanmichaelmorris.com",
+							"display_url": "seanmichaelmorris.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/R92CXp9X00",
+							"expanded_url": "http://urgencyofteachers.com",
+							"display_url": "urgencyofteachers.com",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 6605,
 			"friends_count": 1228,
 			"listed_count": 352,

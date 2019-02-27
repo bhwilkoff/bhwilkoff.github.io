@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 27 23:19:27 +0000 2019",
+		"id": 1100898233889374200,
+		"id_str": "1100898233889374208",
+		"full_text": "https://t.co/pooOFrmT2v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pooOFrmT2v",
+					"expanded_url": "http://dosdude1.com/mojave/",
+					"display_url": "dosdude1.com/mojave/",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.thebluebird.app\" rel=\"nofollow\">Bluebird for macOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6345,
+			"friends_count": 761,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17991,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/pooOFrmT2v"
+	},
+	{
+		"created_at": "Tue Feb 26 23:06:04 +0000 2019",
+		"id": 1100532478631166000,
+		"id_str": "1100532478631165952",
+		"full_text": "This is only just sinking in — that I’m keynoting the #InnEdCO19 Learning Academy with @slamteacher this Summer. Really nice to be back in Colorado and with such a great group of folks. #anurgencyofteachers https://t.co/r8On0tqds1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"text": "anurgencyofteachers",
+					"indices": [
+						186,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slamteacher",
+					"name": "Sean Michael Morris",
+					"id": 565218468,
+					"id_str": "565218468",
+					"indices": [
+						87,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r8On0tqds1",
+					"expanded_url": "https://twitter.com/innedco/status/1100379956331376640?s=21",
+					"display_url": "twitter.com/innedco/status…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11702102,
+			"id_str": "11702102",
+			"name": "Jesse Stommel",
+			"screen_name": "Jessifer",
+			"location": "Washington, DC",
+			"description": "Irascibly optimistic. Education, critical digital pedagogy, documentary film. Director @umwdtlt @HybridPed @digpedlab. Author https://t.co/R92CXp9X00. Dad. He/Him",
+			"url": "https://t.co/c8xuFSGzJr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c8xuFSGzJr",
+							"expanded_url": "http://www.jessestommel.com",
+							"display_url": "jessestommel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/R92CXp9X00",
+							"expanded_url": "http://urgencyofteachers.com",
+							"display_url": "urgencyofteachers.com",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22015,
+			"friends_count": 7151,
+			"listed_count": 923,
+			"created_at": "Mon Dec 31 23:47:46 +0000 2007",
+			"favourites_count": 48226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 39857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/796797933400326144/Cd3YBODD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/796797933400326144/Cd3YBODD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11702102/1495459386",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100379956331376600,
+		"quoted_status_id_str": "1100379956331376640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/r8On0tqds1",
+			"expanded": "https://twitter.com/innedco/status/1100379956331376640?s=21",
+			"display": "twitter.com/innedco/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 26 13:00:00 +0000 2019",
+			"id": 1100379956331376600,
+			"id_str": "1100379956331376640",
+			"full_text": "Looking to think deeply about how and why to integrate technology in students learning experiences? Check out our #InnEdCO19 Learning Academy keynote speakers who will be sure to inspire! @Jessifer @slamteacher #InnEdCO Find our more at https://t.co/SvMSBlXzqm https://t.co/zbxRUI3Vq5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCO19",
+						"indices": [
+							114,
+							124
+						]
+					},
+					{
+						"text": "InnEdCO",
+						"indices": [
+							211,
+							219
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Jessifer",
+						"name": "Jesse Stommel",
+						"id": 11702102,
+						"id_str": "11702102",
+						"indices": [
+							188,
+							197
+						]
+					},
+					{
+						"screen_name": "slamteacher",
+						"name": "Sean Michael Morris",
+						"id": 565218468,
+						"id_str": "565218468",
+						"indices": [
+							198,
+							210
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SvMSBlXzqm",
+						"expanded_url": "https://urgencyofteachers.com/",
+						"display_url": "urgencyofteachers.com",
+						"indices": [
+							237,
+							260
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1099882334243893200,
+						"id_str": "1099882334243893249",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/D0ORJ9NVsAE2z4S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0ORJ9NVsAE2z4S.jpg",
+						"url": "https://t.co/zbxRUI3Vq5",
+						"display_url": "pic.twitter.com/zbxRUI3Vq5",
+						"expanded_url": "https://twitter.com/InnEdCO/status/1100379956331376640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1100,
+								"h": 580,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 580,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 359,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1099882334243893200,
+						"id_str": "1099882334243893249",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/D0ORJ9NVsAE2z4S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0ORJ9NVsAE2z4S.jpg",
+						"url": "https://t.co/zbxRUI3Vq5",
+						"display_url": "pic.twitter.com/zbxRUI3Vq5",
+						"expanded_url": "https://twitter.com/InnEdCO/status/1100379956331376640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1100,
+								"h": 580,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 580,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 359,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 103948271,
+				"id_str": "103948271",
+				"name": "InnEdCO",
+				"screen_name": "InnEdCO",
+				"location": "",
+				"description": "We provide year-round networks for educators that support engagement in sustainable digital age leadership, teaching, and learning. #InnEdCO #InnEdCO18",
+				"url": "https://t.co/8xCYNu1QQO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8xCYNu1QQO",
+								"expanded_url": "http://innedco.org",
+								"display_url": "innedco.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2127,
+				"friends_count": 631,
+				"listed_count": 68,
+				"created_at": "Mon Jan 11 19:36:47 +0000 2010",
+				"favourites_count": 599,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1821,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/560832218096885760/96-qg4IL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/560832218096885760/96-qg4IL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103948271/1497300705",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 27,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is only just sinking in — that I’m keynoting the #InnEdCO19 Learning Academy with @slamteacher this Summer. Really nice to be back in Colorado and with such a great group of folks. #anurgencyofteachers https://t.co/r8On0tqds1"
+	},
+	{
 		"created_at": "Tue Feb 26 23:06:04 +0000 2019",
 		"id": 1100532478631166000,
 		"id_str": "1100532478631165952",

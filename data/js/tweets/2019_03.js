@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 10 16:12:40 +0000 2019",
+		"id": 1104777099179507700,
+		"id_str": "1104777099179507712",
+		"full_text": "This is such a wonderful resource. I think it could have a huge impact on parenting and having these discussions as well. Recommended reading! https://t.co/qtjN5Omwmm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qtjN5Omwmm",
+					"expanded_url": "https://twitter.com/GLSEN/status/1104774080400683008",
+					"display_url": "twitter.com/GLSEN/status/1…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6342,
+			"friends_count": 828,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "85c09b7b6a803faf",
+			"url": "https://api.twitter.com/1.1/geo/id/85c09b7b6a803faf.json",
+			"place_type": "city",
+			"name": "Southglenn",
+			"full_name": "Southglenn, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-104.988399,
+							39.565951
+						],
+						[
+							-104.922825,
+							39.565951
+						],
+						[
+							-104.922825,
+							39.613203
+						],
+						[
+							-104.988399,
+							39.613203
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1104774080400683000,
+		"quoted_status_id_str": "1104774080400683008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qtjN5Omwmm",
+			"expanded": "https://twitter.com/GLSEN/status/1104774080400683008",
+			"display": "twitter.com/GLSEN/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 10 16:00:41 +0000 2019",
+			"id": 1104774080400683000,
+			"id_str": "1104774080400683008",
+			"full_text": "Do you see yourself represented in your PubertyEd classes? Our partner @GenderSpectrum has released principles your teachers can use so every student, regardless of gender, feels safe, seen and supported in #HealthEd. https://t.co/urfKjBBN7Z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HealthEd",
+						"indices": [
+							207,
+							216
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GenderSpectrum",
+						"name": "Gender Spectrum",
+						"id": 267608200,
+						"id_str": "267608200",
+						"indices": [
+							71,
+							86
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/urfKjBBN7Z",
+						"expanded_url": "https://mashable.com/article/gender-inclusive-puberty-resource-for-teachers/#JQqpqluLZZq5",
+						"display_url": "mashable.com/article/gender…",
+						"indices": [
+							218,
+							241
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18021496,
+				"id_str": "18021496",
+				"name": "GLSEN",
+				"screen_name": "GLSEN",
+				"location": "New York, NY",
+				"description": "A leading education organization working to create safe & LGBTQ-inclusive K-12 schools. #SupportSafeSchools GLSEN Days of Action: #dayofsilence #allyweek #nncw",
+				"url": "https://t.co/R0nb4bKSkJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/R0nb4bKSkJ",
+								"expanded_url": "http://www.glsen.org",
+								"display_url": "glsen.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 92096,
+				"friends_count": 1891,
+				"listed_count": 1731,
+				"created_at": "Wed Dec 10 15:32:29 +0000 2008",
+				"favourites_count": 8313,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18851,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "63666A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/883341835732754432/vkJPF7lZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/883341835732754432/vkJPF7lZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18021496/1550776564",
+				"profile_link_color": "3EB1C8",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is such a wonderful resource. I think it could have a huge impact on parenting and having these discussions as well. Recommended reading! https://t.co/qtjN5Omwmm"
+	},
+	{
 		"created_at": "Fri Mar 08 15:08:40 +0000 2019",
 		"id": 1104036216675098600,
 		"id_str": "1104036216675098625",

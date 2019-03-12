@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 12 16:10:29 +0000 2019",
+		"id": 1105500714409709600,
+		"id_str": "1105501326006341632",
+		"full_text": "If filtering is an essential skill, where are students learning to filter? #shapingedu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "shapingedu",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8566012,
+			"id_str": "8566012",
+			"name": "Rebecca Frost Davis",
+			"screen_name": "FrostDavis",
+			"location": "30.361742,-97.772156",
+			"description": "Dir of Instructional & Emerging Tech at St. Edward's University. Digital humanities in undergrad curriculum & liberal arts in networked world. Views are my own.",
+			"url": "https://t.co/B0GG0ZwPAT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B0GG0ZwPAT",
+							"expanded_url": "https://rebeccafrostdavis.wordpress.com/",
+							"display_url": "rebeccafrostdavis.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2987,
+			"friends_count": 1747,
+			"listed_count": 243,
+			"created_at": "Fri Aug 31 20:16:13 +0000 2007",
+			"favourites_count": 2551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3366514965/986dca40ac771c568163b8c0da61049e_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3366514965/986dca40ac771c568163b8c0da61049e_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8566012/1432123573",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If filtering is an essential skill, where are students learning to filter? #shapingedu"
+	},
+	{
 		"created_at": "Mon Mar 11 16:02:02 +0000 2019",
 		"id": 1105136808155705300,
 		"id_str": "1105136808155705344",

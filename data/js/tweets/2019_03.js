@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 13:30:21 +0000 2019",
+		"id": 1105823412222484500,
+		"id_str": "1105823412222484482",
+		"full_text": "@willingworthy @joshua_r_eyler @npfannen @FandMFacCen @JustinHarbin @PhilipPulley @hypothes_is @irvspanish There are some good chapters on twitter chats in the #PersonalizedPD book: https://t.co/8VPsMd78gS",
+		"truncated": false,
+		"display_text_range": [
+			107,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PersonalizedPD",
+					"indices": [
+						160,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "willingworthy",
+					"name": "William Illingworth",
+					"id": 3196549529,
+					"id_str": "3196549529",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "joshua_r_eyler",
+					"name": "Joshua Eyler",
+					"id": 304582737,
+					"id_str": "304582737",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "npfannen",
+					"name": "nicole pfannenstiel",
+					"id": 537420872,
+					"id_str": "537420872",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"screen_name": "FandMFacCen",
+					"name": "F&MFacultyCenter",
+					"id": 1027157079692378100,
+					"id_str": "1027157079692378119",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"screen_name": "JustinHarbin",
+					"name": "Justin Harbin",
+					"id": 346146784,
+					"id_str": "346146784",
+					"indices": [
+						54,
+						67
+					]
+				},
+				{
+					"screen_name": "PhilipPulley",
+					"name": "Philip Pulley, Ed.D.",
+					"id": 585322396,
+					"id_str": "585322396",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothesis",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"screen_name": "irvspanish",
+					"name": "Glen Irvin Flores 🇲🇽",
+					"id": 472044692,
+					"id_str": "472044692",
+					"indices": [
+						95,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8VPsMd78gS",
+					"expanded_url": "https://www.amazon.com/dp/0692483322/?tag=banana104-20",
+					"display_url": "amazon.com/dp/0692483322/…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1105821317440376800,
+		"in_reply_to_status_id_str": "1105821317440376832",
+		"in_reply_to_user_id": 3196549529,
+		"in_reply_to_user_id_str": "3196549529",
+		"in_reply_to_screen_name": "willingworthy",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6344,
+			"friends_count": 875,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17999,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@willingworthy @joshua_r_eyler @npfannen @FandMFacCen @JustinHarbin @PhilipPulley @hypothes_is @irvspanish There are some good chapters on twitter chats in the #PersonalizedPD book: https://t.co/8VPsMd78gS"
+	},
+	{
 		"created_at": "Wed Mar 13 13:15:11 +0000 2019",
 		"id": 1105819596009816000,
 		"id_str": "1105819596009816064",

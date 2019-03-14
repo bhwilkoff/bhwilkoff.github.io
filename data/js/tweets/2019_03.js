@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 14 18:31:19 +0000 2019",
+		"id": 1106261541223977000,
+		"id_str": "1106261541223976960",
+		"full_text": "Sounds like a community of practice to me. https://t.co/NYSreoEKeF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NYSreoEKeF",
+					"expanded_url": "https://twitter.com/jlknott/status/1106260175235805184",
+					"display_url": "twitter.com/jlknott/status…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6345,
+			"friends_count": 903,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18001,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "85c09b7b6a803faf",
+			"url": "https://api.twitter.com/1.1/geo/id/85c09b7b6a803faf.json",
+			"place_type": "city",
+			"name": "Southglenn",
+			"full_name": "Southglenn, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-104.988399,
+							39.565951
+						],
+						[
+							-104.922825,
+							39.565951
+						],
+						[
+							-104.922825,
+							39.613203
+						],
+						[
+							-104.988399,
+							39.613203
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106260175235805200,
+		"quoted_status_id_str": "1106260175235805184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NYSreoEKeF",
+			"expanded": "https://twitter.com/jlknott/status/1106260175235805184",
+			"display": "twitter.com/jlknott/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 14 18:25:53 +0000 2019",
+			"id": 1106260175235805200,
+			"id_str": "1106260175235805184",
+			"full_text": "@harmonygritz \"lifted from Robin Hamman way back in the late ‘90s: (1) a group of people (2) who share social interaction (3) and some common ties between themselves and other members of the group (4) and who share an area for at least some of the time\" #squadgoalsnetwork",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "squadgoalsnetwork",
+						"indices": [
+							254,
+							272
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "harmonygritz",
+						"name": "George Station",
+						"id": 155090409,
+						"id_str": "155090409",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 155090409,
+			"in_reply_to_user_id_str": "155090409",
+			"in_reply_to_screen_name": "harmonygritz",
+			"user": {
+				"id": 7693002,
+				"id_str": "7693002",
+				"name": "Dr. Jessica L. Knott",
+				"screen_name": "jlknott",
+				"location": "Lansing, Michigan",
+				"description": "Head of LX Research and Professional Development @MSUHub. Writer, researcher, and instigator. Ravenclaw. Chaotic good / chaotic neutral. I like books. she/her.",
+				"url": "https://t.co/pBgzXedGsI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pBgzXedGsI",
+								"expanded_url": "http://jessknott.com",
+								"display_url": "jessknott.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3754,
+				"friends_count": 2861,
+				"listed_count": 241,
+				"created_at": "Tue Jul 24 19:40:50 +0000 2007",
+				"favourites_count": 17816,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28812,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1091347638052634624/H4Dd4ZTn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091347638052634624/H4Dd4ZTn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7693002/1531673146",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sounds like a community of practice to me. https://t.co/NYSreoEKeF"
+	},
+	{
 		"created_at": "Thu Mar 14 12:54:55 +0000 2019",
 		"id": 1106176884344217600,
 		"id_str": "1106176884344217603",

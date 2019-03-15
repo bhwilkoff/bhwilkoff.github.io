@@ -1,6 +1,1764 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 15 16:21:39 +0000 2019",
+		"id": 1106591296687243300,
+		"id_str": "1106591296687243264",
+		"full_text": "“I underestimated two things when I was predicting the future: \n\n1. The social changes that would happen in the next decade.\n2. We thought big companies would change higher ed along the same lines as we had in 2007.”\n\nVia @mwesch",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mwesch",
+					"name": "Mike Wesch",
+					"id": 4906851,
+					"id_str": "4906851",
+					"indices": [
+						222,
+						229
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6352,
+			"friends_count": 919,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3babd6418118e18e",
+			"url": "https://api.twitter.com/1.1/geo/id/3babd6418118e18e.json",
+			"place_type": "neighborhood",
+			"name": "Central Business District",
+			"full_name": "Central Business District, Denver",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.000393,
+							39.7401102
+						],
+						[
+							-104.987384,
+							39.7401102
+						],
+						[
+							-104.987384,
+							39.752293
+						],
+						[
+							-105.000393,
+							39.752293
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“I underestimated two things when I was predicting the future: \n\n1. The social changes that would happen in the next decade.\n2. We thought big companies would change higher ed along the same lines as we had in 2007.”\n\nVia @mwesch"
+	},
+	{
+		"created_at": "Fri Mar 15 16:13:57 +0000 2019",
+		"id": 1106589360470650900,
+		"id_str": "1106589360470650880",
+		"full_text": "Michael Wesch keynote at #rethinq101 https://t.co/IJTl8Y5C0X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rethinq101",
+					"indices": [
+						25,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IJTl8Y5C0X",
+					"expanded_url": "https://www.pscp.tv/w/b1vGxTg2MjA1Njh8MXlwS2RPZFZYbEx4V0bHI6440HF6vDQaaC_0CciI-CATBav70FSJhmZFql7l",
+					"display_url": "pscp.tv/w/b1vGxTg2MjA1…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6352,
+			"friends_count": 919,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Michael Wesch keynote at #rethinq101 https://t.co/IJTl8Y5C0X"
+	},
+	{
+		"created_at": "Fri Mar 15 16:07:29 +0000 2019",
+		"id": 1106587731621089300,
+		"id_str": "1106587731621089280",
+		"full_text": "@lsummers @mwesch @thinqstudio So glad to see you here! Would love to catch up.",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lsummers",
+					"name": "Laura Lee Summers",
+					"id": 13068112,
+					"id_str": "13068112",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "mwesch",
+					"name": "Mike Wesch",
+					"id": 4906851,
+					"id_str": "4906851",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "thinqstudio",
+					"name": "thinqstudio",
+					"id": 852252367848427500,
+					"id_str": "852252367848427520",
+					"indices": [
+						18,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1106587278476873700,
+		"in_reply_to_status_id_str": "1106587278476873728",
+		"in_reply_to_user_id": 13068112,
+		"in_reply_to_user_id_str": "13068112",
+		"in_reply_to_screen_name": "lsummers",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6352,
+			"friends_count": 919,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3babd6418118e18e",
+			"url": "https://api.twitter.com/1.1/geo/id/3babd6418118e18e.json",
+			"place_type": "neighborhood",
+			"name": "Central Business District",
+			"full_name": "Central Business District, Denver",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.000393,
+							39.7401102
+						],
+						[
+							-104.987384,
+							39.7401102
+						],
+						[
+							-104.987384,
+							39.752293
+						],
+						[
+							-105.000393,
+							39.752293
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lsummers @mwesch @thinqstudio So glad to see you here! Would love to catch up."
+	},
+	{
+		"created_at": "Fri Mar 15 16:05:43 +0000 2019",
+		"id": 1106587288086044700,
+		"id_str": "1106587288086044672",
+		"full_text": "I love that @mwesch is asking one of my favorite all time questions. “How do you learn best?” #rethinq101",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rethinq101",
+					"indices": [
+						94,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mwesch",
+					"name": "Mike Wesch",
+					"id": 4906851,
+					"id_str": "4906851",
+					"indices": [
+						12,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6352,
+			"friends_count": 919,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3babd6418118e18e",
+			"url": "https://api.twitter.com/1.1/geo/id/3babd6418118e18e.json",
+			"place_type": "neighborhood",
+			"name": "Central Business District",
+			"full_name": "Central Business District, Denver",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.000393,
+							39.7401102
+						],
+						[
+							-104.987384,
+							39.7401102
+						],
+						[
+							-104.987384,
+							39.752293
+						],
+						[
+							-105.000393,
+							39.752293
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I love that @mwesch is asking one of my favorite all time questions. “How do you learn best?” #rethinq101"
+	},
+	{
+		"created_at": "Fri Mar 15 16:05:17 +0000 2019",
+		"id": 1106587176928575500,
+		"id_str": "1106587176928575488",
+		"full_text": "@pedagome In the House!!! #rethinq101 https://t.co/4HDRolIvQX",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rethinq101",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pedagome",
+					"name": "pedago.me",
+					"id": 707149866095345700,
+					"id_str": "707149866095345664",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4HDRolIvQX",
+					"expanded_url": "https://twitter.com/pedagome/status/1106586989732728832",
+					"display_url": "twitter.com/pedagome/statu…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1106586989732728800,
+		"in_reply_to_status_id_str": "1106586989732728832",
+		"in_reply_to_user_id": 707149866095345700,
+		"in_reply_to_user_id_str": "707149866095345664",
+		"in_reply_to_screen_name": "pedagome",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6352,
+			"friends_count": 919,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3babd6418118e18e",
+			"url": "https://api.twitter.com/1.1/geo/id/3babd6418118e18e.json",
+			"place_type": "neighborhood",
+			"name": "Central Business District",
+			"full_name": "Central Business District, Denver",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.000393,
+							39.7401102
+						],
+						[
+							-104.987384,
+							39.7401102
+						],
+						[
+							-104.987384,
+							39.752293
+						],
+						[
+							-105.000393,
+							39.752293
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106586989732728800,
+		"quoted_status_id_str": "1106586989732728832",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4HDRolIvQX",
+			"expanded": "https://twitter.com/pedagome/status/1106586989732728832",
+			"display": "twitter.com/pedagome/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 15 16:04:32 +0000 2019",
+			"id": 1106586989732728800,
+			"id_str": "1106586989732728832",
+			"full_text": "#rethinq101 @thinqstudio #pedagome https://t.co/UljOBPszdQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rethinq101",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "pedagome",
+						"indices": [
+							25,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thinqstudio",
+						"name": "thinqstudio",
+						"id": 852252367848427500,
+						"id_str": "852252367848427520",
+						"indices": [
+							12,
+							24
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1106586953460400100,
+						"id_str": "1106586953460400128",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/D1ti-KIWwAAvOsO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1ti-KIWwAAvOsO.jpg",
+						"url": "https://t.co/UljOBPszdQ",
+						"display_url": "pic.twitter.com/UljOBPszdQ",
+						"expanded_url": "https://twitter.com/pedagome/status/1106586989732728832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1106586953460400100,
+						"id_str": "1106586953460400128",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/D1ti-KIWwAAvOsO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1ti-KIWwAAvOsO.jpg",
+						"url": "https://t.co/UljOBPszdQ",
+						"display_url": "pic.twitter.com/UljOBPszdQ",
+						"expanded_url": "https://twitter.com/pedagome/status/1106586989732728832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 707149866095345700,
+				"id_str": "707149866095345664",
+				"name": "pedago.me",
+				"screen_name": "pedagome",
+				"location": "",
+				"description": "instructional design thinking about learning experience design \n#lxDesign #designthinking #ID #instructionaldesign #pedagome",
+				"url": "https://t.co/fNoTNil80I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fNoTNil80I",
+								"expanded_url": "http://pedago.me",
+								"display_url": "pedago.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 833,
+				"friends_count": 648,
+				"listed_count": 70,
+				"created_at": "Tue Mar 08 10:24:01 +0000 2016",
+				"favourites_count": 2170,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1383,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/817538228790038528/lNZpuyoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/817538228790038528/lNZpuyoH_normal.jpg",
+				"profile_link_color": "222222",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@pedagome In the House!!! #rethinq101 https://t.co/4HDRolIvQX"
+	},
+	{
+		"created_at": "Fri Mar 15 16:04:41 +0000 2019",
+		"id": 1106587028160831500,
+		"id_str": "1106587028160831489",
+		"full_text": "Hint: No. \n\nBut, let’s learn from what is working/valuable and figure out how to iterate into the future and learn from the past rather than believing all old ways are bad. #rethinq101 https://t.co/LrpJ42Yd8U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rethinq101",
+					"indices": [
+						173,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LrpJ42Yd8U",
+					"expanded_url": "https://twitter.com/BradonLewis/status/1106586080839524352",
+					"display_url": "twitter.com/BradonLewis/st…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6352,
+			"friends_count": 919,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3babd6418118e18e",
+			"url": "https://api.twitter.com/1.1/geo/id/3babd6418118e18e.json",
+			"place_type": "neighborhood",
+			"name": "Central Business District",
+			"full_name": "Central Business District, Denver",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.000393,
+							39.7401102
+						],
+						[
+							-104.987384,
+							39.7401102
+						],
+						[
+							-104.987384,
+							39.752293
+						],
+						[
+							-105.000393,
+							39.752293
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106586080839524400,
+		"quoted_status_id_str": "1106586080839524352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LrpJ42Yd8U",
+			"expanded": "https://twitter.com/BradonLewis/status/1106586080839524352",
+			"display": "twitter.com/BradonLewis/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 15 16:00:55 +0000 2019",
+			"id": 1106586080839524400,
+			"id_str": "1106586080839524352",
+			"full_text": "Is the current format of #highereducation sustainable? #rethinq101",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "highereducation",
+						"indices": [
+							25,
+							41
+						]
+					},
+					{
+						"text": "rethinq101",
+						"indices": [
+							55,
+							66
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2527728241,
+				"id_str": "2527728241",
+				"name": "Bradon Lewis",
+				"screen_name": "BradonLewis",
+				"location": "Denver, Co",
+				"description": "Education Media Tech Kung Fu Master. Academic Technologist. Space Nerd. Daily Dreamer. Photographer. Creative thinker.\n\nAll thoughts are mine.",
+				"url": "https://t.co/yQKUruDwjm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yQKUruDwjm",
+								"expanded_url": "http://www.bradonlewis.com",
+								"display_url": "bradonlewis.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61,
+				"friends_count": 144,
+				"listed_count": 0,
+				"created_at": "Tue May 27 15:35:26 +0000 2014",
+				"favourites_count": 56,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 430,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/471315704352743425/2uNDvzuJ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/471315704352743425/2uNDvzuJ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2527728241/1518552266",
+				"profile_link_color": "0F0AAB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "b49b3053b5c25bf5",
+				"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+				"place_type": "city",
+				"name": "Denver",
+				"full_name": "Denver, CO",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-105.109815,
+								39.614151
+							],
+							[
+								-104.734372,
+								39.614151
+							],
+							[
+								-104.734372,
+								39.812975
+							],
+							[
+								-105.109815,
+								39.812975
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hint: No. \n\nBut, let’s learn from what is working/valuable and figure out how to iterate into the future and learn from the past rather than believing all old ways are bad. #rethinq101 https://t.co/LrpJ42Yd8U"
+	},
+	{
+		"created_at": "Fri Mar 15 15:58:43 +0000 2019",
+		"id": 1106585524976803800,
+		"id_str": "1106585524976803840",
+		"full_text": "“A lot of my best teaching and learning moments have roots in despair.” via @mwesch #rethinq101",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rethinq101",
+					"indices": [
+						84,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mwesch",
+					"name": "Mike Wesch",
+					"id": 4906851,
+					"id_str": "4906851",
+					"indices": [
+						76,
+						83
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6352,
+			"friends_count": 919,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3babd6418118e18e",
+			"url": "https://api.twitter.com/1.1/geo/id/3babd6418118e18e.json",
+			"place_type": "neighborhood",
+			"name": "Central Business District",
+			"full_name": "Central Business District, Denver",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.000393,
+							39.7401102
+						],
+						[
+							-104.987384,
+							39.7401102
+						],
+						[
+							-104.987384,
+							39.752293
+						],
+						[
+							-105.000393,
+							39.752293
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“A lot of my best teaching and learning moments have roots in despair.” via @mwesch #rethinq101"
+	},
+	{
+		"created_at": "Fri Mar 15 15:51:57 +0000 2019",
+		"id": 1106583821900640300,
+		"id_str": "1106583821900640256",
+		"full_text": "Or, @mwesch https://t.co/2c9ET0lVDx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mwesch",
+					"name": "Mike Wesch",
+					"id": 4906851,
+					"id_str": "4906851",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2c9ET0lVDx",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1106582908888768512",
+					"display_url": "twitter.com/bhwilkoff/stat…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1106582908888768500,
+		"in_reply_to_status_id_str": "1106582908888768512",
+		"in_reply_to_user_id": 1710871,
+		"in_reply_to_user_id_str": "1710871",
+		"in_reply_to_screen_name": "bhwilkoff",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6352,
+			"friends_count": 919,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3babd6418118e18e",
+			"url": "https://api.twitter.com/1.1/geo/id/3babd6418118e18e.json",
+			"place_type": "neighborhood",
+			"name": "Central Business District",
+			"full_name": "Central Business District, Denver",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.000393,
+							39.7401102
+						],
+						[
+							-104.987384,
+							39.7401102
+						],
+						[
+							-104.987384,
+							39.752293
+						],
+						[
+							-105.000393,
+							39.752293
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106582908888768500,
+		"quoted_status_id_str": "1106582908888768512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2c9ET0lVDx",
+			"expanded": "https://twitter.com/bhwilkoff/status/1106582908888768512",
+			"display": "twitter.com/bhwilkoff/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 15 15:48:19 +0000 2019",
+			"id": 1106582908888768500,
+			"id_str": "1106582908888768512",
+			"full_text": "Almost ready to start the #rethinq101 unconference with amazing peeps. Listening to @mweschs and learning with @kmriebau @dbvansicklen @matthewwoolums @emdisi1 @thelearnersway @remikalir @THiNGkeriNG @taykendesign @Bud_T and many others! Hooray for open learning. Cc @thinqstudio",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rethinq101",
+						"indices": [
+							26,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kmriebau",
+						"name": "~Kevin M. Riebau~",
+						"id": 384842320,
+						"id_str": "384842320",
+						"indices": [
+							111,
+							120
+						]
+					},
+					{
+						"screen_name": "dbvansicklen",
+						"name": "David Van Sicklen",
+						"id": 887023510740226000,
+						"id_str": "887023510740226048",
+						"indices": [
+							121,
+							134
+						]
+					},
+					{
+						"screen_name": "matthewwoolums",
+						"name": "Matthew Woolums",
+						"id": 14056510,
+						"id_str": "14056510",
+						"indices": [
+							135,
+							150
+						]
+					},
+					{
+						"screen_name": "emdisi1",
+						"name": "Erin Magley",
+						"id": 2683447614,
+						"id_str": "2683447614",
+						"indices": [
+							151,
+							159
+						]
+					},
+					{
+						"screen_name": "thelearnersway",
+						"name": "Susannah Simmons",
+						"id": 3232891267,
+						"id_str": "3232891267",
+						"indices": [
+							160,
+							175
+						]
+					},
+					{
+						"screen_name": "remikalir",
+						"name": "Remi Kalir",
+						"id": 2557762548,
+						"id_str": "2557762548",
+						"indices": [
+							176,
+							186
+						]
+					},
+					{
+						"screen_name": "THiNGkeriNG",
+						"name": "Brad Hinson",
+						"id": 809534973510381600,
+						"id_str": "809534973510381568",
+						"indices": [
+							187,
+							199
+						]
+					},
+					{
+						"screen_name": "taykendesign",
+						"name": "𝕋𝕒𝕪𝕝𝕠𝕣 𝕂𝕖𝕟𝕕𝕒𝕝",
+						"id": 716093571900649500,
+						"id_str": "716093571900649473",
+						"indices": [
+							200,
+							213
+						]
+					},
+					{
+						"screen_name": "Bud_T",
+						"name": "Bud Talbot",
+						"id": 17053603,
+						"id_str": "17053603",
+						"indices": [
+							214,
+							220
+						]
+					},
+					{
+						"screen_name": "thinqstudio",
+						"name": "thinqstudio",
+						"id": 852252367848427500,
+						"id_str": "852252367848427520",
+						"indices": [
+							267,
+							279
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1710871,
+				"id_str": "1710871",
+				"name": "Ben Wilkoff",
+				"screen_name": "bhwilkoff",
+				"location": "Littleton, Co",
+				"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+				"url": "http://t.co/NW4gT6QJUF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NW4gT6QJUF",
+								"expanded_url": "http://learningischange.com",
+								"display_url": "learningischange.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6352,
+				"friends_count": 919,
+				"listed_count": 378,
+				"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+				"favourites_count": 882,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18012,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3babd6418118e18e",
+				"url": "https://api.twitter.com/1.1/geo/id/3babd6418118e18e.json",
+				"place_type": "neighborhood",
+				"name": "Central Business District",
+				"full_name": "Central Business District, Denver",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-105.000393,
+								39.7401102
+							],
+							[
+								-104.987384,
+								39.7401102
+							],
+							[
+								-104.987384,
+								39.752293
+							],
+							[
+								-105.000393,
+								39.752293
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Or, @mwesch https://t.co/2c9ET0lVDx"
+	},
+	{
 		"created_at": "Fri Mar 15 03:24:57 +0000 2019",
 		"id": 1106395835292504000,
 		"id_str": "1106395835292504064",

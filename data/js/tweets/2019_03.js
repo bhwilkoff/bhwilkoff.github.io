@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 18:30:36 +0000 2019",
+		"id": 1110972402844852200,
+		"id_str": "1110972402844852224",
+		"full_text": "“What is innovation, anyway?” Does it matter? Asking the question and authentically pursuing an answer is enough.\n\nNo Textbooks, No Lectures, and No Right Answers. Is This What Higher Education Needs? https://t.co/7Ep2ARpDvO https://t.co/MEikat30IH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Ep2ARpDvO",
+					"expanded_url": "https://www.chronicle.com/article/No-Textbooks-No-Lectures-and/245640/",
+					"display_url": "chronicle.com/article/No-Tex…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1110972400248803300,
+					"id_str": "1110972400248803334",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/D2r3gwgX0AYiwyr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2r3gwgX0AYiwyr.jpg",
+					"url": "https://t.co/MEikat30IH",
+					"display_url": "pic.twitter.com/MEikat30IH",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1110972402844852224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110972400248803300,
+					"id_str": "1110972400248803334",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/D2r3gwgX0AYiwyr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2r3gwgX0AYiwyr.jpg",
+					"url": "https://t.co/MEikat30IH",
+					"display_url": "pic.twitter.com/MEikat30IH",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1110972402844852224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6376,
+			"friends_count": 1021,
+			"listed_count": 377,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18046,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“What is innovation, anyway?” Does it matter? Asking the question and authentically pursuing an answer is enough.\n\nNo Textbooks, No Lectures, and No Right Answers. Is This What Higher Education Needs? https://t.co/7Ep2ARpDvO https://t.co/MEikat30IH"
+	},
+	{
 		"created_at": "Wed Mar 27 18:15:24 +0000 2019",
 		"id": 1110968580084908000,
 		"id_str": "1110968580084908034",

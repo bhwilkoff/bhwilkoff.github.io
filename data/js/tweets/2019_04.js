@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 18:03:12 +0000 2019",
+		"id": 1120749981441253400,
+		"id_str": "1120749981441253376",
+		"full_text": "This metaphor of a “trust bank” really works for me in the way I understand the current state of social media: \n\nThe future of news is conversation in small groups with trusted voices – TechCrunch https://t.co/r5SQeZxyUL https://t.co/Fybm42lzwL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r5SQeZxyUL",
+					"expanded_url": "http://social.techcrunch.com/2019/04/07/stuck-at-the-sushi-boat-bar-of-news/",
+					"display_url": "social.techcrunch.com/2019/04/07/stu…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1120749978828193800,
+					"id_str": "1120749978828193792",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/D420KvIUwAAs5iv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D420KvIUwAAs5iv.jpg",
+					"url": "https://t.co/Fybm42lzwL",
+					"display_url": "pic.twitter.com/Fybm42lzwL",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1120749981441253376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120749978828193800,
+					"id_str": "1120749978828193792",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/D420KvIUwAAs5iv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D420KvIUwAAs5iv.jpg",
+					"url": "https://t.co/Fybm42lzwL",
+					"display_url": "pic.twitter.com/Fybm42lzwL",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1120749981441253376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6398,
+			"friends_count": 1147,
+			"listed_count": 377,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18060,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This metaphor of a “trust bank” really works for me in the way I understand the current state of social media: \n\nThe future of news is conversation in small groups with trusted voices – TechCrunch https://t.co/r5SQeZxyUL https://t.co/Fybm42lzwL"
+	},
+	{
 		"created_at": "Thu Apr 18 18:18:05 +0000 2019",
 		"id": 1118941785051541500,
 		"id_str": "1118941785051541509",

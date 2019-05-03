@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 03:16:32 +0000 2019",
+		"id": 1123948918331596800,
+		"id_str": "1124150720578539521",
+		"full_text": "What happens when \"Networks\" collide?\n\n@pedagome and #DigPINS join forces to find out! \n\nMay 6th - 31st \n\nPedagogy - @ladawna_leigh\n&amp; Sophia Strickfaden\nIdentity - @sundilu &amp; @unevoie\nNetworks - me &amp; @jmenglund03\nScholarship - @willingworthy &amp; @thelearnersway https://t.co/XtJFXwdbxO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigPINS",
+					"indices": [
+						53,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pedagome",
+					"name": "pedago.me",
+					"id": 707149866095345700,
+					"id_str": "707149866095345664",
+					"indices": [
+						39,
+						48
+					]
+				},
+				{
+					"screen_name": "ladawna_leigh",
+					"name": "✨",
+					"id": 2743635702,
+					"id_str": "2743635702",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"screen_name": "sundilu",
+					"name": "Sundi Richard",
+					"id": 16592181,
+					"id_str": "16592181",
+					"indices": [
+						168,
+						176
+					]
+				},
+				{
+					"screen_name": "unevoie",
+					"name": "Lainie",
+					"id": 145741561,
+					"id_str": "145741561",
+					"indices": [
+						183,
+						191
+					]
+				},
+				{
+					"screen_name": "jmenglund03",
+					"name": "jennιғer englυnd",
+					"id": 64769037,
+					"id_str": "64769037",
+					"indices": [
+						212,
+						224
+					]
+				},
+				{
+					"screen_name": "willingworthy",
+					"name": "William Illingworth",
+					"id": 3196549529,
+					"id_str": "3196549529",
+					"indices": [
+						239,
+						253
+					]
+				},
+				{
+					"screen_name": "thelearnersway",
+					"name": "Susannah Simmons",
+					"id": 3232891267,
+					"id_str": "3232891267",
+					"indices": [
+						260,
+						275
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123941979203698700,
+					"id_str": "1123941979203698689",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kLRnKWAAEtjUb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5kLRnKWAAEtjUb.jpg",
+					"url": "https://t.co/XtJFXwdbxO",
+					"display_url": "pic.twitter.com/XtJFXwdbxO",
+					"expanded_url": "https://twitter.com/Autumm/status/1123948918331596803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123941979203698700,
+					"id_str": "1123941979203698689",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kLRnKWAAEtjUb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5kLRnKWAAEtjUb.jpg",
+					"url": "https://t.co/XtJFXwdbxO",
+					"display_url": "pic.twitter.com/XtJFXwdbxO",
+					"expanded_url": "https://twitter.com/Autumm/status/1123948918331596803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6292182,
+			"id_str": "6292182",
+			"name": "Autumm Caines is a Liminal Space",
+			"screen_name": "Autumm",
+			"location": "Detroit, MI",
+			"description": "Critical Instructional Designer at U of M - Dearborn. Tweets are mine. I like the number 3. My fortune cookies are often empty. Yep, 2 m's #DigCiz #HigherEd",
+			"url": "https://t.co/1nGErgRVdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1nGErgRVdE",
+							"expanded_url": "http://autumm.org",
+							"display_url": "autumm.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2798,
+			"friends_count": 1713,
+			"listed_count": 176,
+			"created_at": "Thu May 24 17:35:54 +0000 2007",
+			"favourites_count": 24065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19790,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "460D14",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091901479789711360/GO4hQr-7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091901479789711360/GO4hQr-7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6292182/1553975455",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "4A131B",
+			"profile_sidebar_fill_color": "4A131B",
+			"profile_text_color": "B36E32",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What happens when \"Networks\" collide?\n\n@pedagome and #DigPINS join forces to find out! \n\nMay 6th - 31st \n\nPedagogy - @ladawna_leigh\n&amp; Sophia Strickfaden\nIdentity - @sundilu &amp; @unevoie\nNetworks - me &amp; @jmenglund03\nScholarship - @willingworthy &amp; @thelearnersway https://t.co/XtJFXwdbxO"
+	},
+	{
 		"created_at": "Thu May 02 15:40:01 +0000 2019",
 		"id": 1123975437233860600,
 		"id_str": "1123975437233860608",

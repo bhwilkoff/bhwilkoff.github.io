@@ -1,6 +1,171 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 17:19:28 +0000 2019",
+		"id": 1124722128329351200,
+		"id_str": "1124725240850829312",
+		"full_text": "@misterwashburn @irvspanish @mraspinall @mr_isaacs @JenWilliamsEdu @MaireCervenak @RandallSampson It's like buying wands and expecting teachers to automatically be wizards. \"We bought you wands, why aren't you making magic?\"\n\nYou gotta send them to Hogwarts!",
+		"truncated": false,
+		"display_text_range": [
+			98,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "misterwashburn",
+					"name": "Mike Washburn",
+					"id": 852782900,
+					"id_str": "852782900",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "irvspanish",
+					"name": "Glen Irvin Flores 🇲🇽",
+					"id": 472044692,
+					"id_str": "472044692",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "mraspinall",
+					"name": "Brian Aspinall",
+					"id": 42602780,
+					"id_str": "42602780",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "mr_isaacs",
+					"name": "Steven Isaacs",
+					"id": 216900952,
+					"id_str": "216900952",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "JenWilliamsEdu",
+					"name": "Dr. Jennifer Williams",
+					"id": 495519949,
+					"id_str": "495519949",
+					"indices": [
+						51,
+						66
+					]
+				},
+				{
+					"screen_name": "MaireCervenak",
+					"name": "Maire Cervenak",
+					"id": 975677880331104300,
+					"id_str": "975677880331104256",
+					"indices": [
+						67,
+						81
+					]
+				},
+				{
+					"screen_name": "RandallSampson",
+					"name": "Dr. Randall Sampson",
+					"id": 202752607,
+					"id_str": "202752607",
+					"indices": [
+						82,
+						97
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1124681490451685400,
+		"in_reply_to_status_id_str": "1124681490451685376",
+		"in_reply_to_user_id": 852782900,
+		"in_reply_to_user_id_str": "852782900",
+		"in_reply_to_screen_name": "misterwashburn",
+		"user": {
+			"id": 21132309,
+			"id_str": "21132309",
+			"name": "Noah Geisel",
+			"screen_name": "SenorG",
+			"location": "Denver",
+			"description": "2013 ACTFL National Language TOY. World Lang + Badges + EdTech PD + Keynotes. #Badgechat co-founder. Education Dir @StackupScore. Take risks/Dream Big!",
+			"url": "https://t.co/DAux9HV8t1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DAux9HV8t1",
+							"expanded_url": "https://medium.com/@senorg/",
+							"display_url": "medium.com/@senorg/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10764,
+			"friends_count": 8645,
+			"listed_count": 743,
+			"created_at": "Tue Feb 17 21:24:46 +0000 2009",
+			"favourites_count": 10788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40816,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088074269005934592/R3vjcifo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088074269005934592/R3vjcifo_normal.jpg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3A075F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@misterwashburn @irvspanish @mraspinall @mr_isaacs @JenWilliamsEdu @MaireCervenak @RandallSampson It's like buying wands and expecting teachers to automatically be wizards. \"We bought you wands, why aren't you making magic?\"\n\nYou gotta send them to Hogwarts!"
+	},
+	{
 		"created_at": "Fri May 03 12:59:45 +0000 2019",
 		"id": 1124295065982074900,
 		"id_str": "1124297492823035904",

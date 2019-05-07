@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 14:16:22 +0000 2019",
+		"id": 1125617958733004800,
+		"id_str": "1125766325400301568",
+		"full_text": "@bhwilkoff @jennyfilipetti @bwholmquist @stanley_gould @jonzornow @sophiamstrickfa @annobermann @dukecrawford 'Twas a wonderful evening filled with NEW relationships, REAL conversation (...and of course delectable donuts). That's the goal, and I thank you all for making it possible. 🙏\n\nNext installment coming soon to a lovely Denver eatery near you!",
+		"truncated": false,
+		"display_text_range": [
+			110,
+			351
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "jennyfilipetti",
+					"name": "jenny filipetti",
+					"id": 1035550592,
+					"id_str": "1035550592",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "bwholmquist",
+					"name": "Ben Holmquist",
+					"id": 725425226,
+					"id_str": "725425226",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "stanley_gould",
+					"name": "Stanley Gould",
+					"id": 3222738656,
+					"id_str": "3222738656",
+					"indices": [
+						40,
+						54
+					]
+				},
+				{
+					"screen_name": "jonzornow",
+					"name": "Jon Zornow 🚀",
+					"id": 111508605,
+					"id_str": "111508605",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"screen_name": "sophiamstrickfa",
+					"name": "Sophia Strickfaden",
+					"id": 3824765727,
+					"id_str": "3824765727",
+					"indices": [
+						66,
+						82
+					]
+				},
+				{
+					"screen_name": "annobermann",
+					"name": "Ann Obermann",
+					"id": 3012716340,
+					"id_str": "3012716340",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"screen_name": "dukecrawford",
+					"name": "Duke Crawford",
+					"id": 17845080,
+					"id_str": "17845080",
+					"indices": [
+						96,
+						109
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1125504745311838200,
+		"in_reply_to_status_id_str": "1125504745311838208",
+		"in_reply_to_user_id": 1710871,
+		"in_reply_to_user_id_str": "1710871",
+		"in_reply_to_screen_name": "bhwilkoff",
+		"user": {
+			"id": 716093571900649500,
+			"id_str": "716093571900649473",
+			"name": "𝕋𝕒𝕪𝕝𝕠𝕣 𝕂𝕖𝕟𝕕𝕒𝕝",
+			"screen_name": "taykendesign",
+			"location": "Denver, CO",
+			"description": "Education | Vision | Culture | Travel | Improv | Writing | Future #BUIDLing ✍️🔗🧠🔗🏛🔗👨‍🎓🔗👨‍💻🔗🍄🔗⛺️🔗🌎🔗✈️🔗⛵️ https://t.co/jQLp8u2jH4",
+			"url": "https://t.co/hWS474pKn4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hWS474pKn4",
+							"expanded_url": "http://taykendesign.com",
+							"display_url": "taykendesign.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jQLp8u2jH4",
+							"expanded_url": "https://about.me/tayken",
+							"display_url": "about.me/tayken",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 847,
+			"friends_count": 833,
+			"listed_count": 76,
+			"created_at": "Sat Apr 02 02:43:06 +0000 2016",
+			"favourites_count": 3538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5442,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031378171818467329/5bkNhj3U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031378171818467329/5bkNhj3U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/716093571900649473/1548972001",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@bhwilkoff @jennyfilipetti @bwholmquist @stanley_gould @jonzornow @sophiamstrickfa @annobermann @dukecrawford 'Twas a wonderful evening filled with NEW relationships, REAL conversation (...and of course delectable donuts). That's the goal, and I thank you all for making it possible. 🙏\n\nNext installment coming soon to a lovely Denver eatery near you!"
+	},
+	{
 		"created_at": "Mon May 06 20:56:56 +0000 2019",
 		"id": 1125504745311838200,
 		"id_str": "1125504745311838208",

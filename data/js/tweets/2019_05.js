@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 20:13:53 +0000 2019",
+		"id": 1126943460668215300,
+		"id_str": "1126943460668215296",
+		"full_text": "How do you participate in an online course about your digital identity in a week where you receive this text from your daughter as she experienced #stemshooting? You chronicle your digital identity for only this one week of your life, instead: https://t.co/S44BNSEpj6 #digPINS https://t.co/MmEMVotsIZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "stemshooting",
+					"indices": [
+						147,
+						160
+					]
+				},
+				{
+					"text": "digPINS",
+					"indices": [
+						268,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S44BNSEpj6",
+					"expanded_url": "https://learningischange.com/2019/05/10/my-digital-identity-during-the-week-of-the-stemshooting/",
+					"display_url": "learningischange.com/2019/05/10/my-…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1126943454590726100,
+					"id_str": "1126943454590726144",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/D6O1GeTU8AAchHn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6O1GeTU8AAchHn.jpg",
+					"url": "https://t.co/MmEMVotsIZ",
+					"display_url": "pic.twitter.com/MmEMVotsIZ",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1126943460668215296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126943454590726100,
+					"id_str": "1126943454590726144",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/D6O1GeTU8AAchHn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6O1GeTU8AAchHn.jpg",
+					"url": "https://t.co/MmEMVotsIZ",
+					"display_url": "pic.twitter.com/MmEMVotsIZ",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1126943460668215296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/mac\" rel=\"nofollow\">Twitterrific for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6408,
+			"friends_count": 1251,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How do you participate in an online course about your digital identity in a week where you receive this text from your daughter as she experienced #stemshooting? You chronicle your digital identity for only this one week of your life, instead: https://t.co/S44BNSEpj6 #digPINS https://t.co/MmEMVotsIZ"
+	},
+	{
 		"created_at": "Wed May 08 22:56:59 +0000 2019",
 		"id": 1126259731687821300,
 		"id_str": "1126259731687821313",

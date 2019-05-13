@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 13 18:24:00 +0000 2019",
+		"id": 1128002971071942700,
+		"id_str": "1128002971071942656",
+		"full_text": "I'm excited for this learning opportunity to help reclaim the term \"Personalized Learning\" so that it is owned by learners and not software. I'll be taking part. Will you? https://t.co/sTDdMNw7OA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sTDdMNw7OA",
+					"expanded_url": "https://twitter.com/GoogleForEdu/status/1125867906267537413",
+					"display_url": "twitter.com/GoogleForEdu/s…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6415,
+			"friends_count": 1290,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18100,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1125867906267537400,
+		"quoted_status_id_str": "1125867906267537413",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sTDdMNw7OA",
+			"expanded": "https://twitter.com/GoogleForEdu/status/1125867906267537413",
+			"display": "twitter.com/GoogleForEdu/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 07 21:00:01 +0000 2019",
+			"id": 1125867906267537400,
+			"id_str": "1125867906267537413",
+			"full_text": "Our next #GoogleEduChat is happening on May 14th. We’ll be discussing personalized learning and measuring impact. This chat is perfect for educators interested in adapting their skills for each unique learner and meeting them where they are. #leadered #edchat https://t.co/IapWStGFif",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleEduChat",
+						"indices": [
+							9,
+							23
+						]
+					},
+					{
+						"text": "leadered",
+						"indices": [
+							242,
+							251
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							252,
+							259
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1125867904363302900,
+						"id_str": "1125867904363302914",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/D5_i5NeWkAIifM1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5_i5NeWkAIifM1.jpg",
+						"url": "https://t.co/IapWStGFif",
+						"display_url": "pic.twitter.com/IapWStGFif",
+						"expanded_url": "https://twitter.com/GoogleForEdu/status/1125867906267537413/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1125867904363302900,
+						"id_str": "1125867904363302914",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/D5_i5NeWkAIifM1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5_i5NeWkAIifM1.jpg",
+						"url": "https://t.co/IapWStGFif",
+						"display_url": "pic.twitter.com/IapWStGFif",
+						"expanded_url": "https://twitter.com/GoogleForEdu/status/1125867906267537413/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 254218142,
+				"id_str": "254218142",
+				"name": "Google For Education",
+				"screen_name": "GoogleForEdu",
+				"location": "USA",
+				"description": "Helping prepare students to create the future. The best of Google, for education. Follow for product announcements, updates & news #GoogleEdu",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 493818,
+				"friends_count": 667,
+				"listed_count": 5061,
+				"created_at": "Fri Feb 18 21:20:12 +0000 2011",
+				"favourites_count": 2363,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8886,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/961295529018761216/6w6owI4-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/961295529018761216/6w6owI4-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/254218142/1557158040",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "BBCCFF",
+				"profile_sidebar_fill_color": "EBEFF9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 94,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm excited for this learning opportunity to help reclaim the term \"Personalized Learning\" so that it is owned by learners and not software. I'll be taking part. Will you? https://t.co/sTDdMNw7OA"
+	},
+	{
 		"created_at": "Sat May 11 17:08:18 +0000 2019",
 		"id": 1127259144480628700,
 		"id_str": "1127259144480628737",

@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 18:01:38 +0000 2019",
+		"id": 1128359731947614200,
+		"id_str": "1128359731947614208",
+		"full_text": "I am super excited to be a part of this conversation. So much to learn from and with this community! #googleduchat https://t.co/AgZk26WadJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "googleduchat",
+					"indices": [
+						101,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AgZk26WadJ",
+					"expanded_url": "https://twitter.com/GoogleForEdu/status/1128359324345085952",
+					"display_url": "twitter.com/GoogleForEdu/s…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/mac\" rel=\"nofollow\">Twitterrific for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6417,
+			"friends_count": 1291,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18102,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128359324345086000,
+		"quoted_status_id_str": "1128359324345085952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AgZk26WadJ",
+			"expanded": "https://twitter.com/GoogleForEdu/status/1128359324345085952",
+			"display": "twitter.com/GoogleForEdu/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 14 18:00:01 +0000 2019",
+			"id": 1128359324345086000,
+			"id_str": "1128359324345085952",
+			"full_text": "A personalized learning and measurement impact Twitter chat? ✅✅ Join us today at 3PM PST/6PM EST with moderator @lesmcbeth from @fdesignschool, and @bhwilkoff. #GoogleEduChat #edchat https://t.co/1kcUGly0OH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleEduChat",
+						"indices": [
+							160,
+							174
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							175,
+							182
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lesmcbeth",
+						"name": "Leslie McBeth",
+						"id": 14408298,
+						"id_str": "14408298",
+						"indices": [
+							112,
+							122
+						]
+					},
+					{
+						"screen_name": "fdesignschool",
+						"name": "future design school",
+						"id": 1921662979,
+						"id_str": "1921662979",
+						"indices": [
+							128,
+							142
+						]
+					},
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							148,
+							158
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1128359322751205400,
+						"id_str": "1128359322751205376",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/D6i802OWAAA29MA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6i802OWAAA29MA.jpg",
+						"url": "https://t.co/1kcUGly0OH",
+						"display_url": "pic.twitter.com/1kcUGly0OH",
+						"expanded_url": "https://twitter.com/GoogleForEdu/status/1128359324345085952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128359322751205400,
+						"id_str": "1128359322751205376",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/D6i802OWAAA29MA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6i802OWAAA29MA.jpg",
+						"url": "https://t.co/1kcUGly0OH",
+						"display_url": "pic.twitter.com/1kcUGly0OH",
+						"expanded_url": "https://twitter.com/GoogleForEdu/status/1128359324345085952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 254218142,
+				"id_str": "254218142",
+				"name": "Google For Education",
+				"screen_name": "GoogleForEdu",
+				"location": "USA",
+				"description": "Helping prepare students to create the future. The best of Google, for education. Follow for product announcements, updates & news #GoogleEdu",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 493894,
+				"friends_count": 667,
+				"listed_count": 5061,
+				"created_at": "Fri Feb 18 21:20:12 +0000 2011",
+				"favourites_count": 2365,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8889,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/961295529018761216/6w6owI4-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/961295529018761216/6w6owI4-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/254218142/1557158040",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "BBCCFF",
+				"profile_sidebar_fill_color": "EBEFF9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am super excited to be a part of this conversation. So much to learn from and with this community! #googleduchat https://t.co/AgZk26WadJ"
+	},
+	{
 		"created_at": "Tue May 14 14:37:01 +0000 2019",
 		"id": 1128308235969151000,
 		"id_str": "1128308235969150978",

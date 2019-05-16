@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 18:37:15 +0000 2019",
+		"id": 1129093471019491300,
+		"id_str": "1129093471019491328",
+		"full_text": "@thelearnersway This network of early writers is really interesting for thinking how it impacts later life. I remember sharing my writing with a single other friend in middle school. We would often share writing multiple times a day and anticipate feedback. This pays dividends daily! #DigPINS",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			293
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigPINS",
+					"indices": [
+						285,
+						293
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thelearnersway",
+					"name": "Susannah Simmons",
+					"id": 3232891267,
+					"id_str": "3232891267",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1129068100953956400,
+		"in_reply_to_status_id_str": "1129068100953956352",
+		"in_reply_to_user_id": 3232891267,
+		"in_reply_to_user_id_str": "3232891267",
+		"in_reply_to_screen_name": "thelearnersway",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6431,
+			"friends_count": 1314,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18155,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thelearnersway This network of early writers is really interesting for thinking how it impacts later life. I remember sharing my writing with a single other friend in middle school. We would often share writing multiple times a day and anticipate feedback. This pays dividends daily! #DigPINS"
+	},
+	{
+		"created_at": "Thu May 16 18:24:26 +0000 2019",
+		"id": 1129090244052115500,
+		"id_str": "1129090244052115457",
+		"full_text": "A4: The only way you can get close to the people in your network is through participation within the network. That creates the empathy and deep connection. I know my network through the questions I ask, the responses I give, and how well I listen. #digPINS https://t.co/gIYqGlbcdh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digPINS",
+					"indices": [
+						248,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gIYqGlbcdh",
+					"expanded_url": "https://twitter.com/autumm/status/1129085101944344577",
+					"display_url": "twitter.com/autumm/status/…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6431,
+			"friends_count": 1314,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18155,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129085101944344600,
+		"quoted_status_id_str": "1129085101944344577",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gIYqGlbcdh",
+			"expanded": "https://twitter.com/autumm/status/1129085101944344577",
+			"display": "twitter.com/autumm/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 16 18:04:00 +0000 2019",
+			"id": 1129085101944344600,
+			"id_str": "1129085101944344577",
+			"full_text": "MOD. Q4 - In one of this week's #DigPINS articles, @Bali_Maha suggests the use of social media to increase empathy &amp; social justice by getting to know individuals &amp; their contexts. \n\nHow close are you to those in your networks? How well do you know them?\n\n#Pedagome https://t.co/tfe5D1PNMa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DigPINS",
+						"indices": [
+							32,
+							40
+						]
+					},
+					{
+						"text": "Pedagome",
+						"indices": [
+							264,
+							273
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Bali_Maha",
+						"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+						"id": 1535273520,
+						"id_str": "1535273520",
+						"indices": [
+							51,
+							61
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1128841332619923500,
+						"id_str": "1128841332619923460",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/D6pzNg6W0AQRMKu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6pzNg6W0AQRMKu.jpg",
+						"url": "https://t.co/tfe5D1PNMa",
+						"display_url": "pic.twitter.com/tfe5D1PNMa",
+						"expanded_url": "https://twitter.com/Autumm/status/1129085101944344577/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 964,
+								"h": 966,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 679,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 964,
+								"h": 966,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128841332619923500,
+						"id_str": "1128841332619923460",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/D6pzNg6W0AQRMKu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6pzNg6W0AQRMKu.jpg",
+						"url": "https://t.co/tfe5D1PNMa",
+						"display_url": "pic.twitter.com/tfe5D1PNMa",
+						"expanded_url": "https://twitter.com/Autumm/status/1129085101944344577/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 964,
+								"h": 966,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 679,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 964,
+								"h": 966,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6292182,
+				"id_str": "6292182",
+				"name": "Autumm Caines is a Liminal Space",
+				"screen_name": "Autumm",
+				"location": "Detroit, MI",
+				"description": "Critical Instructional Designer at U of M - Dearborn. Tweets are mine. I like the number 3. My fortune cookies are often empty. Yep, 2 m's #DigCiz #HigherEd",
+				"url": "https://t.co/1nGErgRVdE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1nGErgRVdE",
+								"expanded_url": "http://autumm.org",
+								"display_url": "autumm.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2823,
+				"friends_count": 1603,
+				"listed_count": 176,
+				"created_at": "Thu May 24 17:35:54 +0000 2007",
+				"favourites_count": 24275,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19920,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "460D14",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1091901479789711360/GO4hQr-7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091901479789711360/GO4hQr-7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6292182/1553975455",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "4A131B",
+				"profile_sidebar_fill_color": "4A131B",
+				"profile_text_color": "B36E32",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A4: The only way you can get close to the people in your network is through participation within the network. That creates the empathy and deep connection. I know my network through the questions I ask, the responses I give, and how well I listen. #digPINS https://t.co/gIYqGlbcdh"
+	},
+	{
 		"created_at": "Thu May 16 16:13:36 +0000 2019",
 		"id": 1129057318597828600,
 		"id_str": "1129057318597828608",
@@ -170,7 +604,7 @@ Grailbird.data.tweets_2019_05 =
 				"name": "𝕋𝕒𝕪𝕝𝕠𝕣 𝕂𝕖𝕟𝕕𝕒𝕝",
 				"screen_name": "taykendesign",
 				"location": "Denver, CO",
-				"description": "Education | Vision | Culture | Travel | Improv | Writing | Future #BUIDLing ✍️🔗🧠🔗🏛🔗👨‍🎓🔗👨‍💻🔗🍄🔗⛺️🔗🌎🔗✈️🔗⛵️ https://t.co/jQLp8u2jH4",
+				"description": "Education | Vision | Culture | Travel | Improv | Writing | Future #BUIDLing ✍️🔗🧠🔗🏛🔗👨🎓🔗👨💻🔗🍄🔗⛺️🔗🌎🔗✈️🔗⛵️ https://t.co/jQLp8u2jH4",
 				"url": "https://t.co/hWS474pKn4",
 				"entities": {
 					"url": {

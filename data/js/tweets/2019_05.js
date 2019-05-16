@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 20:47:28 +0000 2019",
+		"id": 1129126238801387500,
+		"id_str": "1129126238801387520",
+		"full_text": "@Autumm This is a great list. I followed a bunch of people from this #DigPINS cohort!",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigPINS",
+					"indices": [
+						69,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines is a Liminal Space",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1129125364054319100,
+		"in_reply_to_status_id_str": "1129125364054319104",
+		"in_reply_to_user_id": 6292182,
+		"in_reply_to_user_id_str": "6292182",
+		"in_reply_to_screen_name": "Autumm",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6431,
+			"friends_count": 1331,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18159,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Autumm This is a great list. I followed a bunch of people from this #DigPINS cohort!"
+	},
+	{
+		"created_at": "Thu May 16 20:40:09 +0000 2019",
+		"id": 1129124400337260500,
+		"id_str": "1129124400337260545",
+		"full_text": "@Autumm Got any good lists that you can share for our #DigPINS friends?",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigPINS",
+					"indices": [
+						54,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines is a Liminal Space",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1129121389804499000,
+		"in_reply_to_status_id_str": "1129121389804498944",
+		"in_reply_to_user_id": 6292182,
+		"in_reply_to_user_id_str": "6292182",
+		"in_reply_to_screen_name": "Autumm",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6431,
+			"friends_count": 1331,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18159,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Autumm Got any good lists that you can share for our #DigPINS friends?"
+	},
+	{
+		"created_at": "Thu May 16 20:29:59 +0000 2019",
+		"id": 1129043448861012000,
+		"id_str": "1129121840608055296",
+		"full_text": "Friends! Today is Global #A11y Awareness Day, which is a great opp to embrace #NetworkScience--the science of connections. Too few, and ideas can’t spread, but too many overlapping, and ideas die in groupthink. Build #A11y awareness (&amp; connections) by retweeting for #GAAD today. https://t.co/htKOYxrXX1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "A11y",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "NetworkScience",
+					"indices": [
+						78,
+						93
+					]
+				},
+				{
+					"text": "A11y",
+					"indices": [
+						217,
+						222
+					]
+				},
+				{
+					"text": "GAAD",
+					"indices": [
+						271,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129043338269737000,
+					"id_str": "1129043338269736961",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D6sq7ymWwAEkr6v.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6sq7ymWwAEkr6v.png",
+					"url": "https://t.co/htKOYxrXX1",
+					"display_url": "pic.twitter.com/htKOYxrXX1",
+					"expanded_url": "https://twitter.com/pedagome/status/1129043448861011971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 72,
+							"h": 74,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 72,
+							"h": 74,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 72,
+							"h": 74,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 72,
+							"h": 72,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129043338269737000,
+					"id_str": "1129043338269736961",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D6sq7ymWwAEkr6v.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6sq7ymWwAEkr6v.png",
+					"url": "https://t.co/htKOYxrXX1",
+					"display_url": "pic.twitter.com/htKOYxrXX1",
+					"expanded_url": "https://twitter.com/pedagome/status/1129043448861011971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 72,
+							"h": 74,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 72,
+							"h": 74,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 72,
+							"h": 74,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 72,
+							"h": 72,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 707149866095345700,
+			"id_str": "707149866095345664",
+			"name": "pedago.me",
+			"screen_name": "pedagome",
+			"location": "",
+			"description": "instructional design thinking about learning experience design \n#lxDesign #designthinking #ID #instructionaldesign #pedagome",
+			"url": "https://t.co/fNoTNil80I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fNoTNil80I",
+							"expanded_url": "http://pedago.me",
+							"display_url": "pedago.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 902,
+			"friends_count": 720,
+			"listed_count": 70,
+			"created_at": "Tue Mar 08 10:24:01 +0000 2016",
+			"favourites_count": 2263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817538228790038528/lNZpuyoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817538228790038528/lNZpuyoH_normal.jpg",
+			"profile_link_color": "222222",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Friends! Today is Global #A11y Awareness Day, which is a great opp to embrace #NetworkScience--the science of connections. Too few, and ideas can’t spread, but too many overlapping, and ideas die in groupthink. Build #A11y awareness (&amp; connections) by retweeting for #GAAD today. https://t.co/htKOYxrXX1"
+	},
+	{
 		"created_at": "Thu May 16 18:37:15 +0000 2019",
 		"id": 1129093471019491300,
 		"id_str": "1129093471019491328",

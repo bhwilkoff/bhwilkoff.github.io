@@ -1,6 +1,1540 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 16:13:36 +0000 2019",
+		"id": 1129057318597828600,
+		"id_str": "1129057318597828608",
+		"full_text": "What did you learn in the gardening coop that you could apply to your work in digital networks? #digPINS https://t.co/JAG6AbfMAt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digPINS",
+					"indices": [
+						96,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JAG6AbfMAt",
+					"expanded_url": "https://twitter.com/taykendesign/status/1129049258878021632",
+					"display_url": "twitter.com/taykendesign/s…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6432,
+			"friends_count": 1314,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129049258878021600,
+		"quoted_status_id_str": "1129049258878021632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JAG6AbfMAt",
+			"expanded": "https://twitter.com/taykendesign/status/1129049258878021632",
+			"display": "twitter.com/taykendesign/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 16 15:41:34 +0000 2019",
+			"id": 1129049258878021600,
+			"id_str": "1129049258878021632",
+			"full_text": "@jmenglund03 #DigPINS @pedagome A1: I want to say the human network, but practically speaking, I’ll say a gardening coop my parents pulled me into. The connections were...organic?",
+			"truncated": false,
+			"display_text_range": [
+				13,
+				179
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DigPINS",
+						"indices": [
+							13,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jmenglund03",
+						"name": "jennιғer englυnd",
+						"id": 64769037,
+						"id_str": "64769037",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "pedagome",
+						"name": "pedago.me",
+						"id": 707149866095345700,
+						"id_str": "707149866095345664",
+						"indices": [
+							22,
+							31
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1128997273688596500,
+			"in_reply_to_status_id_str": "1128997273688596480",
+			"in_reply_to_user_id": 64769037,
+			"in_reply_to_user_id_str": "64769037",
+			"in_reply_to_screen_name": "jmenglund03",
+			"user": {
+				"id": 716093571900649500,
+				"id_str": "716093571900649473",
+				"name": "𝕋𝕒𝕪𝕝𝕠𝕣 𝕂𝕖𝕟𝕕𝕒𝕝",
+				"screen_name": "taykendesign",
+				"location": "Denver, CO",
+				"description": "Education | Vision | Culture | Travel | Improv | Writing | Future #BUIDLing ✍️🔗🧠🔗🏛🔗👨‍🎓🔗👨‍💻🔗🍄🔗⛺️🔗🌎🔗✈️🔗⛵️ https://t.co/jQLp8u2jH4",
+				"url": "https://t.co/hWS474pKn4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hWS474pKn4",
+								"expanded_url": "http://taykendesign.com",
+								"display_url": "taykendesign.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jQLp8u2jH4",
+								"expanded_url": "https://about.me/tayken",
+								"display_url": "about.me/tayken",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 852,
+				"friends_count": 839,
+				"listed_count": 76,
+				"created_at": "Sat Apr 02 02:43:06 +0000 2016",
+				"favourites_count": 3574,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5491,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1031378171818467329/5bkNhj3U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031378171818467329/5bkNhj3U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/716093571900649473/1548972001",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What did you learn in the gardening coop that you could apply to your work in digital networks? #digPINS https://t.co/JAG6AbfMAt"
+	},
+	{
+		"created_at": "Thu May 16 16:12:18 +0000 2019",
+		"id": 1129056991119175700,
+		"id_str": "1129056991119175685",
+		"full_text": "#DigPINS https://t.co/YX6kUKBYkQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigPINS",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YX6kUKBYkQ",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1129055281881600001",
+					"display_url": "twitter.com/bhwilkoff/stat…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6432,
+			"friends_count": 1314,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129055281881600000,
+		"quoted_status_id_str": "1129055281881600001",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YX6kUKBYkQ",
+			"expanded": "https://twitter.com/bhwilkoff/status/1129055281881600001",
+			"display": "twitter.com/bhwilkoff/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 16 16:05:30 +0000 2019",
+			"id": 1129055281881600000,
+			"id_str": "1129055281881600001",
+			"full_text": "A2: My mapped digital identity is at odds with the networks that I choose to inhabit. I actively hate Facebook as a company/tool, but I maintain a digital identity there b/c of the network that exists there. My practice, therefore, is to try and model other tools as alternatives. https://t.co/sE0xglELDV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sE0xglELDV",
+						"expanded_url": "https://twitter.com/jmenglund03/status/1129023701695979520",
+						"display_url": "twitter.com/jmenglund03/st…",
+						"indices": [
+							281,
+							304
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1710871,
+				"id_str": "1710871",
+				"name": "Ben Wilkoff",
+				"screen_name": "bhwilkoff",
+				"location": "Littleton, Co",
+				"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+				"url": "http://t.co/NW4gT6QJUF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NW4gT6QJUF",
+								"expanded_url": "http://learningischange.com",
+								"display_url": "learningischange.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6432,
+				"friends_count": 1314,
+				"listed_count": 378,
+				"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+				"favourites_count": 939,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18152,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1129023701695979500,
+			"quoted_status_id_str": "1129023701695979520",
+			"quoted_status_permalink": {
+				"url": "https://t.co/sE0xglELDV",
+				"expanded": "https://twitter.com/jmenglund03/status/1129023701695979520",
+				"display": "twitter.com/jmenglund03/st…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#DigPINS https://t.co/YX6kUKBYkQ"
+	},
+	{
+		"created_at": "Thu May 16 16:12:08 +0000 2019",
+		"id": 1129056949100662800,
+		"id_str": "1129056949100662785",
+		"full_text": "Also, #digPINS https://t.co/gXicVRZG2g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digPINS",
+					"indices": [
+						6,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gXicVRZG2g",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1129056260379123712",
+					"display_url": "twitter.com/bhwilkoff/stat…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6432,
+			"friends_count": 1314,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129056260379123700,
+		"quoted_status_id_str": "1129056260379123712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gXicVRZG2g",
+			"expanded": "https://twitter.com/bhwilkoff/status/1129056260379123712",
+			"display": "twitter.com/bhwilkoff/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 16 16:09:23 +0000 2019",
+			"id": 1129056260379123700,
+			"id_str": "1129056260379123712",
+			"full_text": "A3: I have used TAGS Explorer, but I actually prefer the other tools that @mhawksey has made for analyzing tweets. Specifically, using Github pages to keep your full Twitter Archive searchable: https://t.co/cjgcZoolbu Here is mine: https://t.co/Fv7IZPbZK8 https://t.co/OhUk9G5ejP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							74,
+							83
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cjgcZoolbu",
+						"expanded_url": "https://mashe.hawksey.info/2016/08/keeping-your-twitter-archive-fresh-and-freely-hosted-on-github-pages/",
+						"display_url": "mashe.hawksey.info/2016/08/keepin…",
+						"indices": [
+							194,
+							217
+						]
+					},
+					{
+						"url": "https://t.co/Fv7IZPbZK8",
+						"expanded_url": "https://bhwilkoff.github.io/",
+						"display_url": "bhwilkoff.github.io",
+						"indices": [
+							232,
+							255
+						]
+					},
+					{
+						"url": "https://t.co/OhUk9G5ejP",
+						"expanded_url": "https://twitter.com/jmenglund03/status/1129053898600267776",
+						"display_url": "twitter.com/jmenglund03/st…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1710871,
+				"id_str": "1710871",
+				"name": "Ben Wilkoff",
+				"screen_name": "bhwilkoff",
+				"location": "Littleton, Co",
+				"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+				"url": "http://t.co/NW4gT6QJUF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NW4gT6QJUF",
+								"expanded_url": "http://learningischange.com",
+								"display_url": "learningischange.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6432,
+				"friends_count": 1314,
+				"listed_count": 378,
+				"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+				"favourites_count": 939,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18152,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1129053898600267800,
+			"quoted_status_id_str": "1129053898600267776",
+			"quoted_status_permalink": {
+				"url": "https://t.co/OhUk9G5ejP",
+				"expanded": "https://twitter.com/jmenglund03/status/1129053898600267776",
+				"display": "twitter.com/jmenglund03/st…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Also, #digPINS https://t.co/gXicVRZG2g"
+	},
+	{
+		"created_at": "Thu May 16 16:11:28 +0000 2019",
+		"id": 1129056781114589200,
+		"id_str": "1129056781114589185",
+		"full_text": "@thelearnersway @willingworthy @Twitterrific @irvspanish @sterao8 Absolutely! Although, I find that context collapse can be difficult because a lot of folks do not see one another as peers, even though I am bringing them together within networks and I can see the connection. How can we better introduce networks to one another? #DigPINS",
+		"truncated": false,
+		"display_text_range": [
+			66,
+			337
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigPINS",
+					"indices": [
+						329,
+						337
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thelearnersway",
+					"name": "Susannah Simmons",
+					"id": 3232891267,
+					"id_str": "3232891267",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "willingworthy",
+					"name": "William Illingworth",
+					"id": 3196549529,
+					"id_str": "3196549529",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "Twitterrific",
+					"name": "Twitterrific",
+					"id": 643443,
+					"id_str": "643443",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "irvspanish",
+					"name": "Glen Irvin Flores 🇲🇽",
+					"id": 472044692,
+					"id_str": "472044692",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "sterao8",
+					"name": "Stephen Rao",
+					"id": 1564214809,
+					"id_str": "1564214809",
+					"indices": [
+						57,
+						65
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1129054540123086800,
+		"in_reply_to_status_id_str": "1129054540123086848",
+		"in_reply_to_user_id": 3232891267,
+		"in_reply_to_user_id_str": "3232891267",
+		"in_reply_to_screen_name": "thelearnersway",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6432,
+			"friends_count": 1314,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thelearnersway @willingworthy @Twitterrific @irvspanish @sterao8 Absolutely! Although, I find that context collapse can be difficult because a lot of folks do not see one another as peers, even though I am bringing them together within networks and I can see the connection. How can we better introduce networks to one another? #DigPINS"
+	},
+	{
+		"created_at": "Thu May 16 16:09:23 +0000 2019",
+		"id": 1129056260379123700,
+		"id_str": "1129056260379123712",
+		"full_text": "A3: I have used TAGS Explorer, but I actually prefer the other tools that @mhawksey has made for analyzing tweets. Specifically, using Github pages to keep your full Twitter Archive searchable: https://t.co/cjgcZoolbu Here is mine: https://t.co/Fv7IZPbZK8 https://t.co/OhUk9G5ejP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cjgcZoolbu",
+					"expanded_url": "https://mashe.hawksey.info/2016/08/keeping-your-twitter-archive-fresh-and-freely-hosted-on-github-pages/",
+					"display_url": "mashe.hawksey.info/2016/08/keepin…",
+					"indices": [
+						194,
+						217
+					]
+				},
+				{
+					"url": "https://t.co/Fv7IZPbZK8",
+					"expanded_url": "https://bhwilkoff.github.io/",
+					"display_url": "bhwilkoff.github.io",
+					"indices": [
+						232,
+						255
+					]
+				},
+				{
+					"url": "https://t.co/OhUk9G5ejP",
+					"expanded_url": "https://twitter.com/jmenglund03/status/1129053898600267776",
+					"display_url": "twitter.com/jmenglund03/st…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6432,
+			"friends_count": 1314,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129053898600267800,
+		"quoted_status_id_str": "1129053898600267776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OhUk9G5ejP",
+			"expanded": "https://twitter.com/jmenglund03/status/1129053898600267776",
+			"display": "twitter.com/jmenglund03/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 16 16:00:00 +0000 2019",
+			"id": 1129053898600267800,
+			"id_str": "1129053898600267776",
+			"full_text": "#DigPINS #pedagome MOD: Q3. We are using a tool called TAGS Explorer to visualize the connections and conversation taking place on Twitter. What tools or apps do you use (or have you used) to explore your network? https://t.co/DidYtXg6LU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				213
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DigPINS",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "pedagome",
+						"indices": [
+							9,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1128826428286558200,
+						"id_str": "1128826428286558209",
+						"indices": [
+							214,
+							237
+						],
+						"media_url": "http://pbs.twimg.com/media/D6plp98X4AEwtKP.png",
+						"media_url_https": "https://pbs.twimg.com/media/D6plp98X4AEwtKP.png",
+						"url": "https://t.co/DidYtXg6LU",
+						"display_url": "pic.twitter.com/DidYtXg6LU",
+						"expanded_url": "https://twitter.com/jmenglund03/status/1129053898600267776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128826428286558200,
+						"id_str": "1128826428286558209",
+						"indices": [
+							214,
+							237
+						],
+						"media_url": "http://pbs.twimg.com/media/D6plp98X4AEwtKP.png",
+						"media_url_https": "https://pbs.twimg.com/media/D6plp98X4AEwtKP.png",
+						"url": "https://t.co/DidYtXg6LU",
+						"display_url": "pic.twitter.com/DidYtXg6LU",
+						"expanded_url": "https://twitter.com/jmenglund03/status/1129053898600267776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 64769037,
+				"id_str": "64769037",
+				"name": "jennιғer englυnd",
+				"screen_name": "jmenglund03",
+				"location": "MN",
+				"description": "@UMN_CI LT PhD Candidate & Instructor • @UMNews designer + technologist • @GOGN_OER scholar • @femedtech member • #OEP advocate • Pronouns: she/her",
+				"url": "https://t.co/YGowek6dlB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YGowek6dlB",
+								"expanded_url": "http://jenniferenglund.net/",
+								"display_url": "jenniferenglund.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 565,
+				"friends_count": 459,
+				"listed_count": 76,
+				"created_at": "Tue Aug 11 17:10:00 +0000 2009",
+				"favourites_count": 1256,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2559,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B7C8E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1070397759709036544/0NP88KH2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070397759709036544/0NP88KH2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/64769037/1500750705",
+				"profile_link_color": "452568",
+				"profile_sidebar_border_color": "204207",
+				"profile_sidebar_fill_color": "060A00",
+				"profile_text_color": "618238",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A3: I have used TAGS Explorer, but I actually prefer the other tools that @mhawksey has made for analyzing tweets. Specifically, using Github pages to keep your full Twitter Archive searchable: https://t.co/cjgcZoolbu Here is mine: https://t.co/Fv7IZPbZK8 https://t.co/OhUk9G5ejP"
+	},
+	{
+		"created_at": "Thu May 16 16:05:30 +0000 2019",
+		"id": 1129055281881600000,
+		"id_str": "1129055281881600001",
+		"full_text": "A2: My mapped digital identity is at odds with the networks that I choose to inhabit. I actively hate Facebook as a company/tool, but I maintain a digital identity there b/c of the network that exists there. My practice, therefore, is to try and model other tools as alternatives. https://t.co/sE0xglELDV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sE0xglELDV",
+					"expanded_url": "https://twitter.com/jmenglund03/status/1129023701695979520",
+					"display_url": "twitter.com/jmenglund03/st…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6432,
+			"friends_count": 1314,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129023701695979500,
+		"quoted_status_id_str": "1129023701695979520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sE0xglELDV",
+			"expanded": "https://twitter.com/jmenglund03/status/1129023701695979520",
+			"display": "twitter.com/jmenglund03/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 16 14:00:01 +0000 2019",
+			"id": 1129023701695979500,
+			"id_str": "1129023701695979520",
+			"full_text": "#DigPINS #pedagome MOD: Q2. Last week we mapped our digital identity and realized that we use different tools in different domains and may even have multiple digital identities. How do those tools and identities show up in your networked practice? https://t.co/eSLjTEwBGm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DigPINS",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "pedagome",
+						"indices": [
+							9,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1128826180432531500,
+						"id_str": "1128826180432531458",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/D6plbinXkAIbv5I.png",
+						"media_url_https": "https://pbs.twimg.com/media/D6plbinXkAIbv5I.png",
+						"url": "https://t.co/eSLjTEwBGm",
+						"display_url": "pic.twitter.com/eSLjTEwBGm",
+						"expanded_url": "https://twitter.com/jmenglund03/status/1129023701695979520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128826180432531500,
+						"id_str": "1128826180432531458",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/D6plbinXkAIbv5I.png",
+						"media_url_https": "https://pbs.twimg.com/media/D6plbinXkAIbv5I.png",
+						"url": "https://t.co/eSLjTEwBGm",
+						"display_url": "pic.twitter.com/eSLjTEwBGm",
+						"expanded_url": "https://twitter.com/jmenglund03/status/1129023701695979520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 64769037,
+				"id_str": "64769037",
+				"name": "jennιғer englυnd",
+				"screen_name": "jmenglund03",
+				"location": "MN",
+				"description": "@UMN_CI LT PhD Candidate & Instructor • @UMNews designer + technologist • @GOGN_OER scholar • @femedtech member • #OEP advocate • Pronouns: she/her",
+				"url": "https://t.co/YGowek6dlB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YGowek6dlB",
+								"expanded_url": "http://jenniferenglund.net/",
+								"display_url": "jenniferenglund.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 565,
+				"friends_count": 459,
+				"listed_count": 76,
+				"created_at": "Tue Aug 11 17:10:00 +0000 2009",
+				"favourites_count": 1256,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2559,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B7C8E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1070397759709036544/0NP88KH2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070397759709036544/0NP88KH2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/64769037/1500750705",
+				"profile_link_color": "452568",
+				"profile_sidebar_border_color": "204207",
+				"profile_sidebar_fill_color": "060A00",
+				"profile_text_color": "618238",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A2: My mapped digital identity is at odds with the networks that I choose to inhabit. I actively hate Facebook as a company/tool, but I maintain a digital identity there b/c of the network that exists there. My practice, therefore, is to try and model other tools as alternatives. https://t.co/sE0xglELDV"
+	},
+	{
 		"created_at": "Wed May 15 11:41:53 +0000 2019",
 		"id": 1128626552285962200,
 		"id_str": "1128626552285962247",

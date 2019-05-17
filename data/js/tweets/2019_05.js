@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 19:18:35 +0000 2019",
+		"id": 1129466260432068600,
+		"id_str": "1129466260432068614",
+		"full_text": "Really loved @thelearnersway reflection on week 1 of #digpins (Identity). Particularly, when she starts hashtagging all the things and creating an understanding of how we must connect ideas together to make change: My Digital Identity in a Time of Killing https://t.co/5bmHTKhNNx https://t.co/7oSOa83N4u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digpins",
+					"indices": [
+						53,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thelearnersway",
+					"name": "Susannah Simmons",
+					"id": 3232891267,
+					"id_str": "3232891267",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5bmHTKhNNx",
+					"expanded_url": "http://susannahsimmons.com/uncategorized/digpins-identity-reflection/",
+					"display_url": "susannahsimmons.com/uncategorized/…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1129466258401910800,
+					"id_str": "1129466258401910784",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D6yrk-3V4AAA4Mz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6yrk-3V4AAA4Mz.jpg",
+					"url": "https://t.co/7oSOa83N4u",
+					"display_url": "pic.twitter.com/7oSOa83N4u",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1129466260432068614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129466258401910800,
+					"id_str": "1129466258401910784",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D6yrk-3V4AAA4Mz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6yrk-3V4AAA4Mz.jpg",
+					"url": "https://t.co/7oSOa83N4u",
+					"display_url": "pic.twitter.com/7oSOa83N4u",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1129466260432068614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6437,
+			"friends_count": 1362,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really loved @thelearnersway reflection on week 1 of #digpins (Identity). Particularly, when she starts hashtagging all the things and creating an understanding of how we must connect ideas together to make change: My Digital Identity in a Time of Killing https://t.co/5bmHTKhNNx https://t.co/7oSOa83N4u"
+	},
+	{
+		"created_at": "Fri May 17 19:01:38 +0000 2019",
+		"id": 1129461993348296700,
+		"id_str": "1129461993348296704",
+		"full_text": "@mweinraub87 @tomliamlynch @barnillas @Dan_Blick @calimorrison @mzrascoff @jlknott @lindseyedixon “In Real Life” has a connotation of what Jonathan Larson said in RENT: “Actual Reality. Act Up. Fight AIDS.” While I love AR/VR/XR and online learning, I never confuse an online course for “real life”. IRL contributions to community are diff. Sometimes better, other times worse.",
+		"truncated": false,
+		"display_text_range": [
+			98,
+			377
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mweinraub87",
+					"name": "Michael Weinraub",
+					"id": 972524358,
+					"id_str": "972524358",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "tomliamlynch",
+					"name": "Gradgrind's",
+					"id": 16987591,
+					"id_str": "16987591",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "barnillas",
+					"name": "Beatriz Arnillas",
+					"id": 65504675,
+					"id_str": "65504675",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "Dan_Blick",
+					"name": "Dan Blickensderfer",
+					"id": 188554158,
+					"id_str": "188554158",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"screen_name": "calimorrison",
+					"name": "Dr. Cali Morrison (DocCMo bc it's fun)",
+					"id": 22952939,
+					"id_str": "22952939",
+					"indices": [
+						49,
+						62
+					]
+				},
+				{
+					"screen_name": "mzrascoff",
+					"name": "Matthew Rascoff",
+					"id": 9469272,
+					"id_str": "9469272",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"screen_name": "jlknott",
+					"name": "Dr. Jessica L. Knott",
+					"id": 7693002,
+					"id_str": "7693002",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"screen_name": "lindseyedixon",
+					"name": "Lindsey E. Dixon",
+					"id": 107295639,
+					"id_str": "107295639",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1129458450457616400,
+		"in_reply_to_status_id_str": "1129458450457616384",
+		"in_reply_to_user_id": 972524358,
+		"in_reply_to_user_id_str": "972524358",
+		"in_reply_to_screen_name": "mweinraub87",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6437,
+			"friends_count": 1362,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mweinraub87 @tomliamlynch @barnillas @Dan_Blick @calimorrison @mzrascoff @jlknott @lindseyedixon “In Real Life” has a connotation of what Jonathan Larson said in RENT: “Actual Reality. Act Up. Fight AIDS.” While I love AR/VR/XR and online learning, I never confuse an online course for “real life”. IRL contributions to community are diff. Sometimes better, other times worse."
+	},
+	{
 		"created_at": "Fri May 17 17:19:02 +0000 2019",
 		"id": 1129436175314427900,
 		"id_str": "1129436175314427904",

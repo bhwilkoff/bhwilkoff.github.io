@@ -1,6 +1,1215 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 20:07:04 +0000 2019",
+		"id": 1129478461758689300,
+		"id_str": "1129478461758689280",
+		"full_text": "IRL is where my body is. Virtual is where I can do things my body cannot do. That’s why I go there. https://t.co/bB9psin3J3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bB9psin3J3",
+					"expanded_url": "https://twitter.com/mweinraub87/status/1129474318730256386",
+					"display_url": "twitter.com/mweinraub87/st…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6437,
+			"friends_count": 1362,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18171,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129474318730256400,
+		"quoted_status_id_str": "1129474318730256386",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bB9psin3J3",
+			"expanded": "https://twitter.com/mweinraub87/status/1129474318730256386",
+			"display": "twitter.com/mweinraub87/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 17 19:50:36 +0000 2019",
+			"id": 1129474318730256400,
+			"id_str": "1129474318730256386",
+			"full_text": "@amichaelberman @Bali_Maha @Dan_Blick @bhwilkoff @tomliamlynch @barnillas @calimorrison @mzrascoff @jlknott @lindseyedixon Fascinating. Let's go further down the linguistic rabbit hole to interrogate \"virtual.\" Doesn't virtual imply something less than reality, or a facsimile of it? If so, is it as problematic as IRL to refer to a modality of interaction?",
+			"truncated": false,
+			"display_text_range": [
+				123,
+				357
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "amichaelberman",
+						"name": "A. Michael Berman",
+						"id": 16159736,
+						"id_str": "16159736",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "Bali_Maha",
+						"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+						"id": 1535273520,
+						"id_str": "1535273520",
+						"indices": [
+							16,
+							26
+						]
+					},
+					{
+						"screen_name": "Dan_Blick",
+						"name": "Dan Blickensderfer",
+						"id": 188554158,
+						"id_str": "188554158",
+						"indices": [
+							27,
+							37
+						]
+					},
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							38,
+							48
+						]
+					},
+					{
+						"screen_name": "tomliamlynch",
+						"name": "Gradgrind's",
+						"id": 16987591,
+						"id_str": "16987591",
+						"indices": [
+							49,
+							62
+						]
+					},
+					{
+						"screen_name": "barnillas",
+						"name": "Beatriz Arnillas",
+						"id": 65504675,
+						"id_str": "65504675",
+						"indices": [
+							63,
+							73
+						]
+					},
+					{
+						"screen_name": "calimorrison",
+						"name": "Dr. Cali Morrison (DocCMo bc it's fun)",
+						"id": 22952939,
+						"id_str": "22952939",
+						"indices": [
+							74,
+							87
+						]
+					},
+					{
+						"screen_name": "mzrascoff",
+						"name": "Matthew Rascoff",
+						"id": 9469272,
+						"id_str": "9469272",
+						"indices": [
+							88,
+							98
+						]
+					},
+					{
+						"screen_name": "jlknott",
+						"name": "Dr. Jessica L. Knott",
+						"id": 7693002,
+						"id_str": "7693002",
+						"indices": [
+							99,
+							107
+						]
+					},
+					{
+						"screen_name": "lindseyedixon",
+						"name": "Lindsey E. Dixon",
+						"id": 107295639,
+						"id_str": "107295639",
+						"indices": [
+							108,
+							122
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1129473483295952900,
+			"in_reply_to_status_id_str": "1129473483295952897",
+			"in_reply_to_user_id": 16159736,
+			"in_reply_to_user_id_str": "16159736",
+			"in_reply_to_screen_name": "amichaelberman",
+			"user": {
+				"id": 972524358,
+				"id_str": "972524358",
+				"name": "Michael Weinraub",
+				"screen_name": "mweinraub87",
+				"location": "Rockville, MD",
+				"description": "Online & blended #learning specialist. ISO 2.7 seconds on a bull named Fu Manchu. All tweets my own.",
+				"url": "https://t.co/Y4v5jmxsY1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y4v5jmxsY1",
+								"expanded_url": "https://www.linkedin.com/in/mweinraub87",
+								"display_url": "linkedin.com/in/mweinraub87",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2609,
+				"friends_count": 2551,
+				"listed_count": 366,
+				"created_at": "Mon Nov 26 19:06:37 +0000 2012",
+				"favourites_count": 34909,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24838,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/915617577107431424/DypV5JZY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/915617577107431424/DypV5JZY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/972524358/1473365242",
+				"profile_link_color": "165AA3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IRL is where my body is. Virtual is where I can do things my body cannot do. That’s why I go there. https://t.co/bB9psin3J3"
+	},
+	{
+		"created_at": "Fri May 17 20:05:12 +0000 2019",
+		"id": 1129477990071427100,
+		"id_str": "1129477990071427072",
+		"full_text": "Disagree with the idea that we have to lump all learning into the same bucket. I prefer online learning. I prefer digital life, but my “meat sack” still only exists in the “real world”. And until I can upload myself to a computer, my IRL experiences are where my body is. https://t.co/repzN70wxG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/repzN70wxG",
+					"expanded_url": "https://twitter.com/amichaelberman/status/1129473483295952897",
+					"display_url": "twitter.com/amichaelberman…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6437,
+			"friends_count": 1362,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18171,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129473483295952900,
+		"quoted_status_id_str": "1129473483295952897",
+		"quoted_status_permalink": {
+			"url": "https://t.co/repzN70wxG",
+			"expanded": "https://twitter.com/amichaelberman/status/1129473483295952897",
+			"display": "twitter.com/amichaelberman…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 17 19:47:17 +0000 2019",
+			"id": 1129473483295952900,
+			"id_str": "1129473483295952897",
+			"full_text": "@mweinraub87 @Bali_Maha @Dan_Blick @bhwilkoff @tomliamlynch @barnillas @calimorrison @mzrascoff @jlknott @lindseyedixon -1 for IRL - virtual learning and virtual interactions are real life. (Not really a fan of “online learning” — the learning takes place in the learner, not “online”. I think what is modified is the *mode of instruction* not the learning.)",
+			"truncated": false,
+			"display_text_range": [
+				120,
+				358
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mweinraub87",
+						"name": "Michael Weinraub",
+						"id": 972524358,
+						"id_str": "972524358",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "Bali_Maha",
+						"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+						"id": 1535273520,
+						"id_str": "1535273520",
+						"indices": [
+							13,
+							23
+						]
+					},
+					{
+						"screen_name": "Dan_Blick",
+						"name": "Dan Blickensderfer",
+						"id": 188554158,
+						"id_str": "188554158",
+						"indices": [
+							24,
+							34
+						]
+					},
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							35,
+							45
+						]
+					},
+					{
+						"screen_name": "tomliamlynch",
+						"name": "Gradgrind's",
+						"id": 16987591,
+						"id_str": "16987591",
+						"indices": [
+							46,
+							59
+						]
+					},
+					{
+						"screen_name": "barnillas",
+						"name": "Beatriz Arnillas",
+						"id": 65504675,
+						"id_str": "65504675",
+						"indices": [
+							60,
+							70
+						]
+					},
+					{
+						"screen_name": "calimorrison",
+						"name": "Dr. Cali Morrison (DocCMo bc it's fun)",
+						"id": 22952939,
+						"id_str": "22952939",
+						"indices": [
+							71,
+							84
+						]
+					},
+					{
+						"screen_name": "mzrascoff",
+						"name": "Matthew Rascoff",
+						"id": 9469272,
+						"id_str": "9469272",
+						"indices": [
+							85,
+							95
+						]
+					},
+					{
+						"screen_name": "jlknott",
+						"name": "Dr. Jessica L. Knott",
+						"id": 7693002,
+						"id_str": "7693002",
+						"indices": [
+							96,
+							104
+						]
+					},
+					{
+						"screen_name": "lindseyedixon",
+						"name": "Lindsey E. Dixon",
+						"id": 107295639,
+						"id_str": "107295639",
+						"indices": [
+							105,
+							119
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1129472303132282900,
+			"in_reply_to_status_id_str": "1129472303132282882",
+			"in_reply_to_user_id": 972524358,
+			"in_reply_to_user_id_str": "972524358",
+			"in_reply_to_screen_name": "mweinraub87",
+			"user": {
+				"id": 16159736,
+				"id_str": "16159736",
+				"name": "A. Michael Berman",
+				"screen_name": "amichaelberman",
+				"location": "N 34°12' 0'' / W 118°14' 0''",
+				"description": "Exploring technology as if people matter & promoting human-centered innovation. Deputy CIO & Chief Innov. Officer Cal State Univ USA. I turned left.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5972,
+				"friends_count": 4387,
+				"listed_count": 373,
+				"created_at": "Sat Sep 06 19:15:59 +0000 2008",
+				"favourites_count": 11038,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19452,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1127926295143243777/t_ijXSIf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127926295143243777/t_ijXSIf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16159736/1548713277",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Disagree with the idea that we have to lump all learning into the same bucket. I prefer online learning. I prefer digital life, but my “meat sack” still only exists in the “real world”. And until I can upload myself to a computer, my IRL experiences are where my body is. https://t.co/repzN70wxG"
+	},
+	{
+		"created_at": "Fri May 17 20:03:19 +0000 2019",
+		"id": 1129477516714840000,
+		"id_str": "1129477516714840064",
+		"full_text": "It is only problematic if you believe that “real life” is not facilitated by digital life and digital connections. “Real Life” experiences are aided, enhanced, or destroyed by digital means (distraction or engagement). That doesn’t change the fact that I only have one body. IRL. https://t.co/zWBbV9XTSY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zWBbV9XTSY",
+					"expanded_url": "https://twitter.com/mweinraub87/status/1129472303132282882",
+					"display_url": "twitter.com/mweinraub87/st…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6437,
+			"friends_count": 1362,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18171,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129472303132282900,
+		"quoted_status_id_str": "1129472303132282882",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zWBbV9XTSY",
+			"expanded": "https://twitter.com/mweinraub87/status/1129472303132282882",
+			"display": "twitter.com/mweinraub87/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 17 19:42:36 +0000 2019",
+			"id": 1129472303132282900,
+			"id_str": "1129472303132282882",
+			"full_text": "@Bali_Maha @Dan_Blick @bhwilkoff @tomliamlynch @barnillas @calimorrison @mzrascoff @jlknott @lindseyedixon I have always liked IRL, actually, and not only b/c Jon Larson was a camp counselor of mine (true!). But now that I interrogate it a bit, there is in it a suggestion that virtual interactions are not real, which is problematic. 🤔",
+			"truncated": false,
+			"display_text_range": [
+				107,
+				336
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Bali_Maha",
+						"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+						"id": 1535273520,
+						"id_str": "1535273520",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "Dan_Blick",
+						"name": "Dan Blickensderfer",
+						"id": 188554158,
+						"id_str": "188554158",
+						"indices": [
+							11,
+							21
+						]
+					},
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							22,
+							32
+						]
+					},
+					{
+						"screen_name": "tomliamlynch",
+						"name": "Gradgrind's",
+						"id": 16987591,
+						"id_str": "16987591",
+						"indices": [
+							33,
+							46
+						]
+					},
+					{
+						"screen_name": "barnillas",
+						"name": "Beatriz Arnillas",
+						"id": 65504675,
+						"id_str": "65504675",
+						"indices": [
+							47,
+							57
+						]
+					},
+					{
+						"screen_name": "calimorrison",
+						"name": "Dr. Cali Morrison (DocCMo bc it's fun)",
+						"id": 22952939,
+						"id_str": "22952939",
+						"indices": [
+							58,
+							71
+						]
+					},
+					{
+						"screen_name": "mzrascoff",
+						"name": "Matthew Rascoff",
+						"id": 9469272,
+						"id_str": "9469272",
+						"indices": [
+							72,
+							82
+						]
+					},
+					{
+						"screen_name": "jlknott",
+						"name": "Dr. Jessica L. Knott",
+						"id": 7693002,
+						"id_str": "7693002",
+						"indices": [
+							83,
+							91
+						]
+					},
+					{
+						"screen_name": "lindseyedixon",
+						"name": "Lindsey E. Dixon",
+						"id": 107295639,
+						"id_str": "107295639",
+						"indices": [
+							92,
+							106
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1129468200926744600,
+			"in_reply_to_status_id_str": "1129468200926744578",
+			"in_reply_to_user_id": 1535273520,
+			"in_reply_to_user_id_str": "1535273520",
+			"in_reply_to_screen_name": "Bali_Maha",
+			"user": {
+				"id": 972524358,
+				"id_str": "972524358",
+				"name": "Michael Weinraub",
+				"screen_name": "mweinraub87",
+				"location": "Rockville, MD",
+				"description": "Online & blended #learning specialist. ISO 2.7 seconds on a bull named Fu Manchu. All tweets my own.",
+				"url": "https://t.co/Y4v5jmxsY1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y4v5jmxsY1",
+								"expanded_url": "https://www.linkedin.com/in/mweinraub87",
+								"display_url": "linkedin.com/in/mweinraub87",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2609,
+				"friends_count": 2551,
+				"listed_count": 366,
+				"created_at": "Mon Nov 26 19:06:37 +0000 2012",
+				"favourites_count": 34909,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24838,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/915617577107431424/DypV5JZY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/915617577107431424/DypV5JZY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/972524358/1473365242",
+				"profile_link_color": "165AA3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It is only problematic if you believe that “real life” is not facilitated by digital life and digital connections. “Real Life” experiences are aided, enhanced, or destroyed by digital means (distraction or engagement). That doesn’t change the fact that I only have one body. IRL. https://t.co/zWBbV9XTSY"
+	},
+	{
+		"created_at": "Fri May 17 20:00:48 +0000 2019",
+		"id": 1129476884293570600,
+		"id_str": "1129476884293570560",
+		"full_text": "Yes. They were real. But we’re they The Same as the ones you made with folks you only know IRL? Many of my connections online are deeper than IRL connections, but that doesn’t change that they are primarily digitally facilitated. https://t.co/JcAe9Q4sw3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JcAe9Q4sw3",
+					"expanded_url": "https://twitter.com/Dan_Blick/status/1129469872822530048",
+					"display_url": "twitter.com/Dan_Blick/stat…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6437,
+			"friends_count": 1362,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18171,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129469872822530000,
+		"quoted_status_id_str": "1129469872822530048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JcAe9Q4sw3",
+			"expanded": "https://twitter.com/Dan_Blick/status/1129469872822530048",
+			"display": "twitter.com/Dan_Blick/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 17 19:32:56 +0000 2019",
+			"id": 1129469872822530000,
+			"id_str": "1129469872822530048",
+			"full_text": "@Bali_Maha @bhwilkoff @mweinraub87 @tomliamlynch @barnillas @calimorrison @mzrascoff @jlknott @lindseyedixon So true, excellent point. I have had some *very real* @VConnecting learning experiences, for example, on both “ends of the phone,” as it were :)(remote and on site).",
+			"truncated": false,
+			"display_text_range": [
+				109,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Bali_Maha",
+						"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+						"id": 1535273520,
+						"id_str": "1535273520",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							11,
+							21
+						]
+					},
+					{
+						"screen_name": "mweinraub87",
+						"name": "Michael Weinraub",
+						"id": 972524358,
+						"id_str": "972524358",
+						"indices": [
+							22,
+							34
+						]
+					},
+					{
+						"screen_name": "tomliamlynch",
+						"name": "Gradgrind's",
+						"id": 16987591,
+						"id_str": "16987591",
+						"indices": [
+							35,
+							48
+						]
+					},
+					{
+						"screen_name": "barnillas",
+						"name": "Beatriz Arnillas",
+						"id": 65504675,
+						"id_str": "65504675",
+						"indices": [
+							49,
+							59
+						]
+					},
+					{
+						"screen_name": "calimorrison",
+						"name": "Dr. Cali Morrison (DocCMo bc it's fun)",
+						"id": 22952939,
+						"id_str": "22952939",
+						"indices": [
+							60,
+							73
+						]
+					},
+					{
+						"screen_name": "mzrascoff",
+						"name": "Matthew Rascoff",
+						"id": 9469272,
+						"id_str": "9469272",
+						"indices": [
+							74,
+							84
+						]
+					},
+					{
+						"screen_name": "jlknott",
+						"name": "Dr. Jessica L. Knott",
+						"id": 7693002,
+						"id_str": "7693002",
+						"indices": [
+							85,
+							93
+						]
+					},
+					{
+						"screen_name": "lindseyedixon",
+						"name": "Lindsey E. Dixon",
+						"id": 107295639,
+						"id_str": "107295639",
+						"indices": [
+							94,
+							108
+						]
+					},
+					{
+						"screen_name": "VConnecting",
+						"name": "Virtually Connecting conversation not presentation",
+						"id": 3230962884,
+						"id_str": "3230962884",
+						"indices": [
+							163,
+							175
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1129468200926744600,
+			"in_reply_to_status_id_str": "1129468200926744578",
+			"in_reply_to_user_id": 1535273520,
+			"in_reply_to_user_id_str": "1535273520",
+			"in_reply_to_screen_name": "Bali_Maha",
+			"user": {
+				"id": 188554158,
+				"id_str": "188554158",
+				"name": "Dan Blickensderfer",
+				"screen_name": "Dan_Blick",
+				"location": "Maine and New Hampshire, USA",
+				"description": "Educator | #HigherEd | #CompetencyEd | #PBL | #OER | #EdTech | #TechComm | Director, Learning Engineering @SNHU | #Blickventure",
+				"url": "https://t.co/fAR8AY11oH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fAR8AY11oH",
+								"expanded_url": "http://www.linkedin.com/in/danblick",
+								"display_url": "linkedin.com/in/danblick",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2314,
+				"friends_count": 1415,
+				"listed_count": 240,
+				"created_at": "Thu Sep 09 00:48:55 +0000 2010",
+				"favourites_count": 55158,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11058,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000638002183/e6388b44edcc11c2dc7d525139192b23_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000638002183/e6388b44edcc11c2dc7d525139192b23_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/188554158/1418059849",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes. They were real. But we’re they The Same as the ones you made with folks you only know IRL? Many of my connections online are deeper than IRL connections, but that doesn’t change that they are primarily digitally facilitated. https://t.co/JcAe9Q4sw3"
+	},
+	{
 		"created_at": "Fri May 17 19:18:35 +0000 2019",
 		"id": 1129466260432068600,
 		"id_str": "1129466260432068614",

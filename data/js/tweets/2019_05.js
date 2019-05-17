@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 17:19:02 +0000 2019",
+		"id": 1129436175314427900,
+		"id_str": "1129436175314427904",
+		"full_text": "Yes! Although I find RTs that show up in my feed from others (rather than the ones that I create) get me further away from the “center of my network” and toward folks that are less like me. So, I like getting a few steps removed. The retweeter of my retweet is my friend? #DigPINS https://t.co/9AiNyHzPlC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigPINS",
+					"indices": [
+						272,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9AiNyHzPlC",
+					"expanded_url": "https://twitter.com/Damien_Me_show/status/1129435346658299904",
+					"display_url": "twitter.com/Damien_Me_show…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/mac\" rel=\"nofollow\">Twitterrific for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6435,
+			"friends_count": 1342,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18163,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129435346658299900,
+		"quoted_status_id_str": "1129435346658299904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9AiNyHzPlC",
+			"expanded": "https://twitter.com/Damien_Me_show/status/1129435346658299904",
+			"display": "twitter.com/Damien_Me_show…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 17 17:15:45 +0000 2019",
+			"id": 1129435346658299900,
+			"id_str": "1129435346658299904",
+			"full_text": "Like so? @Bhwilkoff https://t.co/3aOjLq82D5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				19
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							9,
+							19
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3aOjLq82D5",
+						"expanded_url": "https://twitter.com/bhwilkoff/status/1129119970829324289",
+						"display_url": "twitter.com/bhwilkoff/stat…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1124390667101323300,
+				"id_str": "1124390667101323269",
+				"name": "Damien Michaud, PhD.",
+				"screen_name": "Damien_Me_show",
+				"location": "Portland, ME",
+				"description": "Faculty whisperer. Pedagogy before technology Learning Designer at the University of Southern Maine",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17,
+				"friends_count": 43,
+				"listed_count": 1,
+				"created_at": "Fri May 03 19:09:59 +0000 2019",
+				"favourites_count": 15,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1124392557411172352/tkwSxTu2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124392557411172352/tkwSxTu2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1124390667101323269/1556911189",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1129119970829324300,
+			"quoted_status_id_str": "1129119970829324289",
+			"quoted_status_permalink": {
+				"url": "https://t.co/3aOjLq82D5",
+				"expanded": "https://twitter.com/bhwilkoff/status/1129119970829324289",
+				"display": "twitter.com/bhwilkoff/stat…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes! Although I find RTs that show up in my feed from others (rather than the ones that I create) get me further away from the “center of my network” and toward folks that are less like me. So, I like getting a few steps removed. The retweeter of my retweet is my friend? #DigPINS https://t.co/9AiNyHzPlC"
+	},
+	{
 		"created_at": "Fri May 17 16:16:13 +0000 2019",
 		"id": 1129420365287923700,
 		"id_str": "1129420365287923712",

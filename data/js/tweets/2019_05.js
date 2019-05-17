@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 00:53:19 +0000 2019",
+		"id": 1129188111546703900,
+		"id_str": "1129188111546703872",
+		"full_text": "A6: So hard to pick only two Peeps to share to expand the #digPINS network, but I sure do love learning from @grammasheri and @RusulAlrubail. Thanks for a great slow chat today, y’all! https://t.co/Ckkeez08vq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digPINS",
+					"indices": [
+						58,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "grammasheri",
+					"name": "Sheri Edwards",
+					"id": 8373192,
+					"id_str": "8373192",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"screen_name": "RusulAlrubail",
+					"name": "Rusul الربيعي ✊🏼",
+					"id": 2380961067,
+					"id_str": "2380961067",
+					"indices": [
+						126,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ckkeez08vq",
+					"expanded_url": "https://twitter.com/Autumm/status/1129144501019144192",
+					"display_url": "twitter.com/Autumm/status/…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6435,
+			"friends_count": 1334,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18161,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129144501019144200,
+		"quoted_status_id_str": "1129144501019144192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ckkeez08vq",
+			"expanded": "https://twitter.com/Autumm/status/1129144501019144192",
+			"display": "twitter.com/Autumm/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 16 22:00:02 +0000 2019",
+			"id": 1129144501019144200,
+			"id_str": "1129144501019144192",
+			"full_text": "MOD: Q6. \n\nOur Final Question of the #DigPINS #Pedagome S-L-O-W Chat\n\nOn the Networks page there are a number of suggested Twitter accounts to explore. Share 1-2 (or more!) people from your network for us to meet/follow. https://t.co/0bGjVTtqGD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DigPINS",
+						"indices": [
+							37,
+							45
+						]
+					},
+					{
+						"text": "Pedagome",
+						"indices": [
+							46,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1128850712253861900,
+						"id_str": "1128850712253861888",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/D6p7vexWkAAzswl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6p7vexWkAAzswl.jpg",
+						"url": "https://t.co/0bGjVTtqGD",
+						"display_url": "pic.twitter.com/0bGjVTtqGD",
+						"expanded_url": "https://twitter.com/Autumm/status/1129144501019144192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 936,
+								"h": 934,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 936,
+								"h": 934,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 679,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128850712253861900,
+						"id_str": "1128850712253861888",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/D6p7vexWkAAzswl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6p7vexWkAAzswl.jpg",
+						"url": "https://t.co/0bGjVTtqGD",
+						"display_url": "pic.twitter.com/0bGjVTtqGD",
+						"expanded_url": "https://twitter.com/Autumm/status/1129144501019144192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 936,
+								"h": 934,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 936,
+								"h": 934,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 679,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6292182,
+				"id_str": "6292182",
+				"name": "Autumm Caines is a Liminal Space",
+				"screen_name": "Autumm",
+				"location": "Detroit, MI",
+				"description": "Critical Instructional Designer at U of M - Dearborn. Tweets are mine. I like the number 3. My fortune cookies are often empty. Yep, 2 m's #DigCiz #HigherEd",
+				"url": "https://t.co/1nGErgRVdE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1nGErgRVdE",
+								"expanded_url": "http://autumm.org",
+								"display_url": "autumm.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2823,
+				"friends_count": 1604,
+				"listed_count": 176,
+				"created_at": "Thu May 24 17:35:54 +0000 2007",
+				"favourites_count": 24285,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19933,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "460D14",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1091901479789711360/GO4hQr-7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091901479789711360/GO4hQr-7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6292182/1553975455",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "4A131B",
+				"profile_sidebar_fill_color": "4A131B",
+				"profile_text_color": "B36E32",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A6: So hard to pick only two Peeps to share to expand the #digPINS network, but I sure do love learning from @grammasheri and @RusulAlrubail. Thanks for a great slow chat today, y’all! https://t.co/Ckkeez08vq"
+	},
+	{
 		"created_at": "Thu May 16 20:47:28 +0000 2019",
 		"id": 1129126238801387500,
 		"id_str": "1129126238801387520",

@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 01:19:26 +0000 2019",
+		"id": 1129557071907545100,
+		"id_str": "1129557071907545088",
+		"full_text": "@Bali_Maha @amichaelberman @mweinraub87 @Dan_Blick @tomliamlynch @barnillas @calimorrison @mzrascoff @jlknott @lindseyedixon I drew this the other day to help better establish the idea that Digital Education can still have analog workflows, so long as they are as a result pedagogically sound decisions. https://t.co/gsoWtJlPGI",
+		"truncated": false,
+		"display_text_range": [
+			125,
+			303
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "amichaelberman",
+					"name": "A. Michael Berman",
+					"id": 16159736,
+					"id_str": "16159736",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "mweinraub87",
+					"name": "Michael Weinraub",
+					"id": 972524358,
+					"id_str": "972524358",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "Dan_Blick",
+					"name": "Dan Blickensderfer",
+					"id": 188554158,
+					"id_str": "188554158",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "tomliamlynch",
+					"name": "Gradgrind's",
+					"id": 16987591,
+					"id_str": "16987591",
+					"indices": [
+						51,
+						64
+					]
+				},
+				{
+					"screen_name": "barnillas",
+					"name": "Beatriz Arnillas",
+					"id": 65504675,
+					"id_str": "65504675",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "calimorrison",
+					"name": "Dr. Cali Morrison (DocCMo bc it's fun)",
+					"id": 22952939,
+					"id_str": "22952939",
+					"indices": [
+						76,
+						89
+					]
+				},
+				{
+					"screen_name": "mzrascoff",
+					"name": "Matthew Rascoff",
+					"id": 9469272,
+					"id_str": "9469272",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"screen_name": "jlknott",
+					"name": "Dr. Jessica L. Knott",
+					"id": 7693002,
+					"id_str": "7693002",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"screen_name": "lindseyedixon",
+					"name": "Lindsey E. Dixon",
+					"id": 107295639,
+					"id_str": "107295639",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129557061010804700,
+					"id_str": "1129557061010804736",
+					"indices": [
+						304,
+						327
+					],
+					"media_url": "http://pbs.twimg.com/media/D6z-KY8VUAA_0RP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6z-KY8VUAA_0RP.jpg",
+					"url": "https://t.co/gsoWtJlPGI",
+					"display_url": "pic.twitter.com/gsoWtJlPGI",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1129557071907545088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 818,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1396,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129557061010804700,
+					"id_str": "1129557061010804736",
+					"indices": [
+						304,
+						327
+					],
+					"media_url": "http://pbs.twimg.com/media/D6z-KY8VUAA_0RP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6z-KY8VUAA_0RP.jpg",
+					"url": "https://t.co/gsoWtJlPGI",
+					"display_url": "pic.twitter.com/gsoWtJlPGI",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1129557071907545088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 818,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1396,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1129538265852383200,
+		"in_reply_to_status_id_str": "1129538265852383232",
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6443,
+			"friends_count": 1365,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18172,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Bali_Maha @amichaelberman @mweinraub87 @Dan_Blick @tomliamlynch @barnillas @calimorrison @mzrascoff @jlknott @lindseyedixon I drew this the other day to help better establish the idea that Digital Education can still have analog workflows, so long as they are as a result pedagogically sound decisions. https://t.co/gsoWtJlPGI"
+	},
+	{
 		"created_at": "Fri May 17 20:07:04 +0000 2019",
 		"id": 1129478461758689300,
 		"id_str": "1129478461758689280",

@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 13:30:01 +0000 2019",
+		"id": 1130103315495247900,
+		"id_str": "1130103315495247873",
+		"full_text": "Focusing on modalities does make things easier, but it really seems to sidestep the fact that experiences happening where our bodies exist in the same space are different than those where our bodies exist in separate spaces. All are “real”, but that isn’t the point. IRL is diff. https://t.co/i6AgT3XcRn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i6AgT3XcRn",
+					"expanded_url": "https://twitter.com/Damien_Me_show/status/1129869995247321090",
+					"display_url": "twitter.com/Damien_Me_show…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6445,
+			"friends_count": 1369,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18174,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129869995247321100,
+		"quoted_status_id_str": "1129869995247321090",
+		"quoted_status_permalink": {
+			"url": "https://t.co/i6AgT3XcRn",
+			"expanded": "https://twitter.com/Damien_Me_show/status/1129869995247321090",
+			"display": "twitter.com/Damien_Me_show…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 18 22:02:53 +0000 2019",
+			"id": 1129869995247321100,
+			"id_str": "1129869995247321090",
+			"full_text": "@barnillas @Bali_Maha @mweinraub87 @amichaelberman @Dan_Blick @bhwilkoff @tomliamlynch @calimorrison @mzrascoff @jlknott @lindseyedixon My dissertation committee was really hung up on the use of IRL...”aren’t you arguing that virtual spaces a real, with real consequences? Why make a distinction then?” Why not focus on modalities?”",
+			"truncated": false,
+			"display_text_range": [
+				136,
+				332
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "barnillas",
+						"name": "Beatriz Arnillas",
+						"id": 65504675,
+						"id_str": "65504675",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "Bali_Maha",
+						"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+						"id": 1535273520,
+						"id_str": "1535273520",
+						"indices": [
+							11,
+							21
+						]
+					},
+					{
+						"screen_name": "mweinraub87",
+						"name": "Michael Weinraub",
+						"id": 972524358,
+						"id_str": "972524358",
+						"indices": [
+							22,
+							34
+						]
+					},
+					{
+						"screen_name": "amichaelberman",
+						"name": "A. Michael Berman",
+						"id": 16159736,
+						"id_str": "16159736",
+						"indices": [
+							35,
+							50
+						]
+					},
+					{
+						"screen_name": "Dan_Blick",
+						"name": "Dan Blickensderfer",
+						"id": 188554158,
+						"id_str": "188554158",
+						"indices": [
+							51,
+							61
+						]
+					},
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							62,
+							72
+						]
+					},
+					{
+						"screen_name": "tomliamlynch",
+						"name": "Gradgrind's",
+						"id": 16987591,
+						"id_str": "16987591",
+						"indices": [
+							73,
+							86
+						]
+					},
+					{
+						"screen_name": "calimorrison",
+						"name": "Dr. Cali Morrison (DocCMo bc it's fun)",
+						"id": 22952939,
+						"id_str": "22952939",
+						"indices": [
+							87,
+							100
+						]
+					},
+					{
+						"screen_name": "mzrascoff",
+						"name": "Matthew Rascoff",
+						"id": 9469272,
+						"id_str": "9469272",
+						"indices": [
+							101,
+							111
+						]
+					},
+					{
+						"screen_name": "jlknott",
+						"name": "Dr. Jessica L. Knott",
+						"id": 7693002,
+						"id_str": "7693002",
+						"indices": [
+							112,
+							120
+						]
+					},
+					{
+						"screen_name": "lindseyedixon",
+						"name": "Lindsey E. Dixon",
+						"id": 107295639,
+						"id_str": "107295639",
+						"indices": [
+							121,
+							135
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1129543633315737600,
+			"in_reply_to_status_id_str": "1129543633315737601",
+			"in_reply_to_user_id": 65504675,
+			"in_reply_to_user_id_str": "65504675",
+			"in_reply_to_screen_name": "barnillas",
+			"user": {
+				"id": 1124390667101323300,
+				"id_str": "1124390667101323269",
+				"name": "Damien Michaud, PhD.",
+				"screen_name": "Damien_Me_show",
+				"location": "Portland, ME",
+				"description": "Faculty whisperer. Pedagogy before technology Learning Designer at the University of Southern Maine",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20,
+				"friends_count": 45,
+				"listed_count": 1,
+				"created_at": "Fri May 03 19:09:59 +0000 2019",
+				"favourites_count": 21,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1124392557411172352/tkwSxTu2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124392557411172352/tkwSxTu2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1124390667101323269/1556911189",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Focusing on modalities does make things easier, but it really seems to sidestep the fact that experiences happening where our bodies exist in the same space are different than those where our bodies exist in separate spaces. All are “real”, but that isn’t the point. IRL is diff. https://t.co/i6AgT3XcRn"
+	},
+	{
 		"created_at": "Sat May 18 13:39:16 +0000 2019",
 		"id": 1129743256407990300,
 		"id_str": "1129743256407990275",

@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 16:16:21 +0000 2019",
+		"id": 1130507563013791700,
+		"id_str": "1130507563013791749",
+		"full_text": "@amichaelberman @Bali_Maha @mweinraub87 @Dan_Blick @tomliamlynch @barnillas @calimorrison @mzrascoff @jlknott @lindseyedixon I’m not implying that, but I understand that IRL actually means “In Real Life” to you and the “real” part is what you are having trouble with. It doesn’t mean that for me, and I am not intending it, but I lack better words to help get across that I see IRL and Online differently.",
+		"truncated": false,
+		"display_text_range": [
+			125,
+			405
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amichaelberman",
+					"name": "A. Michael Berman",
+					"id": 16159736,
+					"id_str": "16159736",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "mweinraub87",
+					"name": "Michael Weinraub",
+					"id": 972524358,
+					"id_str": "972524358",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "Dan_Blick",
+					"name": "Dan Blickensderfer",
+					"id": 188554158,
+					"id_str": "188554158",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "tomliamlynch",
+					"name": "Gradgrind's",
+					"id": 16987591,
+					"id_str": "16987591",
+					"indices": [
+						51,
+						64
+					]
+				},
+				{
+					"screen_name": "barnillas",
+					"name": "Beatriz Arnillas",
+					"id": 65504675,
+					"id_str": "65504675",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "calimorrison",
+					"name": "Dr. Cali Morrison (DocCMo bc it's fun)",
+					"id": 22952939,
+					"id_str": "22952939",
+					"indices": [
+						76,
+						89
+					]
+				},
+				{
+					"screen_name": "mzrascoff",
+					"name": "Matthew Rascoff",
+					"id": 9469272,
+					"id_str": "9469272",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"screen_name": "jlknott",
+					"name": "Dr. Jessica L. Knott",
+					"id": 7693002,
+					"id_str": "7693002",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"screen_name": "lindseyedixon",
+					"name": "Lindsey E. Dixon",
+					"id": 107295639,
+					"id_str": "107295639",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/mac\" rel=\"nofollow\">Twitterrific for Mac</a>",
+		"in_reply_to_status_id": 1130504923030777900,
+		"in_reply_to_status_id_str": "1130504923030777856",
+		"in_reply_to_user_id": 16159736,
+		"in_reply_to_user_id_str": "16159736",
+		"in_reply_to_screen_name": "amichaelberman",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6442,
+			"friends_count": 1372,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18181,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amichaelberman @Bali_Maha @mweinraub87 @Dan_Blick @tomliamlynch @barnillas @calimorrison @mzrascoff @jlknott @lindseyedixon I’m not implying that, but I understand that IRL actually means “In Real Life” to you and the “real” part is what you are having trouble with. It doesn’t mean that for me, and I am not intending it, but I lack better words to help get across that I see IRL and Online differently."
+	},
+	{
+		"created_at": "Mon May 20 15:58:08 +0000 2019",
+		"id": 1130502979688124400,
+		"id_str": "1130502979688124416",
+		"full_text": "@amichaelberman Again. This is a difference, but in many ways, that physical touch (and the anxiety it can sometimes produce) is NOT BETTER than what I have in greeting folks via video/online. It is just different and a series of other anxieties are present in online-only spaces.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amichaelberman",
+					"name": "A. Michael Berman",
+					"id": 16159736,
+					"id_str": "16159736",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/mac\" rel=\"nofollow\">Twitterrific for Mac</a>",
+		"in_reply_to_status_id": 1130498680866332700,
+		"in_reply_to_status_id_str": "1130498680866332672",
+		"in_reply_to_user_id": 16159736,
+		"in_reply_to_user_id_str": "16159736",
+		"in_reply_to_screen_name": "amichaelberman",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6442,
+			"friends_count": 1372,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18181,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amichaelberman Again. This is a difference, but in many ways, that physical touch (and the anxiety it can sometimes produce) is NOT BETTER than what I have in greeting folks via video/online. It is just different and a series of other anxieties are present in online-only spaces."
+	},
+	{
+		"created_at": "Mon May 20 15:56:43 +0000 2019",
+		"id": 1130502624032067600,
+		"id_str": "1130502624032067584",
+		"full_text": "@amichaelberman The most obvious difference to me is that I very often reach out and physically touch someone in IRL greeting or conversation, and that doesn’t really exist in the online relationships I have. If you have figured out physical touch in online spaces, I’d love to hear about it!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			292
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amichaelberman",
+					"name": "A. Michael Berman",
+					"id": 16159736,
+					"id_str": "16159736",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/mac\" rel=\"nofollow\">Twitterrific for Mac</a>",
+		"in_reply_to_status_id": 1130498680866332700,
+		"in_reply_to_status_id_str": "1130498680866332672",
+		"in_reply_to_user_id": 16159736,
+		"in_reply_to_user_id_str": "16159736",
+		"in_reply_to_screen_name": "amichaelberman",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6442,
+			"friends_count": 1372,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18181,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amichaelberman The most obvious difference to me is that I very often reach out and physically touch someone in IRL greeting or conversation, and that doesn’t really exist in the online relationships I have. If you have figured out physical touch in online spaces, I’d love to hear about it!"
+	},
+	{
+		"created_at": "Mon May 20 15:52:59 +0000 2019",
+		"id": 1130501682004029400,
+		"id_str": "1130501682004029440",
+		"full_text": "@Bali_Maha @mweinraub87 @amichaelberman @Dan_Blick @tomliamlynch @barnillas @calimorrison @mzrascoff @jlknott @lindseyedixon After rereading this comment, it really does make me think that you believe I’m saying/implying that IRL is better than online connections. Nothing could be further from the truth. They are different &amp; should be called out as such. It helps me to understand them to describe them.",
+		"truncated": false,
+		"display_text_range": [
+			125,
+			409
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "mweinraub87",
+					"name": "Michael Weinraub",
+					"id": 972524358,
+					"id_str": "972524358",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "amichaelberman",
+					"name": "A. Michael Berman",
+					"id": 16159736,
+					"id_str": "16159736",
+					"indices": [
+						24,
+						39
+					]
+				},
+				{
+					"screen_name": "Dan_Blick",
+					"name": "Dan Blickensderfer",
+					"id": 188554158,
+					"id_str": "188554158",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "tomliamlynch",
+					"name": "Gradgrind's",
+					"id": 16987591,
+					"id_str": "16987591",
+					"indices": [
+						51,
+						64
+					]
+				},
+				{
+					"screen_name": "barnillas",
+					"name": "Beatriz Arnillas",
+					"id": 65504675,
+					"id_str": "65504675",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "calimorrison",
+					"name": "Dr. Cali Morrison (DocCMo bc it's fun)",
+					"id": 22952939,
+					"id_str": "22952939",
+					"indices": [
+						76,
+						89
+					]
+				},
+				{
+					"screen_name": "mzrascoff",
+					"name": "Matthew Rascoff",
+					"id": 9469272,
+					"id_str": "9469272",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"screen_name": "jlknott",
+					"name": "Dr. Jessica L. Knott",
+					"id": 7693002,
+					"id_str": "7693002",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"screen_name": "lindseyedixon",
+					"name": "Lindsey E. Dixon",
+					"id": 107295639,
+					"id_str": "107295639",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": 1130489409156145200,
+		"in_reply_to_status_id_str": "1130489409156145153",
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6442,
+			"friends_count": 1372,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18181,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Bali_Maha @mweinraub87 @amichaelberman @Dan_Blick @tomliamlynch @barnillas @calimorrison @mzrascoff @jlknott @lindseyedixon After rereading this comment, it really does make me think that you believe I’m saying/implying that IRL is better than online connections. Nothing could be further from the truth. They are different &amp; should be called out as such. It helps me to understand them to describe them."
+	},
+	{
 		"created_at": "Mon May 20 14:37:28 +0000 2019",
 		"id": 1130482677658730500,
 		"id_str": "1130482677658730497",

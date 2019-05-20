@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 11:35:54 +0000 2019",
+		"id": 1130436985800183800,
+		"id_str": "1130436985800183814",
+		"full_text": "Sounds about right.  I think it was the first time I had ever seen #GreatDepression before, but I quite like it! https://t.co/laJN4659k3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GreatDepression",
+					"indices": [
+						67,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/laJN4659k3",
+					"expanded_url": "https://twitter.com/thelearnersway/status/1130262451092463617",
+					"display_url": "twitter.com/thelearnersway…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6442,
+			"friends_count": 1372,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18175,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130262451092463600,
+		"quoted_status_id_str": "1130262451092463617",
+		"quoted_status_permalink": {
+			"url": "https://t.co/laJN4659k3",
+			"expanded": "https://twitter.com/thelearnersway/status/1130262451092463617",
+			"display": "twitter.com/thelearnersway…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 20 00:02:22 +0000 2019",
+			"id": 1130262451092463600,
+			"id_str": "1130262451092463617",
+			"full_text": "@bhwilkoff Do your thang Ben! I was just processing (with hashtags, so that's a new level of digital literacy for me) at a brewery before I could even attempt to tackle bigger projects :D",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				187
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1129466260432068600,
+			"in_reply_to_status_id_str": "1129466260432068614",
+			"in_reply_to_user_id": 1710871,
+			"in_reply_to_user_id_str": "1710871",
+			"in_reply_to_screen_name": "bhwilkoff",
+			"user": {
+				"id": 3232891267,
+				"id_str": "3232891267",
+				"name": "Susannah Simmons",
+				"screen_name": "thelearnersway",
+				"location": "Denver, CO",
+				"description": "Learning Experience Designer in Higher Ed @coschoolofmines . I'm a #lifelonglearner that geeks out w/the #Pedagome PLN about #LXDesign, & #EdTech",
+				"url": "https://t.co/sNKS7cpeLE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sNKS7cpeLE",
+								"expanded_url": "http://SusannahSimmons.com",
+								"display_url": "SusannahSimmons.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 449,
+				"friends_count": 460,
+				"listed_count": 48,
+				"created_at": "Mon Jun 01 19:11:30 +0000 2015",
+				"favourites_count": 3676,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1375,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1128331463286353921/SQDClo98_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128331463286353921/SQDClo98_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3232891267/1557623085",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sounds about right.  I think it was the first time I had ever seen #GreatDepression before, but I quite like it! https://t.co/laJN4659k3"
+	},
+	{
 		"created_at": "Sun May 19 13:30:01 +0000 2019",
 		"id": 1130103315495247900,
 		"id_str": "1130103315495247873",

@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 14:31:58 +0000 2019",
+		"id": 1131206070012014600,
+		"id_str": "1131206070012014593",
+		"full_text": "So, my new favorite podcast (#TeaForTeaching) posted a wonderful episode with @GeekyPedagogy that is right at the hear of this week’s #digPINS topic, Pedagogy. I guess everything is just Coming up Learning this week! https://t.co/wVoz6TQ6Tg https://t.co/1DPCFt73c8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeaForTeaching",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"text": "digPINS",
+					"indices": [
+						134,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeekyPedagogy",
+					"name": "Geeky Pedagogy",
+					"id": 1080111260979658800,
+					"id_str": "1080111260979658753",
+					"indices": [
+						78,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wVoz6TQ6Tg",
+					"expanded_url": "http://teaforteaching.com/82-geeky-pedagogy/",
+					"display_url": "teaforteaching.com/82-geeky-pedag…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1131206007860764700,
+					"id_str": "1131206007860764674",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1131206007860764674/pu/img/7Cbv7WuOWf9G-wQr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1131206007860764674/pu/img/7Cbv7WuOWf9G-wQr.jpg",
+					"url": "https://t.co/1DPCFt73c8",
+					"display_url": "pic.twitter.com/1DPCFt73c8",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1131206070012014593/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1008,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1008,
+							"h": 1008,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131206007860764700,
+					"id_str": "1131206007860764674",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1131206007860764674/pu/img/7Cbv7WuOWf9G-wQr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1131206007860764674/pu/img/7Cbv7WuOWf9G-wQr.jpg",
+					"url": "https://t.co/1DPCFt73c8",
+					"display_url": "pic.twitter.com/1DPCFt73c8",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1131206070012014593/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1008,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1008,
+							"h": 1008,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 57333,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1131206007860764674/pu/pl/oUHQc0hgTK50IO2A.m3u8?tag=9"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1131206007860764674/pu/vid/320x320/6MRBw0Quzlz7yHTN.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1131206007860764674/pu/vid/480x480/ErVynv5G1wkDXc7l.mp4?tag=9"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1131206007860764674/pu/vid/720x720/oerUpaxkj0xhM_y7.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6444,
+			"friends_count": 1380,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So, my new favorite podcast (#TeaForTeaching) posted a wonderful episode with @GeekyPedagogy that is right at the hear of this week’s #digPINS topic, Pedagogy. I guess everything is just Coming up Learning this week! https://t.co/wVoz6TQ6Tg https://t.co/1DPCFt73c8"
+	},
+	{
 		"created_at": "Tue May 21 16:36:55 +0000 2019",
 		"id": 1130875126327566300,
 		"id_str": "1130875126327566337",

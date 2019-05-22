@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 19:59:00 +0000 2019",
+		"id": 1131288369835651100,
+		"id_str": "1131288369835651072",
+		"full_text": "@cyberthread @GeekyPedagogy @john_kane_osw Agreed! But, the polish on your podcast is absolutely superior to the vast majority of other “Educational Podcasts”. The fact that you do transcripts, edit down question/response audio, and do audio placement (right-to-left channels) is wonderful. Keep up the good work!",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			313
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cyberthread",
+					"name": "Rebecca Mushtare",
+					"id": 163944641,
+					"id_str": "163944641",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "GeekyPedagogy",
+					"name": "Geeky Pedagogy",
+					"id": 1080111260979658800,
+					"id_str": "1080111260979658753",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "john_kane_osw",
+					"name": "john_kane_osw",
+					"id": 15746932,
+					"id_str": "15746932",
+					"indices": [
+						28,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/mac\" rel=\"nofollow\">Twitterrific for Mac</a>",
+		"in_reply_to_status_id": 1131287779596542000,
+		"in_reply_to_status_id_str": "1131287779596541958",
+		"in_reply_to_user_id": 163944641,
+		"in_reply_to_user_id_str": "163944641",
+		"in_reply_to_screen_name": "cyberthread",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6446,
+			"friends_count": 1382,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cyberthread @GeekyPedagogy @john_kane_osw Agreed! But, the polish on your podcast is absolutely superior to the vast majority of other “Educational Podcasts”. The fact that you do transcripts, edit down question/response audio, and do audio placement (right-to-left channels) is wonderful. Keep up the good work!"
+	},
+	{
 		"created_at": "Wed May 22 14:31:58 +0000 2019",
 		"id": 1131206070012014600,
 		"id_str": "1131206070012014593",

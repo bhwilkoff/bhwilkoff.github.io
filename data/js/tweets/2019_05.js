@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 15:20:26 +0000 2019",
+		"id": 1134117369842810900,
+		"id_str": "1134117369842810882",
+		"full_text": "@wfryer @SkylledDev @9to5Google @ublockorigin Agreed. I have found that now that Safari Extensions are within the App Store and direct integration with Share Sheet/Services, I trust them more and they have the ones that I need. Recommendations: Short Menu, Pocket, Twitterriffic, and Apple Notes. https://t.co/JcQBuxGMrN",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			320
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wfryer",
+					"name": "Wesley Fryer, Ph.D. 🌎🎙🚀",
+					"id": 7095342,
+					"id_str": "7095342",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "SkylledDev",
+					"name": "Kyle Bradshaw",
+					"id": 17830226,
+					"id_str": "17830226",
+					"indices": [
+						8,
+						19
+					]
+				},
+				{
+					"screen_name": "9to5Google",
+					"name": "9to5Google.com",
+					"id": 177087369,
+					"id_str": "177087369",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "ublockorigin",
+					"name": "uBlockOrigin",
+					"id": 796492920278908900,
+					"id_str": "796492920278908929",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JcQBuxGMrN",
+					"expanded_url": "https://itunes.apple.com/us/story/id1377753262",
+					"display_url": "itunes.apple.com/us/story/id137…",
+					"indices": [
+						297,
+						320
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/mac\" rel=\"nofollow\">Twitterrific for Mac</a>",
+		"in_reply_to_status_id": 1134116063929614300,
+		"in_reply_to_status_id_str": "1134116063929614337",
+		"in_reply_to_user_id": 7095342,
+		"in_reply_to_user_id_str": "7095342",
+		"in_reply_to_screen_name": "wfryer",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6452,
+			"friends_count": 1405,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@wfryer @SkylledDev @9to5Google @ublockorigin Agreed. I have found that now that Safari Extensions are within the App Store and direct integration with Share Sheet/Services, I trust them more and they have the ones that I need. Recommendations: Short Menu, Pocket, Twitterriffic, and Apple Notes. https://t.co/JcQBuxGMrN"
+	},
+	{
+		"created_at": "Thu May 30 14:35:50 +0000 2019",
+		"id": 1134106144333426700,
+		"id_str": "1134106144333426688",
+		"full_text": "@wfryer @SkylledDev @9to5Google @ublockorigin I’ve gone all in on Safari (Technology Preview) actually. I find that it is absolutely the fastest and least bloated way of experiencing the web. Chrome is just a bloatfest from beginning to end. Even Microsoft’s Edge Canary build is better than Chrome right now.",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			309
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wfryer",
+					"name": "Wesley Fryer, Ph.D. 🌎🎙🚀",
+					"id": 7095342,
+					"id_str": "7095342",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "SkylledDev",
+					"name": "Kyle Bradshaw",
+					"id": 17830226,
+					"id_str": "17830226",
+					"indices": [
+						8,
+						19
+					]
+				},
+				{
+					"screen_name": "9to5Google",
+					"name": "9to5Google.com",
+					"id": 177087369,
+					"id_str": "177087369",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "ublockorigin",
+					"name": "uBlockOrigin",
+					"id": 796492920278908900,
+					"id_str": "796492920278908929",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/mac\" rel=\"nofollow\">Twitterrific for Mac</a>",
+		"in_reply_to_status_id": 1133953340059082800,
+		"in_reply_to_status_id_str": "1133953340059082752",
+		"in_reply_to_user_id": 7095342,
+		"in_reply_to_user_id_str": "7095342",
+		"in_reply_to_screen_name": "wfryer",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6452,
+			"friends_count": 1405,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017879115565678592/9rs-vqdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wfryer @SkylledDev @9to5Google @ublockorigin I’ve gone all in on Safari (Technology Preview) actually. I find that it is absolutely the fastest and least bloated way of experiencing the web. Chrome is just a bloatfest from beginning to end. Even Microsoft’s Edge Canary build is better than Chrome right now."
+	},
+	{
 		"created_at": "Thu May 30 12:59:17 +0000 2019",
 		"id": 1134081850215813100,
 		"id_str": "1134081850215813120",

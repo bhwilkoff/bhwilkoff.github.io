@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 03:59:03 +0000 2019",
+		"id": 1133472290480447500,
+		"id_str": "1136482607728812032",
+		"full_text": "#InnEdCO19 I've been sitting around with some kids planning the best session of the summer. Hope we see you in the Google room on Tuesday. https://t.co/on8Pd3eSIt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133472287879942100,
+					"id_str": "1133472287879942144",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/D7rnClnVUAAVYpi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7rnClnVUAAVYpi.jpg",
+					"url": "https://t.co/on8Pd3eSIt",
+					"display_url": "pic.twitter.com/on8Pd3eSIt",
+					"expanded_url": "https://twitter.com/cmoor4/status/1133472290480447489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 235,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 415,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1957,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133472287879942100,
+					"id_str": "1133472287879942144",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/D7rnClnVUAAVYpi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7rnClnVUAAVYpi.jpg",
+					"url": "https://t.co/on8Pd3eSIt",
+					"display_url": "pic.twitter.com/on8Pd3eSIt",
+					"expanded_url": "https://twitter.com/cmoor4/status/1133472290480447489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 235,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 415,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1957,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34024721,
+			"id_str": "34024721",
+			"name": "Chris Moore",
+			"screen_name": "cmoor4",
+			"location": "Colorado, USA",
+			"description": "Learning and asking questions",
+			"url": "https://t.co/yRIllkm7EH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yRIllkm7EH",
+							"expanded_url": "http://www.mcglonetech.blogspot.com",
+							"display_url": "mcglonetech.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 1257,
+			"listed_count": 156,
+			"created_at": "Tue Apr 21 20:14:07 +0000 2009",
+			"favourites_count": 840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/588686902804369408/GA9-JAMy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/588686902804369408/GA9-JAMy_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#InnEdCO19 I've been sitting around with some kids planning the best session of the summer. Hope we see you in the Google room on Tuesday. https://t.co/on8Pd3eSIt"
+	},
+	{
 		"created_at": "Wed Jun 05 18:10:02 +0000 2019",
 		"id": 1136334378244554800,
 		"id_str": "1136334378244554758",

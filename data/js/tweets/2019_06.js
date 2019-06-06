@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 16:18:51 +0000 2019",
+		"id": 1136668785480310800,
+		"id_str": "1136668785480310784",
+		"full_text": "This is a wonderful set of things to consider for PD. Who is leading this session? https://t.co/X9LMFlDaXW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X9LMFlDaXW",
+					"expanded_url": "https://twitter.com/TyrnaD/status/1136640992101228544",
+					"display_url": "twitter.com/TyrnaD/status/…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6455,
+			"friends_count": 1473,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1136640992101228500,
+		"quoted_status_id_str": "1136640992101228544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X9LMFlDaXW",
+			"expanded": "https://twitter.com/TyrnaD/status/1136640992101228544",
+			"display": "twitter.com/TyrnaD/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 06 14:28:24 +0000 2019",
+			"id": 1136640992101228500,
+			"id_str": "1136640992101228544",
+			"full_text": "#rockcs \"Professional Growth and Identity\". LOVE the idea of this. cc @bhwilkoff https://t.co/eHmZrdynQn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				80
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rockcs",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							70,
+							80
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1136640983855226900,
+						"id_str": "1136640983855226882",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/D8Yo89_XYAIsbJQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8Yo89_XYAIsbJQ.jpg",
+						"url": "https://t.co/eHmZrdynQn",
+						"display_url": "pic.twitter.com/eHmZrdynQn",
+						"expanded_url": "https://twitter.com/TyrnaD/status/1136640992101228544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1136640983855226900,
+						"id_str": "1136640983855226882",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/D8Yo89_XYAIsbJQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8Yo89_XYAIsbJQ.jpg",
+						"url": "https://t.co/eHmZrdynQn",
+						"display_url": "pic.twitter.com/eHmZrdynQn",
+						"expanded_url": "https://twitter.com/TyrnaD/status/1136640992101228544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 426285610,
+				"id_str": "426285610",
+				"name": "Jessica Raleigh",
+				"screen_name": "TyrnaD",
+				"location": "Denver, CO",
+				"description": "NotaSchool #BFC530",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3875,
+				"friends_count": 2034,
+				"listed_count": 205,
+				"created_at": "Fri Dec 02 02:05:13 +0000 2011",
+				"favourites_count": 21380,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19201,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081555908277133312/VDl4auzf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081555908277133312/VDl4auzf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/426285610/1541363027",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a wonderful set of things to consider for PD. Who is leading this session? https://t.co/X9LMFlDaXW"
+	},
+	{
 		"created_at": "Thu Jun 06 14:21:53 +0000 2019",
 		"id": 1136639350899322900,
 		"id_str": "1136639350899322880",

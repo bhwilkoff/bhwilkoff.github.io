@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 14:13:12 +0000 2019",
+		"id": 1136996231828451300,
+		"id_str": "1136999554534977538",
+		"full_text": "4 Days Until #InnEdCO19! We have an amazing lineup of keynote speakers this year! There is still time to register for #InnEdCO! #AlmostInnEdCO19 https://t.co/y398BMwra2 @ajjuliani @juliaerin80 @gitanjaliarao @HallDavidson\n@Jessifer @slamteacher https://t.co/w1dkdj0wdJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "InnEdCO",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "AlmostInnEdCO19",
+					"indices": [
+						128,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ajjuliani",
+					"name": "AJ Juliani",
+					"id": 151822870,
+					"id_str": "151822870",
+					"indices": [
+						169,
+						179
+					]
+				},
+				{
+					"screen_name": "juliaerin80",
+					"name": "Julia E. Torres",
+					"id": 1083851426,
+					"id_str": "1083851426",
+					"indices": [
+						180,
+						192
+					]
+				},
+				{
+					"screen_name": "gitanjaliarao",
+					"name": "Gitanjali Rao",
+					"id": 933202452697854000,
+					"id_str": "933202452697853952",
+					"indices": [
+						193,
+						207
+					]
+				},
+				{
+					"screen_name": "HallDavidson",
+					"name": "HallDavidson",
+					"id": 7882162,
+					"id_str": "7882162",
+					"indices": [
+						208,
+						221
+					]
+				},
+				{
+					"screen_name": "Jessifer",
+					"name": "Jesse Stommel",
+					"id": 11702102,
+					"id_str": "11702102",
+					"indices": [
+						222,
+						231
+					]
+				},
+				{
+					"screen_name": "slamteacher",
+					"name": "Sean Michael Morris",
+					"id": 565218468,
+					"id_str": "565218468",
+					"indices": [
+						232,
+						244
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y398BMwra2",
+					"expanded_url": "https://www.innedco.org/keynotespeakers/",
+					"display_url": "innedco.org/keynotespeaker…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1135960242326343700,
+					"id_str": "1135960242326343680",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/D8O90mLUEAAGlSc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8O90mLUEAAGlSc.jpg",
+					"url": "https://t.co/w1dkdj0wdJ",
+					"display_url": "pic.twitter.com/w1dkdj0wdJ",
+					"expanded_url": "https://twitter.com/InnEdCO/status/1136996231828451330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135960242326343700,
+					"id_str": "1135960242326343680",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/D8O90mLUEAAGlSc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8O90mLUEAAGlSc.jpg",
+					"url": "https://t.co/w1dkdj0wdJ",
+					"display_url": "pic.twitter.com/w1dkdj0wdJ",
+					"expanded_url": "https://twitter.com/InnEdCO/status/1136996231828451330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103948271,
+			"id_str": "103948271",
+			"name": "InnEdCO",
+			"screen_name": "InnEdCO",
+			"location": "",
+			"description": "We provide year-round networks for educators that support engagement in sustainable digital age leadership, teaching, and learning. #InnEdCO #InnEdCO19",
+			"url": "https://t.co/8xCYNu1QQO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8xCYNu1QQO",
+							"expanded_url": "http://innedco.org",
+							"display_url": "innedco.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2160,
+			"friends_count": 728,
+			"listed_count": 68,
+			"created_at": "Mon Jan 11 19:36:47 +0000 2010",
+			"favourites_count": 669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/560832218096885760/96-qg4IL_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/560832218096885760/96-qg4IL_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103948271/1497300705",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "4 Days Until #InnEdCO19! We have an amazing lineup of keynote speakers this year! There is still time to register for #InnEdCO! #AlmostInnEdCO19 https://t.co/y398BMwra2 @ajjuliani @juliaerin80 @gitanjaliarao @HallDavidson\n@Jessifer @slamteacher https://t.co/w1dkdj0wdJ"
+	},
+	{
 		"created_at": "Thu Jun 06 18:28:15 +0000 2019",
 		"id": 1136701348857040900,
 		"id_str": "1136701348857040896",

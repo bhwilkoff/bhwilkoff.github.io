@@ -1,6 +1,136 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 09 02:20:01 +0000 2019",
+		"id": 1137527451263782900,
+		"id_str": "1137544848930627584",
+		"full_text": "#InnEdCO19 How many tweets will you see with the word \"students\"? How many session titles? How many sessions will actually be led by students? At least one. It's on Tuesday in the Google room. Join us. #educollective #notaschool #coednet #comments4kids",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "educollective",
+					"indices": [
+						202,
+						216
+					]
+				},
+				{
+					"text": "notaschool",
+					"indices": [
+						217,
+						228
+					]
+				},
+				{
+					"text": "coednet",
+					"indices": [
+						229,
+						237
+					]
+				},
+				{
+					"text": "comments4kids",
+					"indices": [
+						238,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34024721,
+			"id_str": "34024721",
+			"name": "Chris Moore",
+			"screen_name": "cmoor4",
+			"location": "Colorado, USA",
+			"description": "Learning and asking questions",
+			"url": "https://t.co/WQfjQiQewE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQfjQiQewE",
+							"expanded_url": "http://Cmoor4Learning.com",
+							"display_url": "Cmoor4Learning.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 1257,
+			"listed_count": 156,
+			"created_at": "Tue Apr 21 20:14:07 +0000 2009",
+			"favourites_count": 845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/588686902804369408/GA9-JAMy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/588686902804369408/GA9-JAMy_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#InnEdCO19 How many tweets will you see with the word \"students\"? How many session titles? How many sessions will actually be led by students? At least one. It's on Tuesday in the Google room. Join us. #educollective #notaschool #coednet #comments4kids"
+	},
+	{
 		"created_at": "Sat Jun 08 16:22:37 +0000 2019",
 		"id": 1137394511494017000,
 		"id_str": "1137394511494017024",

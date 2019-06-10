@@ -1,6 +1,797 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 16:21:58 +0000 2019",
+		"id": 1138119121005043700,
+		"id_str": "1138119121005043717",
+		"full_text": "I’m interested in how we look to strategically use “lockdown browsers”. What does this choice (especially if we don’t talk about the reasons for choosing it) say to our students about our level of trust for them? #Innedco19 https://t.co/GBquTyMtl3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Innedco19",
+					"indices": [
+						213,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GBquTyMtl3",
+					"expanded_url": "https://twitter.com/jayveanccsd/status/1138113481633218563",
+					"display_url": "twitter.com/jayveanccsd/st…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6458,
+			"friends_count": 1548,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138113481633218600,
+		"quoted_status_id_str": "1138113481633218563",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GBquTyMtl3",
+			"expanded": "https://twitter.com/jayveanccsd/status/1138113481633218563",
+			"display": "twitter.com/jayveanccsd/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 10 15:59:33 +0000 2019",
+			"id": 1138113481633218600,
+			"id_str": "1138113481633218563",
+			"full_text": "#GoogleClassroom is working on a lockdown browser for quizzes. This is really nice. Thanks for the heads up, @brizzant711. #InnEdCO19",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleClassroom",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"text": "InnEdCO19",
+						"indices": [
+							123,
+							133
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "brizzant711",
+						"name": "Jennifer Brant",
+						"id": 2437207724,
+						"id_str": "2437207724",
+						"indices": [
+							109,
+							121
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1514177172,
+				"id_str": "1514177172",
+				"name": "Jay Vean",
+				"screen_name": "JayVeanCCSD",
+				"location": "Colorado",
+				"description": "District Digital Learning Coordinator working with teachers, school leaders, and kids.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1402,
+				"friends_count": 1438,
+				"listed_count": 98,
+				"created_at": "Thu Jun 13 19:05:07 +0000 2013",
+				"favourites_count": 1227,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10217,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1029080211592073220/ZCu8iG97_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029080211592073220/ZCu8iG97_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1514177172/1497904984",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m interested in how we look to strategically use “lockdown browsers”. What does this choice (especially if we don’t talk about the reasons for choosing it) say to our students about our level of trust for them? #Innedco19 https://t.co/GBquTyMtl3"
+	},
+	{
+		"created_at": "Mon Jun 10 16:12:50 +0000 2019",
+		"id": 1138116823126167600,
+		"id_str": "1138116823126167554",
+		"full_text": "Also would be helpful if I include the #InnEdCO19 hashtag, I suppose. https://t.co/9mrobSofyY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9mrobSofyY",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1138116604204470272",
+					"display_url": "twitter.com/bhwilkoff/stat…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1138116604204470300,
+		"in_reply_to_status_id_str": "1138116604204470272",
+		"in_reply_to_user_id": 1710871,
+		"in_reply_to_user_id_str": "1710871",
+		"in_reply_to_screen_name": "bhwilkoff",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6458,
+			"friends_count": 1548,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00dfedc95def9e04",
+			"url": "https://api.twitter.com/1.1/geo/id/00dfedc95def9e04.json",
+			"place_type": "city",
+			"name": "Keystone",
+			"full_name": "Keystone, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-106.020258,
+							39.579716
+						],
+						[
+							-105.936383,
+							39.579716
+						],
+						[
+							-105.936383,
+							39.610434
+						],
+						[
+							-106.020258,
+							39.610434
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138116604204470300,
+		"quoted_status_id_str": "1138116604204470272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9mrobSofyY",
+			"expanded": "https://twitter.com/bhwilkoff/status/1138116604204470272",
+			"display": "twitter.com/bhwilkoff/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 10 16:11:58 +0000 2019",
+			"id": 1138116604204470300,
+			"id_str": "1138116604204470272",
+			"full_text": "Talking about creative uses of the Numbers app on iPad for “Notebooking”. That is definitely a creative use, and I can’t wait to hear more from \n@CAdamsLPMS and @msjhollins: \nhttps://t.co/UShNg4M4pm https://t.co/RY80qIj1KB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CAdamsLPMS",
+						"name": "Courtney Adams",
+						"id": 4509345192,
+						"id_str": "4509345192",
+						"indices": [
+							145,
+							156
+						]
+					},
+					{
+						"screen_name": "msjhollins",
+						"name": "Joan Torrey Hollins",
+						"id": 809220030667833300,
+						"id_str": "809220030667833345",
+						"indices": [
+							161,
+							172
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UShNg4M4pm",
+						"expanded_url": "https://sites.google.com/svvsd.org/digital-notebooking-in-ipad-cl/home",
+						"display_url": "sites.google.com/svvsd.org/digi…",
+						"indices": [
+							175,
+							198
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1138116595048312800,
+						"id_str": "1138116595048312834",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/D8tnA2DU8AIQEM7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8tnA2DU8AIQEM7.jpg",
+						"url": "https://t.co/RY80qIj1KB",
+						"display_url": "pic.twitter.com/RY80qIj1KB",
+						"expanded_url": "https://twitter.com/bhwilkoff/status/1138116604204470272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1138116595048312800,
+						"id_str": "1138116595048312834",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/D8tnA2DU8AIQEM7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8tnA2DU8AIQEM7.jpg",
+						"url": "https://t.co/RY80qIj1KB",
+						"display_url": "pic.twitter.com/RY80qIj1KB",
+						"expanded_url": "https://twitter.com/bhwilkoff/status/1138116604204470272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1710871,
+				"id_str": "1710871",
+				"name": "Ben Wilkoff",
+				"screen_name": "bhwilkoff",
+				"location": "Littleton, Co",
+				"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+				"url": "http://t.co/NW4gT6QJUF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NW4gT6QJUF",
+								"expanded_url": "http://learningischange.com",
+								"display_url": "learningischange.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6458,
+				"friends_count": 1548,
+				"listed_count": 378,
+				"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+				"favourites_count": 969,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18237,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Also would be helpful if I include the #InnEdCO19 hashtag, I suppose. https://t.co/9mrobSofyY"
+	},
+	{
+		"created_at": "Mon Jun 10 16:11:58 +0000 2019",
+		"id": 1138116604204470300,
+		"id_str": "1138116604204470272",
+		"full_text": "Talking about creative uses of the Numbers app on iPad for “Notebooking”. That is definitely a creative use, and I can’t wait to hear more from \n@CAdamsLPMS and @msjhollins: \nhttps://t.co/UShNg4M4pm https://t.co/RY80qIj1KB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CAdamsLPMS",
+					"name": "Courtney Adams",
+					"id": 4509345192,
+					"id_str": "4509345192",
+					"indices": [
+						145,
+						156
+					]
+				},
+				{
+					"screen_name": "msjhollins",
+					"name": "Joan Torrey Hollins",
+					"id": 809220030667833300,
+					"id_str": "809220030667833345",
+					"indices": [
+						161,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UShNg4M4pm",
+					"expanded_url": "https://sites.google.com/svvsd.org/digital-notebooking-in-ipad-cl/home",
+					"display_url": "sites.google.com/svvsd.org/digi…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1138116595048312800,
+					"id_str": "1138116595048312834",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/D8tnA2DU8AIQEM7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8tnA2DU8AIQEM7.jpg",
+					"url": "https://t.co/RY80qIj1KB",
+					"display_url": "pic.twitter.com/RY80qIj1KB",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1138116604204470272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138116595048312800,
+					"id_str": "1138116595048312834",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/D8tnA2DU8AIQEM7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8tnA2DU8AIQEM7.jpg",
+					"url": "https://t.co/RY80qIj1KB",
+					"display_url": "pic.twitter.com/RY80qIj1KB",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1138116604204470272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6458,
+			"friends_count": 1548,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Talking about creative uses of the Numbers app on iPad for “Notebooking”. That is definitely a creative use, and I can’t wait to hear more from \n@CAdamsLPMS and @msjhollins: \nhttps://t.co/UShNg4M4pm https://t.co/RY80qIj1KB"
+	},
+	{
 		"created_at": "Mon Jun 10 15:13:29 +0000 2019",
 		"id": 1138101888421748700,
 		"id_str": "1138101888421748741",

@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 01:58:57 +0000 2019",
+		"id": 1137845444875292700,
+		"id_str": "1137901937406332928",
+		"full_text": "Our first #InnEdCO19 registrants! Welcome Veronica and Kareen from Pueblo City Schools! #InnEdCO19 https://t.co/oC4cMgt5LJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						88,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137845443780587500,
+					"id_str": "1137845443780587520",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/D8pwZw3WsAAkQEn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8pwZw3WsAAkQEn.jpg",
+					"url": "https://t.co/oC4cMgt5LJ",
+					"display_url": "pic.twitter.com/oC4cMgt5LJ",
+					"expanded_url": "https://twitter.com/InnEdCO/status/1137845444875292673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137845443780587500,
+					"id_str": "1137845443780587520",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/D8pwZw3WsAAkQEn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8pwZw3WsAAkQEn.jpg",
+					"url": "https://t.co/oC4cMgt5LJ",
+					"display_url": "pic.twitter.com/oC4cMgt5LJ",
+					"expanded_url": "https://twitter.com/InnEdCO/status/1137845444875292673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103948271,
+			"id_str": "103948271",
+			"name": "InnEdCO",
+			"screen_name": "InnEdCO",
+			"location": "",
+			"description": "We provide year-round networks for educators that support engagement in sustainable digital age leadership, teaching, and learning. #InnEdCO #InnEdCO19",
+			"url": "https://t.co/8xCYNu1QQO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8xCYNu1QQO",
+							"expanded_url": "http://innedco.org",
+							"display_url": "innedco.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2173,
+			"friends_count": 771,
+			"listed_count": 68,
+			"created_at": "Mon Jan 11 19:36:47 +0000 2010",
+			"favourites_count": 711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/560832218096885760/96-qg4IL_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/560832218096885760/96-qg4IL_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103948271/1497300705",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our first #InnEdCO19 registrants! Welcome Veronica and Kareen from Pueblo City Schools! #InnEdCO19 https://t.co/oC4cMgt5LJ"
+	},
+	{
 		"created_at": "Sun Jun 09 22:56:03 +0000 2019",
 		"id": 1137855909974032400,
 		"id_str": "1137855909974032384",

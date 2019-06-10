@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 19:04:35 +0000 2019",
+		"id": 1138160043717562400,
+		"id_str": "1138160043717562368",
+		"full_text": "This is a perfect representation of how we all felt as #InnEdCOnewbies. I still remember the adjustments I had to make coming from Ohio in 2001. So glad you are here at #InnEdCO19! https://t.co/D2pkcUD8UN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCOnewbies",
+					"indices": [
+						55,
+						70
+					]
+				},
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						169,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D2pkcUD8UN",
+					"expanded_url": "https://twitter.com/fatpandasensei/status/1138152955402629120",
+					"display_url": "twitter.com/fatpandasensei…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6459,
+			"friends_count": 1553,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00dfedc95def9e04",
+			"url": "https://api.twitter.com/1.1/geo/id/00dfedc95def9e04.json",
+			"place_type": "city",
+			"name": "Keystone",
+			"full_name": "Keystone, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-106.020258,
+							39.579716
+						],
+						[
+							-105.936383,
+							39.579716
+						],
+						[
+							-105.936383,
+							39.610434
+						],
+						[
+							-106.020258,
+							39.610434
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138152955402629100,
+		"quoted_status_id_str": "1138152955402629120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D2pkcUD8UN",
+			"expanded": "https://twitter.com/fatpandasensei/status/1138152955402629120",
+			"display": "twitter.com/fatpandasensei…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 10 18:36:25 +0000 2019",
+			"id": 1138152955402629100,
+			"id_str": "1138152955402629120",
+			"full_text": "“Yes you’re a southerner who has lived his whole life in the flood planes and the lowlands, but go present at the mountains!” they said. “It’ll be fun!” they said. My body is....adjusting to this 9000 feet elevation thing. I miss humidity LOL #InnEdCO19 https://t.co/0JRgAJcPOo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InnEdCO19",
+						"indices": [
+							243,
+							253
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1138152396360601600,
+						"id_str": "1138152396360601600",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/D8uHkwVVUAAVC-5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8uHkwVVUAAVC-5.jpg",
+						"url": "https://t.co/0JRgAJcPOo",
+						"display_url": "pic.twitter.com/0JRgAJcPOo",
+						"expanded_url": "https://twitter.com/fatpandasensei/status/1138152955402629120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1538,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 901,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1138152396360601600,
+						"id_str": "1138152396360601600",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/D8uHkwVVUAAVC-5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8uHkwVVUAAVC-5.jpg",
+						"url": "https://t.co/0JRgAJcPOo",
+						"display_url": "pic.twitter.com/0JRgAJcPOo",
+						"expanded_url": "https://twitter.com/fatpandasensei/status/1138152955402629120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1538,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 901,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3432471664,
+				"id_str": "3432471664",
+				"name": "Matthew C Henry",
+				"screen_name": "fatpandasensei",
+				"location": "Cary, NC",
+				"description": "Fat. Geek. Technoshaman. Apple Monk. Windows10 Footsoldier. Urban Buddhist. Destroyer of Buffets. Bleeds Sriracha. Never opinionless. Skidoosh. WTCC Program Dir",
+				"url": "https://t.co/Wgzg1P2MZr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Wgzg1P2MZr",
+								"expanded_url": "http://fatpandasensei.tumblr.com",
+								"display_url": "fatpandasensei.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67,
+				"friends_count": 124,
+				"listed_count": 6,
+				"created_at": "Thu Aug 20 05:10:49 +0000 2015",
+				"favourites_count": 82,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 323,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/684509562930511872/TFdOJZbu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/684509562930511872/TFdOJZbu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3432471664/1452034793",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "e21c8e4914eef2b3",
+				"url": "https://api.twitter.com/1.1/geo/id/e21c8e4914eef2b3.json",
+				"place_type": "admin",
+				"name": "Colorado",
+				"full_name": "Colorado, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-109.060257,
+								36.992427
+							],
+							[
+								-102.041524,
+								36.992427
+							],
+							[
+								-102.041524,
+								41.003445
+							],
+							[
+								-109.060257,
+								41.003445
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a perfect representation of how we all felt as #InnEdCOnewbies. I still remember the adjustments I had to make coming from Ohio in 2001. So glad you are here at #InnEdCO19! https://t.co/D2pkcUD8UN"
+	},
+	{
 		"created_at": "Mon Jun 10 16:41:27 +0000 2019",
 		"id": 1138124026784563200,
 		"id_str": "1138124026784563205",

@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 21:30:37 +0000 2019",
+		"id": 1138543901575340000,
+		"id_str": "1138559183916294152",
+		"full_text": "Can asking students to create non-written representations of learning be both innovative AND culturally responsive? One of the most powerful characteristics of tech is the opportunity to use it as a means for working toward equity. #innedco19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "innedco19",
+					"indices": [
+						232,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43928416,
+			"id_str": "43928416",
+			"name": "Mattea Garcia",
+			"screen_name": "MatteaGarcia",
+			"location": "Denver",
+			"description": "Innovation for ALL.",
+			"url": "https://t.co/g0QpUL8in2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g0QpUL8in2",
+							"expanded_url": "http://matteagarcia.info",
+							"display_url": "matteagarcia.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 211,
+			"listed_count": 31,
+			"created_at": "Mon Jun 01 17:36:52 +0000 2009",
+			"favourites_count": 277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138104116666818560/gsuPA0Ul_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138104116666818560/gsuPA0Ul_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43928416/1398309272",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Can asking students to create non-written representations of learning be both innovative AND culturally responsive? One of the most powerful characteristics of tech is the opportunity to use it as a means for working toward equity. #innedco19"
+	},
+	{
 		"created_at": "Tue Jun 11 19:38:59 +0000 2019",
 		"id": 1138531091365544000,
 		"id_str": "1138531091365543936",

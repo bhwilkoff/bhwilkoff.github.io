@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 19:38:59 +0000 2019",
+		"id": 1138531091365544000,
+		"id_str": "1138531091365543936",
+		"full_text": "Love that @SenorG is using @wakelet to help co-create the presentation as he is giving it at #InnEdCO19 https://t.co/UANVf1GHgd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						93,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SenorG",
+					"name": "Noah Geisel",
+					"id": 21132309,
+					"id_str": "21132309",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "wakelet",
+					"name": "Wakelet",
+					"id": 169922611,
+					"id_str": "169922611",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UANVf1GHgd",
+					"expanded_url": "https://medium.com/@SenorG",
+					"display_url": "medium.com/@SenorG",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6462,
+			"friends_count": 1594,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love that @SenorG is using @wakelet to help co-create the presentation as he is giving it at #InnEdCO19 https://t.co/UANVf1GHgd"
+	},
+	{
 		"created_at": "Tue Jun 11 17:21:17 +0000 2019",
 		"id": 1138495378125312000,
 		"id_str": "1138496435979202561",

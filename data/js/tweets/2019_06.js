@@ -1,6 +1,816 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 15:01:16 +0000 2019",
+		"id": 1138461202156097500,
+		"id_str": "1138461202156097536",
+		"full_text": "When your kids come to present at #innedco19! Thank you @cmoor4 and @TyrnaD for help making this possible! https://t.co/nmnd496JVs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "innedco19",
+					"indices": [
+						34,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cmoor4",
+					"name": "Chris Moore",
+					"id": 34024721,
+					"id_str": "34024721",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"screen_name": "TyrnaD",
+					"name": "Jessica Raleigh",
+					"id": 426285610,
+					"id_str": "426285610",
+					"indices": [
+						68,
+						75
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138461184833679400,
+					"id_str": "1138461184833679360",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/D8yganCU8AAs76y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8yganCU8AAs76y.jpg",
+					"url": "https://t.co/nmnd496JVs",
+					"display_url": "pic.twitter.com/nmnd496JVs",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1138461202156097536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138461184833679400,
+					"id_str": "1138461184833679360",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/D8yganCU8AAs76y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8yganCU8AAs76y.jpg",
+					"url": "https://t.co/nmnd496JVs",
+					"display_url": "pic.twitter.com/nmnd496JVs",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1138461202156097536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6459,
+			"friends_count": 1579,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When your kids come to present at #innedco19! Thank you @cmoor4 and @TyrnaD for help making this possible! https://t.co/nmnd496JVs"
+	},
+	{
+		"created_at": "Tue Jun 11 14:49:20 +0000 2019",
+		"id": 1138435036913360900,
+		"id_str": "1138458198527041537",
+		"full_text": "#InnEdCO19 Actual, live kids are leading a Google session in 2 hours. Not to be missed. Google room. 9:15am. We've been waiting for this for years.lets make it amazing!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34024721,
+			"id_str": "34024721",
+			"name": "Chris Moore",
+			"screen_name": "cmoor4",
+			"location": "Colorado, USA",
+			"description": "Learning and asking questions",
+			"url": "https://t.co/WQfjQiQewE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQfjQiQewE",
+							"expanded_url": "http://Cmoor4Learning.com",
+							"display_url": "Cmoor4Learning.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 1257,
+			"listed_count": 156,
+			"created_at": "Tue Apr 21 20:14:07 +0000 2009",
+			"favourites_count": 850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/588686902804369408/GA9-JAMy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/588686902804369408/GA9-JAMy_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#InnEdCO19 Actual, live kids are leading a Google session in 2 hours. Not to be missed. Google room. 9:15am. We've been waiting for this for years.lets make it amazing!"
+	},
+	{
+		"created_at": "Tue Jun 11 14:47:13 +0000 2019",
+		"id": 1138426571583152100,
+		"id_str": "1138457663841427457",
+		"full_text": "A strong team of 28 tech savvy educators from Thompson School District are excited to learn at #InnEdCO19. https://t.co/xofZBsK054",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138426559793061900,
+					"id_str": "1138426559793061889",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/D8yA7KtV4AEKdxz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8yA7KtV4AEKdxz.jpg",
+					"url": "https://t.co/xofZBsK054",
+					"display_url": "pic.twitter.com/xofZBsK054",
+					"expanded_url": "https://twitter.com/edtechmatt/status/1138426571583152130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 454,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 151,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138426559793061900,
+					"id_str": "1138426559793061889",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/D8yA7KtV4AEKdxz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8yA7KtV4AEKdxz.jpg",
+					"url": "https://t.co/xofZBsK054",
+					"display_url": "pic.twitter.com/xofZBsK054",
+					"expanded_url": "https://twitter.com/edtechmatt/status/1138426571583152130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 454,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 151,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63557288,
+			"id_str": "63557288",
+			"name": "Matt Kuhn PhD",
+			"screen_name": "edtechmatt",
+			"location": "Denver",
+			"description": "Chief Technology Officer of Thompson School District. Innovation Instigator, Google Cert. Educator/Administrator, Author, Speaker.",
+			"url": "https://t.co/3aPdjZVXi3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3aPdjZVXi3",
+							"expanded_url": "https://www.linkedin.com/in/mattscottkuhn",
+							"display_url": "linkedin.com/in/mattscottku…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1524,
+			"friends_count": 1274,
+			"listed_count": 63,
+			"created_at": "Thu Aug 06 22:19:58 +0000 2009",
+			"favourites_count": 609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "28086B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109342360/Matt_Kuhn2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109342360/Matt_Kuhn2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63557288/1361382188",
+			"profile_link_color": "0009B3",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A strong team of 28 tech savvy educators from Thompson School District are excited to learn at #InnEdCO19. https://t.co/xofZBsK054"
+	},
+	{
+		"created_at": "Tue Jun 11 14:46:52 +0000 2019",
+		"id": 1138457576499228700,
+		"id_str": "1138457576499228673",
+		"full_text": "@RiggsRealWorld @ajjuliani @InnEdCO I think not! That’s why he’s here at #InnEdCO19!",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						73,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RiggsRealWorld",
+					"name": "Melissa Riggs",
+					"id": 1589424758,
+					"id_str": "1589424758",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ajjuliani",
+					"name": "AJ Juliani",
+					"id": 151822870,
+					"id_str": "151822870",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "InnEdCO",
+					"name": "InnEdCO",
+					"id": 103948271,
+					"id_str": "103948271",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1138447200424345600,
+		"in_reply_to_status_id_str": "1138447200424345600",
+		"in_reply_to_user_id": 1589424758,
+		"in_reply_to_user_id_str": "1589424758",
+		"in_reply_to_screen_name": "RiggsRealWorld",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6459,
+			"friends_count": 1579,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RiggsRealWorld @ajjuliani @InnEdCO I think not! That’s why he’s here at #InnEdCO19!"
+	},
+	{
+		"created_at": "Tue Jun 11 14:39:18 +0000 2019",
+		"id": 1138455670574002200,
+		"id_str": "1138455670574002177",
+		"full_text": "#OnlyAtInnEdCO #InnEdCO19 Love this teacher getting into digital storytelling and video making. https://t.co/YcyfTw0hCY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OnlyAtInnEdCO",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138455651108233200,
+					"id_str": "1138455651108233217",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ybYgTXoAEoYG1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8ybYgTXoAEoYG1.jpg",
+					"url": "https://t.co/YcyfTw0hCY",
+					"display_url": "pic.twitter.com/YcyfTw0hCY",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1138455670574002177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138455651108233200,
+					"id_str": "1138455651108233217",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ybYgTXoAEoYG1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8ybYgTXoAEoYG1.jpg",
+					"url": "https://t.co/YcyfTw0hCY",
+					"display_url": "pic.twitter.com/YcyfTw0hCY",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1138455670574002177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6459,
+			"friends_count": 1579,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OnlyAtInnEdCO #InnEdCO19 Love this teacher getting into digital storytelling and video making. https://t.co/YcyfTw0hCY"
+	},
+	{
 		"created_at": "Tue Jun 11 01:48:20 +0000 2019",
 		"id": 1138239518270582800,
 		"id_str": "1138261652812386311",

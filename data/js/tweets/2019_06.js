@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 12 18:18:09 +0000 2019",
+		"id": 1138863483473150000,
+		"id_str": "1138873136072601603",
+		"full_text": "Killer keynote from @juliaerin80 @InnEdCO #innedco19 on education as a practice for FREEDOM. None of us are free if some of us are not free. Grading as academic currency that promote compliance, obedience, and conformity. It is up to us to find better systems. All mic drops. ❤️❤️ https://t.co/HAeVVkymY9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "innedco19",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "juliaerin80",
+					"name": "Julia E. Torres",
+					"id": 1083851426,
+					"id_str": "1083851426",
+					"indices": [
+						20,
+						32
+					]
+				},
+				{
+					"screen_name": "InnEdCO",
+					"name": "InnEdCO",
+					"id": 103948271,
+					"id_str": "103948271",
+					"indices": [
+						33,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138863478712688600,
+					"id_str": "1138863478712688641",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D84OTMhV4AE8GdU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D84OTMhV4AE8GdU.jpg",
+					"url": "https://t.co/HAeVVkymY9",
+					"display_url": "pic.twitter.com/HAeVVkymY9",
+					"expanded_url": "https://twitter.com/BeckyEPeters/status/1138863483473149953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138863478712688600,
+					"id_str": "1138863478712688641",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D84OTMhV4AE8GdU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D84OTMhV4AE8GdU.jpg",
+					"url": "https://t.co/HAeVVkymY9",
+					"display_url": "pic.twitter.com/HAeVVkymY9",
+					"expanded_url": "https://twitter.com/BeckyEPeters/status/1138863483473149953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1138863478721007600,
+					"id_str": "1138863478721007626",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D84OTMjU0Aovzxu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D84OTMjU0Aovzxu.jpg",
+					"url": "https://t.co/HAeVVkymY9",
+					"display_url": "pic.twitter.com/HAeVVkymY9",
+					"expanded_url": "https://twitter.com/BeckyEPeters/status/1138863483473149953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1138863478720962600,
+					"id_str": "1138863478720962560",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D84OTMjUIAA9AqR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D84OTMjUIAA9AqR.jpg",
+					"url": "https://t.co/HAeVVkymY9",
+					"display_url": "pic.twitter.com/HAeVVkymY9",
+					"expanded_url": "https://twitter.com/BeckyEPeters/status/1138863483473149953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 461619640,
+			"id_str": "461619640",
+			"name": "Becky Peters",
+			"screen_name": "BeckyEPeters",
+			"location": "Longmont, CO",
+			"description": "Love to learn about education, math, STEM, data science, & the brain! @VrainWaves Podcast Cohost, Program Mgr @ICSVVSD, @SVVSD #STEMbyDesign #MakeSomeVrainWaves",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1395,
+			"friends_count": 3885,
+			"listed_count": 39,
+			"created_at": "Thu Jan 12 00:34:30 +0000 2012",
+			"favourites_count": 6925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/455493350963937281/aUQyA6e7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/455493350963937281/aUQyA6e7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/461619640/1397433068",
+			"profile_link_color": "6B8E23",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Killer keynote from @juliaerin80 @InnEdCO #innedco19 on education as a practice for FREEDOM. None of us are free if some of us are not free. Grading as academic currency that promote compliance, obedience, and conformity. It is up to us to find better systems. All mic drops. ❤️❤️ https://t.co/HAeVVkymY9"
+	},
+	{
 		"created_at": "Wed Jun 12 16:04:12 +0000 2019",
 		"id": 1138839424882470900,
 		"id_str": "1138839424882470912",

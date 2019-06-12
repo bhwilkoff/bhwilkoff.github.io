@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 12 21:16:16 +0000 2019",
+		"id": 1138911862429380600,
+		"id_str": "1138917962478477315",
+		"full_text": "I believe in @InnEdCO. I am so grateful that I’ve been able to attend many times and am already looking forward to future InnEdCO conferences as well. That’s why I’m more than happy to now be a premium member. Yay for this annual treat! #InnEdCO19 #WeAreInnEdCO https://t.co/DUMSzGQk9p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						237,
+						247
+					]
+				},
+				{
+					"text": "WeAreInnEdCO",
+					"indices": [
+						248,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "InnEdCO",
+					"name": "InnEdCO",
+					"id": 103948271,
+					"id_str": "103948271",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138911825905406000,
+					"id_str": "1138911825905405953",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/D846RX2VUAEcUk_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D846RX2VUAEcUk_.jpg",
+					"url": "https://t.co/DUMSzGQk9p",
+					"display_url": "pic.twitter.com/DUMSzGQk9p",
+					"expanded_url": "https://twitter.com/JayVeanCCSD/status/1138911862429380609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1107,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 649,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138911825905406000,
+					"id_str": "1138911825905405953",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/D846RX2VUAEcUk_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D846RX2VUAEcUk_.jpg",
+					"url": "https://t.co/DUMSzGQk9p",
+					"display_url": "pic.twitter.com/DUMSzGQk9p",
+					"expanded_url": "https://twitter.com/JayVeanCCSD/status/1138911862429380609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1107,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 649,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1514177172,
+			"id_str": "1514177172",
+			"name": "Jay Vean",
+			"screen_name": "JayVeanCCSD",
+			"location": "Colorado",
+			"description": "District Digital Learning Coordinator working with teachers, school leaders, and kids.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1408,
+			"friends_count": 1446,
+			"listed_count": 97,
+			"created_at": "Thu Jun 13 19:05:07 +0000 2013",
+			"favourites_count": 1242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1029080211592073220/ZCu8iG97_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029080211592073220/ZCu8iG97_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1514177172/1497904984",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I believe in @InnEdCO. I am so grateful that I’ve been able to attend many times and am already looking forward to future InnEdCO conferences as well. That’s why I’m more than happy to now be a premium member. Yay for this annual treat! #InnEdCO19 #WeAreInnEdCO https://t.co/DUMSzGQk9p"
+	},
+	{
+		"created_at": "Wed Jun 12 21:16:06 +0000 2019",
+		"id": 1138917916433403900,
+		"id_str": "1138917916433403904",
+		"full_text": "Love the inclusion of student voice in @Den_Petersen and @MrsPotts19 session at #InnEdCo19. https://t.co/qk9jS3lZ2r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCo19",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Den_Petersen",
+					"name": "Brandon Petersen",
+					"id": 867056726,
+					"id_str": "867056726",
+					"indices": [
+						39,
+						52
+					]
+				},
+				{
+					"screen_name": "MrsPotts19",
+					"name": "Penny Potts",
+					"id": 2295143449,
+					"id_str": "2295143449",
+					"indices": [
+						57,
+						68
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138917907294015500,
+					"id_str": "1138917907294015491",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D84_zWyXUAMr9L6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D84_zWyXUAMr9L6.jpg",
+					"url": "https://t.co/qk9jS3lZ2r",
+					"display_url": "pic.twitter.com/qk9jS3lZ2r",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1138917916433403904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138917907294015500,
+					"id_str": "1138917907294015491",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D84_zWyXUAMr9L6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D84_zWyXUAMr9L6.jpg",
+					"url": "https://t.co/qk9jS3lZ2r",
+					"display_url": "pic.twitter.com/qk9jS3lZ2r",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1138917916433403904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6471,
+			"friends_count": 1616,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9ca05c4885000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9ca05c4885000.json",
+			"place_type": "poi",
+			"name": "Keystone Resort Conference Center",
+			"full_name": "Keystone Resort Conference Center",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.96723197523059,
+							39.609069227731176
+						],
+						[
+							-105.96723197523059,
+							39.609069227731176
+						],
+						[
+							-105.96723197523059,
+							39.609069227731176
+						],
+						[
+							-105.96723197523059,
+							39.609069227731176
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love the inclusion of student voice in @Den_Petersen and @MrsPotts19 session at #InnEdCo19. https://t.co/qk9jS3lZ2r"
+	},
+	{
 		"created_at": "Wed Jun 12 20:10:20 +0000 2019",
 		"id": 1138901366577946600,
 		"id_str": "1138901366577946624",

@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 03:32:53 +0000 2019",
+		"id": 1138970616109961200,
+		"id_str": "1139012739270041602",
+		"full_text": "@InnEdCO looking for an opportunity to coach digital learning in the Denver area? 4 day work week and a great collaborative team!! Message me for more info. #InnEdCO19 #innedco2019 https://t.co/OHdqItiI0a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "innedco2019",
+					"indices": [
+						168,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "InnEdCO",
+					"name": "InnEdCO",
+					"id": 103948271,
+					"id_str": "103948271",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138970609415798800,
+					"id_str": "1138970609415798784",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D85vvBfWwAAuJ04.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D85vvBfWwAAuJ04.jpg",
+					"url": "https://t.co/OHdqItiI0a",
+					"display_url": "pic.twitter.com/OHdqItiI0a",
+					"expanded_url": "https://twitter.com/sw_edtech/status/1138970616109961216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 478,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 478,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138970609415798800,
+					"id_str": "1138970609415798784",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D85vvBfWwAAuJ04.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D85vvBfWwAAuJ04.jpg",
+					"url": "https://t.co/OHdqItiI0a",
+					"display_url": "pic.twitter.com/OHdqItiI0a",
+					"expanded_url": "https://twitter.com/sw_edtech/status/1138970616109961216/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 478,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 478,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							239,
+							176
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D85vvBfWwAAuJ04.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 103948271,
+		"in_reply_to_user_id_str": "103948271",
+		"in_reply_to_screen_name": "InnEdCO",
+		"user": {
+			"id": 823689051664511000,
+			"id_str": "823689051664510976",
+			"name": "Courtney Bateson",
+			"screen_name": "sw_edtech",
+			"location": "Denver, CO",
+			"description": "Mom, tech geek, saphiophile, Google Certified Trainer, Instructional Technology Manager",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 92,
+			"friends_count": 111,
+			"listed_count": 3,
+			"created_at": "Tue Jan 24 00:29:08 +0000 2017",
+			"favourites_count": 385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846415229999308800/xbh_Z7hU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846415229999308800/xbh_Z7hU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823689051664510976/1490636090",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@InnEdCO looking for an opportunity to coach digital learning in the Denver area? 4 day work week and a great collaborative team!! Message me for more info. #InnEdCO19 #innedco2019 https://t.co/OHdqItiI0a"
+	},
+	{
 		"created_at": "Wed Jun 12 22:19:29 +0000 2019",
 		"id": 1138923859850121200,
 		"id_str": "1138933867535130625",

@@ -1,6 +1,115 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 14 16:00:54 +0000 2019",
+		"id": 1139547642839457800,
+		"id_str": "1139563370128924672",
+		"full_text": "#InnEdCO19 Thank you. Thank you to the board, the attendees, and everyone who chose to #listentochildren. I'm often critical, and it's because I know how great we all can be. This event is forever part of my story, and now it's part of my children's too. Thanks so much for that.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCO19",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "listentochildren",
+					"indices": [
+						87,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34024721,
+			"id_str": "34024721",
+			"name": "Chris Moore",
+			"screen_name": "cmoor4",
+			"location": "Colorado, USA",
+			"description": "Learning and asking questions",
+			"url": "https://t.co/WQfjQiQewE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WQfjQiQewE",
+							"expanded_url": "http://Cmoor4Learning.com",
+							"display_url": "Cmoor4Learning.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2047,
+			"friends_count": 1264,
+			"listed_count": 156,
+			"created_at": "Tue Apr 21 20:14:07 +0000 2009",
+			"favourites_count": 874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/588686902804369408/GA9-JAMy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/588686902804369408/GA9-JAMy_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#InnEdCO19 Thank you. Thank you to the board, the attendees, and everyone who chose to #listentochildren. I'm often critical, and it's because I know how great we all can be. This event is forever part of my story, and now it's part of my children's too. Thanks so much for that."
+	},
+	{
 		"created_at": "Thu Jun 13 14:29:36 +0000 2019",
 		"id": 1139178008164614100,
 		"id_str": "1139178008164614144",

@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 02:05:53 +0000 2019",
+		"id": 1139690748234719200,
+		"id_str": "1139715619379482626",
+		"full_text": "When at #InnEdCo, bike from Breck—&gt;keystone, then dance with old and new friends in superhero costumes. #iammyownsuperheroe #innedco19 So grateful to have connected with so many humans I learn from and with in such a beautiful place.  #gratitude #edco #pedagome #designforlearning https://t.co/H3ahw4HzUj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InnEdCo",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"text": "iammyownsuperheroe",
+					"indices": [
+						107,
+						126
+					]
+				},
+				{
+					"text": "innedco19",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "gratitude",
+					"indices": [
+						238,
+						248
+					]
+				},
+				{
+					"text": "edco",
+					"indices": [
+						249,
+						254
+					]
+				},
+				{
+					"text": "pedagome",
+					"indices": [
+						255,
+						264
+					]
+				},
+				{
+					"text": "designforlearning",
+					"indices": [
+						265,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139690733655322600,
+					"id_str": "1139690733655322626",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D9D-rxVUcAI4zk1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9D-rxVUcAI4zk1.jpg",
+					"url": "https://t.co/H3ahw4HzUj",
+					"display_url": "pic.twitter.com/H3ahw4HzUj",
+					"expanded_url": "https://twitter.com/TIGilboa/status/1139690748234719232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139690733655322600,
+					"id_str": "1139690733655322626",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D9D-rxVUcAI4zk1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9D-rxVUcAI4zk1.jpg",
+					"url": "https://t.co/H3ahw4HzUj",
+					"display_url": "pic.twitter.com/H3ahw4HzUj",
+					"expanded_url": "https://twitter.com/TIGilboa/status/1139690748234719232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139690733655343100,
+					"id_str": "1139690733655343106",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D9D-rxVUwAIJKTR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9D-rxVUwAIJKTR.jpg",
+					"url": "https://t.co/H3ahw4HzUj",
+					"display_url": "pic.twitter.com/H3ahw4HzUj",
+					"expanded_url": "https://twitter.com/TIGilboa/status/1139690748234719232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139690733655347200,
+					"id_str": "1139690733655347200",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D9D-rxVU0AAn4Rl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9D-rxVU0AAn4Rl.jpg",
+					"url": "https://t.co/H3ahw4HzUj",
+					"display_url": "pic.twitter.com/H3ahw4HzUj",
+					"expanded_url": "https://twitter.com/TIGilboa/status/1139690748234719232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18793475,
+			"id_str": "18793475",
+			"name": "Tara Gilboa",
+			"screen_name": "TIGilboa",
+			"location": "Boulder, CO",
+			"description": "@boroughandblock Learning Designer + Researcher | @bldrstartupweek Edu Track Co-Lead | @swedu_den Co-Organizer (she/her)",
+			"url": "https://t.co/zK7IoSpTvA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zK7IoSpTvA",
+							"expanded_url": "https://www.meetup.com/Learning-Experience-Design/",
+							"display_url": "meetup.com/Learning-Exper…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 817,
+			"friends_count": 2351,
+			"listed_count": 127,
+			"created_at": "Fri Jan 09 05:32:02 +0000 2009",
+			"favourites_count": 3591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6B151",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138495025451372544/gsY-cWJQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138495025451372544/gsY-cWJQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18793475/1560363449",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "DB0F2C",
+			"profile_sidebar_fill_color": "070807",
+			"profile_text_color": "D75656",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When at #InnEdCo, bike from Breck—&gt;keystone, then dance with old and new friends in superhero costumes. #iammyownsuperheroe #innedco19 So grateful to have connected with so many humans I learn from and with in such a beautiful place.  #gratitude #edco #pedagome #designforlearning https://t.co/H3ahw4HzUj"
+	},
+	{
 		"created_at": "Fri Jun 14 16:00:54 +0000 2019",
 		"id": 1139547642839457800,
 		"id_str": "1139563370128924672",

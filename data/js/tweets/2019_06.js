@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 25 18:38:00 +0000 2019",
+		"id": 1143589174399733800,
+		"id_str": "1143589174399733760",
+		"full_text": "Very specific use case… If you use an iPad as a second screen on your Mac with Catalina’s Sidecar feature, you can ALSO use another iPad or even an iPhone to annotate a photo you have pulled up in Quick View. Screenshots are from Sidecar iPad and iPhone. Cc @jsnell @backlon https://t.co/zHWvPzOzZA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jsnell",
+					"name": "Jason Snell",
+					"id": 784912,
+					"id_str": "784912",
+					"indices": [
+						258,
+						265
+					]
+				},
+				{
+					"screen_name": "backlon",
+					"name": "Dieter Bohn",
+					"id": 1090141,
+					"id_str": "1090141",
+					"indices": [
+						266,
+						274
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143589164123693000,
+					"id_str": "1143589164123693056",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/D97YSSiUIAAY2cU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D97YSSiUIAAY2cU.jpg",
+					"url": "https://t.co/zHWvPzOzZA",
+					"display_url": "pic.twitter.com/zHWvPzOzZA",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1143589174399733760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 838,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1431,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143589164123693000,
+					"id_str": "1143589164123693056",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/D97YSSiUIAAY2cU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D97YSSiUIAAY2cU.jpg",
+					"url": "https://t.co/zHWvPzOzZA",
+					"display_url": "pic.twitter.com/zHWvPzOzZA",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1143589174399733760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 838,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1431,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1143589164538978300,
+					"id_str": "1143589164538978304",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/D97YSUFU4AAjNri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D97YSUFU4AAjNri.jpg",
+					"url": "https://t.co/zHWvPzOzZA",
+					"display_url": "pic.twitter.com/zHWvPzOzZA",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1143589174399733760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 780,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 780,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6486,
+			"friends_count": 1717,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b49b3053b5c25bf5",
+			"url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+			"place_type": "city",
+			"name": "Denver",
+			"full_name": "Denver, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-105.109815,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.614151
+						],
+						[
+							-104.734372,
+							39.812975
+						],
+						[
+							-105.109815,
+							39.812975
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very specific use case… If you use an iPad as a second screen on your Mac with Catalina’s Sidecar feature, you can ALSO use another iPad or even an iPhone to annotate a photo you have pulled up in Quick View. Screenshots are from Sidecar iPad and iPhone. Cc @jsnell @backlon https://t.co/zHWvPzOzZA"
+	},
+	{
 		"created_at": "Tue Jun 25 02:02:54 +0000 2019",
 		"id": 1143338747372527600,
 		"id_str": "1143338747372527616",

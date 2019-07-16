@@ -1,6 +1,579 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 16 12:00:23 +0000 2019",
+		"id": 1151099253738991600,
+		"id_str": "1151099253738991616",
+		"full_text": "The best way to read @Pocket articles on iOS is hands down: Fiery Feeds: RSS Reader by Lukas Burgstaller https://t.co/d5fKzAoJnt cc @FieryFeeds https://t.co/VHtFn1JvKT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pocket",
+					"name": "Pocket",
+					"id": 27530178,
+					"id_str": "27530178",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"screen_name": "FieryFeeds",
+					"name": "Fiery Feeds",
+					"id": 3299117002,
+					"id_str": "3299117002",
+					"indices": [
+						132,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d5fKzAoJnt",
+					"expanded_url": "https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303",
+					"display_url": "apps.apple.com/us/app/fiery-f…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1151099252472369200,
+					"id_str": "1151099252472369154",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D_mGq9zVUAIt7Yu.png",
+					"media_url_https": "https://pbs.twimg.com/media/D_mGq9zVUAIt7Yu.png",
+					"url": "https://t.co/VHtFn1JvKT",
+					"display_url": "pic.twitter.com/VHtFn1JvKT",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1151099253738991616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151099252472369200,
+					"id_str": "1151099252472369154",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D_mGq9zVUAIt7Yu.png",
+					"media_url_https": "https://pbs.twimg.com/media/D_mGq9zVUAIt7Yu.png",
+					"url": "https://t.co/VHtFn1JvKT",
+					"display_url": "pic.twitter.com/VHtFn1JvKT",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1151099253738991616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6493,
+			"friends_count": 1776,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The best way to read @Pocket articles on iOS is hands down: Fiery Feeds: RSS Reader by Lukas Burgstaller https://t.co/d5fKzAoJnt cc @FieryFeeds https://t.co/VHtFn1JvKT"
+	},
+	{
+		"created_at": "Tue Jul 16 11:57:13 +0000 2019",
+		"id": 1151098458926809100,
+		"id_str": "1151098458926809090",
+		"full_text": "The other side of how social media makes us feel -\n\nFor better or worse: how does social media affect young adults’ well-being? https://t.co/WuMba0KG1e https://t.co/U1Unej8GwN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WuMba0KG1e",
+					"expanded_url": "https://blogs.lse.ac.uk/parenting4digitalfuture/2018/10/31/for-better-or-worse-how-does-social-media-affect-young-adults-well-being/",
+					"display_url": "blogs.lse.ac.uk/parenting4digi…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1151098456875753500,
+					"id_str": "1151098456875753472",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/D_mF8p-UYAAvYXL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_mF8p-UYAAvYXL.jpg",
+					"url": "https://t.co/U1Unej8GwN",
+					"display_url": "pic.twitter.com/U1Unej8GwN",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1151098458926809090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 663,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 663,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151098456875753500,
+					"id_str": "1151098456875753472",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/D_mF8p-UYAAvYXL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_mF8p-UYAAvYXL.jpg",
+					"url": "https://t.co/U1Unej8GwN",
+					"display_url": "pic.twitter.com/U1Unej8GwN",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1151098458926809090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 663,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 663,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6493,
+			"friends_count": 1776,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The other side of how social media makes us feel -\n\nFor better or worse: how does social media affect young adults’ well-being? https://t.co/WuMba0KG1e https://t.co/U1Unej8GwN"
+	},
+	{
+		"created_at": "Tue Jul 16 11:43:03 +0000 2019",
+		"id": 1151094893420245000,
+		"id_str": "1151094893420244993",
+		"full_text": "The humor here is tortuous, but the point is profoundly needed: “But it’s time to clear the air: if you feel like productivity is backed up and you need to relieve yourself, make this something you do do.” https://t.co/UomEBgCf7p https://t.co/gROlZBzZlr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UomEBgCf7p",
+					"expanded_url": "https://www.nomachetejuggling.com/2019/06/03/dont-hire-assholes/",
+					"display_url": "nomachetejuggling.com/2019/06/03/don…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1151094892002545700,
+					"id_str": "1151094892002545664",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/D_mCtJyUEAAAJ2w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_mCtJyUEAAAJ2w.jpg",
+					"url": "https://t.co/gROlZBzZlr",
+					"display_url": "pic.twitter.com/gROlZBzZlr",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1151094893420244993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 550,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151094892002545700,
+					"id_str": "1151094892002545664",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/D_mCtJyUEAAAJ2w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_mCtJyUEAAAJ2w.jpg",
+					"url": "https://t.co/gROlZBzZlr",
+					"display_url": "pic.twitter.com/gROlZBzZlr",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1151094893420244993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 550,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6493,
+			"friends_count": 1776,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1398689493",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The humor here is tortuous, but the point is profoundly needed: “But it’s time to clear the air: if you feel like productivity is backed up and you need to relieve yourself, make this something you do do.” https://t.co/UomEBgCf7p https://t.co/gROlZBzZlr"
+	},
+	{
 		"created_at": "Thu Jul 11 16:45:07 +0000 2019",
 		"id": 1149358971314028500,
 		"id_str": "1149358971314028544",

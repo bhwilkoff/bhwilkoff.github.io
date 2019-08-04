@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 04 14:32:40 +0000 2019",
+		"id": 1158022948193632300,
+		"id_str": "1158022948193632256",
+		"full_text": "I am a big believer in #17. All of the work I do, for myself or for others, helps me to do better next time. \n\nThe 22 rules of storytelling, according to Pixar https://t.co/fl2TlPk5Fn https://t.co/CZ1MeqgRI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fl2TlPk5Fn",
+					"expanded_url": "https://io9.gizmodo.com/the-22-rules-of-storytelling-according-to-pixar-5916970",
+					"display_url": "io9.gizmodo.com/the-22-rules-o…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1158022943416316000,
+					"id_str": "1158022943416315904",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EBIfu0gU8AAcqva.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBIfu0gU8AAcqva.jpg",
+					"url": "https://t.co/CZ1MeqgRI5",
+					"display_url": "pic.twitter.com/CZ1MeqgRI5",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1158022948193632256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 614,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158022943416316000,
+					"id_str": "1158022943416315904",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EBIfu0gU8AAcqva.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBIfu0gU8AAcqva.jpg",
+					"url": "https://t.co/CZ1MeqgRI5",
+					"display_url": "pic.twitter.com/CZ1MeqgRI5",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1158022948193632256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 614,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6494,
+			"friends_count": 1791,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1058,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am a big believer in #17. All of the work I do, for myself or for others, helps me to do better next time. \n\nThe 22 rules of storytelling, according to Pixar https://t.co/fl2TlPk5Fn https://t.co/CZ1MeqgRI5"
+	},
+	{
 		"created_at": "Sat Aug 03 12:59:16 +0000 2019",
 		"id": 1157637054961819600,
 		"id_str": "1157637054961819648",

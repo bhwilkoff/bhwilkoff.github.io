@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 09 20:02:45 +0000 2019",
+		"id": 1159917954902790100,
+		"id_str": "1159917954902790144",
+		"full_text": "“One of the key features of Racism is that it is highly adaptable. It looks far different now (in data sets, ML, AI) than it did before (robes/hoods)”. Via @SheaSwauger #COLTT2019 Shoutout to @audreywatters in session for her work on Weaponization of Data: https://t.co/r6MuuqKM9S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COLTT2019",
+					"indices": [
+						169,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SheaSwauger",
+					"name": "Shea Swauger",
+					"id": 880813452356440000,
+					"id_str": "880813452356440066",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"screen_name": "audreywatters",
+					"name": "Audrey Watters",
+					"id": 25388528,
+					"id_str": "25388528",
+					"indices": [
+						192,
+						206
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r6MuuqKM9S",
+					"expanded_url": "https://rebrand.ly/GWtca",
+					"display_url": "rebrand.ly/GWtca",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6499,
+			"friends_count": 1860,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“One of the key features of Racism is that it is highly adaptable. It looks far different now (in data sets, ML, AI) than it did before (robes/hoods)”. Via @SheaSwauger #COLTT2019 Shoutout to @audreywatters in session for her work on Weaponization of Data: https://t.co/r6MuuqKM9S"
+	},
+	{
 		"created_at": "Fri Aug 09 15:22:43 +0000 2019",
 		"id": 1159847482655797200,
 		"id_str": "1159847482655797248",

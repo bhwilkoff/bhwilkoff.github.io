@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 23 17:14:52 +0000 2019",
+		"id": 1164949136048717800,
+		"id_str": "1164949136048717824",
+		"full_text": "I am in love with this new preview in a Google Doc when you put your cursor within a linked Google Drive resource. It lets you quickly see the owner of the resource, whether you have viewed it previously, and let you copy, edit, and see sharing settings. Nice! https://t.co/wibh9evXgW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1164949132093476900,
+					"id_str": "1164949132093476864",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/ECq7ED_U0AAJe1v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECq7ED_U0AAJe1v.jpg",
+					"url": "https://t.co/wibh9evXgW",
+					"display_url": "pic.twitter.com/wibh9evXgW",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1164949136048717824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1070,
+							"h": 431,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1070,
+							"h": 431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 274,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164949132093476900,
+					"id_str": "1164949132093476864",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/ECq7ED_U0AAJe1v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECq7ED_U0AAJe1v.jpg",
+					"url": "https://t.co/wibh9evXgW",
+					"display_url": "pic.twitter.com/wibh9evXgW",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1164949136048717824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1070,
+							"h": 431,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1070,
+							"h": 431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 274,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6503,
+			"friends_count": 1975,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am in love with this new preview in a Google Doc when you put your cursor within a linked Google Drive resource. It lets you quickly see the owner of the resource, whether you have viewed it previously, and let you copy, edit, and see sharing settings. Nice! https://t.co/wibh9evXgW"
+	},
+	{
 		"created_at": "Fri Aug 16 15:33:52 +0000 2019",
 		"id": 1162387005034025000,
 		"id_str": "1162387005034024961",

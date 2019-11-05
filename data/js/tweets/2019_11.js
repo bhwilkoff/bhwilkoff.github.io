@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 05 12:13:21 +0000 2019",
+		"id": 1191689960371282000,
+		"id_str": "1191689960371281923",
+		"full_text": "Right here is where the article loses me. We don’t have “the state” recommending AI interventions. We do it to ourselves. I’m interested in taking a critical look at surveillance tech, but we don’t need to make stuff up. https://t.co/5Acn8fkVUd https://t.co/9OkLpt74KK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Acn8fkVUd",
+					"expanded_url": "https://clalliance.org/blog/semi-automated-luxury-parenting/",
+					"display_url": "clalliance.org/blog/semi-auto…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1191689957640851500,
+					"id_str": "1191689957640851458",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/EIm7s9-VUAIzzRf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIm7s9-VUAIzzRf.jpg",
+					"url": "https://t.co/9OkLpt74KK",
+					"display_url": "pic.twitter.com/9OkLpt74KK",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1191689960371281923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 764,
+									"y": 513,
+									"h": 188,
+									"w": 188
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 764,
+									"y": 513,
+									"h": 188,
+									"w": 188
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 438,
+									"y": 294,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 764,
+									"y": 513,
+									"h": 188,
+									"w": 188
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191689957640851500,
+					"id_str": "1191689957640851458",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/EIm7s9-VUAIzzRf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIm7s9-VUAIzzRf.jpg",
+					"url": "https://t.co/9OkLpt74KK",
+					"display_url": "pic.twitter.com/9OkLpt74KK",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1191689960371281923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 764,
+									"y": 513,
+									"h": 188,
+									"w": 188
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 764,
+									"y": 513,
+									"h": 188,
+									"w": 188
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 438,
+									"y": 294,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 764,
+									"y": 513,
+									"h": 188,
+									"w": 188
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6517,
+			"friends_count": 2146,
+			"listed_count": 378,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Right here is where the article loses me. We don’t have “the state” recommending AI interventions. We do it to ourselves. I’m interested in taking a critical look at surveillance tech, but we don’t need to make stuff up. https://t.co/5Acn8fkVUd https://t.co/9OkLpt74KK"
+	},
+	{
 		"created_at": "Mon Nov 04 17:15:13 +0000 2019",
 		"id": 1191403540159193000,
 		"id_str": "1191403540159193090",

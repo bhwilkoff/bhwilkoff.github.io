@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 16:51:15 +0000 2019",
+		"id": 1196470936205058000,
+		"id_str": "1196470936205058048",
+		"full_text": "Occasionally, I will receive an alert new applications in VR on Steam. Most of the time it is just a random FPS game, but sometimes it is something spectacular, like: BUS SIMULATOR https://t.co/fz4bTtHe9h. \n\nYou know, for those times you want to feel like you are riding on a bus. https://t.co/y65joe0usX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fz4bTtHe9h",
+					"expanded_url": "https://store.steampowered.com/app/1172280/BUS_SIMULATOR/",
+					"display_url": "store.steampowered.com/app/1172280/BU…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1196470934678360000,
+					"id_str": "1196470934678360065",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EJq3-dWVUAEhnG9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJq3-dWVUAEhnG9.jpg",
+					"url": "https://t.co/y65joe0usX",
+					"display_url": "pic.twitter.com/y65joe0usX",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1196470936205058048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 215,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 215,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 215,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196470934678360000,
+					"id_str": "1196470934678360065",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EJq3-dWVUAEhnG9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJq3-dWVUAEhnG9.jpg",
+					"url": "https://t.co/y65joe0usX",
+					"display_url": "pic.twitter.com/y65joe0usX",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1196470936205058048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 215,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 215,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 215,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6525,
+			"friends_count": 2250,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Occasionally, I will receive an alert new applications in VR on Steam. Most of the time it is just a random FPS game, but sometimes it is something spectacular, like: BUS SIMULATOR https://t.co/fz4bTtHe9h. \n\nYou know, for those times you want to feel like you are riding on a bus. https://t.co/y65joe0usX"
+	},
+	{
 		"created_at": "Wed Nov 06 15:30:58 +0000 2019",
 		"id": 1192102080355287000,
 		"id_str": "1192102080355287040",

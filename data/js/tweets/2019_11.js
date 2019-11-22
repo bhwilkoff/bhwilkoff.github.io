@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 21 23:28:15 +0000 2019",
+		"id": 1197658007686926300,
+		"id_str": "1197658007686926337",
+		"full_text": "Our words matter. \n\nHere are a few that should matter more than the insults being hurled daily from places of power: On Human Scum https://t.co/LUiXASFuyd \n\nThank you, @davepell. https://t.co/7qkzGusbOP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davepell",
+					"name": "Dave Pell",
+					"id": 224,
+					"id_str": "224",
+					"indices": [
+						168,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LUiXASFuyd",
+					"expanded_url": "https://medium.com/@davepell/on-human-scum-f4b34903646e",
+					"display_url": "medium.com/@davepell/on-h…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1197658004813779000,
+					"id_str": "1197658004813778944",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ7vnCNUEAAHvUC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ7vnCNUEAAHvUC.jpg",
+					"url": "https://t.co/7qkzGusbOP",
+					"display_url": "pic.twitter.com/7qkzGusbOP",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1197658007686926337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 755,
+									"y": 357,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 27,
+									"y": 5,
+									"h": 187,
+									"w": 187
+								},
+								{
+									"x": 22,
+									"y": 394,
+									"h": 183,
+									"w": 183
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 755,
+									"y": 357,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 27,
+									"y": 5,
+									"h": 187,
+									"w": 187
+								},
+								{
+									"x": 22,
+									"y": 394,
+									"h": 183,
+									"w": 183
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 755,
+									"y": 357,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 27,
+									"y": 5,
+									"h": 187,
+									"w": 187
+								},
+								{
+									"x": 22,
+									"y": 394,
+									"h": 183,
+									"w": 183
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 501,
+									"y": 237,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 17,
+									"y": 3,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 14,
+									"y": 261,
+									"h": 121,
+									"w": 121
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197658004813779000,
+					"id_str": "1197658004813778944",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ7vnCNUEAAHvUC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ7vnCNUEAAHvUC.jpg",
+					"url": "https://t.co/7qkzGusbOP",
+					"display_url": "pic.twitter.com/7qkzGusbOP",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1197658007686926337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 755,
+									"y": 357,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 27,
+									"y": 5,
+									"h": 187,
+									"w": 187
+								},
+								{
+									"x": 22,
+									"y": 394,
+									"h": 183,
+									"w": 183
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 755,
+									"y": 357,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 27,
+									"y": 5,
+									"h": 187,
+									"w": 187
+								},
+								{
+									"x": 22,
+									"y": 394,
+									"h": 183,
+									"w": 183
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 755,
+									"y": 357,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 27,
+									"y": 5,
+									"h": 187,
+									"w": 187
+								},
+								{
+									"x": 22,
+									"y": 394,
+									"h": 183,
+									"w": 183
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 501,
+									"y": 237,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 17,
+									"y": 3,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 14,
+									"y": 261,
+									"h": 121,
+									"w": 121
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6525,
+			"friends_count": 2256,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our words matter. \n\nHere are a few that should matter more than the insults being hurled daily from places of power: On Human Scum https://t.co/LUiXASFuyd \n\nThank you, @davepell. https://t.co/7qkzGusbOP"
+	},
+	{
 		"created_at": "Mon Nov 18 16:51:15 +0000 2019",
 		"id": 1196470936205058000,
 		"id_str": "1196470936205058048",

@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 28 15:21:02 +0000 2019",
+		"id": 1200072112171405300,
+		"id_str": "1200072112171405312",
+		"full_text": "I haven’t read something that rings more true in a very long time. \n\nSacha Baron Cohen's Keynote Address at ADL's 2019 Never Is Now Summit on Anti-Semitism and Hate https://t.co/LI0cNF1GVL https://t.co/BFU7HmxspC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LI0cNF1GVL",
+					"expanded_url": "https://www.adl.org/news/article/sacha-baron-cohens-keynote-address-at-adls-2019-never-is-now-summit-on-anti-semitism",
+					"display_url": "adl.org/news/article/s…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200072110107844600,
+					"id_str": "1200072110107844610",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EKeDOdPU4AIM6oE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKeDOdPU4AIM6oE.jpg",
+					"url": "https://t.co/BFU7HmxspC",
+					"display_url": "pic.twitter.com/BFU7HmxspC",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1200072112171405312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 614,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 614,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 537,
+									"y": 102,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 810,
+									"y": 155,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 810,
+									"y": 155,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 810,
+									"y": 155,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200072110107844600,
+					"id_str": "1200072110107844610",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EKeDOdPU4AIM6oE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKeDOdPU4AIM6oE.jpg",
+					"url": "https://t.co/BFU7HmxspC",
+					"display_url": "pic.twitter.com/BFU7HmxspC",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1200072112171405312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 614,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 614,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 537,
+									"y": 102,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 810,
+									"y": 155,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 810,
+									"y": 155,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 810,
+									"y": 155,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Program Manager of Digital Education & Academic Technologies\n@cuanschutz. I try to create at least one new thing every day. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6522,
+			"friends_count": 2264,
+			"listed_count": 379,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I haven’t read something that rings more true in a very long time. \n\nSacha Baron Cohen's Keynote Address at ADL's 2019 Never Is Now Summit on Anti-Semitism and Hate https://t.co/LI0cNF1GVL https://t.co/BFU7HmxspC"
+	},
+	{
 		"created_at": "Sat Nov 23 21:01:18 +0000 2019",
 		"id": 1198345803116339200,
 		"id_str": "1198345803116339201",

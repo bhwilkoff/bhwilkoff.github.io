@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 18:00:41 +0000 2020",
+		"id": 1220406008834449400,
+		"id_str": "1220406008834449409",
+		"full_text": "This alert has got to stop every time I load up a Google Sheet/Doc. It stops all keyboard shortcuts from working and provides no useful information. I am aware of the account I’m signed in with. I use different profile pictures to help in this regard. #userhostile @gsuite https://t.co/YjPW8IWiip",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "userhostile",
+					"indices": [
+						252,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gsuite",
+					"name": "G Suite",
+					"id": 17003765,
+					"id_str": "17003765",
+					"indices": [
+						265,
+						272
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1220405996750684200,
+					"id_str": "1220405996750684160",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EO_Ayb4UwAAgvaJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EO_Ayb4UwAAgvaJ.png",
+					"url": "https://t.co/YjPW8IWiip",
+					"display_url": "pic.twitter.com/YjPW8IWiip",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1220406008834449409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 804,
+							"h": 556,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 804,
+							"h": 556,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 719,
+									"y": 44,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 70,
+									"y": 318,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 608,
+									"y": 37,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 59,
+									"y": 268,
+									"h": 29,
+									"w": 29
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 719,
+									"y": 44,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 70,
+									"y": 318,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 719,
+									"y": 44,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 70,
+									"y": 318,
+									"h": 35,
+									"w": 35
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220405996750684200,
+					"id_str": "1220405996750684160",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EO_Ayb4UwAAgvaJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EO_Ayb4UwAAgvaJ.png",
+					"url": "https://t.co/YjPW8IWiip",
+					"display_url": "pic.twitter.com/YjPW8IWiip",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1220406008834449409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 804,
+							"h": 556,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 804,
+							"h": 556,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 719,
+									"y": 44,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 70,
+									"y": 318,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 608,
+									"y": 37,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 59,
+									"y": 268,
+									"h": 29,
+									"w": 29
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 719,
+									"y": 44,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 70,
+									"y": 318,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 719,
+									"y": 44,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 70,
+									"y": 318,
+									"h": 35,
+									"w": 35
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6496,
+			"friends_count": 2365,
+			"listed_count": 377,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This alert has got to stop every time I load up a Google Sheet/Doc. It stops all keyboard shortcuts from working and provides no useful information. I am aware of the account I’m signed in with. I use different profile pictures to help in this regard. #userhostile @gsuite https://t.co/YjPW8IWiip"
+	},
+	{
 		"created_at": "Thu Jan 23 15:52:04 +0000 2020",
 		"id": 1220373643709935600,
 		"id_str": "1220373643709935616",

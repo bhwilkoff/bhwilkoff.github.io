@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 24 16:06:47 +0000 2020",
+		"id": 1220739731983495200,
+		"id_str": "1220739731983495170",
+		"full_text": "This is really well done, though. While certainly not as exhaustive as Quora, the interface and objective is certainly clearer. https://t.co/LmxP51y3wk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LmxP51y3wk",
+					"expanded_url": "https://twitter.com/counternotions/status/1220735509539979264",
+					"display_url": "twitter.com/counternotions…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6496,
+			"friends_count": 2367,
+			"listed_count": 377,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "85c09b7b6a803faf",
+			"url": "https://api.twitter.com/1.1/geo/id/85c09b7b6a803faf.json",
+			"place_type": "city",
+			"name": "Southglenn",
+			"full_name": "Southglenn, CO",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-104.988399,
+							39.565951
+						],
+						[
+							-104.922825,
+							39.565951
+						],
+						[
+							-104.922825,
+							39.613203
+						],
+						[
+							-104.988399,
+							39.613203
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1220735509539979300,
+		"quoted_status_id_str": "1220735509539979264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LmxP51y3wk",
+			"expanded": "https://twitter.com/counternotions/status/1220735509539979264",
+			"display": "twitter.com/counternotions…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 24 15:50:00 +0000 2020",
+			"id": 1220735509539979300,
+			"id_str": "1220735509539979264",
+			"full_text": "\"Parlia is an encyclopedia of opinion. We are building a definitive collection of all of the opinions in the world.\" \n\n(They've invented Quora!) \n\nhttps://t.co/qvgNVyNfet",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qvgNVyNfet",
+						"expanded_url": "https://parlia.com",
+						"display_url": "parlia.com",
+						"indices": [
+							147,
+							170
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19225408,
+				"id_str": "19225408",
+				"name": "Kontra",
+				"screen_name": "counternotions",
+				"location": "NYC",
+				"description": "Trying is the first step to failure. Veteran design and management surgeon, perennially in search of complex problems to operate on.",
+				"url": "http://t.co/RFBqYhXjEr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RFBqYhXjEr",
+								"expanded_url": "http://counternotions.com",
+								"display_url": "counternotions.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58628,
+				"friends_count": 124,
+				"listed_count": 1483,
+				"created_at": "Tue Jan 20 08:47:08 +0000 2009",
+				"favourites_count": 182,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 95614,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "383838",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/472995716663488512/0MErVHN__normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/472995716663488512/0MErVHN__normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19225408/1401605752",
+				"profile_link_color": "B55930",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FCEBD5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is really well done, though. While certainly not as exhaustive as Quora, the interface and objective is certainly clearer. https://t.co/LmxP51y3wk"
+	},
+	{
 		"created_at": "Thu Jan 23 18:00:41 +0000 2020",
 		"id": 1220406008834449400,
 		"id_str": "1220406008834449409",

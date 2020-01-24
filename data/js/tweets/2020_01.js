@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 24 22:24:36 +0000 2020",
+		"id": 1220833009395556400,
+		"id_str": "1220834813579427840",
+		"full_text": "@sdw and reported",
+		"truncated": false,
+		"display_text_range": [
+			5,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sdw",
+					"name": "Sebastiaan de With",
+					"id": 6503412,
+					"id_str": "6503412",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1220830961614631000,
+		"in_reply_to_status_id_str": "1220830961614630913",
+		"in_reply_to_user_id": 6503412,
+		"in_reply_to_user_id_str": "6503412",
+		"in_reply_to_screen_name": "sdw",
+		"user": {
+			"id": 20904050,
+			"id_str": "20904050",
+			"name": "Federico Viticci",
+			"screen_name": "viticci",
+			"location": "In your web browser.",
+			"description": "Founder & Editor-in-Chief of @MacStoriesNet & @ClubMacStories. Co-host of @AppStoriesNet. Italian accent on @_RelayFM. 📩 viticci@macstories.net | 📸IG: viticci",
+			"url": "https://t.co/8eXD1ETiUi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8eXD1ETiUi",
+							"expanded_url": "https://www.macstories.net/",
+							"display_url": "macstories.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 70238,
+			"friends_count": 756,
+			"listed_count": 4062,
+			"created_at": "Sun Feb 15 10:52:33 +0000 2009",
+			"favourites_count": 17624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "062039",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005494943677235200/NArzJ6fT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005494943677235200/NArzJ6fT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20904050/1492522863",
+			"profile_link_color": "0081C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F7",
+			"profile_text_color": "191A19",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@sdw and reported"
+	},
+	{
 		"created_at": "Fri Jan 24 16:06:47 +0000 2020",
 		"id": 1220739731983495200,
 		"id_str": "1220739731983495170",

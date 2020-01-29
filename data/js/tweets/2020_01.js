@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 29 22:59:49 +0000 2020",
+		"id": 1222655616394711000,
+		"id_str": "1222655616394711042",
+		"full_text": "@anthroreviewed @johngreen I know John Green no longer believes that the social internet is a force for good (in his life), it is worth sharing. This song MUST BE HEARD. It is a Auld Lang Syne re-imagined: https://t.co/9zJZosvAMO. If it happens to reach John, I would be forever grateful. Cc @hankgreen",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			302
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anthroreviewed",
+					"name": "The Anthropocene Reviewed",
+					"id": 950395614877159400,
+					"id_str": "950395614877159425",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "johngreen",
+					"name": "John Green",
+					"id": 18055737,
+					"id_str": "18055737",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "hankgreen",
+					"name": "Hank Green",
+					"id": 61592079,
+					"id_str": "61592079",
+					"indices": [
+						292,
+						302
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9zJZosvAMO",
+					"expanded_url": "https://music.apple.com/us/album/this-love-wont-break-your-heart/465786901?i=465786930",
+					"display_url": "music.apple.com/us/album/this-…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1211991790783541200,
+		"in_reply_to_status_id_str": "1211991790783541249",
+		"in_reply_to_user_id": 950395614877159400,
+		"in_reply_to_user_id_str": "950395614877159425",
+		"in_reply_to_screen_name": "anthroreviewed",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6493,
+			"friends_count": 2383,
+			"listed_count": 377,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@anthroreviewed @johngreen I know John Green no longer believes that the social internet is a force for good (in his life), it is worth sharing. This song MUST BE HEARD. It is a Auld Lang Syne re-imagined: https://t.co/9zJZosvAMO. If it happens to reach John, I would be forever grateful. Cc @hankgreen"
+	},
+	{
 		"created_at": "Wed Jan 29 16:32:23 +0000 2020",
 		"id": 1222558117205966800,
 		"id_str": "1222558117205966848",

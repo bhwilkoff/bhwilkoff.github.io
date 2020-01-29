@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 29 12:47:18 +0000 2020",
+		"id": 1222501470500601900,
+		"id_str": "1222501470500601865",
+		"full_text": "@_upgradefm @imyke @jsnell I got my iPad 1 out on the 27th and started poking around to see what I could still do with it. It is amazing how much of it still works! Messages, Books, Netflix, Blogging (via BlogPad Pro), Remote Desktop (via Splashtop), even Google Drive! Is it fast… no. But it is amazing!",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			304
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_upgradefm",
+					"name": "Upgrade",
+					"id": 2798328732,
+					"id_str": "2798328732",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "imyke",
+					"name": "Myke Hurley",
+					"id": 763549,
+					"id_str": "763549",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"screen_name": "jsnell",
+					"name": "Jason Snell",
+					"id": 784912,
+					"id_str": "784912",
+					"indices": [
+						19,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1221878350102302700,
+		"in_reply_to_status_id_str": "1221878350102302722",
+		"in_reply_to_user_id": 2798328732,
+		"in_reply_to_user_id_str": "2798328732",
+		"in_reply_to_screen_name": "_upgradefm",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6495,
+			"friends_count": 2382,
+			"listed_count": 377,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@_upgradefm @imyke @jsnell I got my iPad 1 out on the 27th and started poking around to see what I could still do with it. It is amazing how much of it still works! Messages, Books, Netflix, Blogging (via BlogPad Pro), Remote Desktop (via Splashtop), even Google Drive! Is it fast… no. But it is amazing!"
+	},
+	{
 		"created_at": "Sat Jan 25 00:02:07 +0000 2020",
 		"id": 1220859353609068500,
 		"id_str": "1220859353609068544",

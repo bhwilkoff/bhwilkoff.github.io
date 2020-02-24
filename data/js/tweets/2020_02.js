@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 24 20:11:45 +0000 2020",
+		"id": 1232035404829712400,
+		"id_str": "1232035404829712385",
+		"full_text": "@chrissyfarr Loyalty isn’t what it is always about. For long-term care (especially things that took years to put into place), it is almost impossible to get those same supports in a different system (would mean re-advocating for years). I’ve joined/left jobs just because of the Health Care.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			291
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chrissyfarr",
+					"name": "Christina Farr",
+					"id": 211583400,
+					"id_str": "211583400",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1232034748123340800,
+		"in_reply_to_status_id_str": "1232034748123340800",
+		"in_reply_to_user_id": 211583400,
+		"in_reply_to_user_id_str": "211583400",
+		"in_reply_to_screen_name": "chrissyfarr",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6486,
+			"friends_count": 2415,
+			"listed_count": 376,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@chrissyfarr Loyalty isn’t what it is always about. For long-term care (especially things that took years to put into place), it is almost impossible to get those same supports in a different system (would mean re-advocating for years). I’ve joined/left jobs just because of the Health Care."
+	},
+	{
 		"created_at": "Thu Feb 20 01:33:43 +0000 2020",
 		"id": 1230296769751371800,
 		"id_str": "1230304490080784384",

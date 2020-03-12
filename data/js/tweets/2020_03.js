@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 16:59:54 +0000 2020",
+		"id": 1238146962999869400,
+		"id_str": "1238147719937421312",
+		"full_text": "There has never been a better time to cancel plans.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 357916689,
+			"id_str": "357916689",
+			"name": "Alena Smith",
+			"screen_name": "internetalena",
+			"location": "Los Angeles, CA",
+			"description": "Creator and showrunner of @Dickinson on @AppleTV",
+			"url": "https://t.co/AGiSzfcfLf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AGiSzfcfLf",
+							"expanded_url": "http://apple.co/dickinson",
+							"display_url": "apple.co/dickinson",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8535,
+			"friends_count": 352,
+			"listed_count": 127,
+			"created_at": "Fri Aug 19 02:57:52 +0000 2011",
+			"favourites_count": 15643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229803126624018433/fjlmTrZ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229803126624018433/fjlmTrZ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/357916689/1583860360",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B8D644",
+			"profile_text_color": "30741A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "There has never been a better time to cancel plans."
+	},
+	{
 		"created_at": "Thu Mar 12 03:18:52 +0000 2020",
 		"id": 1237941101014560800,
 		"id_str": "1237941101014560768",

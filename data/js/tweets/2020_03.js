@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 23:56:07 +0000 2020",
+		"id": 1238086631208476700,
+		"id_str": "1238252462341054465",
+		"full_text": "Why doesn't the NBA just play their games over Zoom?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 212019344,
+			"id_str": "212019344",
+			"name": "Terry Green with an e",
+			"screen_name": "greeneterry",
+			"location": "Nogojiwanong/Peterborough",
+			"description": "Fun+Professional=funprofressional? Trying to mash technology and learning together in the open. Host of the Gettin' Air Podcast on @voicedcanada He/Him",
+			"url": "https://t.co/MGnAmolAgk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MGnAmolAgk",
+							"expanded_url": "https://voiced.ca/gettin-air/",
+							"display_url": "voiced.ca/gettin-air/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2023,
+			"friends_count": 1419,
+			"listed_count": 81,
+			"created_at": "Thu Nov 04 22:34:28 +0000 2010",
+			"favourites_count": 22339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234588863491969024/rG0-5kuo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234588863491969024/rG0-5kuo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/212019344/1496450834",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 38,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Why doesn't the NBA just play their games over Zoom?"
+	},
+	{
 		"created_at": "Thu Mar 12 16:59:54 +0000 2020",
 		"id": 1238146962999869400,
 		"id_str": "1238147719937421312",

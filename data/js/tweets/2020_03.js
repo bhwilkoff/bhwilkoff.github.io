@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 23:12:40 +0000 2020",
+		"id": 1238966304108736500,
+		"id_str": "1238966304108736512",
+		"full_text": "@9393usak Sorry that happened to you.  Truly. https://t.co/WSSl4deRXa",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "9393usak",
+					"name": "Kasey Anderson",
+					"id": 67206438,
+					"id_str": "67206438",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238966293757231000,
+					"id_str": "1238966293757231104",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ETGxR6QVAAAZSJG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETGxR6QVAAAZSJG.jpg",
+					"url": "https://t.co/WSSl4deRXa",
+					"display_url": "pic.twitter.com/WSSl4deRXa",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1238966304108736512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 336,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238966293757231000,
+					"id_str": "1238966293757231104",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ETGxR6QVAAAZSJG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETGxR6QVAAAZSJG.jpg",
+					"url": "https://t.co/WSSl4deRXa",
+					"display_url": "pic.twitter.com/WSSl4deRXa",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1238966304108736512/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 336,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							56
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ETGxR6QVAAAZSJG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1238256086144225300,
+		"in_reply_to_status_id_str": "1238256086144225281",
+		"in_reply_to_user_id": 67206438,
+		"in_reply_to_user_id_str": "67206438",
+		"in_reply_to_screen_name": "9393usak",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6484,
+			"friends_count": 2468,
+			"listed_count": 375,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@9393usak Sorry that happened to you.  Truly. https://t.co/WSSl4deRXa"
+	},
+	{
 		"created_at": "Fri Mar 13 20:15:50 +0000 2020",
 		"id": 1238559413549457400,
 		"id_str": "1238559413549457409",

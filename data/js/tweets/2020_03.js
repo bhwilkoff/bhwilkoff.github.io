@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 01:17:48 +0000 2020",
+		"id": 1239712361386131500,
+		"id_str": "1239722570779258880",
+		"full_text": "Details on today’s public health order in Colorado. https://t.co/S3C7b4RuwJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239712349407207400,
+					"id_str": "1239712349407207424",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/ETRX0EIU4AAYkPy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETRX0EIU4AAYkPy.jpg",
+					"url": "https://t.co/S3C7b4RuwJ",
+					"display_url": "pic.twitter.com/S3C7b4RuwJ",
+					"expanded_url": "https://twitter.com/GovofCO/status/1239712361386131457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239712349407207400,
+					"id_str": "1239712349407207424",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/ETRX0EIU4AAYkPy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETRX0EIU4AAYkPy.jpg",
+					"url": "https://t.co/S3C7b4RuwJ",
+					"display_url": "pic.twitter.com/S3C7b4RuwJ",
+					"expanded_url": "https://twitter.com/GovofCO/status/1239712361386131457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 728344273620344800,
+			"id_str": "728344273620344832",
+			"name": "Jared Polis",
+			"screen_name": "GovofCO",
+			"location": "Colorado, USA",
+			"description": "Governor of Colorado. Fighting for affordable health care, better education, an economy that works for everyone, and protecting our Colorado way of life.",
+			"url": "https://t.co/KZhb1Phymp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KZhb1Phymp",
+							"expanded_url": "https://www.colorado.gov/governor/social-media",
+							"display_url": "colorado.gov/governor/socia…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43589,
+			"friends_count": 1221,
+			"listed_count": 537,
+			"created_at": "Thu May 05 22:03:01 +0000 2016",
+			"favourites_count": 878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215685126773850112/EbzFE6NG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215685126773850112/EbzFE6NG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/728344273620344832/1584403758",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 172,
+		"favorite_count": 296,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Details on today’s public health order in Colorado. https://t.co/S3C7b4RuwJ"
+	},
+	{
 		"created_at": "Mon Mar 16 15:40:19 +0000 2020",
 		"id": 1239577242616791000,
 		"id_str": "1239577242616791040",

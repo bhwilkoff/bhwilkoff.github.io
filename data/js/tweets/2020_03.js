@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 03:04:25 +0000 2020",
+		"id": 1240007254822269000,
+		"id_str": "1240111789053894656",
+		"full_text": "Highly recommended. @minervaproject's got that rare combination of a sweet interface and savvy designers and educators on the team. Check it out. + @JamesGenone https://t.co/Ew8t5mID3X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "minervaproject",
+					"name": "Minerva Project",
+					"id": 541412759,
+					"id_str": "541412759",
+					"indices": [
+						20,
+						35
+					]
+				},
+				{
+					"screen_name": "JamesGenone",
+					"name": "James Genone",
+					"id": 1033803873633230800,
+					"id_str": "1033803873633230848",
+					"indices": [
+						148,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ew8t5mID3X",
+					"expanded_url": "https://twitter.com/minervaproject/status/1238557840890941440",
+					"display_url": "twitter.com/minervaproject…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 972524358,
+			"id_str": "972524358",
+			"name": "Michael Weinraub",
+			"screen_name": "mweinraub87",
+			"location": "Rockville, MD",
+			"description": "Online & blended #learning specialist. ISO 2.7 seconds on a bull named Fu Manchu. All tweets my own.",
+			"url": "https://t.co/Y4v5jmxsY1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y4v5jmxsY1",
+							"expanded_url": "https://www.linkedin.com/in/mweinraub87",
+							"display_url": "linkedin.com/in/mweinraub87",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2801,
+			"friends_count": 1955,
+			"listed_count": 361,
+			"created_at": "Mon Nov 26 19:06:37 +0000 2012",
+			"favourites_count": 47002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/915617577107431424/DypV5JZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/915617577107431424/DypV5JZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/972524358/1473365242",
+			"profile_link_color": "165AA3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238557840890941400,
+		"quoted_status_id_str": "1238557840890941440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ew8t5mID3X",
+			"expanded": "https://twitter.com/minervaproject/status/1238557840890941440",
+			"display": "twitter.com/minervaproject…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 13 20:09:35 +0000 2020",
+			"id": 1238557840890941400,
+			"id_str": "1238557840890941440",
+			"full_text": "We are here to help institutions adapt to the coronavirus realities, and in response, will be hosting a webinar on March 17 at 1PM PST / 4PM EST to share our lessons on how to transform your class into a virtual classroom. Sign up today: https://t.co/DFHzxG4c6B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DFHzxG4c6B",
+						"expanded_url": "http://minervavirtualclassroom.splashthat.com",
+						"display_url": "minervavirtualclassroom.splashthat.com",
+						"indices": [
+							238,
+							261
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 541412759,
+				"id_str": "541412759",
+				"name": "Minerva Project",
+				"screen_name": "minervaproject",
+				"location": "San Francisco, CA",
+				"description": "Nurturing Critical Wisdom for the Sake of the World. \n\nFollow @MinervaSchools for the undergraduate and graduate experience.",
+				"url": "http://t.co/ya2CgtmCB5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ya2CgtmCB5",
+								"expanded_url": "http://www.minervaproject.com",
+								"display_url": "minervaproject.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5218,
+				"friends_count": 95,
+				"listed_count": 225,
+				"created_at": "Sat Mar 31 06:24:47 +0000 2012",
+				"favourites_count": 466,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 717,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A0968C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/507608889940914176/4UdFuzeL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/507608889940914176/4UdFuzeL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/541412759/1554746289",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Highly recommended. @minervaproject's got that rare combination of a sweet interface and savvy designers and educators on the team. Check it out. + @JamesGenone https://t.co/Ew8t5mID3X"
+	},
+	{
 		"created_at": "Tue Mar 17 18:23:37 +0000 2020",
 		"id": 1239980724842688500,
 		"id_str": "1239980724842688512",

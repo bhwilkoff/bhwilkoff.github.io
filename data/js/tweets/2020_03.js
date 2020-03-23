@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 23 21:44:37 +0000 2020",
+		"id": 1242205635183173600,
+		"id_str": "1242205635183173632",
+		"full_text": "I really do wish this kind of leadership was happening in my own country. Notice: Calm. Notice: Thankfulness. Notice: humanity. Please learn from him and other leaders like him. We don’t have to shout in order to lead. https://t.co/FmbNda4caP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FmbNda4caP",
+					"expanded_url": "https://twitter.com/fryed/status/1241936422094786562",
+					"display_url": "twitter.com/fryed/status/1…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6479,
+			"friends_count": 2546,
+			"listed_count": 372,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241936422094786600,
+		"quoted_status_id_str": "1241936422094786562",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FmbNda4caP",
+			"expanded": "https://twitter.com/fryed/status/1241936422094786562",
+			"display": "twitter.com/fryed/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 23 03:54:51 +0000 2020",
+			"id": 1241936422094786600,
+			"id_str": "1241936422094786562",
+			"full_text": "Prime Minister @JustinTrudeau says thank you to kids.\n\nLove this.  \n\n\"You kids are helping a lot.\"\n\n\"Thank you for trusting in science.\"\n\nhttps://t.co/Yoj3hbVTkt\n\n#canada #coronavirus #pandemic",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "canada",
+						"indices": [
+							163,
+							170
+						]
+					},
+					{
+						"text": "coronavirus",
+						"indices": [
+							171,
+							183
+						]
+					},
+					{
+						"text": "pandemic",
+						"indices": [
+							184,
+							193
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JustinTrudeau",
+						"name": "Justin Trudeau",
+						"id": 14260960,
+						"id_str": "14260960",
+						"indices": [
+							15,
+							29
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Yoj3hbVTkt",
+						"expanded_url": "https://www.youtube.com/watch?v=6X3MmgdgZoc",
+						"display_url": "youtube.com/watch?v=6X3Mmg…",
+						"indices": [
+							138,
+							161
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13210942,
+				"id_str": "13210942",
+				"name": "Donna Miller Fry",
+				"screen_name": "fryed",
+				"location": "Manitoba, Canada",
+				"description": "Learner, Connected Educator, Network Builder EdCan/CEA Advisory Council, Superintendent/CEO - Pine Creek School Division, C21 CEO, #edcan she/her",
+				"url": "https://t.co/39EfR6zYNN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/39EfR6zYNN",
+								"expanded_url": "http://blog.donnamillerfry.com",
+								"display_url": "blog.donnamillerfry.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10551,
+				"friends_count": 11606,
+				"listed_count": 475,
+				"created_at": "Thu Feb 07 16:49:37 +0000 2008",
+				"favourites_count": 36101,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 38571,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1103618135205339136/Zu5pzDbS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103618135205339136/Zu5pzDbS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13210942/1551808558",
+				"profile_link_color": "C72084",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I really do wish this kind of leadership was happening in my own country. Notice: Calm. Notice: Thankfulness. Notice: humanity. Please learn from him and other leaders like him. We don’t have to shout in order to lead. https://t.co/FmbNda4caP"
+	},
+	{
 		"created_at": "Fri Mar 20 11:46:26 +0000 2020",
 		"id": 1240967935213985800,
 		"id_str": "1240967935213985792",

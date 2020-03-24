@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 24 18:53:07 +0000 2020",
+		"id": 1242524680088518700,
+		"id_str": "1242524864415559680",
+		"full_text": "Because timelines are now so elusive, I’ve started using Jeremy Bearimy as my go-to description of vague time. As in, “we’ll see our neighbors in one or two Jeremy Bearimys.” https://t.co/2CldKE9ce4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242524671280476200,
+					"id_str": "1242524671280476160",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ET5VmvhU8AAksqp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ET5VmvhU8AAksqp.jpg",
+					"url": "https://t.co/2CldKE9ce4",
+					"display_url": "pic.twitter.com/2CldKE9ce4",
+					"expanded_url": "https://twitter.com/spencerideas/status/1242524680088518657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242524671280476200,
+					"id_str": "1242524671280476160",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ET5VmvhU8AAksqp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ET5VmvhU8AAksqp.jpg",
+					"url": "https://t.co/2CldKE9ce4",
+					"display_url": "pic.twitter.com/2CldKE9ce4",
+					"expanded_url": "https://twitter.com/spencerideas/status/1242524680088518657/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ET5VmvhU8AAksqp.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18389166,
+			"id_str": "18389166",
+			"name": "John Spencer",
+			"screen_name": "spencerideas",
+			"location": "Salem, OR",
+			"description": "Professor. Author. Maker. Sometimes I make things. Sometimes I make a difference. On a good day, I get to do both. https://t.co/Z9fo6sS71j",
+			"url": "https://t.co/Oxk86aceXX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Oxk86aceXX",
+							"expanded_url": "http://www.spencerauthor.com/about-me/",
+							"display_url": "spencerauthor.com/about-me/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9fo6sS71j",
+							"expanded_url": "http://spencervideos.com",
+							"display_url": "spencervideos.com",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 43964,
+			"friends_count": 14649,
+			"listed_count": 1094,
+			"created_at": "Fri Dec 26 13:59:34 +0000 2008",
+			"favourites_count": 11598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222389377218662400/twNduH1u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222389377218662400/twNduH1u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18389166/1550609913",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Because timelines are now so elusive, I’ve started using Jeremy Bearimy as my go-to description of vague time. As in, “we’ll see our neighbors in one or two Jeremy Bearimys.” https://t.co/2CldKE9ce4"
+	},
+	{
 		"created_at": "Tue Mar 24 17:18:23 +0000 2020",
 		"id": 1242501024717238300,
 		"id_str": "1242501024717238272",

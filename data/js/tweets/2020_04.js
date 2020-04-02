@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 15:46:50 +0000 2020",
+		"id": 1245656374719045600,
+		"id_str": "1245739477890256897",
+		"full_text": "Launching a new podcast – HOME SCREENS https://t.co/LQWPgvA2fJ https://t.co/gl5mxVUAJK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LQWPgvA2fJ",
+					"expanded_url": "http://ljpuk.blog/2020/04/02/launching-a-new-podcast-home-screens/",
+					"display_url": "ljpuk.blog/2020/04/02/lau…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245656371741077500,
+					"id_str": "1245656371741077506",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EUl13s3UMAIZ454.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUl13s3UMAIZ454.jpg",
+					"url": "https://t.co/gl5mxVUAJK",
+					"display_url": "pic.twitter.com/gl5mxVUAJK",
+					"expanded_url": "https://twitter.com/ljpuk/status/1245656374719045634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 334,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 589,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1005,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245656371741077500,
+					"id_str": "1245656371741077506",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EUl13s3UMAIZ454.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUl13s3UMAIZ454.jpg",
+					"url": "https://t.co/gl5mxVUAJK",
+					"display_url": "pic.twitter.com/gl5mxVUAJK",
+					"expanded_url": "https://twitter.com/ljpuk/status/1245656374719045634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 334,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 589,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1005,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26480217,
+			"id_str": "26480217",
+			"name": "Lee Peterson",
+			"screen_name": "ljpuk",
+			"location": "Gloucestershire",
+			"description": "Guitar playing Technical Consultant/Freelance Writer. Written at Cult of Mac, App Factor and The Loop. I get work done on an iPad.🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+			"url": "https://t.co/S3OGHkDJif",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S3OGHkDJif",
+							"expanded_url": "http://ljpuk.blog",
+							"display_url": "ljpuk.blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 688,
+			"friends_count": 128,
+			"listed_count": 109,
+			"created_at": "Wed Mar 25 11:57:50 +0000 2009",
+			"favourites_count": 6339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240901687214292992/TCsh7dnB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240901687214292992/TCsh7dnB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26480217/1584864635",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Launching a new podcast – HOME SCREENS https://t.co/LQWPgvA2fJ https://t.co/gl5mxVUAJK"
+	},
+	{
 		"created_at": "Wed Apr 01 21:04:42 +0000 2020",
 		"id": 1245457083509510100,
 		"id_str": "1245457083509510145",

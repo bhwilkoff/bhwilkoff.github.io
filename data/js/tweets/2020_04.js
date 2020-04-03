@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 03 22:44:44 +0000 2020",
+		"id": 1246202373699022800,
+		"id_str": "1246207030617976832",
+		"full_text": "NEW POST!!\n5 Ways to Enhance the Social in our Social Distancing (ensuring human connection in remote learning)\nhttps://t.co/jG7DI8VIXN #ditchbook #tlap #masterychat https://t.co/scQbLXqFs2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ditchbook",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "tlap",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "masterychat",
+					"indices": [
+						153,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jG7DI8VIXN",
+					"expanded_url": "https://medium.com/verses-education/5-ways-to-enhance-the-social-in-our-social-distancing-3af033e300e1?sk=d88639aec9f8e405c0bf787be71e31a0",
+					"display_url": "medium.com/verses-educati…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246201601586385000,
+					"id_str": "1246201601586384898",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EUtlwQUUUAIspK-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUtlwQUUUAIspK-.png",
+					"url": "https://t.co/scQbLXqFs2",
+					"display_url": "pic.twitter.com/scQbLXqFs2",
+					"expanded_url": "https://twitter.com/SenorG/status/1246202373699022849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 457,
+							"h": 279,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 457,
+							"h": 279,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 457,
+							"h": 279,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246201601586385000,
+					"id_str": "1246201601586384898",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EUtlwQUUUAIspK-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUtlwQUUUAIspK-.png",
+					"url": "https://t.co/scQbLXqFs2",
+					"display_url": "pic.twitter.com/scQbLXqFs2",
+					"expanded_url": "https://twitter.com/SenorG/status/1246202373699022849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 457,
+							"h": 279,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 457,
+							"h": 279,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 457,
+							"h": 279,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21132309,
+			"id_str": "21132309",
+			"name": "Noah Geisel",
+			"screen_name": "SenorG",
+			"location": "Denver",
+			"description": "2013 ACTFL National Language TOY. \nWorld Lang + Badges + EdTech PD + Keynotes. #Badgechat co-founder. Teach at CU Denver.\nHe/Him\n\nTake risks/Dream Big!",
+			"url": "https://t.co/DAux9HDx4r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DAux9HDx4r",
+							"expanded_url": "https://medium.com/@senorg/",
+							"display_url": "medium.com/@senorg/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12063,
+			"friends_count": 10925,
+			"listed_count": 746,
+			"created_at": "Tue Feb 17 21:24:46 +0000 2009",
+			"favourites_count": 15164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229976264028512257/OrKl5RpU_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229976264028512257/OrKl5RpU_normal.png",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3A075F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW POST!!\n5 Ways to Enhance the Social in our Social Distancing (ensuring human connection in remote learning)\nhttps://t.co/jG7DI8VIXN #ditchbook #tlap #masterychat https://t.co/scQbLXqFs2"
+	},
+	{
 		"created_at": "Thu Apr 02 17:41:43 +0000 2020",
 		"id": 1245768389609410600,
 		"id_str": "1245768389609410560",

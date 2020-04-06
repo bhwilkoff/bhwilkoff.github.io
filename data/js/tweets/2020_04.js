@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 17:54:07 +0000 2020",
+		"id": 1247221059822047200,
+		"id_str": "1247221059822047232",
+		"full_text": "@budtheteacher @kmishmael @AjitPaiFCC Added to my reading list. Thanks!",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "budtheteacher",
+					"name": "Bud Hunt",
+					"id": 1424681,
+					"id_str": "1424681",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "kmishmael",
+					"name": "Kristina Ishmael she|her|hers",
+					"id": 58933798,
+					"id_str": "58933798",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "AjitPaiFCC",
+					"name": "Ajit Pai",
+					"id": 575658149,
+					"id_str": "575658149",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1247220752887066600,
+		"in_reply_to_status_id_str": "1247220752887066629",
+		"in_reply_to_user_id": 1424681,
+		"in_reply_to_user_id_str": "1424681",
+		"in_reply_to_screen_name": "budtheteacher",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6482,
+			"friends_count": 2643,
+			"listed_count": 372,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@budtheteacher @kmishmael @AjitPaiFCC Added to my reading list. Thanks!"
+	},
+	{
+		"created_at": "Mon Apr 06 17:52:06 +0000 2020",
+		"id": 1247220552080568300,
+		"id_str": "1247220552080568322",
+		"full_text": "Agreed. And yet, what is the “He’s back” moment that we need to feel in order to make sure everyone is on the same page? https://t.co/cHz8YhPlEK https://t.co/7HgADcIxFA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cHz8YhPlEK",
+					"expanded_url": "https://twitter.com/HannahLebovits/status/1246958138403753984",
+					"display_url": "twitter.com/HannahLebovits…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247220497659486200,
+					"id_str": "1247220497659486208",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EU8Ebz-UYAA9FY8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EU8Ebz-UYAA9FY8.jpg",
+					"url": "https://t.co/7HgADcIxFA",
+					"display_url": "pic.twitter.com/7HgADcIxFA",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1247220552080568322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 244,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247220497659486200,
+					"id_str": "1247220497659486208",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EU8Ebz-UYAA9FY8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EU8Ebz-UYAA9FY8.jpg",
+					"url": "https://t.co/7HgADcIxFA",
+					"display_url": "pic.twitter.com/7HgADcIxFA",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1247220552080568322/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 244,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							50
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EU8Ebz-UYAA9FY8.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6482,
+			"friends_count": 2643,
+			"listed_count": 372,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246958138403754000,
+		"quoted_status_id_str": "1246958138403753984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cHz8YhPlEK",
+			"expanded": "https://twitter.com/HannahLebovits/status/1246958138403753984",
+			"display": "twitter.com/HannahLebovits…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 06 00:29:22 +0000 2020",
+			"id": 1246958138403754000,
+			"id_str": "1246958138403753984",
+			"full_text": "Husband just told me, “watching the federal government deal with COVID-19 is like watching the Ministry of Magic deal with Voldemort’s return,” and damn if that isn’t the best take I’ve heard this month",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 839819096686530600,
+				"id_str": "839819096686530560",
+				"name": "Hannah Lebovits",
+				"screen_name": "HannahLebovits",
+				"location": "PIT-JERU-NYC-CLE",
+				"description": "@CSU_Urban PhD candidate studying social sustainability & social equity. Incoming Asst Prof at CAPPA UT-Arlington. Writer @ClevelandScene. Pronouns: She/her",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5800,
+				"friends_count": 970,
+				"listed_count": 76,
+				"created_at": "Thu Mar 09 12:44:10 +0000 2017",
+				"favourites_count": 64280,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10864,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1231695300286439424/tJz9DFKj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231695300286439424/tJz9DFKj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/839819096686530560/1549248354",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25499,
+			"favorite_count": 77598,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Agreed. And yet, what is the “He’s back” moment that we need to feel in order to make sure everyone is on the same page? https://t.co/cHz8YhPlEK https://t.co/7HgADcIxFA"
+	},
+	{
+		"created_at": "Mon Apr 06 17:41:53 +0000 2020",
+		"id": 1247217981077123000,
+		"id_str": "1247217981077123073",
+		"full_text": "@kmishmael Agreed. Without actual competition, we would need some kind of regulation to help drive down the price (and raise the quality, quite frankly). @AjitPaiFCC is probably not the guy for that particular scope of work. :(",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kmishmael",
+					"name": "Kristina Ishmael she|her|hers",
+					"id": 58933798,
+					"id_str": "58933798",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "AjitPaiFCC",
+					"name": "Ajit Pai",
+					"id": 575658149,
+					"id_str": "575658149",
+					"indices": [
+						154,
+						165
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1247217377491763200,
+		"in_reply_to_status_id_str": "1247217377491763200",
+		"in_reply_to_user_id": 58933798,
+		"in_reply_to_user_id_str": "58933798",
+		"in_reply_to_screen_name": "kmishmael",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6482,
+			"friends_count": 2643,
+			"listed_count": 372,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kmishmael Agreed. Without actual competition, we would need some kind of regulation to help drive down the price (and raise the quality, quite frankly). @AjitPaiFCC is probably not the guy for that particular scope of work. :("
+	},
+	{
 		"created_at": "Mon Apr 06 16:13:57 +0000 2020",
 		"id": 1247195853283942400,
 		"id_str": "1247195853283942405",

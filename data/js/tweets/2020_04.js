@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 00:39:04 +0000 2020",
+		"id": 1247226392065892400,
+		"id_str": "1247322968465661957",
+		"full_text": "Do some things. Maybe don't make so many posters and graphics about how great the things you did are.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1424681,
+			"id_str": "1424681",
+			"name": "Bud Hunt",
+			"screen_name": "budtheteacher",
+			"location": "",
+			"description": "I'm learning.",
+			"url": "http://t.co/m6rrN36GAP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m6rrN36GAP",
+							"expanded_url": "http://www.budtheteacher.com",
+							"display_url": "budtheteacher.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12283,
+			"friends_count": 3696,
+			"listed_count": 753,
+			"created_at": "Sun Mar 18 16:35:08 +0000 2007",
+			"favourites_count": 13297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 59786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022503782142246913/v_ebzwI6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022503782142246913/v_ebzwI6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1424681/1399931072",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Do some things. Maybe don't make so many posters and graphics about how great the things you did are."
+	},
+	{
 		"created_at": "Mon Apr 06 22:38:03 +0000 2020",
 		"id": 1247292514043756500,
 		"id_str": "1247292514043756544",

@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 21:10:33 +0000 2020",
+		"id": 1247632880894742500,
+		"id_str": "1247632880894742528",
+		"full_text": "I’m saying this to my children on an hourly basis right now. I feel like 7-10 devices all streaming something or video conferencing at the same time is not great for non-fiber wifi right now. Woof. https://t.co/21aB9UIFF6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/21aB9UIFF6",
+					"expanded_url": "https://twitter.com/decafjedi/status/1247631471126462465",
+					"display_url": "twitter.com/decafjedi/stat…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6485,
+			"friends_count": 2652,
+			"listed_count": 372,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247631471126462500,
+		"quoted_status_id_str": "1247631471126462465",
+		"quoted_status_permalink": {
+			"url": "https://t.co/21aB9UIFF6",
+			"expanded": "https://twitter.com/decafjedi/status/1247631471126462465",
+			"display": "twitter.com/decafjedi/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 07 21:04:57 +0000 2020",
+			"id": 1247631471126462500,
+			"id_str": "1247631471126462465",
+			"full_text": "Hey, would a few of you mind logging off the internet for a bit? My speeds are really slow right now. Thanks!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 574758331,
+				"id_str": "574758331",
+				"name": "Jess Morrissette",
+				"screen_name": "decafjedi",
+				"location": "West Virginia, USA",
+				"description": "Professor at Marshall University, studying games and the politics of pop culture. He/him. Visit the Video Game Soda Machine Project: https://t.co/lPwBb9yZ1E!",
+				"url": "https://t.co/18FuEwXsax",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/18FuEwXsax",
+								"expanded_url": "http://jessmorrissette.net",
+								"display_url": "jessmorrissette.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lPwBb9yZ1E",
+								"expanded_url": "http://vgsmproject.com",
+								"display_url": "vgsmproject.com",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4783,
+				"friends_count": 1022,
+				"listed_count": 94,
+				"created_at": "Tue May 08 20:09:18 +0000 2012",
+				"favourites_count": 26277,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 30738,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813852858231689216/CnAUs7Ex_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813852858231689216/CnAUs7Ex_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/574758331/1583803438",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m saying this to my children on an hourly basis right now. I feel like 7-10 devices all streaming something or video conferencing at the same time is not great for non-fiber wifi right now. Woof. https://t.co/21aB9UIFF6"
+	},
+	{
 		"created_at": "Tue Apr 07 00:39:04 +0000 2020",
 		"id": 1247226392065892400,
 		"id_str": "1247322968465661957",

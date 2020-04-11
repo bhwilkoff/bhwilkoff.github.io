@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 23:31:53 +0000 2020",
+		"id": 1248755613384900600,
+		"id_str": "1248755613384900608",
+		"full_text": "Yes!!! https://t.co/I5pFLRtLW5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I5pFLRtLW5",
+					"expanded_url": "https://twitter.com/karenhoppis/status/1248747865809154048",
+					"display_url": "twitter.com/karenhoppis/st…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6485,
+			"friends_count": 2667,
+			"listed_count": 373,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248747865809154000,
+		"quoted_status_id_str": "1248747865809154048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I5pFLRtLW5",
+			"expanded": "https://twitter.com/karenhoppis/status/1248747865809154048",
+			"display": "twitter.com/karenhoppis/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 10 23:01:06 +0000 2020",
+			"id": 1248747865809154000,
+			"id_str": "1248747865809154048",
+			"full_text": "@bhwilkoff What about kid perspective? https://t.co/tJzwrU5oot",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1248747861069586400,
+						"id_str": "1248747861069586433",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/EVRxkEEU4AE0_bc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVRxkEEU4AE0_bc.jpg",
+						"url": "https://t.co/tJzwrU5oot",
+						"display_url": "pic.twitter.com/tJzwrU5oot",
+						"expanded_url": "https://twitter.com/KarenHoppis/status/1248747865809154048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 797,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 452,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1360,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1248747861069586400,
+						"id_str": "1248747861069586433",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/EVRxkEEU4AE0_bc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVRxkEEU4AE0_bc.jpg",
+						"url": "https://t.co/tJzwrU5oot",
+						"display_url": "pic.twitter.com/tJzwrU5oot",
+						"expanded_url": "https://twitter.com/KarenHoppis/status/1248747865809154048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 797,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 452,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1360,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1248630947051794400,
+			"in_reply_to_status_id_str": "1248630947051794434",
+			"in_reply_to_user_id": 1710871,
+			"in_reply_to_user_id_str": "1710871",
+			"in_reply_to_screen_name": "bhwilkoff",
+			"user": {
+				"id": 509709993,
+				"id_str": "509709993",
+				"name": "Karen Hoppis",
+				"screen_name": "KarenHoppis",
+				"location": "Erie, CO",
+				"description": "Learning and Technology Coach @stvrainopd Google and Raspberry Pi Certified. Apple Teacher 2016 #svvsdlearns #makered @rockcsco",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 922,
+				"friends_count": 1468,
+				"listed_count": 90,
+				"created_at": "Thu Mar 01 04:26:21 +0000 2012",
+				"favourites_count": 7115,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2087,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/973772506182991872/zw5g5svY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973772506182991872/zw5g5svY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/509709993/1530903784",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Yes!!! https://t.co/I5pFLRtLW5"
+	},
+	{
 		"created_at": "Fri Apr 10 15:16:30 +0000 2020",
 		"id": 1248630947051794400,
 		"id_str": "1248630947051794434",

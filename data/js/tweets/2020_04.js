@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 17:03:08 +0000 2020",
+		"id": 1250107332547063800,
+		"id_str": "1250107332547063809",
+		"full_text": "@ethanbeute @BombBomb Context is important. Thought the story might be as simple as it is called out here. Totally understand wanting to give back. Sometimes we can’t help how we are perceived. However, still not sure about how I would feel as a student receiving messages from https://t.co/fDYZLSOFNq https://t.co/T2Ph8f2lgk",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			301
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ethanbeute",
+					"name": "Ethan Beute",
+					"id": 64433803,
+					"id_str": "64433803",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "BombBomb",
+					"name": "BombBomb",
+					"id": 29066893,
+					"id_str": "29066893",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fDYZLSOFNq",
+					"expanded_url": "http://bombbomb.com",
+					"display_url": "bombbomb.com",
+					"indices": [
+						278,
+						301
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250107317888020500,
+					"id_str": "1250107317888020481",
+					"indices": [
+						302,
+						325
+					],
+					"media_url": "http://pbs.twimg.com/media/EVlF-3XU8AElO0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVlF-3XU8AElO0_.jpg",
+					"url": "https://t.co/T2Ph8f2lgk",
+					"display_url": "pic.twitter.com/T2Ph8f2lgk",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1250107332547063809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 591,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 934,
+							"h": 812,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 934,
+							"h": 812,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250107317888020500,
+					"id_str": "1250107317888020481",
+					"indices": [
+						302,
+						325
+					],
+					"media_url": "http://pbs.twimg.com/media/EVlF-3XU8AElO0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVlF-3XU8AElO0_.jpg",
+					"url": "https://t.co/T2Ph8f2lgk",
+					"display_url": "pic.twitter.com/T2Ph8f2lgk",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1250107332547063809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 591,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 934,
+							"h": 812,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 934,
+							"h": 812,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1250100116079304700,
+		"in_reply_to_status_id_str": "1250100116079304705",
+		"in_reply_to_user_id": 64433803,
+		"in_reply_to_user_id_str": "64433803",
+		"in_reply_to_screen_name": "ethanbeute",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6481,
+			"friends_count": 2683,
+			"listed_count": 373,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ethanbeute @BombBomb Context is important. Thought the story might be as simple as it is called out here. Totally understand wanting to give back. Sometimes we can’t help how we are perceived. However, still not sure about how I would feel as a student receiving messages from https://t.co/fDYZLSOFNq https://t.co/T2Ph8f2lgk"
+	},
+	{
 		"created_at": "Tue Apr 14 14:16:14 +0000 2020",
 		"id": 1250065332049514500,
 		"id_str": "1250065332049514504",

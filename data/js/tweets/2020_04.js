@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 14:44:30 +0000 2020",
+		"id": 1250434832112353300,
+		"id_str": "1250434832112353280",
+		"full_text": "@wfryer @techsavvyteach @rmbyrne @tonyvincent @ELanghorst @BiggestMeow @EduQuinn @reneehobbs @brholland @mrhooker @FelixJacomino @TheJenCarey @pgeorge @alicebarr @cheryloakes50 @TracyClark08 @MsLaidler @EdGamer @jonathanwylie @spencerideas @ericcurts Given your stance on protecting Student Data Privacy, are you putting info on the tools you recommending for how well the companies are dealing with that issue? Maybe make a section for “alternatives” at least that are more security-focused. For example, https://t.co/If8x4e8COF.",
+		"truncated": false,
+		"display_text_range": [
+			251,
+			530
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wfryer",
+					"name": "Wesley Fryer, Ph.D. 🌎🎙🚀",
+					"id": 7095342,
+					"id_str": "7095342",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "techsavvyteach",
+					"name": "Jason Neiffer🔪, Ed.D. 🔜 Still @ Home 🤷",
+					"id": 15283328,
+					"id_str": "15283328",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"screen_name": "rmbyrne",
+					"name": "Richard Byrne",
+					"id": 11112092,
+					"id_str": "11112092",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"screen_name": "tonyvincent",
+					"name": "Tony Vincent",
+					"id": 781121,
+					"id_str": "781121",
+					"indices": [
+						33,
+						45
+					]
+				},
+				{
+					"screen_name": "ELanghorst",
+					"name": "Eric Langhorst",
+					"id": 11089102,
+					"id_str": "11089102",
+					"indices": [
+						46,
+						57
+					]
+				},
+				{
+					"screen_name": "BiggestMeow",
+					"name": "Eric Ebert",
+					"id": 753620378,
+					"id_str": "753620378",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"screen_name": "EduQuinn",
+					"name": "Dave Quinn",
+					"id": 1596753367,
+					"id_str": "1596753367",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"screen_name": "reneehobbs",
+					"name": "Renee Hobbs",
+					"id": 16471997,
+					"id_str": "16471997",
+					"indices": [
+						81,
+						92
+					]
+				},
+				{
+					"screen_name": "brholland",
+					"name": "Dr. Beth Holland",
+					"id": 16485564,
+					"id_str": "16485564",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"screen_name": "mrhooker",
+					"name": "Carl Hooker",
+					"id": 9890872,
+					"id_str": "9890872",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"screen_name": "FelixJacomino",
+					"name": "𝔽𝕖𝕝𝕚𝕩 𝕁𝕒𝕔𝕠𝕞𝕚𝕟𝕠",
+					"id": 19356064,
+					"id_str": "19356064",
+					"indices": [
+						114,
+						128
+					]
+				},
+				{
+					"screen_name": "TheJenCarey",
+					"name": "Jennifer Carey",
+					"id": 16673872,
+					"id_str": "16673872",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"screen_name": "pgeorge",
+					"name": "Peggy George",
+					"id": 6828382,
+					"id_str": "6828382",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"screen_name": "alicebarr",
+					"name": "alice barr 🦞",
+					"id": 6168252,
+					"id_str": "6168252",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"screen_name": "cheryloakes50",
+					"name": "cheryloakes",
+					"id": 5146011,
+					"id_str": "5146011",
+					"indices": [
+						162,
+						176
+					]
+				},
+				{
+					"screen_name": "TracyClark08",
+					"name": "Tracy Clark",
+					"id": 1135700720,
+					"id_str": "1135700720",
+					"indices": [
+						177,
+						190
+					]
+				},
+				{
+					"screen_name": "MsLaidler",
+					"name": "Autumn Laidler",
+					"id": 277763009,
+					"id_str": "277763009",
+					"indices": [
+						191,
+						201
+					]
+				},
+				{
+					"screen_name": "EdGamer",
+					"name": "Zack Gilbert",
+					"id": 276645875,
+					"id_str": "276645875",
+					"indices": [
+						202,
+						210
+					]
+				},
+				{
+					"screen_name": "jonathanwylie",
+					"name": "Jonathan Wylie",
+					"id": 99852446,
+					"id_str": "99852446",
+					"indices": [
+						211,
+						225
+					]
+				},
+				{
+					"screen_name": "spencerideas",
+					"name": "John Spencer",
+					"id": 18389166,
+					"id_str": "18389166",
+					"indices": [
+						226,
+						239
+					]
+				},
+				{
+					"screen_name": "ericcurts",
+					"name": "Eric Curts",
+					"id": 17999593,
+					"id_str": "17999593",
+					"indices": [
+						240,
+						250
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/If8x4e8COF",
+					"expanded_url": "https://meet.jit.si",
+					"display_url": "meet.jit.si",
+					"indices": [
+						506,
+						529
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1250416084865421300,
+		"in_reply_to_status_id_str": "1250416084865421312",
+		"in_reply_to_user_id": 7095342,
+		"in_reply_to_user_id_str": "7095342",
+		"in_reply_to_screen_name": "wfryer",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6480,
+			"friends_count": 2691,
+			"listed_count": 373,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@wfryer @techsavvyteach @rmbyrne @tonyvincent @ELanghorst @BiggestMeow @EduQuinn @reneehobbs @brholland @mrhooker @FelixJacomino @TheJenCarey @pgeorge @alicebarr @cheryloakes50 @TracyClark08 @MsLaidler @EdGamer @jonathanwylie @spencerideas @ericcurts Given your stance on protecting Student Data Privacy, are you putting info on the tools you recommending for how well the companies are dealing with that issue? Maybe make a section for “alternatives” at least that are more security-focused. For example, https://t.co/If8x4e8COF."
+	},
+	{
 		"created_at": "Wed Apr 15 13:25:55 +0000 2020",
 		"id": 1250415056665194500,
 		"id_str": "1250415056665194496",

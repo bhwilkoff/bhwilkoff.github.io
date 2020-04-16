@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 18:13:15 +0000 2020",
+		"id": 1250849754872836000,
+		"id_str": "1250849754872836096",
+		"full_text": "@jeremy_gibbs @imyke @ismh Right?! I mean, to get a 2 generations newer processor and only give up the telephoto lens, Face ID, and OLED screen that is slightly larger. Especially only for 6 months, seems like quite a deal.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeremy_gibbs",
+					"name": "Jeremy",
+					"id": 19303241,
+					"id_str": "19303241",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "imyke",
+					"name": "Myke Hurley",
+					"id": 763549,
+					"id_str": "763549",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"screen_name": "ismh",
+					"name": "Stephen Hackett",
+					"id": 1566661,
+					"id_str": "1566661",
+					"indices": [
+						21,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1250829635828568000,
+		"in_reply_to_status_id_str": "1250829635828568065",
+		"in_reply_to_user_id": 19303241,
+		"in_reply_to_user_id_str": "19303241",
+		"in_reply_to_screen_name": "jeremy_gibbs",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6479,
+			"friends_count": 2692,
+			"listed_count": 373,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jeremy_gibbs @imyke @ismh Right?! I mean, to get a 2 generations newer processor and only give up the telephoto lens, Face ID, and OLED screen that is slightly larger. Especially only for 6 months, seems like quite a deal."
+	},
+	{
 		"created_at": "Thu Apr 16 16:07:09 +0000 2020",
 		"id": 1250818018457776000,
 		"id_str": "1250818018457776128",

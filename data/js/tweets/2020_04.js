@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 16:07:09 +0000 2020",
+		"id": 1250818018457776000,
+		"id_str": "1250818018457776128",
+		"full_text": "Although, looking at the picture on offer here, they should probably not be selecting 10 year old iPads (Gen 1) for their 1:1 programs as a start. https://t.co/OUMMIjlfUj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OUMMIjlfUj",
+					"expanded_url": "https://twitter.com/EdMarketBrief/status/1250817659027042304",
+					"display_url": "twitter.com/EdMarketBrief/…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6479,
+			"friends_count": 2691,
+			"listed_count": 373,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250817659027042300,
+		"quoted_status_id_str": "1250817659027042304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OUMMIjlfUj",
+			"expanded": "https://twitter.com/EdMarketBrief/status/1250817659027042304",
+			"display": "twitter.com/EdMarketBrief/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 16 16:05:43 +0000 2020",
+			"id": 1250817659027042300,
+			"id_str": "1250817659027042304",
+			"full_text": "#COVID19 is leading districts to sharpen their focus on #1to1 device programs, but district leaders are grappling with lagging supply chains. https://t.co/btTQsgJOfb https://t.co/gJeKHJ3dWv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "1to1",
+						"indices": [
+							56,
+							61
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/btTQsgJOfb",
+						"expanded_url": "https://marketbrief.edweek.org/market-trends/4-districts-quests-ramp-1-1-device-programs-covid-19-era/?cmp=soc-tw-edit-mrktbf",
+						"display_url": "marketbrief.edweek.org/market-trends/…",
+						"indices": [
+							142,
+							165
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1250817647735947300,
+						"id_str": "1250817647735947264",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/EVvMBgQXQAAechu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVvMBgQXQAAechu.jpg",
+						"url": "https://t.co/gJeKHJ3dWv",
+						"display_url": "pic.twitter.com/gJeKHJ3dWv",
+						"expanded_url": "https://twitter.com/EdMarketBrief/status/1250817659027042304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 560,
+								"h": 292,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 560,
+								"h": 292,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 560,
+								"h": 292,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1250817647735947300,
+						"id_str": "1250817647735947264",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/EVvMBgQXQAAechu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVvMBgQXQAAechu.jpg",
+						"url": "https://t.co/gJeKHJ3dWv",
+						"display_url": "pic.twitter.com/gJeKHJ3dWv",
+						"expanded_url": "https://twitter.com/EdMarketBrief/status/1250817659027042304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 560,
+								"h": 292,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 560,
+								"h": 292,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 560,
+								"h": 292,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3972990909,
+				"id_str": "3972990909",
+				"name": "EdWeek Market Brief",
+				"screen_name": "EdMarketBrief",
+				"location": "Bethesda, MD",
+				"description": "EdWeek Market Brief brings you and your team actionable intelligence about the marketplace of K-12 education.",
+				"url": "https://t.co/SOekZqPUfX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SOekZqPUfX",
+								"expanded_url": "http://marketbrief.edweek.org",
+								"display_url": "marketbrief.edweek.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7152,
+				"friends_count": 4065,
+				"listed_count": 135,
+				"created_at": "Fri Oct 16 15:51:09 +0000 2015",
+				"favourites_count": 306,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9184,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/668904324609675264/JgCnurnX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/668904324609675264/JgCnurnX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3972990909/1500307444",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Although, looking at the picture on offer here, they should probably not be selecting 10 year old iPads (Gen 1) for their 1:1 programs as a start. https://t.co/OUMMIjlfUj"
+	},
+	{
 		"created_at": "Thu Apr 16 14:22:59 +0000 2020",
 		"id": 1250791805764788200,
 		"id_str": "1250791805764788224",

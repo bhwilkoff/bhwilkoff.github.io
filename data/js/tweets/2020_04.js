@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 14:23:55 +0000 2020",
+		"id": 1251154427546792000,
+		"id_str": "1251154427546791936",
+		"full_text": "“Dressed up to the eyes\nIt's a wonderful surprise\nTo see your zoom background and your voice rise\nThrowing out your frown\nAnd just smiling at the sound” \n(of someone starting the meeting…) https://t.co/NffjTezF3o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NffjTezF3o",
+					"expanded_url": "https://twitter.com/holden/status/1251152911821762569",
+					"display_url": "twitter.com/holden/status/…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6479,
+			"friends_count": 2693,
+			"listed_count": 373,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1251152911821762600,
+		"quoted_status_id_str": "1251152911821762569",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NffjTezF3o",
+			"expanded": "https://twitter.com/holden/status/1251152911821762569",
+			"display": "twitter.com/holden/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 17 14:17:54 +0000 2020",
+			"id": 1251152911821762600,
+			"id_str": "1251152911821762569",
+			"full_text": "We all remember that old Cure song, \"Friday I'm in Zoom\" right? https://t.co/VPeKTka9Fy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1251152781982879700,
+						"id_str": "1251152781982879744",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/EVz804nU0AAgsvA.png",
+						"media_url_https": "https://pbs.twimg.com/media/EVz804nU0AAgsvA.png",
+						"url": "https://t.co/VPeKTka9Fy",
+						"display_url": "pic.twitter.com/VPeKTka9Fy",
+						"expanded_url": "https://twitter.com/holden/status/1251152911821762569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 349,
+								"h": 633,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 349,
+								"h": 633,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 349,
+								"h": 633,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1251152781982879700,
+						"id_str": "1251152781982879744",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/EVz804nU0AAgsvA.png",
+						"media_url_https": "https://pbs.twimg.com/media/EVz804nU0AAgsvA.png",
+						"url": "https://t.co/VPeKTka9Fy",
+						"display_url": "pic.twitter.com/VPeKTka9Fy",
+						"expanded_url": "https://twitter.com/holden/status/1251152911821762569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 349,
+								"h": 633,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 349,
+								"h": 633,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 349,
+								"h": 633,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1912681,
+				"id_str": "1912681",
+				"name": "Mike Caulfield",
+				"screen_name": "holden",
+				"location": "Portland, OR (he/him)",
+				"description": "Radically rethinking how online information literacy is taught for the American Democracy Project. Recent project: https://t.co/zcBVaqM3cv",
+				"url": "https://t.co/ty2GJPfEz8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ty2GJPfEz8",
+								"expanded_url": "http://hapgood.us",
+								"display_url": "hapgood.us",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/zcBVaqM3cv",
+								"expanded_url": "https://infodemic.blog",
+								"display_url": "infodemic.blog",
+								"indices": [
+									115,
+									138
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8699,
+				"friends_count": 1252,
+				"listed_count": 485,
+				"created_at": "Thu Mar 22 17:38:27 +0000 2007",
+				"favourites_count": 17008,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 900,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1202287659378298881/06HiPOTe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202287659378298881/06HiPOTe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1912681/1585155090",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Dressed up to the eyes\nIt's a wonderful surprise\nTo see your zoom background and your voice rise\nThrowing out your frown\nAnd just smiling at the sound” \n(of someone starting the meeting…) https://t.co/NffjTezF3o"
+	},
+	{
 		"created_at": "Fri Apr 17 13:20:43 +0000 2020",
 		"id": 1251138523224146000,
 		"id_str": "1251138523224145923",

@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 22 20:44:05 +0000 2020",
+		"id": 1253062038810550300,
+		"id_str": "1253062038810550272",
+		"full_text": "@MikeKonopasek This parent in Colorado is not more or less relaxed by his optimism. I’m optimistic that we will learn what we can from this “online learning” experiment and make “coming back to school” something even better than what it was before, whether that is brick and mortar or not.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			289
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MikeKonopasek",
+					"name": "Michael Konopasek",
+					"id": 17580624,
+					"id_str": "17580624",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1253061324407337000,
+		"in_reply_to_status_id_str": "1253061324407336960",
+		"in_reply_to_user_id": 17580624,
+		"in_reply_to_user_id_str": "17580624",
+		"in_reply_to_screen_name": "MikeKonopasek",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6476,
+			"friends_count": 2728,
+			"listed_count": 373,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MikeKonopasek This parent in Colorado is not more or less relaxed by his optimism. I’m optimistic that we will learn what we can from this “online learning” experiment and make “coming back to school” something even better than what it was before, whether that is brick and mortar or not."
+	},
+	{
 		"created_at": "Wed Apr 22 13:31:31 +0000 2020",
 		"id": 1252953179454505000,
 		"id_str": "1252953179454504961",

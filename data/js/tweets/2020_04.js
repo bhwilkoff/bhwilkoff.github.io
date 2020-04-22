@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 22 13:31:31 +0000 2020",
+		"id": 1252953179454505000,
+		"id_str": "1252953179454504961",
+		"full_text": "A sign of a healthy marriage is when you send multiple pictures of frozen chicken thighs to your spouse to make sure you are both on the same page with your whole “meat situation.” \n\nYou are free to enjoy these masterpieces as well. https://t.co/7kEpHy0G6R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1252953167953723400,
+					"id_str": "1252953167953723392",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EWNiRJAVAAAO78J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWNiRJAVAAAO78J.jpg",
+					"url": "https://t.co/7kEpHy0G6R",
+					"display_url": "pic.twitter.com/7kEpHy0G6R",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1252953179454504961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1350,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252953167953723400,
+					"id_str": "1252953167953723392",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EWNiRJAVAAAO78J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWNiRJAVAAAO78J.jpg",
+					"url": "https://t.co/7kEpHy0G6R",
+					"display_url": "pic.twitter.com/7kEpHy0G6R",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1252953179454504961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1350,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1252953168268259300,
+					"id_str": "1252953168268259328",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EWNiRKLUcAAm4oH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWNiRKLUcAAm4oH.jpg",
+					"url": "https://t.co/7kEpHy0G6R",
+					"display_url": "pic.twitter.com/7kEpHy0G6R",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1252953179454504961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1350,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6477,
+			"friends_count": 2724,
+			"listed_count": 373,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A sign of a healthy marriage is when you send multiple pictures of frozen chicken thighs to your spouse to make sure you are both on the same page with your whole “meat situation.” \n\nYou are free to enjoy these masterpieces as well. https://t.co/7kEpHy0G6R"
+	},
+	{
 		"created_at": "Tue Apr 21 14:11:52 +0000 2020",
 		"id": 1252600944786727000,
 		"id_str": "1252600944786726918",

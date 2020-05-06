@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 18:47:50 +0000 2020",
+		"id": 1258106213184594000,
+		"id_str": "1258106213184593921",
+		"full_text": "This take is bad. And he should feel bad. https://t.co/oiwkqFoEI3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oiwkqFoEI3",
+					"expanded_url": "https://twitter.com/ddale8/status/1258102652346523650",
+					"display_url": "twitter.com/ddale8/status/…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6487,
+			"friends_count": 2848,
+			"listed_count": 372,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258102652346523600,
+		"quoted_status_id_str": "1258102652346523650",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oiwkqFoEI3",
+			"expanded": "https://twitter.com/ddale8/status/1258102652346523650",
+			"display": "twitter.com/ddale8/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 06 18:33:41 +0000 2020",
+			"id": 1258102652346523600,
+			"id_str": "1258102652346523650",
+			"full_text": "Trump: Everyone would understand fully if teachers over 60 didn't teach \"for a while,\" but schools should open -- \"it's incredible\" how strong children are and how well they're doing.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1258101998332895200,
+			"in_reply_to_status_id_str": "1258101998332895233",
+			"in_reply_to_user_id": 225265639,
+			"in_reply_to_user_id_str": "225265639",
+			"in_reply_to_screen_name": "ddale8",
+			"user": {
+				"id": 225265639,
+				"id_str": "225265639",
+				"name": "Daniel Dale",
+				"screen_name": "ddale8",
+				"location": "Washington DC",
+				"description": "Reporter for CNN, fact-checking the president and other politicians.",
+				"url": "https://t.co/le2eZxIHBb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/le2eZxIHBb",
+								"expanded_url": "https://www.cnn.com/profiles/daniel-dale",
+								"display_url": "cnn.com/profiles/danie…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 777763,
+				"friends_count": 1316,
+				"listed_count": 8685,
+				"created_at": "Sat Dec 11 04:18:41 +0000 2010",
+				"favourites_count": 18843,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 101432,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1125160854352039936/fQrin-BI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125160854352039936/fQrin-BI_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 213,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This take is bad. And he should feel bad. https://t.co/oiwkqFoEI3"
+	},
+	{
 		"created_at": "Wed May 06 15:04:19 +0000 2020",
 		"id": 1258049962354462700,
 		"id_str": "1258049962354462726",

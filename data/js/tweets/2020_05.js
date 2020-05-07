@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 23:53:17 +0000 2020",
+		"id": 1258183082827341800,
+		"id_str": "1258183082827341829",
+		"full_text": "Thank you to ⁦@MyNameIsArchaic⁩ for this wonderful reminder. Important on March 24 (when he first tweeted it), all the more essential today. https://t.co/KNRQDU91RZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MyNameIsArchaic",
+					"name": "Roy 🇨🇦🌾",
+					"id": 1141545191289045000,
+					"id_str": "1141545191289044992",
+					"indices": [
+						14,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258183078033240000,
+					"id_str": "1258183078033240065",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EXX21-SUMAE8Jay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXX21-SUMAE8Jay.jpg",
+					"url": "https://t.co/KNRQDU91RZ",
+					"display_url": "pic.twitter.com/KNRQDU91RZ",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1258183082827341829/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1120,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1120,
+							"h": 1120,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258183078033240000,
+					"id_str": "1258183078033240065",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EXX21-SUMAE8Jay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXX21-SUMAE8Jay.jpg",
+					"url": "https://t.co/KNRQDU91RZ",
+					"display_url": "pic.twitter.com/KNRQDU91RZ",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1258183082827341829/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1120,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1120,
+							"h": 1120,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6487,
+			"friends_count": 2850,
+			"listed_count": 371,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you to ⁦@MyNameIsArchaic⁩ for this wonderful reminder. Important on March 24 (when he first tweeted it), all the more essential today. https://t.co/KNRQDU91RZ"
+	},
+	{
 		"created_at": "Wed May 06 18:47:50 +0000 2020",
 		"id": 1258106213184594000,
 		"id_str": "1258106213184593921",

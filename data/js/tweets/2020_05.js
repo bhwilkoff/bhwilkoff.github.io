@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 20:02:51 +0000 2020",
+		"id": 1258849868455358500,
+		"id_str": "1258849868455358464",
+		"full_text": "Agreed! Lots of great people in here already. https://t.co/4fuUkirxl4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4fuUkirxl4",
+					"expanded_url": "https://twitter.com/mattcassinelli/status/1258849066793832449",
+					"display_url": "twitter.com/mattcassinelli…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6490,
+			"friends_count": 2852,
+			"listed_count": 371,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258849066793832400,
+		"quoted_status_id_str": "1258849066793832449",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4fuUkirxl4",
+			"expanded": "https://twitter.com/mattcassinelli/status/1258849066793832449",
+			"display": "twitter.com/mattcassinelli…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 08 19:59:40 +0000 2020",
+			"id": 1258849066793832400,
+			"id_str": "1258849066793832449",
+			"full_text": "For what it’s worth, this community has been live for 4 hours &amp; I’ve already made better connections with a few people.\n\nIf you listen to @_RelayFM podcasts, you should sign up and become a member 👇 https://t.co/NJL0H6GWM9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "_RelayFM",
+						"name": "Relay FM",
+						"id": 2490279366,
+						"id_str": "2490279366",
+						"indices": [
+							142,
+							151
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NJL0H6GWM9",
+						"expanded_url": "https://twitter.com/_relayfm/status/1258786783778811904",
+						"display_url": "twitter.com/_relayfm/statu…",
+						"indices": [
+							203,
+							226
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18317423,
+				"id_str": "18317423",
+				"name": "Matthew Cassinelli",
+				"screen_name": "mattcassinelli",
+				"location": "Berkeley, CA",
+				"description": "I make videos about Siri Shortcuts, Apple, & technology. Cohost of @TWiT's #SmartTechToday. Prev @iMore, @WorkflowHQ, @vaynermedia. 👉 @cassinellimedia",
+				"url": "https://t.co/4QtxWpMsmc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4QtxWpMsmc",
+								"expanded_url": "http://youtube.com/matthewcassinelli",
+								"display_url": "youtube.com/matthewcassine…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9384,
+				"friends_count": 4461,
+				"listed_count": 533,
+				"created_at": "Mon Dec 22 21:17:54 +0000 2008",
+				"favourites_count": 69428,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35476,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885893486024642561/umxeMoby_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885893486024642561/umxeMoby_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18317423/1391478685",
+				"profile_link_color": "ECBA56",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1258786783778812000,
+			"quoted_status_id_str": "1258786783778811904",
+			"quoted_status_permalink": {
+				"url": "https://t.co/NJL0H6GWM9",
+				"expanded": "https://twitter.com/_relayfm/status/1258786783778811904",
+				"display": "twitter.com/_relayfm/statu…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Agreed! Lots of great people in here already. https://t.co/4fuUkirxl4"
+	},
+	{
 		"created_at": "Fri May 08 15:24:56 +0000 2020",
 		"id": 1258779926859149300,
 		"id_str": "1258779926859149312",

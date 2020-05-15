@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 17:09:56 +0000 2020",
+		"id": 1261343065874169900,
+		"id_str": "1261343065874169857",
+		"full_text": "@markoff You mean other than this announcement? https://t.co/0l3CZLGtMj or this one from 2 weeks ago: https://t.co/T9wSgzkSdu ?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "markoff",
+					"name": "John Markoff",
+					"id": 1536811,
+					"id_str": "1536811",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0l3CZLGtMj",
+					"expanded_url": "https://www.blog.google/products/meet/google-meet-is-here-to-host-everyones-video-meetings-for-free/",
+					"display_url": "blog.google/products/meet/…",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/T9wSgzkSdu",
+					"expanded_url": "https://blog.google/products/meet/bringing-google-meet-to-more-people/",
+					"display_url": "blog.google/products/meet/…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1261342398371618800,
+		"in_reply_to_status_id_str": "1261342398371618816",
+		"in_reply_to_user_id": 1536811,
+		"in_reply_to_user_id_str": "1536811",
+		"in_reply_to_screen_name": "markoff",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6485,
+			"friends_count": 2857,
+			"listed_count": 367,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@markoff You mean other than this announcement? https://t.co/0l3CZLGtMj or this one from 2 weeks ago: https://t.co/T9wSgzkSdu ?"
+	},
+	{
 		"created_at": "Fri May 15 15:51:03 +0000 2020",
 		"id": 1261323217026707500,
 		"id_str": "1261323217026707456",

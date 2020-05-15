@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 17:26:40 +0000 2020",
+		"id": 1261347277806776300,
+		"id_str": "1261347277806776320",
+		"full_text": "@markoff I’m so confused. Google has long included video conferencing (Hangouts (video and chat) bundled with gmail &amp; google+). Is putting a link in the sidebar altogether different than putting the link in the app launcher (bottom left vs. top right?). Also, zoom can be in Gmail too! https://t.co/51XT7mHrHY",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			289
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "markoff",
+					"name": "John Markoff",
+					"id": 1536811,
+					"id_str": "1536811",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261346460123033600,
+					"id_str": "1261346460123033600",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/media/EYEz7C5UcAAH-KA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYEz7C5UcAAH-KA.png",
+					"url": "https://t.co/51XT7mHrHY",
+					"display_url": "pic.twitter.com/51XT7mHrHY",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1261347277806776320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 338,
+							"h": 534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 338,
+							"h": 534,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 338,
+							"h": 534,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261346460123033600,
+					"id_str": "1261346460123033600",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/media/EYEz7C5UcAAH-KA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYEz7C5UcAAH-KA.png",
+					"url": "https://t.co/51XT7mHrHY",
+					"display_url": "pic.twitter.com/51XT7mHrHY",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1261347277806776320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 338,
+							"h": 534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 338,
+							"h": 534,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 338,
+							"h": 534,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261346500698763300,
+					"id_str": "1261346500698763264",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/media/EYEz9aDU8AAQFXq.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYEz9aDU8AAQFXq.png",
+					"url": "https://t.co/51XT7mHrHY",
+					"display_url": "pic.twitter.com/51XT7mHrHY",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1261347277806776320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 187,
+							"h": 411,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 187,
+							"h": 411,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 187,
+							"h": 411,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1261344745474756600,
+		"in_reply_to_status_id_str": "1261344745474756608",
+		"in_reply_to_user_id": 1536811,
+		"in_reply_to_user_id_str": "1536811",
+		"in_reply_to_screen_name": "markoff",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6486,
+			"friends_count": 2856,
+			"listed_count": 367,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@markoff I’m so confused. Google has long included video conferencing (Hangouts (video and chat) bundled with gmail &amp; google+). Is putting a link in the sidebar altogether different than putting the link in the app launcher (bottom left vs. top right?). Also, zoom can be in Gmail too! https://t.co/51XT7mHrHY"
+	},
+	{
 		"created_at": "Fri May 15 17:09:56 +0000 2020",
 		"id": 1261343065874169900,
 		"id_str": "1261343065874169857",

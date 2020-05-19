@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 19 15:44:41 +0000 2020",
+		"id": 1262771166114021400,
+		"id_str": "1262771166114021376",
+		"full_text": "Well, that is a lovely way of describing my natural inclination to question how things work and how we can make them work better. I learn best from folks who do the same, like you! https://t.co/uQQUSNPqOd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uQQUSNPqOd",
+					"expanded_url": "https://twitter.com/mweinraub87/status/1262770761829355528",
+					"display_url": "twitter.com/mweinraub87/st…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Senior Operations Manager for Admissions @MinervaSchools. Proud husband; father of 3 strange and beautiful children. Also, I Teach. And Learn. A Lot.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6483,
+			"friends_count": 2886,
+			"listed_count": 367,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 1560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262770761829355500,
+		"quoted_status_id_str": "1262770761829355528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uQQUSNPqOd",
+			"expanded": "https://twitter.com/mweinraub87/status/1262770761829355528",
+			"display": "twitter.com/mweinraub87/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 19 15:43:05 +0000 2020",
+			"id": 1262770761829355500,
+			"id_str": "1262770761829355528",
+			"full_text": "@bhwilkoff I guess just someone who is really savvy and curious about learning, design, #edtech ... and who delights in noticing where they intersect well in practice. h/t @knowledgebird",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				186
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtech",
+						"indices": [
+							88,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "knowledgebird",
+						"name": "Aprill Allen💡🐦",
+						"id": 281362086,
+						"id_str": "281362086",
+						"indices": [
+							172,
+							186
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1262769623071469600,
+			"in_reply_to_status_id_str": "1262769623071469570",
+			"in_reply_to_user_id": 1710871,
+			"in_reply_to_user_id_str": "1710871",
+			"in_reply_to_screen_name": "bhwilkoff",
+			"user": {
+				"id": 972524358,
+				"id_str": "972524358",
+				"name": "Michael Weinraub",
+				"screen_name": "mweinraub87",
+				"location": "Rockville, MD",
+				"description": "Online & blended #learning specialist. ISO 2.7 seconds on a bull named Fu Manchu. All tweets my own.",
+				"url": "https://t.co/Y4v5jmxsY1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y4v5jmxsY1",
+								"expanded_url": "https://www.linkedin.com/in/mweinraub87",
+								"display_url": "linkedin.com/in/mweinraub87",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2831,
+				"friends_count": 1882,
+				"listed_count": 357,
+				"created_at": "Mon Nov 26 19:06:37 +0000 2012",
+				"favourites_count": 49356,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33604,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/915617577107431424/DypV5JZY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/915617577107431424/DypV5JZY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/972524358/1473365242",
+				"profile_link_color": "165AA3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, that is a lovely way of describing my natural inclination to question how things work and how we can make them work better. I learn best from folks who do the same, like you! https://t.co/uQQUSNPqOd"
+	},
+	{
 		"created_at": "Tue May 19 15:21:58 +0000 2020",
 		"id": 1262765447591497700,
 		"id_str": "1262765447591497730",

@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 30 18:00:29 +0000 2020",
+		"id": 1300117326516322300,
+		"id_str": "1300131292118503424",
+		"full_text": "The weather in Colorado can be unpredictable, but every day is a good day to wear a mask! https://t.co/yL3t1vZ08l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1299567781445136400,
+					"id_str": "1299567781445136384",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/Egj-AwaUcAAZBTF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Egj-AwaUcAAZBTF.jpg",
+					"url": "https://t.co/yL3t1vZ08l",
+					"display_url": "pic.twitter.com/yL3t1vZ08l",
+					"expanded_url": "https://twitter.com/GovofCO/status/1300117326516322311/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1299567781445136400,
+					"id_str": "1299567781445136384",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/Egj-AwaUcAAZBTF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Egj-AwaUcAAZBTF.jpg",
+					"url": "https://t.co/yL3t1vZ08l",
+					"display_url": "pic.twitter.com/yL3t1vZ08l",
+					"expanded_url": "https://twitter.com/GovofCO/status/1300117326516322311/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 728344273620344800,
+			"id_str": "728344273620344832",
+			"name": "Governor Jared Polis",
+			"screen_name": "GovofCO",
+			"location": "Colorado, USA",
+			"description": "Governor of Colorado. Fighting for affordable health care, better education, an economy that works for everyone, and protecting our Colorado way of life.",
+			"url": "https://t.co/KZhb1Phymp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KZhb1Phymp",
+							"expanded_url": "https://www.colorado.gov/governor/social-media",
+							"display_url": "colorado.gov/governor/socia…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95778,
+			"friends_count": 1216,
+			"listed_count": 762,
+			"created_at": "Thu May 05 22:03:01 +0000 2016",
+			"favourites_count": 1086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215685126773850112/EbzFE6NG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215685126773850112/EbzFE6NG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/728344273620344832/1584403758",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 110,
+		"favorite_count": 726,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The weather in Colorado can be unpredictable, but every day is a good day to wear a mask! https://t.co/yL3t1vZ08l"
+	},
+	{
 		"created_at": "Tue Aug 25 04:16:52 +0000 2020",
 		"id": 1298112081405698000,
 		"id_str": "1298112081405698048",

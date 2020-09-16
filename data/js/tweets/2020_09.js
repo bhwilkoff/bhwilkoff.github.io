@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 16 22:13:25 +0000 2020",
+		"id": 1306346739922763800,
+		"id_str": "1306355537156562944",
+		"full_text": "Ok I think I will try this during class tomorrow😂send help when the students report I am stuck on the floor https://t.co/AuRZXV5iOV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AuRZXV5iOV",
+					"expanded_url": "https://twitter.com/cassidoo/status/1306263579897688065",
+					"display_url": "twitter.com/cassidoo/statu…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 761768125,
+			"id_str": "761768125",
+			"name": "Carolyn Petite",
+			"screen_name": "PetiteCode",
+			"location": "",
+			"description": "Teacher of APCSA for over 20 years, CSed advocate, she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 791,
+			"friends_count": 951,
+			"listed_count": 36,
+			"created_at": "Thu Aug 16 15:31:22 +0000 2012",
+			"favourites_count": 13608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "043D90",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/890694655683305472/LuN8ONiH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/890694655683305472/LuN8ONiH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/761768125/1501193130",
+			"profile_link_color": "043D90",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1306263579897688000,
+		"quoted_status_id_str": "1306263579897688065",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AuRZXV5iOV",
+			"expanded": "https://twitter.com/cassidoo/status/1306263579897688065",
+			"display": "twitter.com/cassidoo/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 16 16:08:01 +0000 2020",
+			"id": 1306263579897688000,
+			"id_str": "1306263579897688065",
+			"full_text": "What's stopping you from coding like this? https://t.co/jiJqUl3UwE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				42
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1306263519357067300,
+						"id_str": "1306263519357067265",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/EiDHv_5UYAEswyz.png",
+						"media_url_https": "https://pbs.twimg.com/media/EiDHv_5UYAEswyz.png",
+						"url": "https://t.co/jiJqUl3UwE",
+						"display_url": "pic.twitter.com/jiJqUl3UwE",
+						"expanded_url": "https://twitter.com/cassidoo/status/1306263579897688065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 634,
+								"h": 550,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 634,
+								"h": 550,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 634,
+								"h": 550,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1306263519357067300,
+						"id_str": "1306263519357067265",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/EiDHv_5UYAEswyz.png",
+						"media_url_https": "https://pbs.twimg.com/media/EiDHv_5UYAEswyz.png",
+						"url": "https://t.co/jiJqUl3UwE",
+						"display_url": "pic.twitter.com/jiJqUl3UwE",
+						"expanded_url": "https://twitter.com/cassidoo/status/1306263579897688065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 634,
+								"h": 550,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 634,
+								"h": 550,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 634,
+								"h": 550,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 400286802,
+				"id_str": "400286802",
+				"name": "Cassidy",
+				"screen_name": "cassidoo",
+				"location": "Seattle, WA",
+				"description": "Principal Developer Experience Engineer @netlify! Married to @ijoosong. I like jokes, karaoke, and mechanical keyboards! ✝️",
+				"url": "https://t.co/0URx4vJ8XU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0URx4vJ8XU",
+								"expanded_url": "http://cassidoo.co",
+								"display_url": "cassidoo.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 132013,
+				"friends_count": 872,
+				"listed_count": 1406,
+				"created_at": "Fri Oct 28 19:54:25 +0000 2011",
+				"favourites_count": 97632,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29822,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1292888896938729473/tDmJ1K6m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292888896938729473/tDmJ1K6m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/400286802/1597029911",
+				"profile_link_color": "24D05A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 939,
+			"favorite_count": 8300,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ok I think I will try this during class tomorrow😂send help when the students report I am stuck on the floor https://t.co/AuRZXV5iOV"
+	},
+	{
 		"created_at": "Tue Sep 15 15:46:23 +0000 2020",
 		"id": 1305895746835628000,
 		"id_str": "1305895746835628034",

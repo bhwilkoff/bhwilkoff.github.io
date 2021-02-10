@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 14:51:20 +0000 2021",
+		"id": 1359515297997226000,
+		"id_str": "1359515297997225984",
+		"full_text": "An update about our battle to keep our #blm flag up. Please read and share: Littleton HOA's Bizarre Fight Against Couple's Black Lives Matter Flag https://t.co/EpsqRyVAgE #blackhistorymonth https://t.co/YXqkSS8N9Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blm",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "blackhistorymonth",
+					"indices": [
+						171,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EpsqRyVAgE",
+					"expanded_url": "https://www.westword.com/news/littleton-hoa-declares-war-on-couples-black-lives-matter-flag-11897065",
+					"display_url": "westword.com/news/littleton…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359515291655360500,
+					"id_str": "1359515291655360514",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/Et339GnUUAIIoWS.png",
+					"media_url_https": "https://pbs.twimg.com/media/Et339GnUUAIIoWS.png",
+					"url": "https://t.co/YXqkSS8N9Q",
+					"display_url": "pic.twitter.com/YXqkSS8N9Q",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1359515297997225984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359515291655360500,
+					"id_str": "1359515291655360514",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/Et339GnUUAIIoWS.png",
+					"media_url_https": "https://pbs.twimg.com/media/Et339GnUUAIIoWS.png",
+					"url": "https://t.co/YXqkSS8N9Q",
+					"display_url": "pic.twitter.com/YXqkSS8N9Q",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1359515297997225984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1359515294012637200,
+					"id_str": "1359515294012637188",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/Et339PZVgAQfbvv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et339PZVgAQfbvv.jpg",
+					"url": "https://t.co/YXqkSS8N9Q",
+					"display_url": "pic.twitter.com/YXqkSS8N9Q",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1359515297997225984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 451,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359515296013324300,
+					"id_str": "1359515296013324292",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/Et339W2VkAQKRcT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et339W2VkAQKRcT.jpg",
+					"url": "https://t.co/YXqkSS8N9Q",
+					"display_url": "pic.twitter.com/YXqkSS8N9Q",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1359515297997225984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1325,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6346,
+			"friends_count": 3312,
+			"listed_count": 352,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An update about our battle to keep our #blm flag up. Please read and share: Littleton HOA's Bizarre Fight Against Couple's Black Lives Matter Flag https://t.co/EpsqRyVAgE #blackhistorymonth https://t.co/YXqkSS8N9Q"
+	},
+	{
 		"created_at": "Tue Feb 09 16:24:42 +0000 2021",
 		"id": 1359176407532728300,
 		"id_str": "1359176407532728325",

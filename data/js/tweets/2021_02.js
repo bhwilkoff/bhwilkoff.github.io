@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 12 04:20:30 +0000 2021",
+		"id": 1360081318856466400,
+		"id_str": "1360081318856466433",
+		"full_text": "Only a couple more hours to make this happen in Colorado. If you aren’t already following, please do. https://t.co/OpX4budego",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OpX4budego",
+					"expanded_url": "https://twitter.com/kerrydonovanco/status/1359928940580769794",
+					"display_url": "twitter.com/kerrydonovanco…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6345,
+			"friends_count": 3316,
+			"listed_count": 352,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359928940580769800,
+		"quoted_status_id_str": "1359928940580769794",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OpX4budego",
+			"expanded": "https://twitter.com/kerrydonovanco/status/1359928940580769794",
+			"display": "twitter.com/kerrydonovanco…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 11 18:15:00 +0000 2021",
+			"id": 1359928940580769800,
+			"id_str": "1359928940580769794",
+			"full_text": "PLEASE RETWEET &amp; FOLLOW: I'm the Democrat, rancher &amp; State Senator running to defeat Lauren Boebert.\n\nIn one week, we have grown our grassroots network &amp; crushed our fundraising goal. But I need your help to get us over 100,000 followers today!\n\nTogether we can flip this seat! https://t.co/k4F8ZrmwmP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				289
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1357172205831016400,
+						"id_str": "1357172205831016448",
+						"indices": [
+							290,
+							313
+						],
+						"media_url": "http://pbs.twimg.com/media/EtWm3BbXYAItxze.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtWm3BbXYAItxze.jpg",
+						"url": "https://t.co/k4F8ZrmwmP",
+						"display_url": "pic.twitter.com/k4F8ZrmwmP",
+						"expanded_url": "https://twitter.com/KerryDonovanCO/status/1359928940580769794/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1357172205831016400,
+						"id_str": "1357172205831016448",
+						"indices": [
+							290,
+							313
+						],
+						"media_url": "http://pbs.twimg.com/media/EtWm3BbXYAItxze.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtWm3BbXYAItxze.jpg",
+						"url": "https://t.co/k4F8ZrmwmP",
+						"display_url": "pic.twitter.com/k4F8ZrmwmP",
+						"expanded_url": "https://twitter.com/KerryDonovanCO/status/1359928940580769794/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 102102,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1357172205831016448/pl/67gUxVR7oge49Efc.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1357172205831016448/vid/640x360/dr1nB2L6Q3VLIT9a.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1357172205831016448/vid/480x270/CIg_ez9DpsMMSzj8.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1357172205831016448/vid/1280x720/ArAbM9WSj-rSDKms.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Kerry Donovan for Congress",
+							"description": "Rancher. State Senator. Former Educator. Running to defeat Lauren Boebert in CO-03. Join us.",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://secure.actblue.com/donate/coloradans-for-kerry-donovan-1?refcode=twittervideolaunch=&amounts=5%2C15%2C25%2C50%2C100&amount=5"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2591864028,
+				"id_str": "2591864028",
+				"name": "Kerry Donovan",
+				"screen_name": "KerryDonovanCO",
+				"location": "Vail, CO",
+				"description": "Colorado born and raised. Rancher. State Senator. Former Educator. Democrat running to defeat Lauren Boebert in CO-03. Join us.",
+				"url": "https://t.co/iK2oGBHxNw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iK2oGBHxNw",
+								"expanded_url": "https://kerrydonovanforcongress.com",
+								"display_url": "kerrydonovanforcongress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 97293,
+				"friends_count": 822,
+				"listed_count": 250,
+				"created_at": "Fri Jun 27 19:46:20 +0000 2014",
+				"favourites_count": 4487,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6811,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1357331940471435264/0QYiVuo1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357331940471435264/0QYiVuo1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2591864028/1612643007",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 479,
+			"favorite_count": 818,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Only a couple more hours to make this happen in Colorado. If you aren’t already following, please do. https://t.co/OpX4budego"
+	},
+	{
 		"created_at": "Wed Feb 10 14:51:20 +0000 2021",
 		"id": 1359515297997226000,
 		"id_str": "1359515297997225984",

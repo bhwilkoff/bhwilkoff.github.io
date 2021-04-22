@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 22 02:25:58 +0000 2021",
+		"id": 1385057261442142200,
+		"id_str": "1385057261442142210",
+		"full_text": "@jsnell @imyke @_upgradefm @_connectedfm Now you’re talking! That is a point I can get behind.  Why is 32 gigs an appropriate space for any app-capable device?",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jsnell",
+					"name": "Jason Snell",
+					"id": 784912,
+					"id_str": "784912",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "imyke",
+					"name": "Myke Hurley",
+					"id": 763549,
+					"id_str": "763549",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"screen_name": "_upgradefm",
+					"name": "Upgrade",
+					"id": 2798328732,
+					"id_str": "2798328732",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "_connectedfm",
+					"name": "Connected",
+					"id": 1409144809,
+					"id_str": "1409144809",
+					"indices": [
+						27,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1385056030225145900,
+		"in_reply_to_status_id_str": "1385056030225145858",
+		"in_reply_to_user_id": 784912,
+		"in_reply_to_user_id_str": "784912",
+		"in_reply_to_screen_name": "jsnell",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6339,
+			"friends_count": 3363,
+			"listed_count": 351,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jsnell @imyke @_upgradefm @_connectedfm Now you’re talking! That is a point I can get behind.  Why is 32 gigs an appropriate space for any app-capable device?"
+	},
+	{
 		"created_at": "Thu Apr 22 01:51:20 +0000 2021",
 		"id": 1385048545774817300,
 		"id_str": "1385048545774817283",

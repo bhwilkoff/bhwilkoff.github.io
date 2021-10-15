@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 20:29:32 +0000 2021",
+		"id": 1449110211743027200,
+		"id_str": "1449110211743027212",
+		"full_text": "@JustinMcElroy @culvers @QjChef Did not disappoint. https://t.co/kyThOKpOwL",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JustinMcElroy",
+					"name": "Justin “Hoops” McElroy",
+					"id": 16421419,
+					"id_str": "16421419",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "culvers",
+					"name": "Culver's Restaurants",
+					"id": 18061783,
+					"id_str": "18061783",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"screen_name": "QjChef",
+					"name": "Quinn Adkins",
+					"id": 393343746,
+					"id_str": "393343746",
+					"indices": [
+						24,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449110200581955600,
+					"id_str": "1449110200581955592",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FBxGDLoVIAgdWf3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBxGDLoVIAgdWf3.jpg",
+					"url": "https://t.co/kyThOKpOwL",
+					"display_url": "pic.twitter.com/kyThOKpOwL",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1449110211743027212/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449110200581955600,
+					"id_str": "1449110200581955592",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FBxGDLoVIAgdWf3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBxGDLoVIAgdWf3.jpg",
+					"url": "https://t.co/kyThOKpOwL",
+					"display_url": "pic.twitter.com/kyThOKpOwL",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1449110211743027212/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1449038831756382200,
+		"in_reply_to_status_id_str": "1449038831756382214",
+		"in_reply_to_user_id": 16421419,
+		"in_reply_to_user_id_str": "16421419",
+		"in_reply_to_screen_name": "JustinMcElroy",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6278,
+			"friends_count": 3385,
+			"listed_count": 350,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JustinMcElroy @culvers @QjChef Did not disappoint. https://t.co/kyThOKpOwL"
+	},
+	{
 		"created_at": "Thu Oct 14 02:23:43 +0000 2021",
 		"id": 1448474568054608000,
 		"id_str": "1448474568054607874",

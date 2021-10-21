@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 21:37:05 +0000 2021",
+		"id": 1451301540946329600,
+		"id_str": "1451301540946329607",
+		"full_text": "@chris_herd I did that once with a bowl of ramen. Worked like a charm!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chris_herd",
+					"name": "Chris Herd",
+					"id": 67640827,
+					"id_str": "67640827",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1451300694951174100,
+		"in_reply_to_status_id_str": "1451300694951174146",
+		"in_reply_to_user_id": 67640827,
+		"in_reply_to_user_id_str": "67640827",
+		"in_reply_to_screen_name": "chris_herd",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6285,
+			"friends_count": 3395,
+			"listed_count": 350,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@chris_herd I did that once with a bowl of ramen. Worked like a charm!"
+	},
+	{
+		"created_at": "Thu Oct 21 21:36:28 +0000 2021",
+		"id": 1451301385354428400,
+		"id_str": "1451301385354428434",
+		"full_text": "More of this please. https://t.co/lRowU7US6G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lRowU7US6G",
+					"expanded_url": "https://twitter.com/evan_greer/status/1451300757572100096",
+					"display_url": "twitter.com/evan_greer/sta…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6285,
+			"friends_count": 3395,
+			"listed_count": 350,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1451300757572100000,
+		"quoted_status_id_str": "1451300757572100096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lRowU7US6G",
+			"expanded": "https://twitter.com/evan_greer/status/1451300757572100096",
+			"display": "twitter.com/evan_greer/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 21 21:33:59 +0000 2021",
+			"id": 1451300757572100000,
+			"id_str": "1451300757572100096",
+			"full_text": "Starting a cheese based augmented reality startup: the fetaverse https://t.co/MlVuaTdUlp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1451300752169783300,
+						"id_str": "1451300752169783306",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FCQOWENWUAo0PPU.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FCQOWENWUAo0PPU.jpg",
+						"url": "https://t.co/MlVuaTdUlp",
+						"display_url": "pic.twitter.com/MlVuaTdUlp",
+						"expanded_url": "https://twitter.com/evan_greer/status/1451300757572100096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 220,
+								"h": 124,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 220,
+								"h": 124,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 220,
+								"h": 124,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 124,
+								"h": 124,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1451300752169783300,
+						"id_str": "1451300752169783306",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FCQOWENWUAo0PPU.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FCQOWENWUAo0PPU.jpg",
+						"url": "https://t.co/MlVuaTdUlp",
+						"display_url": "pic.twitter.com/MlVuaTdUlp",
+						"expanded_url": "https://twitter.com/evan_greer/status/1451300757572100096/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 220,
+								"h": 124,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 220,
+								"h": 124,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 220,
+								"h": 124,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 124,
+								"h": 124,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								55,
+								31
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FCQOWENWUAo0PPU.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 395674143,
+				"id_str": "395674143",
+				"name": "Evan Greer",
+				"screen_name": "evan_greer",
+				"location": "Boston, MA",
+				"description": "Director @fightfortheftr 🎸#SpotifyIsSurveillance out @GetBetterRecs x @DonGiovanniRecs 📝 @washingtonpost @guardian @newsweek @wired 💅 she/they, opinions mine",
+				"url": "https://t.co/WLaGz3p2Ng",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WLaGz3p2Ng",
+								"expanded_url": "https://evangreer.bandcamp.com/album/she-her-they-them",
+								"display_url": "evangreer.bandcamp.com/album/she-her-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32316,
+				"friends_count": 8816,
+				"listed_count": 451,
+				"created_at": "Sat Oct 22 02:01:06 +0000 2011",
+				"favourites_count": 42068,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 41962,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1296799774998503424/mzQK4uWS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296799774998503424/mzQK4uWS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/395674143/1618356445",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More of this please. https://t.co/lRowU7US6G"
+	},
+	{
 		"created_at": "Thu Oct 21 17:34:29 +0000 2021",
 		"id": 1451240485993910300,
 		"id_str": "1451240485993910288",

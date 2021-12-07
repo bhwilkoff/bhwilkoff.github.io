@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 14:49:06 +0000 2021",
+		"id": 1468231098190774300,
+		"id_str": "1468231098190774280",
+		"full_text": "A great thought exercise from @catehstn today. I feel recharged when I… do something for my family without prompting from my children or partner. https://t.co/FcKi9PuDWb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "catehstn",
+					"name": "cate, a human being",
+					"id": 22161956,
+					"id_str": "22161956",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468231089831485400,
+					"id_str": "1468231089831485441",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FGA0Za2XIAEFMZe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGA0Za2XIAEFMZe.jpg",
+					"url": "https://t.co/FcKi9PuDWb",
+					"display_url": "pic.twitter.com/FcKi9PuDWb",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1468231098190774280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1094,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1094,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468231089831485400,
+					"id_str": "1468231089831485441",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FGA0Za2XIAEFMZe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGA0Za2XIAEFMZe.jpg",
+					"url": "https://t.co/FcKi9PuDWb",
+					"display_url": "pic.twitter.com/FcKi9PuDWb",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1468231098190774280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1094,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1094,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6274,
+			"friends_count": 3439,
+			"listed_count": 349,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A great thought exercise from @catehstn today. I feel recharged when I… do something for my family without prompting from my children or partner. https://t.co/FcKi9PuDWb"
+	},
+	{
 		"created_at": "Tue Dec 07 12:59:37 +0000 2021",
 		"id": 1468203543265886200,
 		"id_str": "1468203543265886210",

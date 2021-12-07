@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 18:39:44 +0000 2021",
+		"id": 1468289137451024400,
+		"id_str": "1468289137451024388",
+		"full_text": "I keep on coming back to this one. Seriously, million dollar idea. https://t.co/DkhbiBuvvb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DkhbiBuvvb",
+					"expanded_url": "https://twitter.com/home_halfway/status/1460750392594247687",
+					"display_url": "twitter.com/home_halfway/s…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6274,
+			"friends_count": 3440,
+			"listed_count": 349,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1460750392594247700,
+		"quoted_status_id_str": "1460750392594247687",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DkhbiBuvvb",
+			"expanded": "https://twitter.com/home_halfway/status/1460750392594247687",
+			"display": "twitter.com/home_halfway/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 16 23:23:27 +0000 2021",
+			"id": 1460750392594247700,
+			"id_str": "1460750392594247687",
+			"full_text": "IDEA: Life, but not as hard",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				27
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 606441611,
+				"id_str": "606441611",
+				"name": "Michael sucks",
+				"screen_name": "Home_Halfway",
+				"location": "Chicago, IL",
+				"description": "I love my wife, I love my son, and I'm a very lucky moron.",
+				"url": "https://t.co/uFaZ9UsxOx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uFaZ9UsxOx",
+								"expanded_url": "https://www.amazon.com/hz/wishlist/ls/355814L3KWYBQ?ref_=wl_share",
+								"display_url": "amazon.com/hz/wishlist/ls…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 77114,
+				"friends_count": 3497,
+				"listed_count": 1393,
+				"created_at": "Tue Jun 12 16:25:41 +0000 2012",
+				"favourites_count": 828407,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 78370,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1455382096134934529/irfbInNE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455382096134934529/irfbInNE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/606441611/1566626580",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 714,
+			"favorite_count": 5139,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I keep on coming back to this one. Seriously, million dollar idea. https://t.co/DkhbiBuvvb"
+	},
+	{
 		"created_at": "Tue Dec 07 14:49:06 +0000 2021",
 		"id": 1468231098190774300,
 		"id_str": "1468231098190774280",

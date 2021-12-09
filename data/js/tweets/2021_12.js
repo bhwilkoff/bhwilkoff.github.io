@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 13:55:59 +0000 2021",
+		"id": 1468942503667593200,
+		"id_str": "1468942503667593230",
+		"full_text": "@AlexCox I am still trying to figure out why folks don’t like this move. Is it the mistrust of blockchain or the idea that Kickstarter had to do this to stay relevant?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlexCox",
+					"name": "Alex Coxmas",
+					"id": 12803032,
+					"id_str": "12803032",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1468940675353919500,
+		"in_reply_to_status_id_str": "1468940675353919488",
+		"in_reply_to_user_id": 12803032,
+		"in_reply_to_user_id_str": "12803032",
+		"in_reply_to_screen_name": "AlexCox",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6275,
+			"friends_count": 3443,
+			"listed_count": 349,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AlexCox I am still trying to figure out why folks don’t like this move. Is it the mistrust of blockchain or the idea that Kickstarter had to do this to stay relevant?"
+	},
+	{
 		"created_at": "Wed Dec 08 22:27:02 +0000 2021",
 		"id": 1468708725200285700,
 		"id_str": "1468708725200285698",

@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 14:57:36 +0000 2021",
+		"id": 1469682786432811000,
+		"id_str": "1469682786432811008",
+		"full_text": "Apparently this is the best gif available of Cal Ripken Jr. https://t.co/XFn48DiAja https://t.co/sog4ktUZzF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XFn48DiAja",
+					"expanded_url": "https://twitter.com/nut_history/status/1469484650020102149",
+					"display_url": "twitter.com/nut_history/st…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469682780829196300,
+					"id_str": "1469682780829196291",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGVcs9PVIAM-fnm.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGVcs9PVIAM-fnm.jpg",
+					"url": "https://t.co/sog4ktUZzF",
+					"display_url": "pic.twitter.com/sog4ktUZzF",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1469682786432811008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469682780829196300,
+					"id_str": "1469682780829196291",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGVcs9PVIAM-fnm.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGVcs9PVIAM-fnm.jpg",
+					"url": "https://t.co/sog4ktUZzF",
+					"display_url": "pic.twitter.com/sog4ktUZzF",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1469682786432811008/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FGVcs9PVIAM-fnm.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6275,
+			"friends_count": 3450,
+			"listed_count": 349,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1469484650020102100,
+		"quoted_status_id_str": "1469484650020102149",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XFn48DiAja",
+			"expanded": "https://twitter.com/nut_history/status/1469484650020102149",
+			"display": "twitter.com/nut_history/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 11 01:50:16 +0000 2021",
+			"id": 1469484650020102100,
+			"id_str": "1469484650020102149",
+			"full_text": "Age yourself by dropping your first favourite player.  Please quote https://t.co/TUwR2fntu6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1469484647348322300,
+						"id_str": "1469484647348322308",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/FGSogEgWQAQjmw5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGSogEgWQAQjmw5.jpg",
+						"url": "https://t.co/TUwR2fntu6",
+						"display_url": "pic.twitter.com/TUwR2fntu6",
+						"expanded_url": "https://twitter.com/nut_history/status/1469484650020102149/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 555,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 555,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1469484647348322300,
+						"id_str": "1469484647348322308",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/FGSogEgWQAQjmw5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGSogEgWQAQjmw5.jpg",
+						"url": "https://t.co/TUwR2fntu6",
+						"display_url": "pic.twitter.com/TUwR2fntu6",
+						"expanded_url": "https://twitter.com/nut_history/status/1469484650020102149/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 555,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 555,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1021070377357795300,
+				"id_str": "1021070377357795328",
+				"name": "BaseballHistoryNut",
+				"screen_name": "nut_history",
+				"location": "Polo Grounds",
+				"description": "Baseball History Nut *I do not claim to own any of these images* 🇨🇦. Slowly building a card collection   Contact: BaseballHistoryNut@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58538,
+				"friends_count": 1522,
+				"listed_count": 403,
+				"created_at": "Sun Jul 22 16:32:03 +0000 2018",
+				"favourites_count": 135,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33529,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1021073778258788352/uaLsjtXF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021073778258788352/uaLsjtXF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1021070377357795328/1532278019",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 362,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apparently this is the best gif available of Cal Ripken Jr. https://t.co/XFn48DiAja https://t.co/sog4ktUZzF"
+	},
+	{
 		"created_at": "Fri Dec 10 18:26:48 +0000 2021",
 		"id": 1469373046511132700,
 		"id_str": "1469373046511132679",

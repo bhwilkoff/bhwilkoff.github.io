@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 22:04:02 +0000 2021",
+		"id": 1470215422851141600,
+		"id_str": "1470877267517652998",
+		"full_text": "“I have the greatest contempt for historians who try to disguise and distort history in order to make it suitable for afternoon teas.” - #WEBDuBois, 1939 https://t.co/TMNZnDP0KX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WEBDuBois",
+					"indices": [
+						137,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470215419243937800,
+					"id_str": "1470215419243937796",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdBIl9WQAQHg0U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdBIl9WQAQHg0U.jpg",
+					"url": "https://t.co/TMNZnDP0KX",
+					"display_url": "pic.twitter.com/TMNZnDP0KX",
+					"expanded_url": "https://twitter.com/S_L_Alexander/status/1470215422851141640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470215419243937800,
+					"id_str": "1470215419243937796",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdBIl9WQAQHg0U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdBIl9WQAQHg0U.jpg",
+					"url": "https://t.co/TMNZnDP0KX",
+					"display_url": "pic.twitter.com/TMNZnDP0KX",
+					"expanded_url": "https://twitter.com/S_L_Alexander/status/1470215422851141640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3435009867,
+			"id_str": "3435009867",
+			"name": "Shawn Leigh Alexander",
+			"screen_name": "S_L_Alexander",
+			"location": "Lawrence, KS",
+			"description": "Professor of African & African American Studies (https://t.co/flyPwxRsdZ) & Director of Langston Hughes Center (@HughesCenter_KU) - *Op mine *RT≠ENDT",
+			"url": "https://t.co/MSyv0w70f8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MSyv0w70f8",
+							"expanded_url": "http://shawnleighalexander.com/",
+							"display_url": "shawnleighalexander.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/flyPwxRsdZ",
+							"expanded_url": "http://afs.ku.edu",
+							"display_url": "afs.ku.edu",
+							"indices": [
+								49,
+								72
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4730,
+			"friends_count": 1134,
+			"listed_count": 85,
+			"created_at": "Sat Aug 22 04:16:41 +0000 2015",
+			"favourites_count": 13861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23973,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139339303971164161/B3BjTBkV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139339303971164161/B3BjTBkV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3435009867/1522117470",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 888,
+		"favorite_count": 3679,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I have the greatest contempt for historians who try to disguise and distort history in order to make it suitable for afternoon teas.” - #WEBDuBois, 1939 https://t.co/TMNZnDP0KX"
+	},
+	{
 		"created_at": "Tue Dec 14 15:38:09 +0000 2021",
 		"id": 1470780154129563600,
 		"id_str": "1470780154129563652",

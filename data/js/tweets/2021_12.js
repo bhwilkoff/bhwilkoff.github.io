@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 02:29:36 +0000 2021",
+		"id": 1470581710370721800,
+		"id_str": "1470581710370721792",
+		"full_text": "More of this please. https://t.co/nr0m7aWNWt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nr0m7aWNWt",
+					"expanded_url": "https://twitter.com/annaivey/status/1453195385539731471",
+					"display_url": "twitter.com/annaivey/statu…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6275,
+			"friends_count": 3458,
+			"listed_count": 349,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1453195385539731500,
+		"quoted_status_id_str": "1453195385539731471",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nr0m7aWNWt",
+			"expanded": "https://twitter.com/annaivey/status/1453195385539731471",
+			"display": "twitter.com/annaivey/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 27 03:02:33 +0000 2021",
+			"id": 1453195385539731500,
+			"id_str": "1453195385539731471",
+			"full_text": "When neither Berkeley nor Caltech — those famous academic slouches 😂 — will even look at test scores anymore *even when you have them*, the other schools have fewer and fewer excuses to hang onto them https://t.co/05O82UWwmQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/05O82UWwmQ",
+						"expanded_url": "https://twitter.com/clayhensley/status/1453058735102955527",
+						"display_url": "twitter.com/clayhensley/st…",
+						"indices": [
+							201,
+							224
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15638735,
+				"id_str": "15638735",
+				"name": "Anna Ivey",
+				"screen_name": "AnnaIvey",
+				"location": "Los Angeles",
+				"description": "Edtech founder, author, former dean of admissions. Demystifying admissions, empowering students & applicants. Newsletter: https://t.co/Ji7CCZq4ls",
+				"url": "https://t.co/ECEHitgFo6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ECEHitgFo6",
+								"expanded_url": "https://inlinecoach.com",
+								"display_url": "inlinecoach.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ji7CCZq4ls",
+								"expanded_url": "http://bit.ly/3p8wx8B",
+								"display_url": "bit.ly/3p8wx8B",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2448,
+				"friends_count": 1959,
+				"listed_count": 135,
+				"created_at": "Mon Jul 28 22:40:44 +0000 2008",
+				"favourites_count": 24837,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30880,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1131952250417426433/x5QIxC08_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131952250417426433/x5QIxC08_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15638735/1639109601",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1453058735102955500,
+			"quoted_status_id_str": "1453058735102955527",
+			"quoted_status_permalink": {
+				"url": "https://t.co/05O82UWwmQ",
+				"expanded": "https://twitter.com/clayhensley/status/1453058735102955527",
+				"display": "twitter.com/clayhensley/st…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More of this please. https://t.co/nr0m7aWNWt"
+	},
+	{
 		"created_at": "Mon Dec 13 22:11:51 +0000 2021",
 		"id": 1470516845429989400,
 		"id_str": "1470516845429989378",

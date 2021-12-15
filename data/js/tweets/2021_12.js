@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 15 20:23:17 +0000 2021",
+		"id": 1471214299498569700,
+		"id_str": "1471214299498569744",
+		"full_text": "@bcrosby Seriously. I kept thinking about the designer believing that this was a universal enough sentiment to make a sock. But, then I got sad thinking that there are probably folks who peaked in 7th grade. While I enjoyed Teaching middle school, you could not pay me enough to relive it.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			289
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bcrosby",
+					"name": "Brian Crosby",
+					"id": 7032662,
+					"id_str": "7032662",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1471213025759690800,
+		"in_reply_to_status_id_str": "1471213025759690752",
+		"in_reply_to_user_id": 7032662,
+		"in_reply_to_user_id_str": "7032662",
+		"in_reply_to_screen_name": "bcrosby",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6274,
+			"friends_count": 3461,
+			"listed_count": 349,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bcrosby Seriously. I kept thinking about the designer believing that this was a universal enough sentiment to make a sock. But, then I got sad thinking that there are probably folks who peaked in 7th grade. While I enjoyed Teaching middle school, you could not pay me enough to relive it."
+	},
+	{
 		"created_at": "Wed Dec 15 19:52:23 +0000 2021",
 		"id": 1471206523456168000,
 		"id_str": "1471206523456167937",

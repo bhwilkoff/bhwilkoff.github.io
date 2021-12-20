@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 20 21:37:39 +0000 2021",
+		"id": 1473044952401662000,
+		"id_str": "1473044952401661953",
+		"full_text": "I wonder if any of these folks have read Vox, in which women and girls are allotted 100 words a day or they will be shocked with a painful electric current. https://t.co/38YUjbIUEv. Because, this is how you get to that reality. https://t.co/KODsCqeYOa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/38YUjbIUEv",
+					"expanded_url": "https://amzn.to/3H1haGA",
+					"display_url": "amzn.to/3H1haGA",
+					"indices": [
+						157,
+						180
+					]
+				},
+				{
+					"url": "https://t.co/KODsCqeYOa",
+					"expanded_url": "https://twitter.com/chlorofem/status/1472433271837315072",
+					"display_url": "twitter.com/chlorofem/stat…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6275,
+			"friends_count": 3467,
+			"listed_count": 346,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1472433271837315000,
+		"quoted_status_id_str": "1472433271837315072",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KODsCqeYOa",
+			"expanded": "https://twitter.com/chlorofem/status/1472433271837315072",
+			"display": "twitter.com/chlorofem/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 19 05:07:03 +0000 2021",
+			"id": 1472433271837315000,
+			"id_str": "1472433271837315072",
+			"full_text": "my most hated genre of family photos https://t.co/ndJFmMDlum",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				36
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1472433265894035500,
+						"id_str": "1472433265894035457",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/FG8iQQkVEAEIcRV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FG8iQQkVEAEIcRV.jpg",
+						"url": "https://t.co/ndJFmMDlum",
+						"display_url": "pic.twitter.com/ndJFmMDlum",
+						"expanded_url": "https://twitter.com/chlorofem/status/1472433271837315072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1017,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 501,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1017,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1472433265894035500,
+						"id_str": "1472433265894035457",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/FG8iQQkVEAEIcRV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FG8iQQkVEAEIcRV.jpg",
+						"url": "https://t.co/ndJFmMDlum",
+						"display_url": "pic.twitter.com/ndJFmMDlum",
+						"expanded_url": "https://twitter.com/chlorofem/status/1472433271837315072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1017,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 501,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1017,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1472433265885646800,
+						"id_str": "1472433265885646848",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/FG8iQQiVEAA90Vo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FG8iQQiVEAA90Vo.jpg",
+						"url": "https://t.co/ndJFmMDlum",
+						"display_url": "pic.twitter.com/ndJFmMDlum",
+						"expanded_url": "https://twitter.com/chlorofem/status/1472433271837315072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 554,
+								"h": 554,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 554,
+								"h": 554,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 554,
+								"h": 554,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1472433265894051800,
+						"id_str": "1472433265894051840",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/FG8iQQkVUAA7wMJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FG8iQQkVUAA7wMJ.jpg",
+						"url": "https://t.co/ndJFmMDlum",
+						"display_url": "pic.twitter.com/ndJFmMDlum",
+						"expanded_url": "https://twitter.com/chlorofem/status/1472433271837315072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1472433265889853400,
+						"id_str": "1472433265889853447",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/FG8iQQjVQAc0Ib4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FG8iQQjVQAc0Ib4.jpg",
+						"url": "https://t.co/ndJFmMDlum",
+						"display_url": "pic.twitter.com/ndJFmMDlum",
+						"expanded_url": "https://twitter.com/chlorofem/status/1472433271837315072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 676,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 676,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 676,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1297388380129386500,
+				"id_str": "1297388380129386496",
+				"name": "amy ⚢",
+				"screen_name": "chlorofem",
+				"location": "aus  / 17",
+				"description": "nicefem with a low twitter tolerance 🌑 eng/fr",
+				"url": "https://t.co/FtY79930Uy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FtY79930Uy",
+								"expanded_url": "https://curiouscat.qa/chlorofem",
+								"display_url": "curiouscat.qa/chlorofem",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2159,
+				"friends_count": 478,
+				"listed_count": 4,
+				"created_at": "Sun Aug 23 04:21:19 +0000 2020",
+				"favourites_count": 34740,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9017,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1467364167443095555/bH6HWWnF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467364167443095555/bH6HWWnF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1297388380129386496/1634163889",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1119,
+			"favorite_count": 10926,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wonder if any of these folks have read Vox, in which women and girls are allotted 100 words a day or they will be shocked with a painful electric current. https://t.co/38YUjbIUEv. Because, this is how you get to that reality. https://t.co/KODsCqeYOa"
+	},
+	{
 		"created_at": "Mon Dec 20 21:17:25 +0000 2021",
 		"id": 1473039863104819200,
 		"id_str": "1473039863104819202",

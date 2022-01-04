@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 03 23:34:21 +0000 2022",
+		"id": 1478147750717890600,
+		"id_str": "1478147750717890563",
+		"full_text": "Empathy is where it is at!\n\nI highly recommend district folks being in (and working from) schools whenever possible. https://t.co/W5g9gODC32",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W5g9gODC32",
+					"expanded_url": "https://twitter.com/TheLopezEffect/status/1478147301059215360",
+					"display_url": "twitter.com/TheLopezEffect…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6273,
+			"friends_count": 3493,
+			"listed_count": 346,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1478147301059215400,
+		"quoted_status_id_str": "1478147301059215360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/W5g9gODC32",
+			"expanded": "https://twitter.com/TheLopezEffect/status/1478147301059215360",
+			"display": "twitter.com/TheLopezEffect…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 03 23:32:33 +0000 2022",
+			"id": 1478147301059215400,
+			"id_str": "1478147301059215360",
+			"full_text": "For the entire month of January, superintendents,and staff from district offices and central need to work out of school buildings so they can actually experience full days of what teachers and leaders are going through mentally and physically.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2367631471,
+				"id_str": "2367631471",
+				"name": "Dr. Nadia Lopez",
+				"screen_name": "TheLopezEffect",
+				"location": "",
+				"description": "Opened a School to Close a Prison |Educational Leader|Author|Visionary|International Speaker|Disruptor| Founder @motthallbridges",
+				"url": "https://t.co/EjQIa9A803",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EjQIa9A803",
+								"expanded_url": "http://www.thelopezeffect.com",
+								"display_url": "thelopezeffect.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13917,
+				"friends_count": 2058,
+				"listed_count": 139,
+				"created_at": "Sat Mar 01 21:07:10 +0000 2014",
+				"favourites_count": 6894,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9128,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230315259405139974/c1yLlzUw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230315259405139974/c1yLlzUw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2367631471/1464396470",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Empathy is where it is at!\n\nI highly recommend district folks being in (and working from) schools whenever possible. https://t.co/W5g9gODC32"
+	},
+	{
 		"created_at": "Mon Jan 03 18:05:54 +0000 2022",
 		"id": 1478065094156165000,
 		"id_str": "1478065094156165123",

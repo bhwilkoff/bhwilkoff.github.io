@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 05 00:20:04 +0000 2022",
+		"id": 1478521647095107600,
+		"id_str": "1478521647095107589",
+		"full_text": "What wonderful encouraging words from @karenraycosta: The Anti-Online Rhetoric is Back. But Let’s Keep Dancing. https://t.co/8OfGcpOzha https://t.co/INFnsJUFHr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karenraycosta",
+					"name": "Karen Costa (she/her)",
+					"id": 25416326,
+					"id_str": "25416326",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8OfGcpOzha",
+					"expanded_url": "https://karenraycosta.medium.com/the-anti-online-rhetoric-is-back-but-lets-keep-dancing-7f4a493c83c6",
+					"display_url": "karenraycosta.medium.com/the-anti-onlin…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478521644385587200,
+					"id_str": "1478521644385587201",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FITDmh5UUAE0juR.png",
+					"media_url_https": "https://pbs.twimg.com/media/FITDmh5UUAE0juR.png",
+					"url": "https://t.co/INFnsJUFHr",
+					"display_url": "pic.twitter.com/INFnsJUFHr",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1478521647095107589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 634,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1098,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1098,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478521644385587200,
+					"id_str": "1478521644385587201",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FITDmh5UUAE0juR.png",
+					"media_url_https": "https://pbs.twimg.com/media/FITDmh5UUAE0juR.png",
+					"url": "https://t.co/INFnsJUFHr",
+					"display_url": "pic.twitter.com/INFnsJUFHr",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1478521647095107589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 634,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1098,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1098,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6273,
+			"friends_count": 3498,
+			"listed_count": 346,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What wonderful encouraging words from @karenraycosta: The Anti-Online Rhetoric is Back. But Let’s Keep Dancing. https://t.co/8OfGcpOzha https://t.co/INFnsJUFHr"
+	},
+	{
 		"created_at": "Tue Jan 04 23:19:12 +0000 2022",
 		"id": 1478506327160803300,
 		"id_str": "1478506327160803334",

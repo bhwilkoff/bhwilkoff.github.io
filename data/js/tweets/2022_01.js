@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 06 15:59:23 +0000 2022",
+		"id": 1479120421131743200,
+		"id_str": "1479120421131743232",
+		"full_text": "Looking at reporting from when there were still under 200 prosecutions of the attackers helps me to remember that we didn’t get everything wrong in the aftermath of 01/06/2021:\nThe Capitol Rioters Aren’t Like Other Extremists https://t.co/A3QB42ztOh https://t.co/mPr8zcogw0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A3QB42ztOh",
+					"expanded_url": "https://www.theatlantic.com/ideas/archive/2021/02/the-capitol-rioters-arent-like-other-extremists/617895/",
+					"display_url": "theatlantic.com/ideas/archive/…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1479120417721774000,
+					"id_str": "1479120417721774081",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FIbkLuZVcAEFCf7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIbkLuZVcAEFCf7.jpg",
+					"url": "https://t.co/mPr8zcogw0",
+					"display_url": "pic.twitter.com/mPr8zcogw0",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1479120421131743232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 801,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479120417721774000,
+					"id_str": "1479120417721774081",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FIbkLuZVcAEFCf7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIbkLuZVcAEFCf7.jpg",
+					"url": "https://t.co/mPr8zcogw0",
+					"display_url": "pic.twitter.com/mPr8zcogw0",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1479120421131743232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 801,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6274,
+			"friends_count": 3506,
+			"listed_count": 346,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking at reporting from when there were still under 200 prosecutions of the attackers helps me to remember that we didn’t get everything wrong in the aftermath of 01/06/2021:\nThe Capitol Rioters Aren’t Like Other Extremists https://t.co/A3QB42ztOh https://t.co/mPr8zcogw0"
+	},
+	{
 		"created_at": "Thu Jan 06 13:49:45 +0000 2022",
 		"id": 1479087795331158000,
 		"id_str": "1479087795331158018",

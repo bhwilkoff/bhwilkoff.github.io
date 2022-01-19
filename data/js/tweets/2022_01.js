@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 20:31:30 +0000 2022",
+		"id": 1483899941332275200,
+		"id_str": "1483899941332275200",
+		"full_text": "@Stephen_Sawchuk @MarkALieberman It is just a completely different standard to teach. When you change a teaching standard, there has to be a reason for it. Was the old one outdated? Did we learn something new? Nope. Just isn't a priority to teach how oppression works. Makes it easier to commit it in the future.",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			312
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Stephen_Sawchuk",
+					"name": "Stephen Sawchuk",
+					"id": 59507002,
+					"id_str": "59507002",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "MarkALieberman",
+					"name": "Mark Lieberman",
+					"id": 484335826,
+					"id_str": "484335826",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1483818433120768000,
+		"in_reply_to_status_id_str": "1483818433120768005",
+		"in_reply_to_user_id": 59507002,
+		"in_reply_to_user_id_str": "59507002",
+		"in_reply_to_screen_name": "Stephen_Sawchuk",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6271,
+			"friends_count": 3520,
+			"listed_count": 346,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Stephen_Sawchuk @MarkALieberman It is just a completely different standard to teach. When you change a teaching standard, there has to be a reason for it. Was the old one outdated? Did we learn something new? Nope. Just isn't a priority to teach how oppression works. Makes it easier to commit it in the future."
+	},
+	{
 		"created_at": "Wed Jan 19 14:11:21 +0000 2022",
 		"id": 1483804274052284400,
 		"id_str": "1483804274052284423",

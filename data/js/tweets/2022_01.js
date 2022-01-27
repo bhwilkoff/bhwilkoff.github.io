@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 15:47:57 +0000 2022",
+		"id": 1486727687280283600,
+		"id_str": "1486727687280283650",
+		"full_text": "I would like to see a movement of artists and listeners moving in this direction. We shouldn’t have to choose our morals or our music. Let Joe Rogan host the servers and pay for the bandwidth himself. @Spotify does not need to be in the business of promoting misinformation. https://t.co/Prgld6ePix",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						201,
+						209
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Prgld6ePix",
+					"expanded_url": "https://twitter.com/jasonbaum/status/1486319298746458117",
+					"display_url": "twitter.com/jasonbaum/stat…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6273,
+			"friends_count": 3516,
+			"listed_count": 346,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1486319298746458000,
+		"quoted_status_id_str": "1486319298746458117",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Prgld6ePix",
+			"expanded": "https://twitter.com/jasonbaum/status/1486319298746458117",
+			"display": "twitter.com/jasonbaum/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 26 12:45:09 +0000 2022",
+			"id": 1486319298746458000,
+			"id_str": "1486319298746458117",
+			"full_text": "Dear @Spotify,\n\nI stand with Neil Young, with civility, with decency, with freedom of speech. \n\nI don’t stand with anti-vaxxers spreading lies. \n\nI’ve been a subscriber for years but I refuse to help pay Joe Rogan’s salary. \n\n#BoycottSpotify",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BoycottSpotify",
+						"indices": [
+							226,
+							241
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Spotify",
+						"name": "Spotify",
+						"id": 17230018,
+						"id_str": "17230018",
+						"indices": [
+							5,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17018594,
+				"id_str": "17018594",
+				"name": "Jason Baum",
+				"screen_name": "jasonbaum",
+				"location": "Washington, D.C.",
+				"description": "Dad. Writer. Dyslexic. I apologize in advance for my typos! Read my writing. Bring back PLUTO! #EarthFirst #Resist",
+				"url": "https://t.co/YnTMZ3A8zh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YnTMZ3A8zh",
+								"expanded_url": "http://jasonbaum.life",
+								"display_url": "jasonbaum.life",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25513,
+				"friends_count": 22987,
+				"listed_count": 41,
+				"created_at": "Tue Oct 28 10:13:36 +0000 2008",
+				"favourites_count": 124421,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 145652,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1330451960571568134/u-_Y4_K9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330451960571568134/u-_Y4_K9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17018594/1591759594",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 215,
+			"favorite_count": 682,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I would like to see a movement of artists and listeners moving in this direction. We shouldn’t have to choose our morals or our music. Let Joe Rogan host the servers and pay for the bandwidth himself. @Spotify does not need to be in the business of promoting misinformation. https://t.co/Prgld6ePix"
+	},
+	{
 		"created_at": "Tue Jan 25 00:28:52 +0000 2022",
 		"id": 1485771618504876000,
 		"id_str": "1485771618504876042",

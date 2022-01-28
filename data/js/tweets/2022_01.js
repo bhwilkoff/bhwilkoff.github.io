@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 16:39:18 +0000 2022",
+		"id": 1487102999855992800,
+		"id_str": "1487102999855992832",
+		"full_text": "@mraystanley @hbakerutley We got one for our youngest. And it is incredible. Highly recommend!",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mraystanley",
+					"name": "Martha Stanley",
+					"id": 21467044,
+					"id_str": "21467044",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "hbakerutley",
+					"name": "rev.heather",
+					"id": 17474758,
+					"id_str": "17474758",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1486774358584348700,
+		"in_reply_to_status_id_str": "1486774358584348672",
+		"in_reply_to_user_id": 21467044,
+		"in_reply_to_user_id_str": "21467044",
+		"in_reply_to_screen_name": "mraystanley",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6273,
+			"friends_count": 3519,
+			"listed_count": 346,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mraystanley @hbakerutley We got one for our youngest. And it is incredible. Highly recommend!"
+	},
+	{
 		"created_at": "Fri Jan 28 13:56:17 +0000 2022",
 		"id": 1487061973598675000,
 		"id_str": "1487061973598674955",

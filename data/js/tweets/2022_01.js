@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 23:26:41 +0000 2022",
+		"id": 1487205519605461000,
+		"id_str": "1487205519605460995",
+		"full_text": "I proudly taught this book as a middle school teacher. The gravity of our shared history makes it essential reading. If we ban parts of our shared history, we lose out on understanding who we are as people. Not just for the Jewish diaspora, but for all of humanity. https://t.co/FYRMSL803T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FYRMSL803T",
+					"expanded_url": "https://twitter.com/remikalir/status/1487095703864102916",
+					"display_url": "twitter.com/remikalir/stat…",
+					"indices": [
+						266,
+						289
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6273,
+			"friends_count": 3522,
+			"listed_count": 346,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1487095703864103000,
+		"quoted_status_id_str": "1487095703864102916",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FYRMSL803T",
+			"expanded": "https://twitter.com/remikalir/status/1487095703864102916",
+			"display": "twitter.com/remikalir/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 28 16:10:19 +0000 2022",
+			"id": 1487095703864103000,
+			"id_str": "1487095703864102916",
+			"full_text": "#Annotation is a note to my son.\n\"I first read Maus, this very copy, in middle school. We'll read this book together, someday, as you carry forward the history of our people.\" School board in Tennessee bans teaching of Maus, via @nytimes\nhttps://t.co/fQzI5F9hcJ\n#Annotate22 28/365 https://t.co/pRa1coeNae",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Annotation",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "Annotate22",
+						"indices": [
+							262,
+							273
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							229,
+							237
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fQzI5F9hcJ",
+						"expanded_url": "https://www.nytimes.com/2022/01/27/us/maus-banned-holocaust-tennessee.html",
+						"display_url": "nytimes.com/2022/01/27/us/…",
+						"indices": [
+							238,
+							261
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1487095375982837800,
+						"id_str": "1487095375982837762",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FKM5XZCVQAIMNUK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKM5XZCVQAIMNUK.jpg",
+						"url": "https://t.co/pRa1coeNae",
+						"display_url": "pic.twitter.com/pRa1coeNae",
+						"expanded_url": "https://twitter.com/remikalir/status/1487095703864102916/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1487095375982837800,
+						"id_str": "1487095375982837762",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FKM5XZCVQAIMNUK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKM5XZCVQAIMNUK.jpg",
+						"url": "https://t.co/pRa1coeNae",
+						"display_url": "pic.twitter.com/pRa1coeNae",
+						"expanded_url": "https://twitter.com/remikalir/status/1487095703864102916/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1486783750910271500,
+			"in_reply_to_status_id_str": "1486783750910271493",
+			"in_reply_to_user_id": 2557762548,
+			"in_reply_to_user_id_str": "2557762548",
+			"in_reply_to_screen_name": "remikalir",
+			"user": {
+				"id": 2557762548,
+				"id_str": "2557762548",
+				"name": "Remi Kalir",
+				"screen_name": "remikalir",
+				"location": "\"a mesh of associative trails\"",
+				"description": "Author of #Annotation from @mitpress: https://t.co/6sus1wS7a2 | #AnnoConvo | #Annotate22 | Assoc Prof @CUDenverEd | better half @ebonydraws",
+				"url": "https://t.co/4T0IyaPpYo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4T0IyaPpYo",
+								"expanded_url": "http://www.remikalir.com",
+								"display_url": "remikalir.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/6sus1wS7a2",
+								"expanded_url": "https://mitpress.mit.edu/books/annotation",
+								"display_url": "mitpress.mit.edu/books/annotati…",
+								"indices": [
+									38,
+									61
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4437,
+				"friends_count": 1431,
+				"listed_count": 355,
+				"created_at": "Mon Jun 09 23:56:26 +0000 2014",
+				"favourites_count": 28583,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19908,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1392240770187288584/7zLs0PHW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392240770187288584/7zLs0PHW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2557762548/1620782789",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I proudly taught this book as a middle school teacher. The gravity of our shared history makes it essential reading. If we ban parts of our shared history, we lose out on understanding who we are as people. Not just for the Jewish diaspora, but for all of humanity. https://t.co/FYRMSL803T"
+	},
+	{
 		"created_at": "Fri Jan 28 23:03:32 +0000 2022",
 		"id": 1487199695239716900,
 		"id_str": "1487199695239716864",

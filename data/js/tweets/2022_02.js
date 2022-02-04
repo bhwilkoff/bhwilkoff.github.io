@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 04 00:27:22 +0000 2022",
+		"id": 1489395117920239600,
+		"id_str": "1489395117920239618",
+		"full_text": "This tweet surfaced again for me (2016). It makes me wonder what the conversations would be in the current educational environment. Would teachers still be able to hold such a Socratic Seminar? In Texas? In Virginia? In Colorado? What are the conversations we can no longer have? https://t.co/AZjJaVJx2u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AZjJaVJx2u",
+					"expanded_url": "https://twitter.com/mdawriter/status/754361977435283456",
+					"display_url": "twitter.com/mdawriter/stat…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6278,
+			"friends_count": 3539,
+			"listed_count": 346,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 754361977435283500,
+		"quoted_status_id_str": "754361977435283456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AZjJaVJx2u",
+			"expanded": "https://twitter.com/mdawriter/status/754361977435283456",
+			"display": "twitter.com/mdawriter/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 16 17:08:05 +0000 2016",
+			"id": 754361977435283500,
+			"id_str": "754361977435283456",
+			"full_text": "English teachers could do a Socratic seminar just on this poster for @NateParker's #BirthOfANation. Scorching! 🙌🏾👏🏾 https://t.co/CPTvknmoAM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BirthOfANation",
+						"indices": [
+							83,
+							98
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NateParker",
+						"name": "nate.eth",
+						"id": 111384708,
+						"id_str": "111384708",
+						"indices": [
+							69,
+							80
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 754361969407356900,
+						"id_str": "754361969407356928",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/CngINuKW8AATSLn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CngINuKW8AATSLn.jpg",
+						"url": "https://t.co/CPTvknmoAM",
+						"display_url": "pic.twitter.com/CPTvknmoAM",
+						"expanded_url": "https://twitter.com/mdawriter/status/754361977435283456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 829,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 469,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1182,
+								"h": 1712,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 754361969407356900,
+						"id_str": "754361969407356928",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/CngINuKW8AATSLn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CngINuKW8AATSLn.jpg",
+						"url": "https://t.co/CPTvknmoAM",
+						"display_url": "pic.twitter.com/CPTvknmoAM",
+						"expanded_url": "https://twitter.com/mdawriter/status/754361977435283456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 829,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 469,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1182,
+								"h": 1712,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50197083,
+				"id_str": "50197083",
+				"name": "melinda d. anderson",
+				"screen_name": "mdawriter",
+				"location": "D.C. suburbs via Philly",
+				"description": "author/freelancer writing on race in education @ nytimes, theatlantic, motherjones, huffpost & more. blessed. fueled by oat milk lattes. edunewshound@gmail.com",
+				"url": "https://t.co/YHkvacTaGX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YHkvacTaGX",
+								"expanded_url": "http://www.simonandschuster.com/books/Becoming-a-Teacher/Melinda-D-Anderson/Masters-at-Work/9781982139902",
+								"display_url": "simonandschuster.com/books/Becoming…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15625,
+				"friends_count": 20,
+				"listed_count": 504,
+				"created_at": "Wed Jun 24 03:14:32 +0000 2009",
+				"favourites_count": 17188,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 125793,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCBD33",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1350210969557991425/FF-Zvf2U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350210969557991425/FF-Zvf2U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50197083/1601214486",
+				"profile_link_color": "CC3833",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "B6C7A3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This tweet surfaced again for me (2016). It makes me wonder what the conversations would be in the current educational environment. Would teachers still be able to hold such a Socratic Seminar? In Texas? In Virginia? In Colorado? What are the conversations we can no longer have? https://t.co/AZjJaVJx2u"
+	},
+	{
 		"created_at": "Thu Feb 03 21:58:41 +0000 2022",
 		"id": 1489357699603222500,
 		"id_str": "1489357699603222532",

@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 17:18:43 +0000 2022",
+		"id": 1490735154297544700,
+		"id_str": "1490736797894078468",
+		"full_text": "@bhwilkoff Great analysis, Ben. Thank you for taking the time to write this up, it's a valuable unpacking of the attitudes at the source of these punitive policies, which we must address if we expect the conversation to change.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1490717359052578800,
+		"in_reply_to_status_id_str": "1490717359052578817",
+		"in_reply_to_user_id": 1710871,
+		"in_reply_to_user_id_str": "1710871",
+		"in_reply_to_screen_name": "bhwilkoff",
+		"user": {
+			"id": 750491024,
+			"id_str": "750491024",
+			"name": "Nick Covington",
+			"screen_name": "CovingtonEDU",
+			"location": "Iowa, USA",
+			"description": "Dad. History teacher. #restorehumanity\nCreative Director @HumResPro 🛸\n*Opinions mine*\nThis is Earth radio, and now...human music.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6266,
+			"friends_count": 3181,
+			"listed_count": 64,
+			"created_at": "Sat Aug 11 02:34:27 +0000 2012",
+			"favourites_count": 167144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1423636196081741824/s8aHy6JK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1423636196081741824/s8aHy6JK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/750491024/1626959973",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@bhwilkoff Great analysis, Ben. Thank you for taking the time to write this up, it's a valuable unpacking of the attitudes at the source of these punitive policies, which we must address if we expect the conversation to change."
+	},
+	{
+		"created_at": "Mon Feb 07 17:18:39 +0000 2022",
+		"id": 1490734720887439400,
+		"id_str": "1490736780550705160",
+		"full_text": "\"...is this belief system so fragile, so uneasy &amp; ill-conceived, that it will all crumble if it is presented with an opposing viewpoint? If 'progressive beliefs' are that powerful &amp; persuasive, it is a marvel that any other viewpoints have survived in the face of them.\"\n\n👏👏👏 https://t.co/BuFt84YsaQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BuFt84YsaQ",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1490717359052578817",
+					"display_url": "twitter.com/bhwilkoff/stat…",
+					"indices": [
+						284,
+						307
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 750491024,
+			"id_str": "750491024",
+			"name": "Nick Covington",
+			"screen_name": "CovingtonEDU",
+			"location": "Iowa, USA",
+			"description": "Dad. History teacher. #restorehumanity\nCreative Director @HumResPro 🛸\n*Opinions mine*\nThis is Earth radio, and now...human music.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6266,
+			"friends_count": 3181,
+			"listed_count": 64,
+			"created_at": "Sat Aug 11 02:34:27 +0000 2012",
+			"favourites_count": 167144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1423636196081741824/s8aHy6JK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1423636196081741824/s8aHy6JK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/750491024/1626959973",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1490717359052578800,
+		"quoted_status_id_str": "1490717359052578817",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BuFt84YsaQ",
+			"expanded": "https://twitter.com/bhwilkoff/status/1490717359052578817",
+			"display": "twitter.com/bhwilkoff/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 07 16:01:29 +0000 2022",
+			"id": 1490717359052578800,
+			"id_str": "1490717359052578817",
+			"full_text": "Some parents in Iowa want to put cameras in classrooms. Let’s take a look at some of their reasons, as seen through their Facebook comments! (H/T to Nick Covington - @CovingtonEDU for the inspiration.) https://t.co/G1SDBVog3G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CovingtonEDU",
+						"name": "Nick Covington",
+						"id": 750491024,
+						"id_str": "750491024",
+						"indices": [
+							166,
+							179
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/G1SDBVog3G",
+						"expanded_url": "https://learningischange.com/2022/02/07/parents-vs-teachers/",
+						"display_url": "learningischange.com/2022/02/07/par…",
+						"indices": [
+							202,
+							225
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1710871,
+				"id_str": "1710871",
+				"name": "Ben Wilkoff",
+				"screen_name": "bhwilkoff",
+				"location": "Littleton, Co",
+				"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+				"url": "http://t.co/NW4gT6QJUF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NW4gT6QJUF",
+								"expanded_url": "http://learningischange.com",
+								"display_url": "learningischange.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6285,
+				"friends_count": 3551,
+				"listed_count": 346,
+				"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+				"favourites_count": 2788,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18709,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"...is this belief system so fragile, so uneasy &amp; ill-conceived, that it will all crumble if it is presented with an opposing viewpoint? If 'progressive beliefs' are that powerful &amp; persuasive, it is a marvel that any other viewpoints have survived in the face of them.\"\n\n👏👏👏 https://t.co/BuFt84YsaQ"
+	},
+	{
+		"created_at": "Mon Feb 07 17:18:21 +0000 2022",
+		"id": 1490736703060861000,
+		"id_str": "1490736703060860933",
+		"full_text": "@CovingtonEDU Thank you! It is incredible to see these ideas of surveillance and anti-democratic ideals just compound inside of Facebook’s walled garden. Shining the light of inquiry is the best tool we have to fight back. Keep up the good work!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CovingtonEDU",
+					"name": "Nick Covington",
+					"id": 750491024,
+					"id_str": "750491024",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1490735154297544700,
+		"in_reply_to_status_id_str": "1490735154297544704",
+		"in_reply_to_user_id": 750491024,
+		"in_reply_to_user_id_str": "750491024",
+		"in_reply_to_screen_name": "CovingtonEDU",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6285,
+			"friends_count": 3551,
+			"listed_count": 346,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CovingtonEDU Thank you! It is incredible to see these ideas of surveillance and anti-democratic ideals just compound inside of Facebook’s walled garden. Shining the light of inquiry is the best tool we have to fight back. Keep up the good work!"
+	},
+	{
 		"created_at": "Mon Feb 07 16:01:29 +0000 2022",
 		"id": 1490717359052578800,
 		"id_str": "1490717359052578817",

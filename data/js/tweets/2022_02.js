@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 00:58:19 +0000 2022",
+		"id": 1493751562577010700,
+		"id_str": "1493751562577010689",
+		"full_text": "Is it possible that this is a ploy to see who all of the racist parents are? Depending on how many opt out, my guess is that the small group of kids “not learning about differences” would be a strange sort of affinity group. https://t.co/noDJwHubBd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/noDJwHubBd",
+					"expanded_url": "https://twitter.com/littlewhitty/status/1493737091854999552",
+					"display_url": "twitter.com/littlewhitty/s…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6288,
+			"friends_count": 3553,
+			"listed_count": 346,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1493737091854999600,
+		"quoted_status_id_str": "1493737091854999552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/noDJwHubBd",
+			"expanded": "https://twitter.com/littlewhitty/status/1493737091854999552",
+			"display": "twitter.com/littlewhitty/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 16 00:00:49 +0000 2022",
+			"id": 1493737091854999600,
+			"id_str": "1493737091854999552",
+			"full_text": "A public school in Indiana is giving parents the option to opt their children out of learning about Black History Month. https://t.co/L1QxmH9lRm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1493737086523887600,
+						"id_str": "1493737086523887618",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/FLrR904VUAId23p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLrR904VUAId23p.jpg",
+						"url": "https://t.co/L1QxmH9lRm",
+						"display_url": "pic.twitter.com/L1QxmH9lRm",
+						"expanded_url": "https://twitter.com/littlewhitty/status/1493737091854999552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1075,
+								"h": 1362,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 947,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 537,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1493737086523887600,
+						"id_str": "1493737086523887618",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/FLrR904VUAId23p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLrR904VUAId23p.jpg",
+						"url": "https://t.co/L1QxmH9lRm",
+						"display_url": "pic.twitter.com/L1QxmH9lRm",
+						"expanded_url": "https://twitter.com/littlewhitty/status/1493737091854999552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1075,
+								"h": 1362,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 947,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 537,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 543948739,
+				"id_str": "543948739",
+				"name": "Kolleen",
+				"screen_name": "littlewhitty",
+				"location": "Texas, USA",
+				"description": "I tweet about politics. Blue dot in a red state. 🌊 The main thing is keeping the main thing the main thing. ☮️🗽⚖️🌎",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27383,
+				"friends_count": 7354,
+				"listed_count": 43,
+				"created_at": "Tue Apr 03 03:43:13 +0000 2012",
+				"favourites_count": 17683,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6998,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4C303C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1430310121700200448/eJh6avq3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1430310121700200448/eJh6avq3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/543948739/1378151493",
+				"profile_link_color": "C7667A",
+				"profile_sidebar_border_color": "E87D39",
+				"profile_sidebar_fill_color": "E8E16F",
+				"profile_text_color": "96CAA3",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 476,
+			"favorite_count": 672,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is it possible that this is a ploy to see who all of the racist parents are? Depending on how many opt out, my guess is that the small group of kids “not learning about differences” would be a strange sort of affinity group. https://t.co/noDJwHubBd"
+	},
+	{
 		"created_at": "Tue Feb 15 22:03:20 +0000 2022",
 		"id": 1493707525107056600,
 		"id_str": "1493707525107056644",

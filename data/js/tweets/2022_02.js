@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 02:50:37 +0000 2022",
+		"id": 1496678927456247800,
+		"id_str": "1496678927456247809",
+		"full_text": "I just bought 5 stickers for my son (and myself). Probably you should support trans kids too. https://t.co/N3WJuUPq3a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N3WJuUPq3a",
+					"expanded_url": "https://twitter.com/rivbutcher/status/1496677047472726016",
+					"display_url": "twitter.com/rivbutcher/sta…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6289,
+			"friends_count": 3569,
+			"listed_count": 346,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1496677047472726000,
+		"quoted_status_id_str": "1496677047472726016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N3WJuUPq3a",
+			"expanded": "https://twitter.com/rivbutcher/status/1496677047472726016",
+			"display": "twitter.com/rivbutcher/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 24 02:43:09 +0000 2022",
+			"id": 1496677047472726000,
+			"id_str": "1496677047472726016",
+			"full_text": "#NewProfilePic https://t.co/tr9xJeuP96 https://t.co/mVW42yQyMU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NewProfilePic",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tr9xJeuP96",
+						"expanded_url": "http://www.dontmesswithtranskids.com",
+						"display_url": "dontmesswithtranskids.com",
+						"indices": [
+							15,
+							38
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1496677044503126000,
+						"id_str": "1496677044503126022",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/FMVD150XIAYMncO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMVD150XIAYMncO.jpg",
+						"url": "https://t.co/mVW42yQyMU",
+						"display_url": "pic.twitter.com/mVW42yQyMU",
+						"expanded_url": "https://twitter.com/rivbutcher/status/1496677047472726016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1496677044503126000,
+						"id_str": "1496677044503126022",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/FMVD150XIAYMncO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMVD150XIAYMncO.jpg",
+						"url": "https://t.co/mVW42yQyMU",
+						"display_url": "pic.twitter.com/mVW42yQyMU",
+						"expanded_url": "https://twitter.com/rivbutcher/status/1496677047472726016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19273919,
+				"id_str": "19273919",
+				"name": "river butcher 🤠",
+				"screen_name": "rivbutcher",
+				"location": "Los Angeles, CA.",
+				"description": "comedy central half hour \"a different kind of dude\" streaming 1.27 https://t.co/WDl0NdMxN8",
+				"url": "https://t.co/UxmWfBN0Cu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UxmWfBN0Cu",
+								"expanded_url": "http://www.riverbutcher.com",
+								"display_url": "riverbutcher.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WDl0NdMxN8",
+								"expanded_url": "https://www.youtube.com/watch?v=vgWBjutaBfw",
+								"display_url": "youtube.com/watch?v=vgWBju…",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 117811,
+				"friends_count": 2490,
+				"listed_count": 778,
+				"created_at": "Wed Jan 21 03:28:36 +0000 2009",
+				"favourites_count": 85219,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 60552,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2E2B2C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1496676903628984323/k4SdPZ7P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496676903628984323/k4SdPZ7P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19273919/1645467115",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "070602",
+				"profile_text_color": "4D4941",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 830,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I just bought 5 stickers for my son (and myself). Probably you should support trans kids too. https://t.co/N3WJuUPq3a"
+	},
+	{
 		"created_at": "Thu Feb 24 01:36:56 +0000 2022",
 		"id": 1496660383876092000,
 		"id_str": "1496660383876091907",

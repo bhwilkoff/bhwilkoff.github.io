@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 01:36:56 +0000 2022",
+		"id": 1496660383876092000,
+		"id_str": "1496660383876091907",
+		"full_text": "This is @FoldableHuman’s incredible video. Instead of watching a movie tonight, watch this feature length explainer/documentary/essay. https://t.co/NCYNFXW9HT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FoldableHuman",
+					"name": "Dan Olson",
+					"id": 344331268,
+					"id_str": "344331268",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NCYNFXW9HT",
+					"expanded_url": "https://twitter.com/FoldableHuman/status/1484571663605792770",
+					"display_url": "twitter.com/FoldableHuman/…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6289,
+			"friends_count": 3567,
+			"listed_count": 346,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1484571663605792800,
+		"quoted_status_id_str": "1484571663605792770",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NCYNFXW9HT",
+			"expanded": "https://twitter.com/FoldableHuman/status/1484571663605792770",
+			"display": "twitter.com/FoldableHuman/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 21 17:00:41 +0000 2022",
+			"id": 1484571663605792800,
+			"id_str": "1484571663605792770",
+			"full_text": "Line Goes Up - The Problem With NFTs\n\nhttps://t.co/cnkdlnZTYL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				61
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cnkdlnZTYL",
+						"expanded_url": "https://youtu.be/YQ_xWvX1n9g",
+						"display_url": "youtu.be/YQ_xWvX1n9g",
+						"indices": [
+							38,
+							61
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 344331268,
+				"id_str": "344331268",
+				"name": "Dan Olson",
+				"screen_name": "FoldableHuman",
+				"location": "Calgary, Canada",
+				"description": "Biological random video essay production algorithm. Invented talking to your pets in a funny voice.\nhttps://t.co/VeiDKcXOb9",
+				"url": "https://t.co/GwTyKVPtw6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GwTyKVPtw6",
+								"expanded_url": "https://www.youtube.com/foldingideas",
+								"display_url": "youtube.com/foldingideas",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VeiDKcXOb9",
+								"expanded_url": "http://patreon.com/foldablehuman",
+								"display_url": "patreon.com/foldablehuman",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 142841,
+				"friends_count": 327,
+				"listed_count": 518,
+				"created_at": "Thu Jul 28 22:14:12 +0000 2011",
+				"favourites_count": 2386,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 76705,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1149858558856564738/21KJxfem_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149858558856564738/21KJxfem_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/344331268/1562982622",
+				"profile_link_color": "F800FF",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9678,
+			"favorite_count": 30554,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is @FoldableHuman’s incredible video. Instead of watching a movie tonight, watch this feature length explainer/documentary/essay. https://t.co/NCYNFXW9HT"
+	},
+	{
 		"created_at": "Thu Feb 24 00:31:49 +0000 2022",
 		"id": 1496643996441063400,
 		"id_str": "1496643996441063427",

@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 26 18:34:27 +0000 2022",
+		"id": 1497640028255797200,
+		"id_str": "1497641226216132610",
+		"full_text": "“We are all bound up together in one great bundle of humanity, and society cannot trample on the weakest and feeblest of its members without receiving the curse in its own soul.” —Frances Ellen Watkins\rHarper, May 1866 at the 11th National\rWomen’s Rights Convention",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15249113,
+			"id_str": "15249113",
+			"name": "damita jo",
+			"screen_name": "KiaSpeaks",
+			"location": "not atlanta",
+			"description": "culture + theology + justice. digital director by day. procrastinating creator by night. born in the fires of chaos. 20% of my tweets are random song lyrics.",
+			"url": "https://t.co/jzuHU0IHkk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzuHU0IHkk",
+							"expanded_url": "http://www.kiaspeaksalso.com",
+							"display_url": "kiaspeaksalso.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23186,
+			"friends_count": 4431,
+			"listed_count": 253,
+			"created_at": "Thu Jun 26 22:38:53 +0000 2008",
+			"favourites_count": 85411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 732157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F104AF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476238394820898817/WiPHtgjY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476238394820898817/WiPHtgjY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15249113/1610216414",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“We are all bound up together in one great bundle of humanity, and society cannot trample on the weakest and feeblest of its members without receiving the curse in its own soul.” —Frances Ellen Watkins\rHarper, May 1866 at the 11th National\rWomen’s Rights Convention"
+	},
+	{
 		"created_at": "Sat Feb 26 16:45:04 +0000 2022",
 		"id": 1497613695974707200,
 		"id_str": "1497613695974707200",

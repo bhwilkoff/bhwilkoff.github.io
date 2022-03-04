@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 04 21:16:43 +0000 2022",
+		"id": 1499856389656748000,
+		"id_str": "1499856389656748034",
+		"full_text": "These are the Best Video Essays of All Time (IMO)\n\nAlso, this is why we are all Video Essayists now.\n\nAlso, this is why you have to make things as you consume media. It is how we continue to understand our world, and help to make it better. https://t.co/rmUI0lTGMM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rmUI0lTGMM",
+					"expanded_url": "https://learningischange.com/2022/02/27/the-best-video-essays-of-all-time-imo/",
+					"display_url": "learningischange.com/2022/02/27/the…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6290,
+			"friends_count": 3582,
+			"listed_count": 346,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 2912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These are the Best Video Essays of All Time (IMO)\n\nAlso, this is why we are all Video Essayists now.\n\nAlso, this is why you have to make things as you consume media. It is how we continue to understand our world, and help to make it better. https://t.co/rmUI0lTGMM"
+	},
+	{
 		"created_at": "Fri Mar 04 17:16:54 +0000 2022",
 		"id": 1499796037979951000,
 		"id_str": "1499796037979951105",

@@ -1,6 +1,1036 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 31 18:00:03 +0000 2022",
+		"id": 1509591368947011600,
+		"id_str": "1509591368947011601",
+		"full_text": "Gaslighting that could solve our energy crisis 100 times over:\n\nRussia drafts 134,500 conscripts but says they won't go to Ukraine https://t.co/NEFvlNnKU5 https://t.co/teHK4LMTmj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NEFvlNnKU5",
+					"expanded_url": "https://www.reuters.com/world/europe/russia-drafts-134500-conscripts-says-they-wont-go-ukraine-2022-03-31/",
+					"display_url": "reuters.com/world/europe/r…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1509591367059533800,
+					"id_str": "1509591367059533824",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FPMlWaWUcAAkQr9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPMlWaWUcAAkQr9.jpg",
+					"url": "https://t.co/teHK4LMTmj",
+					"display_url": "pic.twitter.com/teHK4LMTmj",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1509591368947011601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509591367059533800,
+					"id_str": "1509591367059533824",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FPMlWaWUcAAkQr9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPMlWaWUcAAkQr9.jpg",
+					"url": "https://t.co/teHK4LMTmj",
+					"display_url": "pic.twitter.com/teHK4LMTmj",
+					"expanded_url": "https://twitter.com/bhwilkoff/status/1509591368947011601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6295,
+			"friends_count": 3598,
+			"listed_count": 345,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 3016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gaslighting that could solve our energy crisis 100 times over:\n\nRussia drafts 134,500 conscripts but says they won't go to Ukraine https://t.co/NEFvlNnKU5 https://t.co/teHK4LMTmj"
+	},
+	{
+		"created_at": "Mon Mar 28 15:29:52 +0000 2022",
+		"id": 1508466408061026300,
+		"id_str": "1508466408061026305",
+		"full_text": "Perhaps it is all of the #GildedAgeHBO and #Sanditon that I have been watching, but a man defending his wife’s honor the way that Will Smith did last night feels like something to be celebrated. Let’s normalize displays of love and rather than dispassionate sarcastic comments.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GildedAgeHBO",
+					"indices": [
+						25,
+						38
+					]
+				},
+				{
+					"text": "Sanditon",
+					"indices": [
+						43,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6295,
+			"friends_count": 3598,
+			"listed_count": 345,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 3016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Perhaps it is all of the #GildedAgeHBO and #Sanditon that I have been watching, but a man defending his wife’s honor the way that Will Smith did last night feels like something to be celebrated. Let’s normalize displays of love and rather than dispassionate sarcastic comments."
+	},
+	{
+		"created_at": "Thu Mar 24 01:07:34 +0000 2022",
+		"id": 1506791234941169700,
+		"id_str": "1506799850670759936",
+		"full_text": "Persevere  https://t.co/n0i1t0ckf4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506774647769030700,
+					"id_str": "1506774647769030662",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506774647769030662/pu/img/ZSD5Ar_YdKFmoUmA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506774647769030662/pu/img/ZSD5Ar_YdKFmoUmA.jpg",
+					"url": "https://t.co/n0i1t0ckf4",
+					"display_url": "pic.twitter.com/n0i1t0ckf4",
+					"expanded_url": "https://twitter.com/FGossGraves/status/1506774754396672005/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1506774754396672000,
+					"source_status_id_str": "1506774754396672005",
+					"source_user_id": 587828596,
+					"source_user_id_str": "587828596"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506774647769030700,
+					"id_str": "1506774647769030662",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506774647769030662/pu/img/ZSD5Ar_YdKFmoUmA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506774647769030662/pu/img/ZSD5Ar_YdKFmoUmA.jpg",
+					"url": "https://t.co/n0i1t0ckf4",
+					"display_url": "pic.twitter.com/n0i1t0ckf4",
+					"expanded_url": "https://twitter.com/FGossGraves/status/1506774754396672005/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1506774754396672000,
+					"source_status_id_str": "1506774754396672005",
+					"source_user_id": 587828596,
+					"source_user_id_str": "587828596",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 73266,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506774647769030662/pu/vid/1280x720/2tGErGGCG0erympl.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506774647769030662/pu/vid/480x270/pqPXbvqy6RnnGIaJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1506774647769030662/pu/vid/640x360/A05FQgDJX2d2MHmg.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1506774647769030662/pu/pl/HVAUBYio39-uLSpi.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 587828596,
+							"id_str": "587828596",
+							"name": "Fatima Goss Graves",
+							"screen_name": "FGossGraves",
+							"location": "Washington, DC",
+							"description": "@NWLC Pres. & CEO; @nwlcaf; Co-founder TIME’S UP LDF; lawyer, activist, optimist, runner, mom, sister, friend, wife-not in that order. Views here, all mine",
+							"url": "https://t.co/E7SYP6qniF",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/E7SYP6qniF",
+											"expanded_url": "http://nwlc.org",
+											"display_url": "nwlc.org",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 16465,
+							"friends_count": 1834,
+							"listed_count": 219,
+							"created_at": "Tue May 22 23:13:22 +0000 2012",
+							"favourites_count": 19380,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 14639,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "352726",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1490078386252918784/DPskpP0N_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1490078386252918784/DPskpP0N_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/587828596/1633205154",
+							"profile_link_color": "D02B55",
+							"profile_sidebar_border_color": "829D5E",
+							"profile_sidebar_fill_color": "99CC33",
+							"profile_text_color": "3E4415",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335549290,
+			"id_str": "335549290",
+			"name": "Glynda Carr",
+			"screen_name": "glyndacarr",
+			"location": "New York, New York",
+			"description": "Political Strategist, Public Speaker, Entrepreneur. Co-Founder & President @HigherHeights",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6255,
+			"friends_count": 541,
+			"listed_count": 106,
+			"created_at": "Thu Jul 14 21:19:04 +0000 2011",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179750216087547906/flOCrSXH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179750216087547906/flOCrSXH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335549290/1570109346",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 182,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Persevere  https://t.co/n0i1t0ckf4"
+	},
+	{
+		"created_at": "Wed Mar 23 17:07:48 +0000 2022",
+		"id": 1506298730445774800,
+		"id_str": "1506679113624408066",
+		"full_text": "WHAT IF YOU COULD HAVE GREAT COFFEE BUT ALL THE PROFIT WENT TO CHARITY THAT'S THE WHOLE PITCH. https://t.co/5Bzn69T6D2 https://t.co/Zi5I6RZYGw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Bzn69T6D2",
+					"expanded_url": "https://awesomecoffeeclub.com/",
+					"display_url": "awesomecoffeeclub.com",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/Zi5I6RZYGw",
+					"expanded_url": "https://twitter.com/johngreen/status/1506297451338158085",
+					"display_url": "twitter.com/johngreen/stat…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61592079,
+			"id_str": "61592079",
+			"name": "Hank Green",
+			"screen_name": "hankgreen",
+			"location": "Missoula, MT",
+			"description": "I tweet about science and life.\n\nCEO @ComplexlyMedia and @DFTBArecords. Former (and forever) @VidCon. Internet Person, Science Communicator, Author, etc.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1173011,
+			"friends_count": 840,
+			"listed_count": 5566,
+			"created_at": "Thu Jul 30 20:36:34 +0000 2009",
+			"favourites_count": 47739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 47177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4DB3C8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502824671292448768/LbY2Y0Pf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502824671292448768/LbY2Y0Pf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61592079/1638591353",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "858585",
+			"profile_sidebar_fill_color": "C0DDE0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1506297451338158000,
+		"quoted_status_id_str": "1506297451338158085",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Zi5I6RZYGw",
+			"expanded": "https://twitter.com/johngreen/status/1506297451338158085",
+			"display": "twitter.com/johngreen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 22 15:51:12 +0000 2022",
+			"id": 1506297451338158000,
+			"id_str": "1506297451338158085",
+			"full_text": "@hankgreen Hank, tweet about the coffee.",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				40
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hankgreen",
+						"name": "Hank Green",
+						"id": 61592079,
+						"id_str": "61592079",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1506296844103688200,
+			"in_reply_to_status_id_str": "1506296844103688213",
+			"in_reply_to_user_id": 61592079,
+			"in_reply_to_user_id_str": "61592079",
+			"in_reply_to_screen_name": "hankgreen",
+			"user": {
+				"id": 18055737,
+				"id_str": "18055737",
+				"name": "John Green",
+				"screen_name": "johngreen",
+				"location": "Indianapolis, IN",
+				"description": "I'm an author (Turtles All the way Down, The Anthropocene Reviewed, etc.), a YouTuber (vlogbrothers, Crash Course, etc.), and a person who does not cast movies.",
+				"url": "https://t.co/oMo0z5k4Nz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oMo0z5k4Nz",
+								"expanded_url": "https://sites.prh.com/anthropocenereviewedbook",
+								"display_url": "sites.prh.com/anthropocenere…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4620768,
+				"friends_count": 836,
+				"listed_count": 11790,
+				"created_at": "Thu Dec 11 18:28:42 +0000 2008",
+				"favourites_count": 14902,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1586,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "00ADE2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1496063546102321154/bgpp6gfq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496063546102321154/bgpp6gfq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18055737/1621363920",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 6022,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 330,
+		"favorite_count": 6561,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WHAT IF YOU COULD HAVE GREAT COFFEE BUT ALL THE PROFIT WENT TO CHARITY THAT'S THE WHOLE PITCH. https://t.co/5Bzn69T6D2 https://t.co/Zi5I6RZYGw"
+	},
+	{
+		"created_at": "Tue Mar 22 21:18:53 +0000 2022",
+		"id": 1506379914638942200,
+		"id_str": "1506379914638942212",
+		"full_text": "@susierw @tedcruz @DrIbram I just bought two copies of AntiRacist Baby for my friends with little kiddos. I’m so glad to have the recommendation from @tedcruz.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "susierw",
+					"name": "Susie Wren (she/her/hers)",
+					"id": 473519742,
+					"id_str": "473519742",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "tedcruz",
+					"name": "Ted Cruz",
+					"id": 23022687,
+					"id_str": "23022687",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"screen_name": "DrIbram",
+					"name": "Ibram X. Kendi",
+					"id": 474154291,
+					"id_str": "474154291",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"screen_name": "tedcruz",
+					"name": "Ted Cruz",
+					"id": 23022687,
+					"id_str": "23022687",
+					"indices": [
+						150,
+						158
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1506346354213228500,
+		"in_reply_to_status_id_str": "1506346354213228545",
+		"in_reply_to_user_id": 473519742,
+		"in_reply_to_user_id_str": "473519742",
+		"in_reply_to_screen_name": "susierw",
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6295,
+			"friends_count": 3598,
+			"listed_count": 345,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 3016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@susierw @tedcruz @DrIbram I just bought two copies of AntiRacist Baby for my friends with little kiddos. I’m so glad to have the recommendation from @tedcruz."
+	},
+	{
+		"created_at": "Tue Mar 22 19:47:30 +0000 2022",
+		"id": 1506356915332268000,
+		"id_str": "1506356915332268034",
+		"full_text": "Who knew that I would be taking book recommendations from @SenTedCruz?! But, when he keeps on talking about how much it teaches children to be anti-racist, it sounded great! I’m sending copies to my friends with babies. I’m happy to buy one for you too! https://t.co/rsnQ8Cl56l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SenTedCruz",
+					"name": "Senator Ted Cruz",
+					"id": 1074480192,
+					"id_str": "1074480192",
+					"indices": [
+						58,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rsnQ8Cl56l",
+					"expanded_url": "https://www.indiebound.org/book/9780593110508",
+					"display_url": "indiebound.org/book/978059311…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1710871,
+			"id_str": "1710871",
+			"name": "Ben Wilkoff",
+			"screen_name": "bhwilkoff",
+			"location": "Littleton, Co",
+			"description": "Associate Director for Admissions Operations @MinervaSchools. Anti-Racist. Equity-focused. Growth-oriented Husband; father of 3 strange and beautiful children.",
+			"url": "http://t.co/NW4gT6QJUF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NW4gT6QJUF",
+							"expanded_url": "http://learningischange.com",
+							"display_url": "learningischange.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6295,
+			"friends_count": 3598,
+			"listed_count": 345,
+			"created_at": "Wed Mar 21 04:14:02 +0000 2007",
+			"favourites_count": 3016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136027222936936450/Bb_F1585_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1710871/1563450278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who knew that I would be taking book recommendations from @SenTedCruz?! But, when he keeps on talking about how much it teaches children to be anti-racist, it sounded great! I’m sending copies to my friends with babies. I’m happy to buy one for you too! https://t.co/rsnQ8Cl56l"
+	},
+	{
 		"created_at": "Tue Mar 15 19:06:03 +0000 2022",
 		"id": 1503809771513606100,
 		"id_str": "1503809771513606149",

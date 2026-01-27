@@ -2,6 +2,12 @@ import { openDB } from 'idb';
 import type { DBSchema, IDBPDatabase } from 'idb';
 import type { Tweet, DataIndex } from '../types/tweet';
 
+// Define the shape of metadata records (for in-line keys)
+interface MetadataRecord {
+  key: string;
+  value: DataIndex | boolean;
+}
+
 interface TweetDB extends DBSchema {
   tweets: {
     key: string;
@@ -16,7 +22,7 @@ interface TweetDB extends DBSchema {
   };
   metadata: {
     key: string;
-    value: DataIndex | boolean;
+    value: MetadataRecord;
   };
 }
 
@@ -56,8 +62,8 @@ export async function getDB(): Promise<IDBPDatabase<TweetDB>> {
 
 export async function isDataLoaded(): Promise<boolean> {
   const db = await getDB();
-  const loaded = await db.get('metadata', 'loaded');
-  return loaded === true;
+  const record = await db.get('metadata', 'loaded');
+  return record?.value === true;
 }
 
 export async function loadTweetsFromJSON(): Promise<void> {
@@ -75,8 +81,8 @@ export async function loadTweetsFromJSON(): Promise<void> {
   const indexResponse = await fetch('/data/index.json');
   const index: DataIndex = await indexResponse.json();
 
-  // Store metadata
-  await db.put('metadata', index, 'index');
+  // Store metadata (wrap in object with key and value properties for in-line keys)
+  await db.put('metadata', { key: 'index', value: index });
 
   let loadedCount = 0;
   const totalFiles = index.files.length;
@@ -106,8 +112,8 @@ export async function loadTweetsFromJSON(): Promise<void> {
     await Promise.all(promises);
   }
 
-  // Mark as loaded
-  await db.put('metadata', true, 'loaded');
+  // Mark as loaded (wrap in object with key property for in-line keys)
+  await db.put('metadata', { key: 'loaded', value: true });
 
   console.log(`✓ Loaded all ${loadedCount} tweets into IndexedDB`);
 }
@@ -180,7 +186,8 @@ export async function searchTweets(query: string): Promise<Tweet[]> {
 
 export async function getDataIndex(): Promise<DataIndex | undefined> {
   const db = await getDB();
-  return (await db.get('metadata', 'index')) as DataIndex | undefined;
+  const record = await db.get('metadata', 'index');
+  return record?.value as DataIndex | undefined;
 }
 
 export async function clearDatabase(): Promise<void> {

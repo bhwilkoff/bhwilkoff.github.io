@@ -1,4 +1,4 @@
-import { Heart, MessageCircle, Repeat2, ExternalLink } from 'lucide-react';
+import { Heart, MessageCircle, Repeat2 } from 'lucide-react';
 import type { Tweet } from '../types/tweet';
 import { formatTweetDate, enrichTweetText, getMediaUrls } from '../lib/utils';
 
@@ -8,12 +8,11 @@ interface TweetCardProps {
 
 export function TweetCard({ tweet }: TweetCardProps) {
   const mediaUrls = getMediaUrls(tweet);
-  const tweetUrl = `https://twitter.com/${tweet.user.screen_name}/status/${tweet.id_str}`;
 
   return (
     <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-4 hover:shadow-md transition-shadow">
       {/* Header */}
-      <div className="flex items-start justify-between mb-3">
+      <div className="flex items-start mb-3">
         <div className="flex items-start gap-3 flex-1">
           <img
             src={tweet.user.profile_image_url_https}
@@ -39,15 +38,6 @@ export function TweetCard({ tweet }: TweetCardProps) {
             </p>
           </div>
         </div>
-        <a
-          href={tweetUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-gray-400 hover:text-gray-600 dark:hover:text-gray-300"
-          title="View on Twitter"
-        >
-          <ExternalLink className="w-5 h-5" />
-        </a>
       </div>
 
       {/* Tweet Text */}
@@ -72,7 +62,7 @@ export function TweetCard({ tweet }: TweetCardProps) {
               key={index}
               src={url}
               alt={`Media ${index + 1}`}
-              className="rounded-lg w-full object-cover max-h-96"
+              className="rounded-lg w-full h-auto object-contain max-h-[500px] bg-gray-100 dark:bg-gray-900"
               loading="lazy"
             />
           ))}

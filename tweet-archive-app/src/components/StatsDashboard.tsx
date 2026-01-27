@@ -16,9 +16,12 @@ ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
 
 interface StatsDashboardProps {
   tweets: Tweet[];
+  onHashtagClick?: (hashtag: string) => void;
+  onMentionClick?: (mention: string) => void;
+  onYearClick?: (year: number) => void;
 }
 
-export function StatsDashboard({ tweets }: StatsDashboardProps) {
+export function StatsDashboard({ tweets, onHashtagClick, onMentionClick, onYearClick }: StatsDashboardProps) {
   const stats = getTweetStats(tweets);
 
   const chartData = {
@@ -37,13 +40,20 @@ export function StatsDashboard({ tweets }: StatsDashboardProps) {
   const chartOptions = {
     responsive: true,
     maintainAspectRatio: false,
+    onClick: (_event: any, elements: any[]) => {
+      if (elements.length > 0 && onYearClick) {
+        const index = elements[0].index;
+        const year = stats.tweetsByYear[index].year;
+        onYearClick(year);
+      }
+    },
     plugins: {
       legend: {
         display: false,
       },
       title: {
         display: true,
-        text: 'Tweet Activity Timeline',
+        text: 'Tweet Activity Timeline (Click to filter by year)',
         color: '#374151',
         font: {
           size: 16,
@@ -120,17 +130,18 @@ export function StatsDashboard({ tweets }: StatsDashboardProps) {
           </h3>
           <div className="space-y-2">
             {stats.topHashtags.slice(0, 10).map((item) => (
-              <div
+              <button
                 key={item.tag}
-                className="flex items-center justify-between py-2 border-b border-gray-100 dark:border-gray-700 last:border-0"
+                onClick={() => onHashtagClick?.(item.tag)}
+                className="w-full flex items-center justify-between py-2 border-b border-gray-100 dark:border-gray-700 last:border-0 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors cursor-pointer"
               >
-                <span className="text-sm text-gray-700 dark:text-gray-300">
+                <span className="text-sm text-blue-600 dark:text-blue-400 hover:underline">
                   #{item.tag}
                 </span>
                 <span className="text-sm font-medium text-gray-900 dark:text-white">
                   {item.count}
                 </span>
-              </div>
+              </button>
             ))}
             {stats.topHashtags.length === 0 && (
               <p className="text-sm text-gray-500 dark:text-gray-400">
@@ -148,17 +159,18 @@ export function StatsDashboard({ tweets }: StatsDashboardProps) {
           </h3>
           <div className="space-y-2">
             {stats.topMentions.slice(0, 10).map((item) => (
-              <div
+              <button
                 key={item.mention}
-                className="flex items-center justify-between py-2 border-b border-gray-100 dark:border-gray-700 last:border-0"
+                onClick={() => onMentionClick?.(item.mention)}
+                className="w-full flex items-center justify-between py-2 border-b border-gray-100 dark:border-gray-700 last:border-0 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors cursor-pointer"
               >
-                <span className="text-sm text-gray-700 dark:text-gray-300">
+                <span className="text-sm text-blue-600 dark:text-blue-400 hover:underline">
                   @{item.mention}
                 </span>
                 <span className="text-sm font-medium text-gray-900 dark:text-white">
                   {item.count}
                 </span>
-              </div>
+              </button>
             ))}
             {stats.topMentions.length === 0 && (
               <p className="text-sm text-gray-500 dark:text-gray-400">

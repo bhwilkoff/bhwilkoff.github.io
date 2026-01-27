@@ -3,7 +3,6 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - claude/modernize-tweet-archive-IO7xd
       - main
   workflow_dispatch:
 

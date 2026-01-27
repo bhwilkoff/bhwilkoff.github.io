@@ -1,13 +1,29 @@
 import { format, formatDistanceToNow, parseISO } from 'date-fns';
 import type { Tweet } from '../types/tweet';
 
+// Parse Twitter's date format: "Mon Apr 25 15:25:57 +0000 2022"
+function parseTwitterDate(dateString: string): Date {
+  // Try ISO format first (for compatibility)
+  try {
+    const isoDate = parseISO(dateString);
+    if (!isNaN(isoDate.getTime())) {
+      return isoDate;
+    }
+  } catch (e) {
+    // Fall through to Twitter format
+  }
+
+  // Parse Twitter format
+  return new Date(dateString);
+}
+
 export function formatTweetDate(dateString: string): string {
-  const date = parseISO(dateString);
+  const date = parseTwitterDate(dateString);
   return format(date, 'MMM d, yyyy • h:mm a');
 }
 
 export function formatRelativeDate(dateString: string): string {
-  const date = parseISO(dateString);
+  const date = parseTwitterDate(dateString);
   return formatDistanceToNow(date, { addSuffix: true });
 }
 
@@ -86,7 +102,7 @@ export function groupTweetsByMonth(tweets: Tweet[]): Map<string, Tweet[]> {
   const grouped = new Map<string, Tweet[]>();
 
   tweets.forEach((tweet) => {
-    const date = parseISO(tweet.created_at);
+    const date = parseTwitterDate(tweet.created_at);
     const key = format(date, 'yyyy-MM');
 
     if (!grouped.has(key)) {
@@ -138,7 +154,7 @@ export function getTweetStats(tweets: Tweet[]) {
   // Group by year for timeline
   const tweetsByYear = tweets.reduce(
     (acc, tweet) => {
-      const year = parseISO(tweet.created_at).getFullYear();
+      const year = parseTwitterDate(tweet.created_at).getFullYear();
       acc[year] = (acc[year] || 0) + 1;
       return acc;
     },

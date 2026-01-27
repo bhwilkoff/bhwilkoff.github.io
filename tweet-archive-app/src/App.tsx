@@ -1,11 +1,12 @@
 import { useEffect, useState } from 'react';
 import { Moon, Sun, BarChart3, Grid, List, Loader2 } from 'lucide-react';
-import type { Tweet } from './types/tweet';
+import type { Tweet, UserDetails } from './types/tweet';
 import {
   loadTweetsFromJSON,
   searchTweets,
   getAllTweets,
   isDataLoaded,
+  getDataIndex,
 } from './lib/db';
 import { TweetCard } from './components/TweetCard';
 import { SearchBar } from './components/SearchBar';
@@ -28,6 +29,7 @@ function App() {
   const [allTweets, setAllTweets] = useState<Tweet[]>([]);
   const [displayedTweets, setDisplayedTweets] = useState<Tweet[]>([]);
   const [showFilters, setShowFilters] = useState(false);
+  const [userDetails, setUserDetails] = useState<UserDetails | null>(null);
   const [currentFilters, setCurrentFilters] = useState<{
     dateFrom?: string;
     dateTo?: string;
@@ -59,6 +61,12 @@ function App() {
 
         setLoadingProgress('Retrieving tweets...');
         const tweets = await getAllTweets();
+
+        // Load user details
+        const index = await getDataIndex();
+        if (index && index.user) {
+          setUserDetails(index.user);
+        }
 
         // Sort by date (newest first)
         tweets.sort(
@@ -177,10 +185,12 @@ function App() {
           <div className="flex items-center justify-between mb-4">
             <div>
               <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-                Tweet Archive
+                {userDetails ? `${userDetails.full_name}'s Tweet Archive` : 'Tweet Archive'}
               </h1>
               <p className="text-sm text-gray-500 dark:text-gray-400">
-                {allTweets.length.toLocaleString()} tweets from 2007-2022
+                {userDetails && `@${userDetails.screen_name} • `}
+                {allTweets.length.toLocaleString()} tweets
+                {userDetails && ` • Joined ${new Date(userDetails.created_at).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}`}
               </p>
             </div>
             <button

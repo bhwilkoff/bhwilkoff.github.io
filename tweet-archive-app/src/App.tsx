@@ -30,6 +30,8 @@ function App() {
   const [displayedTweets, setDisplayedTweets] = useState<Tweet[]>([]);
   const [showFilters, setShowFilters] = useState(false);
   const [userDetails, setUserDetails] = useState<UserDetails | null>(null);
+  const [currentQuery, setCurrentQuery] = useState('');
+  const [displayLimit, setDisplayLimit] = useState(50); // Show 50 tweets at a time
   const [currentFilters, setCurrentFilters] = useState<{
     dateFrom?: string;
     dateTo?: string;
@@ -89,6 +91,8 @@ function App() {
 
   const handleSearch = async (query: string) => {
     setLoading(true);
+    setCurrentQuery(query);
+    setDisplayLimit(50); // Reset to showing first 50
     try {
       let results = query ? await searchTweets(query) : allTweets;
 
@@ -107,6 +111,28 @@ function App() {
     } finally {
       setLoading(false);
     }
+  };
+
+  const handleLoadMore = () => {
+    setDisplayLimit((prev) => prev + 50);
+  };
+
+  const handleHashtagClick = (hashtag: string) => {
+    setActiveTab('tweets');
+    handleSearch(`#${hashtag}`);
+  };
+
+  const handleMentionClick = (mention: string) => {
+    setActiveTab('tweets');
+    handleSearch(`@${mention}`);
+  };
+
+  const handleYearClick = (year: number) => {
+    setActiveTab('tweets');
+    const yearStart = new Date(year, 0, 1).toISOString().split('T')[0];
+    const yearEnd = new Date(year, 11, 31).toISOString().split('T')[0];
+    setCurrentFilters({ dateFrom: yearStart, dateTo: yearEnd });
+    handleApplyFilters({ dateFrom: yearStart, dateTo: yearEnd });
   };
 
   const applyFilters = (
@@ -255,13 +281,14 @@ function App() {
                 onFilterToggle={() => setShowFilters(!showFilters)}
                 showFilters={showFilters}
                 resultCount={displayedTweets.length}
+                currentQuery={currentQuery}
               />
             </div>
 
             <div className="grid lg:grid-cols-4 gap-6">
               <div className="lg:col-span-3">
                 <div className="space-y-4">
-                  {displayedTweets.map((tweet) => (
+                  {displayedTweets.slice(0, displayLimit).map((tweet) => (
                     <TweetCard key={tweet.id_str} tweet={tweet} />
                   ))}
                   {displayedTweets.length === 0 && (
@@ -269,6 +296,16 @@ function App() {
                       <p className="text-gray-500 dark:text-gray-400">
                         No tweets found matching your criteria.
                       </p>
+                    </div>
+                  )}
+                  {displayedTweets.length > displayLimit && (
+                    <div className="text-center py-8">
+                      <button
+                        onClick={handleLoadMore}
+                        className="px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors font-medium"
+                      >
+                        Load More ({displayedTweets.length - displayLimit} remaining)
+                      </button>
                     </div>
                   )}
                 </div>
@@ -289,7 +326,12 @@ function App() {
         )}
 
         {activeTab === 'analytics' && (
-          <StatsDashboard tweets={allTweets} />
+          <StatsDashboard
+            tweets={allTweets}
+            onHashtagClick={handleHashtagClick}
+            onMentionClick={handleMentionClick}
+            onYearClick={handleYearClick}
+          />
         )}
 
         {activeTab === 'media' && (
@@ -298,7 +340,7 @@ function App() {
               Media Gallery
             </h2>
             <div className="space-y-4">
-              {mediaTweets.map((tweet) => (
+              {mediaTweets.slice(0, displayLimit).map((tweet) => (
                 <TweetCard key={tweet.id_str} tweet={tweet} />
               ))}
               {mediaTweets.length === 0 && (
@@ -306,6 +348,16 @@ function App() {
                   <p className="text-gray-500 dark:text-gray-400">
                     No tweets with media found.
                   </p>
+                </div>
+              )}
+              {mediaTweets.length > displayLimit && (
+                <div className="text-center py-8">
+                  <button
+                    onClick={handleLoadMore}
+                    className="px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors font-medium"
+                  >
+                    Load More ({mediaTweets.length - displayLimit} remaining)
+                  </button>
                 </div>
               )}
             </div>

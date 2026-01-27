@@ -2,6 +2,7 @@ import { format, formatDistanceToNow, parseISO } from 'date-fns';
 import type { Tweet } from '../types/tweet';
 
 // Parse Twitter's date format: "Mon Apr 25 15:25:57 +0000 2022"
+// Safari is strict about date formats, so we need to convert to ISO format
 function parseTwitterDate(dateString: string): Date {
   // Try ISO format first (for compatibility)
   try {
@@ -13,7 +14,28 @@ function parseTwitterDate(dateString: string): Date {
     // Fall through to Twitter format
   }
 
-  // Parse Twitter format
+  // Parse Twitter format - Safari-compatible approach
+  // Format: "Mon Apr 25 15:25:57 +0000 2022"
+  // Convert to ISO: "2022-04-25T15:25:57.000Z"
+  const parts = dateString.split(' ');
+  if (parts.length >= 6) {
+    const months: { [key: string]: string } = {
+      Jan: '01', Feb: '02', Mar: '03', Apr: '04', May: '05', Jun: '06',
+      Jul: '07', Aug: '08', Sep: '09', Oct: '10', Nov: '11', Dec: '12'
+    };
+
+    const month = months[parts[1]];
+    const day = parts[2].padStart(2, '0');
+    const time = parts[3];
+    const year = parts[5];
+
+    if (month && time && year) {
+      const isoString = `${year}-${month}-${day}T${time}.000Z`;
+      return new Date(isoString);
+    }
+  }
+
+  // Fallback
   return new Date(dateString);
 }
 

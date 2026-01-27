@@ -137,8 +137,9 @@ export async function searchTweets(query: string): Promise<Tweet[]> {
   const lowerQuery = query.toLowerCase();
 
   return allTweets.filter((tweet) => {
-    // Search in tweet text
-    if (tweet.text.toLowerCase().includes(lowerQuery)) {
+    // Search in tweet text (support both full_text and text fields)
+    const tweetText = tweet.full_text || tweet.text || '';
+    if (tweetText.toLowerCase().includes(lowerQuery)) {
       return true;
     }
 

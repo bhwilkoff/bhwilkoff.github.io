@@ -42,12 +42,13 @@ export function isReply(tweet: Tweet): boolean {
 }
 
 export function isRetweet(tweet: Tweet): boolean {
-  return tweet.text.startsWith('RT @');
+  const text = tweet.full_text || tweet.text || '';
+  return text.startsWith('RT @');
 }
 
 // Parse the tweet text and make URLs, mentions, and hashtags clickable
 export function enrichTweetText(tweet: Tweet): string {
-  let text = tweet.text;
+  let text = tweet.full_text || tweet.text || '';
 
   // Replace URLs
   tweet.entities.urls.forEach((url) => {

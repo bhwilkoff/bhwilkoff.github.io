@@ -40,7 +40,8 @@ export interface Tweet {
   entities: TweetEntity;
   geo: Record<string, unknown>;
   id_str: string;
-  text: string;
+  full_text: string;
+  text?: string; // Fallback for older format
   id: number;
   created_at: string;
   user: {

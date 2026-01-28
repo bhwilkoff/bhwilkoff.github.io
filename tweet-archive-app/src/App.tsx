@@ -53,14 +53,13 @@ function App() {
   const updateURL = (tab: Tab, query: string, filters: typeof currentFilters) => {
     const params = new URLSearchParams();
 
-    // Add tab
-    if (tab !== 'tweets') {
-      params.set('tab', tab);
-    }
-
-    // Add search query
+    // Add search query first
     if (query) {
       params.set('q', query);
+      // When there's a query, don't set tab param (always shows tweets)
+    } else if (tab !== 'tweets') {
+      // Only set tab param if no query and not the default tab
+      params.set('tab', tab);
     }
 
     // Add filters
@@ -89,13 +88,9 @@ function App() {
     if (loading || allTweets.length === 0) return;
 
     const params = new URLSearchParams(window.location.search);
-
-    const tab = params.get('tab') as Tab | null;
-    if (tab && ['tweets', 'analytics', 'media'].includes(tab)) {
-      setActiveTab(tab);
-    }
-
     const query = params.get('q') || '';
+    const tab = params.get('tab') as Tab | null;
+
     const filters: typeof currentFilters = {};
 
     if (params.has('from')) filters.dateFrom = params.get('from')!;
@@ -106,15 +101,21 @@ function App() {
 
     const hasFilters = Object.keys(filters).length > 0;
 
-    if (query || hasFilters) {
+    // If there's a query, ALWAYS show tweets tab (ignore tab param to prevent flashing)
+    if (query) {
+      setActiveTab('tweets');
       setCurrentFilters(filters);
       setCurrentQuery(query);
-
-      if (query) {
-        handleSearch(query, filters, true); // skipUrlUpdate = true
-      } else if (hasFilters) {
-        handleApplyFilters(filters, true); // skipUrlUpdate = true
-      }
+      handleSearch(query, filters, true); // skipUrlUpdate = true
+    } else if (hasFilters) {
+      // Filters but no query - show tweets with filters
+      setActiveTab('tweets');
+      setCurrentFilters(filters);
+      setCurrentQuery('');
+      handleApplyFilters(filters, true); // skipUrlUpdate = true
+    } else if (tab && ['tweets', 'analytics', 'media'].includes(tab)) {
+      // No query or filters - honor the tab parameter
+      setActiveTab(tab);
     }
   }, [allTweets.length, loading]); // Run when tweets are loaded
 
@@ -122,15 +123,9 @@ function App() {
   useEffect(() => {
     const handlePopState = () => {
       const params = new URLSearchParams(window.location.search);
-
-      const tab = params.get('tab') as Tab | null;
-      if (tab && ['tweets', 'analytics', 'media'].includes(tab)) {
-        setActiveTab(tab);
-      } else {
-        setActiveTab('tweets');
-      }
-
       const query = params.get('q') || '';
+      const tab = params.get('tab') as Tab | null;
+
       const filters: typeof currentFilters = {};
 
       if (params.has('from')) filters.dateFrom = params.get('from')!;
@@ -142,12 +137,20 @@ function App() {
       setCurrentQuery(query);
       setCurrentFilters(filters);
 
+      // If there's a query, ALWAYS show tweets tab (ignore tab param)
       if (query) {
+        setActiveTab('tweets');
         handleSearch(query, filters, true); // skipUrlUpdate = true
       } else if (Object.keys(filters).length > 0) {
+        setActiveTab('tweets');
         handleApplyFilters(filters, true); // skipUrlUpdate = true
+      } else if (tab && ['tweets', 'analytics', 'media'].includes(tab)) {
+        // No query or filters - honor the tab parameter
+        setActiveTab(tab);
+        setDisplayedTweets(allTweets);
       } else {
-        // No query or filters - show all tweets
+        // Default to tweets
+        setActiveTab('tweets');
         setDisplayedTweets(allTweets);
       }
     };
@@ -383,7 +386,9 @@ function App() {
             <button
               onClick={() => {
                 setActiveTab('analytics');
-                updateURL('analytics', currentQuery, currentFilters);
+                setCurrentQuery('');
+                setCurrentFilters({});
+                updateURL('analytics', '', {});
               }}
               className={`px-4 py-2 font-medium transition-colors flex items-center gap-2 ${
                 activeTab === 'analytics'
@@ -397,7 +402,9 @@ function App() {
             <button
               onClick={() => {
                 setActiveTab('media');
-                updateURL('media', currentQuery, currentFilters);
+                setCurrentQuery('');
+                setCurrentFilters({});
+                updateURL('media', '', {});
               }}
               className={`px-4 py-2 font-medium transition-colors flex items-center gap-2 ${
                 activeTab === 'media'

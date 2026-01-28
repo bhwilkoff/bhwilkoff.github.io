@@ -8,13 +8,22 @@ import {
   hasLinks,
   parseTwitterDate,
   isReply,
+  isRetweet,
 } from '../lib/utils';
 
 interface EnhancedAnalyticsProps {
   tweets: Tweet[];
+  onSourceClick?: (source: string) => void;
+  onDomainClick?: (domain: string) => void;
+  onTweetClick?: (tweetId: string) => void;
 }
 
-export function EnhancedAnalytics({ tweets }: EnhancedAnalyticsProps) {
+export function EnhancedAnalytics({
+  tweets,
+  onSourceClick,
+  onDomainClick,
+  onTweetClick,
+}: EnhancedAnalyticsProps) {
   // Device/Source Analysis
   const sourceData = tweets.reduce((acc, tweet) => {
     const source = parseSource(tweet.source);
@@ -60,9 +69,9 @@ export function EnhancedAnalytics({ tweets }: EnhancedAnalyticsProps) {
     .slice(0, 10)
     .map(([domain, count]) => ({ domain, count }));
 
-  // Most Engaged Tweets
+  // Most Engaged Tweets (excluding retweets to show only original content)
   const tweetsWithEngagement = tweets
-    .filter(tweet => getEngagement(tweet) > 0)
+    .filter(tweet => getEngagement(tweet) > 0 && !isRetweet(tweet))
     .sort((a, b) => getEngagement(b) - getEngagement(a))
     .slice(0, 10);
 
@@ -108,7 +117,11 @@ export function EnhancedAnalytics({ tweets }: EnhancedAnalyticsProps) {
           </div>
           <div className="space-y-3">
             {topSources.map(({ source, count, percentage }) => (
-              <div key={source}>
+              <button
+                key={source}
+                onClick={() => onSourceClick?.(source)}
+                className="w-full text-left hover:bg-gray-50 dark:hover:bg-gray-700/50 p-2 rounded transition-colors cursor-pointer"
+              >
                 <div className="flex justify-between items-center mb-1">
                   <span className="text-sm text-gray-700 dark:text-gray-300 truncate">
                     {source}
@@ -126,7 +139,7 @@ export function EnhancedAnalytics({ tweets }: EnhancedAnalyticsProps) {
                     style={{ width: `${percentage}%` }}
                   />
                 </div>
-              </div>
+              </button>
             ))}
           </div>
         </div>
@@ -182,14 +195,18 @@ export function EnhancedAnalytics({ tweets }: EnhancedAnalyticsProps) {
           <div className="space-y-2">
             {topDomains.length > 0 ? (
               topDomains.map(({ domain, count }) => (
-                <div key={domain} className="flex justify-between items-center">
-                  <span className="text-sm text-gray-700 dark:text-gray-300 truncate flex-1">
+                <button
+                  key={domain}
+                  onClick={() => onDomainClick?.(domain)}
+                  className="w-full flex justify-between items-center hover:bg-gray-50 dark:hover:bg-gray-700/50 p-2 rounded transition-colors cursor-pointer"
+                >
+                  <span className="text-sm text-blue-500 dark:text-blue-400 truncate flex-1 text-left">
                     {domain}
                   </span>
                   <span className="text-sm font-medium text-gray-900 dark:text-white ml-2">
                     {count}
                   </span>
-                </div>
+                </button>
               ))
             ) : (
               <p className="text-sm text-gray-500">No external links found</p>
@@ -208,14 +225,18 @@ export function EnhancedAnalytics({ tweets }: EnhancedAnalyticsProps) {
           <div className="space-y-2">
             {topReplyTargets.length > 0 ? (
               topReplyTargets.map(({ username, count }) => (
-                <div key={username} className="flex justify-between items-center">
+                <button
+                  key={username}
+                  onClick={() => onDomainClick?.(`@${username}`)}
+                  className="w-full flex justify-between items-center hover:bg-gray-50 dark:hover:bg-gray-700/50 p-2 rounded transition-colors cursor-pointer"
+                >
                   <span className="text-sm text-blue-500 dark:text-blue-400">
                     @{username}
                   </span>
                   <span className="text-sm font-medium text-gray-900 dark:text-white">
                     {count} replies
                   </span>
-                </div>
+                </button>
               ))
             ) : (
               <p className="text-sm text-gray-500">No replies found</p>
@@ -252,15 +273,24 @@ export function EnhancedAnalytics({ tweets }: EnhancedAnalyticsProps) {
       {/* Most Engaged Tweets */}
       {tweetsWithEngagement.length > 0 && (
         <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6">
-          <div className="flex items-center gap-2 mb-4">
-            <TrendingUp className="w-5 h-5 text-red-500" />
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
-              Most Engaged Tweets
-            </h3>
+          <div className="mb-4">
+            <div className="flex items-center gap-2 mb-1">
+              <TrendingUp className="w-5 h-5 text-red-500" />
+              <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                Most Engaged Original Tweets
+              </h3>
+            </div>
+            <p className="text-sm text-gray-500 dark:text-gray-400">
+              Your original content that received the most engagement (retweets excluded)
+            </p>
           </div>
           <div className="space-y-4">
             {tweetsWithEngagement.map((tweet) => (
-              <div key={tweet.id_str} className="border-b border-gray-200 dark:border-gray-700 pb-4 last:border-0">
+              <button
+                key={tweet.id_str}
+                onClick={() => onTweetClick?.(tweet.id_str)}
+                className="w-full text-left border-b border-gray-200 dark:border-gray-700 pb-4 last:border-0 hover:bg-gray-50 dark:hover:bg-gray-700/50 p-3 rounded transition-colors"
+              >
                 <p className="text-sm text-gray-900 dark:text-gray-100 mb-2 line-clamp-3">
                   {tweet.full_text || tweet.text}
                 </p>
@@ -272,10 +302,10 @@ export function EnhancedAnalytics({ tweets }: EnhancedAnalyticsProps) {
                     <span>{tweet.favorite_count} likes</span>
                   )}
                   <span className="font-medium text-blue-500">
-                    {getEngagement(tweet)} total
+                    {getEngagement(tweet)} total engagement
                   </span>
                 </div>
-              </div>
+              </button>
             ))}
           </div>
         </div>

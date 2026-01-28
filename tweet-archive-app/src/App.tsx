@@ -12,7 +12,7 @@ import { TweetCard } from './components/TweetCard';
 import { SearchBar } from './components/SearchBar';
 import { FilterPanel } from './components/FilterPanel';
 import { StatsDashboard } from './components/StatsDashboard';
-import { hasMedia, hasLinks } from './lib/utils';
+import { hasMedia, hasLinks, parseTwitterDate } from './lib/utils';
 
 type Tab = 'tweets' | 'analytics' | 'media';
 
@@ -216,7 +216,7 @@ function App() {
               <p className="text-sm text-gray-500 dark:text-gray-400">
                 {userDetails && `@${userDetails.screen_name} • `}
                 {allTweets.length.toLocaleString()} tweets
-                {userDetails && ` • Joined ${new Date(userDetails.created_at).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}`}
+                {userDetails && ` • Joined ${parseTwitterDate(userDetails.created_at).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}`}
               </p>
             </div>
             <button

@@ -4,7 +4,7 @@ import type { Tweet } from '../types/tweet';
 // Parse Twitter's date format: "Mon Apr 25 15:25:57 +0000 2022"
 // Also handles older SQL format: "2007-03-21 00:00:00 +0000"
 // Safari is strict about date formats, so we need to convert to ISO format
-function parseTwitterDate(dateString: string): Date {
+export function parseTwitterDate(dateString: string): Date {
   // Try ISO format first (for compatibility)
   try {
     const isoDate = parseISO(dateString);

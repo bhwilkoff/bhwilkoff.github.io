@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Moon, Sun, BarChart3, Grid, List, Loader2 } from 'lucide-react';
+import { Moon, Sun, BarChart3, Grid, List, Loader2, X } from 'lucide-react';
 import type { Tweet, UserDetails } from './types/tweet';
 import {
   loadTweetsFromJSON,
@@ -119,16 +119,24 @@ function App() {
 
   const handleHashtagClick = (hashtag: string) => {
     setActiveTab('tweets');
+    // Clear filters when searching by hashtag
+    setCurrentFilters({});
+    setCurrentQuery(`#${hashtag}`);
     handleSearch(`#${hashtag}`);
   };
 
   const handleMentionClick = (mention: string) => {
     setActiveTab('tweets');
+    // Clear filters when searching by mention
+    setCurrentFilters({});
+    setCurrentQuery(`@${mention}`);
     handleSearch(`@${mention}`);
   };
 
   const handleYearClick = (year: number) => {
     setActiveTab('tweets');
+    // Clear search query when filtering by year
+    setCurrentQuery('');
     const yearStart = new Date(year, 0, 1).toISOString().split('T')[0];
     const yearEnd = new Date(year, 11, 31).toISOString().split('T')[0];
     setCurrentFilters({ dateFrom: yearStart, dateTo: yearEnd });
@@ -283,6 +291,110 @@ function App() {
                 resultCount={displayedTweets.length}
                 currentQuery={currentQuery}
               />
+
+              {/* Active Filters Display */}
+              {(currentQuery || Object.keys(currentFilters).length > 0) && (
+                <div className="mt-3 flex flex-wrap gap-2 items-center">
+                  <span className="text-sm text-gray-600 dark:text-gray-400">Active filters:</span>
+
+                  {currentQuery && (
+                    <div className="inline-flex items-center gap-1 px-3 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 rounded-full text-sm">
+                      <span>Search: "{currentQuery}"</span>
+                      <button
+                        onClick={() => {
+                          setCurrentQuery('');
+                          handleSearch('');
+                        }}
+                        className="hover:bg-blue-200 dark:hover:bg-blue-800 rounded-full p-0.5"
+                      >
+                        <X className="w-3 h-3" />
+                      </button>
+                    </div>
+                  )}
+
+                  {currentFilters.dateFrom && currentFilters.dateTo && (
+                    <div className="inline-flex items-center gap-1 px-3 py-1 bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300 rounded-full text-sm">
+                      <span>Date: {new Date(currentFilters.dateFrom).toLocaleDateString()} - {new Date(currentFilters.dateTo).toLocaleDateString()}</span>
+                      <button
+                        onClick={() => {
+                          const newFilters = { ...currentFilters };
+                          delete newFilters.dateFrom;
+                          delete newFilters.dateTo;
+                          setCurrentFilters(newFilters);
+                          handleApplyFilters(newFilters);
+                        }}
+                        className="hover:bg-purple-200 dark:hover:bg-purple-800 rounded-full p-0.5"
+                      >
+                        <X className="w-3 h-3" />
+                      </button>
+                    </div>
+                  )}
+
+                  {currentFilters.hasMedia && (
+                    <div className="inline-flex items-center gap-1 px-3 py-1 bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300 rounded-full text-sm">
+                      <span>With media</span>
+                      <button
+                        onClick={() => {
+                          const newFilters = { ...currentFilters };
+                          delete newFilters.hasMedia;
+                          setCurrentFilters(newFilters);
+                          handleApplyFilters(newFilters);
+                        }}
+                        className="hover:bg-green-200 dark:hover:bg-green-800 rounded-full p-0.5"
+                      >
+                        <X className="w-3 h-3" />
+                      </button>
+                    </div>
+                  )}
+
+                  {currentFilters.hasLinks && (
+                    <div className="inline-flex items-center gap-1 px-3 py-1 bg-yellow-100 dark:bg-yellow-900/30 text-yellow-700 dark:text-yellow-300 rounded-full text-sm">
+                      <span>With links</span>
+                      <button
+                        onClick={() => {
+                          const newFilters = { ...currentFilters };
+                          delete newFilters.hasLinks;
+                          setCurrentFilters(newFilters);
+                          handleApplyFilters(newFilters);
+                        }}
+                        className="hover:bg-yellow-200 dark:hover:bg-yellow-800 rounded-full p-0.5"
+                      >
+                        <X className="w-3 h-3" />
+                      </button>
+                    </div>
+                  )}
+
+                  {currentFilters.mentionsOnly && (
+                    <div className="inline-flex items-center gap-1 px-3 py-1 bg-pink-100 dark:bg-pink-900/30 text-pink-700 dark:text-pink-300 rounded-full text-sm">
+                      <span>Mentions only</span>
+                      <button
+                        onClick={() => {
+                          const newFilters = { ...currentFilters };
+                          delete newFilters.mentionsOnly;
+                          setCurrentFilters(newFilters);
+                          handleApplyFilters(newFilters);
+                        }}
+                        className="hover:bg-pink-200 dark:hover:bg-pink-800 rounded-full p-0.5"
+                      >
+                        <X className="w-3 h-3" />
+                      </button>
+                    </div>
+                  )}
+
+                  {(currentQuery || Object.keys(currentFilters).length > 0) && (
+                    <button
+                      onClick={() => {
+                        setCurrentQuery('');
+                        setCurrentFilters({});
+                        handleSearch('');
+                      }}
+                      className="text-sm text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white underline"
+                    >
+                      Clear all
+                    </button>
+                  )}
+                </div>
+              )}
             </div>
 
             <div className="grid lg:grid-cols-4 gap-6">

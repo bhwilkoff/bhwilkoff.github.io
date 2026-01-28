@@ -4,9 +4,10 @@ import { formatTweetDate, enrichTweetText, getMediaUrls } from '../lib/utils';
 
 interface TweetCardProps {
   tweet: Tweet;
+  onTweetClick?: (tweetId: string) => void;
 }
 
-export function TweetCard({ tweet }: TweetCardProps) {
+export function TweetCard({ tweet, onTweetClick }: TweetCardProps) {
   const mediaUrls = getMediaUrls(tweet);
 
   // Fallback for profile image - older tweets might have broken URLs
@@ -92,7 +93,13 @@ export function TweetCard({ tweet }: TweetCardProps) {
 
       {/* Footer */}
       <div className="flex items-center justify-between text-sm text-gray-500 dark:text-gray-400 pt-3 border-t border-gray-100 dark:border-gray-700">
-        <span>{formatTweetDate(tweet.created_at)}</span>
+        <button
+          onClick={() => onTweetClick?.(tweet.id_str)}
+          className="text-blue-500 hover:underline cursor-pointer"
+          title="Permalink to this tweet"
+        >
+          {formatTweetDate(tweet.created_at)}
+        </button>
 
         <div className="flex items-center gap-4">
           {tweet.retweet_count !== undefined && tweet.retweet_count > 0 && (

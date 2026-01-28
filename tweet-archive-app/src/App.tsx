@@ -3,7 +3,6 @@ import { Moon, Sun, BarChart3, Grid, List, Loader2, X } from 'lucide-react';
 import type { Tweet, UserDetails } from './types/tweet';
 import {
   loadTweetsFromJSON,
-  searchTweets,
   getAllTweets,
   isDataLoaded,
   getDataIndex,
@@ -200,7 +199,6 @@ function App() {
   }, []);
 
   const handleSearch = async (query: string, filters?: typeof currentFilters, skipUrlUpdate?: boolean) => {
-    setLoading(true);
     setCurrentQuery(query);
     setDisplayLimit(50); // Reset to showing first 50
 
@@ -212,24 +210,47 @@ function App() {
       updateURL(activeTab, query, filtersToApply);
     }
 
-    try {
-      let results = query ? await searchTweets(query) : allTweets;
+    // Search through allTweets in memory instead of querying database
+    let results = allTweets;
 
-      // Apply filters
-      results = applyFilters(results, filtersToApply);
+    if (query) {
+      const searchLower = query.toLowerCase();
+      results = allTweets.filter((tweet) => {
+        const text = (tweet.full_text || tweet.text || '').toLowerCase();
+        const userName = tweet.user.screen_name.toLowerCase();
+        const userFullName = tweet.user.name.toLowerCase();
 
-      // Sort by date
-      results.sort(
-        (a, b) =>
-          parseTwitterDate(b.created_at).getTime() - parseTwitterDate(a.created_at).getTime()
-      );
+        // Check if query matches text, username, or full name
+        if (text.includes(searchLower)) return true;
+        if (userName.includes(searchLower)) return true;
+        if (userFullName.includes(searchLower)) return true;
 
-      setDisplayedTweets(results);
-    } catch (error) {
-      console.error('Error searching tweets:', error);
-    } finally {
-      setLoading(false);
+        // Check hashtags
+        if (tweet.entities.hashtags.some(h => h.text.toLowerCase().includes(searchLower.replace('#', '')))) {
+          return true;
+        }
+
+        // Check mentions
+        if (tweet.entities.user_mentions.some(m =>
+          m.screen_name.toLowerCase().includes(searchLower.replace('@', ''))
+        )) {
+          return true;
+        }
+
+        return false;
+      });
     }
+
+    // Apply filters
+    results = applyFilters(results, filtersToApply);
+
+    // Sort by date
+    results.sort(
+      (a, b) =>
+        parseTwitterDate(b.created_at).getTime() - parseTwitterDate(a.created_at).getTime()
+    );
+
+    setDisplayedTweets(results);
   };
 
   const handleLoadMore = () => {
@@ -540,36 +561,28 @@ function App() {
 
             <div className="grid lg:grid-cols-4 gap-6">
               <div className="lg:col-span-3">
-                {loading && allTweets.length > 0 && (
-                  <div className="flex items-center justify-center py-8">
-                    <Loader2 className="w-6 h-6 text-blue-500 animate-spin mr-2" />
-                    <p className="text-gray-600 dark:text-gray-400">Loading tweets...</p>
-                  </div>
-                )}
-                {!loading && (
-                  <div className="space-y-4">
-                    {displayedTweets.slice(0, displayLimit).map((tweet) => (
-                      <TweetCard key={tweet.id_str} tweet={tweet} />
-                    ))}
-                    {displayedTweets.length === 0 && (
-                      <div className="text-center py-12">
-                        <p className="text-gray-500 dark:text-gray-400">
-                          No tweets found matching your criteria.
-                        </p>
-                      </div>
-                    )}
-                    {displayedTweets.length > displayLimit && (
-                      <div className="text-center py-8">
-                        <button
-                          onClick={handleLoadMore}
-                          className="px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors font-medium"
-                        >
-                          Load More ({displayedTweets.length - displayLimit} remaining)
-                        </button>
-                      </div>
-                    )}
-                  </div>
-                )}
+                <div className="space-y-4">
+                  {displayedTweets.slice(0, displayLimit).map((tweet) => (
+                    <TweetCard key={tweet.id_str} tweet={tweet} />
+                  ))}
+                  {displayedTweets.length === 0 && (
+                    <div className="text-center py-12">
+                      <p className="text-gray-500 dark:text-gray-400">
+                        No tweets found matching your criteria.
+                      </p>
+                    </div>
+                  )}
+                  {displayedTweets.length > displayLimit && (
+                    <div className="text-center py-8">
+                      <button
+                        onClick={handleLoadMore}
+                        className="px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors font-medium"
+                      >
+                        Load More ({displayedTweets.length - displayLimit} remaining)
+                      </button>
+                    </div>
+                  )}
+                </div>
               </div>
 
               {showFilters && (

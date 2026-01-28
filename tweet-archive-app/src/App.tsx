@@ -289,25 +289,73 @@ function App() {
   const handleSourceClick = (source: string) => {
     setActiveTab('tweets');
     setCurrentFilters({});
-    setCurrentQuery(source);
-    handleSearch(source, {});
+    setCurrentQuery('');
+
+    // Filter tweets by source/device instead of text search
+    const results = allTweets.filter(tweet => {
+      const tweetSource = tweet.source.match(/>([^<]+)<\/a>/);
+      const sourceName = tweetSource ? tweetSource[1] : 'Unknown';
+      return sourceName === source;
+    });
+
+    results.sort(
+      (a, b) =>
+        parseTwitterDate(b.created_at).getTime() - parseTwitterDate(a.created_at).getTime()
+    );
+
+    setDisplayedTweets(results);
+    updateURL('tweets', '', {});
   };
 
   const handleDomainClick = (domain: string) => {
     setActiveTab('tweets');
     setCurrentFilters({});
-    setCurrentQuery(domain);
-    handleSearch(domain, {});
+
+    // Check if it's a mention (starts with @)
+    if (domain.startsWith('@')) {
+      setCurrentQuery(domain);
+      handleSearch(domain, {});
+      return;
+    }
+
+    // Filter tweets containing links to this domain
+    setCurrentQuery('');
+    const results = allTweets.filter(tweet => {
+      return tweet.entities.urls.some(url => {
+        const expandedUrl = url.expanded_url || url.url;
+        try {
+          const urlObj = new URL(expandedUrl);
+          const urlDomain = urlObj.hostname.replace('www.', '');
+          return urlDomain === domain;
+        } catch {
+          return false;
+        }
+      });
+    });
+
+    results.sort(
+      (a, b) =>
+        parseTwitterDate(b.created_at).getTime() - parseTwitterDate(a.created_at).getTime()
+    );
+
+    setDisplayedTweets(results);
+    updateURL('tweets', '', {});
   };
 
   const handleTweetClick = (tweetId: string) => {
     setActiveTab('tweets');
+    setCurrentFilters({});
+    setCurrentQuery('');
+
+    // Clear any filters and show all tweets
+    setDisplayedTweets(allTweets);
+
     // Update URL with tweet ID
-    const params = new URLSearchParams(window.location.search);
+    const params = new URLSearchParams();
     params.set('tweet', tweetId);
     window.history.pushState({}, '', `?${params.toString()}`);
 
-    // Scroll to tweet
+    // Scroll to tweet after a short delay to ensure it's rendered
     setTimeout(() => {
       const element = document.getElementById(`tweet-${tweetId}`);
       if (element) {
@@ -598,7 +646,7 @@ function App() {
               <div className="lg:col-span-3">
                 <div className="space-y-4">
                   {displayedTweets.slice(0, displayLimit).map((tweet) => (
-                    <TweetCard key={tweet.id_str} tweet={tweet} />
+                    <TweetCard key={tweet.id_str} tweet={tweet} onTweetClick={handleTweetClick} />
                   ))}
                   {displayedTweets.length === 0 && (
                     <div className="text-center py-12">
@@ -659,7 +707,7 @@ function App() {
             </h2>
             <div className="space-y-4">
               {mediaTweets.slice(0, displayLimit).map((tweet) => (
-                <TweetCard key={tweet.id_str} tweet={tweet} />
+                <TweetCard key={tweet.id_str} tweet={tweet} onTweetClick={handleTweetClick} />
               ))}
               {mediaTweets.length === 0 && (
                 <div className="text-center py-12">

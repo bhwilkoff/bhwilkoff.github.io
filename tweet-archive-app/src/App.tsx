@@ -49,6 +49,113 @@ function App() {
     localStorage.setItem('darkMode', darkMode.toString());
   }, [darkMode]);
 
+  // Helper function to update URL with current state
+  const updateURL = (tab: Tab, query: string, filters: typeof currentFilters) => {
+    const params = new URLSearchParams();
+
+    // Add tab
+    if (tab !== 'tweets') {
+      params.set('tab', tab);
+    }
+
+    // Add search query
+    if (query) {
+      params.set('q', query);
+    }
+
+    // Add filters
+    if (filters.dateFrom) {
+      params.set('from', filters.dateFrom);
+    }
+    if (filters.dateTo) {
+      params.set('to', filters.dateTo);
+    }
+    if (filters.hasMedia) {
+      params.set('media', 'true');
+    }
+    if (filters.hasLinks) {
+      params.set('links', 'true');
+    }
+    if (filters.mentionsOnly) {
+      params.set('mentions', 'true');
+    }
+
+    const newUrl = params.toString() ? `?${params.toString()}` : window.location.pathname;
+    window.history.pushState({}, '', newUrl);
+  };
+
+  // Restore state from URL on mount
+  useEffect(() => {
+    if (loading || allTweets.length === 0) return;
+
+    const params = new URLSearchParams(window.location.search);
+
+    const tab = params.get('tab') as Tab | null;
+    if (tab && ['tweets', 'analytics', 'media'].includes(tab)) {
+      setActiveTab(tab);
+    }
+
+    const query = params.get('q') || '';
+    const filters: typeof currentFilters = {};
+
+    if (params.has('from')) filters.dateFrom = params.get('from')!;
+    if (params.has('to')) filters.dateTo = params.get('to')!;
+    if (params.get('media') === 'true') filters.hasMedia = true;
+    if (params.get('links') === 'true') filters.hasLinks = true;
+    if (params.get('mentions') === 'true') filters.mentionsOnly = true;
+
+    const hasFilters = Object.keys(filters).length > 0;
+
+    if (query || hasFilters) {
+      setCurrentFilters(filters);
+      setCurrentQuery(query);
+
+      if (query) {
+        handleSearch(query, filters, true); // skipUrlUpdate = true
+      } else if (hasFilters) {
+        handleApplyFilters(filters, true); // skipUrlUpdate = true
+      }
+    }
+  }, [allTweets.length, loading]); // Run when tweets are loaded
+
+  // Handle browser back/forward navigation
+  useEffect(() => {
+    const handlePopState = () => {
+      const params = new URLSearchParams(window.location.search);
+
+      const tab = params.get('tab') as Tab | null;
+      if (tab && ['tweets', 'analytics', 'media'].includes(tab)) {
+        setActiveTab(tab);
+      } else {
+        setActiveTab('tweets');
+      }
+
+      const query = params.get('q') || '';
+      const filters: typeof currentFilters = {};
+
+      if (params.has('from')) filters.dateFrom = params.get('from')!;
+      if (params.has('to')) filters.dateTo = params.get('to')!;
+      if (params.get('media') === 'true') filters.hasMedia = true;
+      if (params.get('links') === 'true') filters.hasLinks = true;
+      if (params.get('mentions') === 'true') filters.mentionsOnly = true;
+
+      setCurrentQuery(query);
+      setCurrentFilters(filters);
+
+      if (query) {
+        handleSearch(query, filters, true); // skipUrlUpdate = true
+      } else if (Object.keys(filters).length > 0) {
+        handleApplyFilters(filters, true); // skipUrlUpdate = true
+      } else {
+        // No query or filters - show all tweets
+        setDisplayedTweets(allTweets);
+      }
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, [allTweets]);
+
   useEffect(() => {
     async function loadData() {
       try {
@@ -73,7 +180,7 @@ function App() {
         // Sort by date (newest first)
         tweets.sort(
           (a, b) =>
-            new Date(b.created_at).getTime() - new Date(a.created_at).getTime()
+            parseTwitterDate(b.created_at).getTime() - parseTwitterDate(a.created_at).getTime()
         );
 
         setAllTweets(tweets);
@@ -89,20 +196,29 @@ function App() {
     loadData();
   }, []);
 
-  const handleSearch = async (query: string) => {
+  const handleSearch = async (query: string, filters?: typeof currentFilters, skipUrlUpdate?: boolean) => {
     setLoading(true);
     setCurrentQuery(query);
     setDisplayLimit(50); // Reset to showing first 50
+
+    // Use provided filters or fall back to current state filters
+    const filtersToApply = filters !== undefined ? filters : currentFilters;
+
+    // Update URL unless we're restoring from URL
+    if (!skipUrlUpdate) {
+      updateURL(activeTab, query, filtersToApply);
+    }
+
     try {
       let results = query ? await searchTweets(query) : allTweets;
 
       // Apply filters
-      results = applyFilters(results, currentFilters);
+      results = applyFilters(results, filtersToApply);
 
       // Sort by date
       results.sort(
         (a, b) =>
-          new Date(b.created_at).getTime() - new Date(a.created_at).getTime()
+          parseTwitterDate(b.created_at).getTime() - parseTwitterDate(a.created_at).getTime()
       );
 
       setDisplayedTweets(results);
@@ -120,17 +236,19 @@ function App() {
   const handleHashtagClick = (hashtag: string) => {
     setActiveTab('tweets');
     // Clear filters when searching by hashtag
-    setCurrentFilters({});
+    const newFilters = {};
+    setCurrentFilters(newFilters);
     setCurrentQuery(`#${hashtag}`);
-    handleSearch(`#${hashtag}`);
+    handleSearch(`#${hashtag}`, newFilters);
   };
 
   const handleMentionClick = (mention: string) => {
     setActiveTab('tweets');
     // Clear filters when searching by mention
-    setCurrentFilters({});
+    const newFilters = {};
+    setCurrentFilters(newFilters);
     setCurrentQuery(`@${mention}`);
-    handleSearch(`@${mention}`);
+    handleSearch(`@${mention}`, newFilters);
   };
 
   const handleYearClick = (year: number) => {
@@ -152,7 +270,7 @@ function App() {
     if (filters.dateFrom) {
       const fromDate = new Date(filters.dateFrom);
       filtered = filtered.filter(
-        (tweet) => new Date(tweet.created_at) >= fromDate
+        (tweet) => parseTwitterDate(tweet.created_at) >= fromDate
       );
     }
 
@@ -160,7 +278,7 @@ function App() {
       const toDate = new Date(filters.dateTo);
       toDate.setHours(23, 59, 59, 999);
       filtered = filtered.filter(
-        (tweet) => new Date(tweet.created_at) <= toDate
+        (tweet) => parseTwitterDate(tweet.created_at) <= toDate
       );
     }
 
@@ -181,13 +299,19 @@ function App() {
     return filtered;
   };
 
-  const handleApplyFilters = (filters: typeof currentFilters) => {
+  const handleApplyFilters = (filters: typeof currentFilters, skipUrlUpdate?: boolean) => {
     setCurrentFilters(filters);
+
+    // Update URL unless we're restoring from URL
+    if (!skipUrlUpdate) {
+      updateURL(activeTab, currentQuery, filters);
+    }
+
     let results = applyFilters(allTweets, filters);
 
     results.sort(
       (a, b) =>
-        new Date(b.created_at).getTime() - new Date(a.created_at).getTime()
+        parseTwitterDate(b.created_at).getTime() - parseTwitterDate(a.created_at).getTime()
     );
 
     setDisplayedTweets(results);
@@ -243,7 +367,10 @@ function App() {
           {/* Tabs */}
           <div className="flex gap-2 border-b border-gray-200 dark:border-gray-700">
             <button
-              onClick={() => setActiveTab('tweets')}
+              onClick={() => {
+                setActiveTab('tweets');
+                updateURL('tweets', currentQuery, currentFilters);
+              }}
               className={`px-4 py-2 font-medium transition-colors flex items-center gap-2 ${
                 activeTab === 'tweets'
                   ? 'text-blue-500 border-b-2 border-blue-500'
@@ -254,7 +381,10 @@ function App() {
               All Tweets
             </button>
             <button
-              onClick={() => setActiveTab('analytics')}
+              onClick={() => {
+                setActiveTab('analytics');
+                updateURL('analytics', currentQuery, currentFilters);
+              }}
               className={`px-4 py-2 font-medium transition-colors flex items-center gap-2 ${
                 activeTab === 'analytics'
                   ? 'text-blue-500 border-b-2 border-blue-500'
@@ -265,7 +395,10 @@ function App() {
               Analytics
             </button>
             <button
-              onClick={() => setActiveTab('media')}
+              onClick={() => {
+                setActiveTab('media');
+                updateURL('media', currentQuery, currentFilters);
+              }}
               className={`px-4 py-2 font-medium transition-colors flex items-center gap-2 ${
                 activeTab === 'media'
                   ? 'text-blue-500 border-b-2 border-blue-500'

@@ -40,6 +40,54 @@ export function FilterPanel({ onApplyFilters, onClearFilters }: FilterPanelProps
     onClearFilters();
   };
 
+  const setDateRange = (from: string, to: string) => {
+    setDateFrom(from);
+    setDateTo(to);
+  };
+
+  const getCurrentYear = () => new Date().getFullYear();
+
+  const quickRanges = [
+    {
+      label: 'This Month',
+      getValue: () => {
+        const now = new Date();
+        const firstDay = new Date(now.getFullYear(), now.getMonth(), 1);
+        const lastDay = new Date(now.getFullYear(), now.getMonth() + 1, 0);
+        return {
+          from: firstDay.toISOString().split('T')[0],
+          to: lastDay.toISOString().split('T')[0],
+        };
+      },
+    },
+    {
+      label: 'Last Month',
+      getValue: () => {
+        const now = new Date();
+        const firstDay = new Date(now.getFullYear(), now.getMonth() - 1, 1);
+        const lastDay = new Date(now.getFullYear(), now.getMonth(), 0);
+        return {
+          from: firstDay.toISOString().split('T')[0],
+          to: lastDay.toISOString().split('T')[0],
+        };
+      },
+    },
+    {
+      label: 'This Year',
+      getValue: () => ({
+        from: `${getCurrentYear()}-01-01`,
+        to: `${getCurrentYear()}-12-31`,
+      }),
+    },
+    {
+      label: 'Last Year',
+      getValue: () => ({
+        from: `${getCurrentYear() - 1}-01-01`,
+        to: `${getCurrentYear() - 1}-12-31`,
+      }),
+    },
+  ];
+
   return (
     <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6 space-y-6">
       <div className="flex items-center justify-between">
@@ -61,6 +109,23 @@ export function FilterPanel({ onApplyFilters, onClearFilters }: FilterPanelProps
           <Calendar className="w-4 h-4" />
           Date Range
         </label>
+
+        {/* Quick Range Buttons */}
+        <div className="grid grid-cols-2 gap-2">
+          {quickRanges.map((range) => (
+            <button
+              key={range.label}
+              onClick={() => {
+                const { from, to } = range.getValue();
+                setDateRange(from, to);
+              }}
+              className="px-3 py-1.5 text-xs bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors"
+            >
+              {range.label}
+            </button>
+          ))}
+        </div>
+
         <div className="grid grid-cols-2 gap-3">
           <div>
             <label className="text-xs text-gray-500 dark:text-gray-400 mb-1 block">

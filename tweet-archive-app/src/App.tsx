@@ -11,6 +11,7 @@ import { TweetCard } from './components/TweetCard';
 import { SearchBar } from './components/SearchBar';
 import { FilterPanel } from './components/FilterPanel';
 import { StatsDashboard } from './components/StatsDashboard';
+import { EnhancedAnalytics } from './components/EnhancedAnalytics';
 import { hasMedia, hasLinks, parseTwitterDate } from './lib/utils';
 
 type Tab = 'tweets' | 'analytics' | 'media';
@@ -600,12 +601,15 @@ function App() {
         )}
 
         {activeTab === 'analytics' && (
-          <StatsDashboard
-            tweets={allTweets}
-            onHashtagClick={handleHashtagClick}
-            onMentionClick={handleMentionClick}
-            onYearClick={handleYearClick}
-          />
+          <div className="space-y-8">
+            <StatsDashboard
+              tweets={allTweets}
+              onHashtagClick={handleHashtagClick}
+              onMentionClick={handleMentionClick}
+              onYearClick={handleYearClick}
+            />
+            <EnhancedAnalytics tweets={allTweets} />
+          </div>
         )}
 
         {activeTab === 'media' && (

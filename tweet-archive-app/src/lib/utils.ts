@@ -93,6 +93,35 @@ export function isRetweet(tweet: Tweet): boolean {
   return text.startsWith('RT @');
 }
 
+// Extract device/source from HTML source field
+export function parseSource(sourceHtml: string): string {
+  const match = sourceHtml.match(/>([^<]+)<\/a>/);
+  return match ? match[1] : 'Unknown';
+}
+
+// Extract hour from tweet timestamp
+export function getTweetHour(tweet: Tweet): number {
+  const date = parseTwitterDate(tweet.created_at);
+  return date.getHours();
+}
+
+// Get engagement score (retweets + favorites)
+export function getEngagement(tweet: Tweet): number {
+  const retweets = tweet.retweet_count || 0;
+  const favorites = tweet.favorite_count || 0;
+  return retweets + favorites;
+}
+
+// Extract domain from URL
+export function extractDomain(url: string): string {
+  try {
+    const urlObj = new URL(url);
+    return urlObj.hostname.replace('www.', '');
+  } catch {
+    return 'invalid-url';
+  }
+}
+
 // Parse the tweet text and make URLs, mentions, and hashtags clickable
 export function enrichTweetText(tweet: Tweet): string {
   let text = tweet.full_text || tweet.text || '';

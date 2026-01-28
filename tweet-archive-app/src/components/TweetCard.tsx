@@ -69,13 +69,23 @@ export function TweetCard({ tweet }: TweetCardProps) {
           }`}
         >
           {mediaUrls.map((url, index) => (
-            <img
-              key={index}
-              src={url}
-              alt={`Media ${index + 1}`}
-              className="rounded-lg w-full h-auto object-contain max-h-[500px] bg-gray-100 dark:bg-gray-900"
-              loading="lazy"
-            />
+            <div key={index} className="relative bg-gray-100 dark:bg-gray-900 rounded-lg overflow-hidden">
+              <img
+                src={url}
+                alt={`Media ${index + 1}`}
+                className="rounded-lg w-full h-auto object-contain max-h-[500px]"
+                loading="lazy"
+                onError={(e) => {
+                  // Hide broken images
+                  e.currentTarget.style.display = 'none';
+                  // Show placeholder
+                  const parent = e.currentTarget.parentElement;
+                  if (parent) {
+                    parent.innerHTML = '<div class="flex items-center justify-center h-48 text-gray-400 dark:text-gray-600 text-sm">Image no longer available</div>';
+                  }
+                }}
+              />
+            </div>
           ))}
         </div>
       )}

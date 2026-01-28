@@ -14,7 +14,10 @@ export function TweetCard({ tweet }: TweetCardProps) {
                           'https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png';
 
   return (
-    <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-4 hover:shadow-md transition-shadow">
+    <div
+      id={`tweet-${tweet.id_str}`}
+      className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-4 hover:shadow-md transition-shadow"
+    >
       {/* Header */}
       <div className="flex items-start mb-3">
         <div className="flex items-start gap-3 flex-1">

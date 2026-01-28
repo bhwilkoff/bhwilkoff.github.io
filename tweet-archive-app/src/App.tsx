@@ -286,6 +286,40 @@ function App() {
     handleApplyFilters({ dateFrom: yearStart, dateTo: yearEnd });
   };
 
+  const handleSourceClick = (source: string) => {
+    setActiveTab('tweets');
+    setCurrentFilters({});
+    setCurrentQuery(source);
+    handleSearch(source, {});
+  };
+
+  const handleDomainClick = (domain: string) => {
+    setActiveTab('tweets');
+    setCurrentFilters({});
+    setCurrentQuery(domain);
+    handleSearch(domain, {});
+  };
+
+  const handleTweetClick = (tweetId: string) => {
+    setActiveTab('tweets');
+    // Update URL with tweet ID
+    const params = new URLSearchParams(window.location.search);
+    params.set('tweet', tweetId);
+    window.history.pushState({}, '', `?${params.toString()}`);
+
+    // Scroll to tweet
+    setTimeout(() => {
+      const element = document.getElementById(`tweet-${tweetId}`);
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        element.classList.add('ring-2', 'ring-blue-500', 'ring-offset-2');
+        setTimeout(() => {
+          element.classList.remove('ring-2', 'ring-blue-500', 'ring-offset-2');
+        }, 3000);
+      }
+    }, 100);
+  };
+
   const applyFilters = (
     tweets: Tweet[],
     filters: typeof currentFilters
@@ -592,6 +626,7 @@ function App() {
                     <FilterPanel
                       onApplyFilters={handleApplyFilters}
                       onClearFilters={handleClearFilters}
+                      tweets={allTweets}
                     />
                   </div>
                 </div>
@@ -608,7 +643,12 @@ function App() {
               onMentionClick={handleMentionClick}
               onYearClick={handleYearClick}
             />
-            <EnhancedAnalytics tweets={allTweets} />
+            <EnhancedAnalytics
+              tweets={allTweets}
+              onSourceClick={handleSourceClick}
+              onDomainClick={handleDomainClick}
+              onTweetClick={handleTweetClick}
+            />
           </div>
         )}
 

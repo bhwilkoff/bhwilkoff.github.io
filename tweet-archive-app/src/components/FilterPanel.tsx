@@ -1,5 +1,7 @@
 import { Calendar, Image, Link as LinkIcon, AtSign, X } from 'lucide-react';
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
+import { parseTwitterDate } from '../lib/utils';
+import type { Tweet } from '../types/tweet';
 
 interface FilterOptions {
   dateFrom?: string;
@@ -12,14 +14,42 @@ interface FilterOptions {
 interface FilterPanelProps {
   onApplyFilters: (filters: FilterOptions) => void;
   onClearFilters: () => void;
+  tweets?: Tweet[];
 }
 
-export function FilterPanel({ onApplyFilters, onClearFilters }: FilterPanelProps) {
+export function FilterPanel({ onApplyFilters, onClearFilters, tweets = [] }: FilterPanelProps) {
   const [dateFrom, setDateFrom] = useState('');
   const [dateTo, setDateTo] = useState('');
   const [hasMedia, setHasMedia] = useState(false);
   const [hasLinks, setHasLinks] = useState(false);
   const [mentionsOnly, setMentionsOnly] = useState(false);
+
+  // Generate list of available months from tweets
+  const availableMonths = useMemo(() => {
+    if (!tweets.length) return [];
+
+    const monthsSet = new Set<string>();
+    tweets.forEach(tweet => {
+      const date = parseTwitterDate(tweet.created_at);
+      const monthKey = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+      monthsSet.add(monthKey);
+    });
+
+    return Array.from(monthsSet).sort().reverse(); // Most recent first
+  }, [tweets]);
+
+  // Generate list of available years
+  const availableYears = useMemo(() => {
+    if (!tweets.length) return [];
+
+    const yearsSet = new Set<number>();
+    tweets.forEach(tweet => {
+      const date = parseTwitterDate(tweet.created_at);
+      yearsSet.add(date.getFullYear());
+    });
+
+    return Array.from(yearsSet).sort().reverse(); // Most recent first
+  }, [tweets]);
 
   const handleApply = () => {
     onApplyFilters({
@@ -40,53 +70,18 @@ export function FilterPanel({ onApplyFilters, onClearFilters }: FilterPanelProps
     onClearFilters();
   };
 
-  const setDateRange = (from: string, to: string) => {
-    setDateFrom(from);
-    setDateTo(to);
+  const handleMonthSelect = (monthKey: string) => {
+    const [year, month] = monthKey.split('-');
+    const firstDay = new Date(parseInt(year), parseInt(month) - 1, 1);
+    const lastDay = new Date(parseInt(year), parseInt(month), 0);
+    setDateFrom(firstDay.toISOString().split('T')[0]);
+    setDateTo(lastDay.toISOString().split('T')[0]);
   };
 
-  const getCurrentYear = () => new Date().getFullYear();
-
-  const quickRanges = [
-    {
-      label: 'This Month',
-      getValue: () => {
-        const now = new Date();
-        const firstDay = new Date(now.getFullYear(), now.getMonth(), 1);
-        const lastDay = new Date(now.getFullYear(), now.getMonth() + 1, 0);
-        return {
-          from: firstDay.toISOString().split('T')[0],
-          to: lastDay.toISOString().split('T')[0],
-        };
-      },
-    },
-    {
-      label: 'Last Month',
-      getValue: () => {
-        const now = new Date();
-        const firstDay = new Date(now.getFullYear(), now.getMonth() - 1, 1);
-        const lastDay = new Date(now.getFullYear(), now.getMonth(), 0);
-        return {
-          from: firstDay.toISOString().split('T')[0],
-          to: lastDay.toISOString().split('T')[0],
-        };
-      },
-    },
-    {
-      label: 'This Year',
-      getValue: () => ({
-        from: `${getCurrentYear()}-01-01`,
-        to: `${getCurrentYear()}-12-31`,
-      }),
-    },
-    {
-      label: 'Last Year',
-      getValue: () => ({
-        from: `${getCurrentYear() - 1}-01-01`,
-        to: `${getCurrentYear() - 1}-12-31`,
-      }),
-    },
-  ];
+  const handleYearSelect = (year: number) => {
+    setDateFrom(`${year}-01-01`);
+    setDateTo(`${year}-12-31`);
+  };
 
   return (
     <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6 space-y-6">
@@ -110,21 +105,50 @@ export function FilterPanel({ onApplyFilters, onClearFilters }: FilterPanelProps
           Date Range
         </label>
 
-        {/* Quick Range Buttons */}
-        <div className="grid grid-cols-2 gap-2">
-          {quickRanges.map((range) => (
-            <button
-              key={range.label}
-              onClick={() => {
-                const { from, to } = range.getValue();
-                setDateRange(from, to);
-              }}
-              className="px-3 py-1.5 text-xs bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors"
-            >
-              {range.label}
-            </button>
-          ))}
-        </div>
+        {/* Month and Year Selectors */}
+        {tweets && tweets.length > 0 && (
+          <div className="space-y-2">
+            <div>
+              <label className="text-xs text-gray-500 dark:text-gray-400 mb-1 block">
+                Select Month
+              </label>
+              <select
+                onChange={(e) => handleMonthSelect(e.target.value)}
+                className="w-full px-3 py-2 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                defaultValue=""
+              >
+                <option value="">Choose a month...</option>
+                {availableMonths.map((monthKey) => {
+                  const [year, month] = monthKey.split('-');
+                  const monthName = new Date(parseInt(year), parseInt(month) - 1).toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+                  return (
+                    <option key={monthKey} value={monthKey}>
+                      {monthName}
+                    </option>
+                  );
+                })}
+              </select>
+            </div>
+
+            <div>
+              <label className="text-xs text-gray-500 dark:text-gray-400 mb-1 block">
+                Select Year
+              </label>
+              <select
+                onChange={(e) => handleYearSelect(parseInt(e.target.value))}
+                className="w-full px-3 py-2 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                defaultValue=""
+              >
+                <option value="">Choose a year...</option>
+                {availableYears.map((year) => (
+                  <option key={year} value={year}>
+                    {year}
+                  </option>
+                ))}
+              </select>
+            </div>
+          </div>
+        )}
 
         <div className="grid grid-cols-2 gap-3">
           <div>

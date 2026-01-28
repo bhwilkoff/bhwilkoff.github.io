@@ -2,6 +2,7 @@ import { format, formatDistanceToNow, parseISO } from 'date-fns';
 import type { Tweet } from '../types/tweet';
 
 // Parse Twitter's date format: "Mon Apr 25 15:25:57 +0000 2022"
+// Also handles older SQL format: "2007-03-21 00:00:00 +0000"
 // Safari is strict about date formats, so we need to convert to ISO format
 function parseTwitterDate(dateString: string): Date {
   // Try ISO format first (for compatibility)
@@ -11,7 +12,14 @@ function parseTwitterDate(dateString: string): Date {
       return isoDate;
     }
   } catch (e) {
-    // Fall through to Twitter format
+    // Fall through to other formats
+  }
+
+  // Check if it's SQL datetime format: "2007-03-21 00:00:00 +0000"
+  if (dateString.match(/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}/)) {
+    // Replace space with 'T' and add 'Z' for UTC: "2007-03-21T00:00:00Z"
+    const isoString = dateString.replace(' +0000', 'Z').replace(' ', 'T');
+    return new Date(isoString);
   }
 
   // Parse Twitter format - Safari-compatible approach
@@ -35,7 +43,8 @@ function parseTwitterDate(dateString: string): Date {
     }
   }
 
-  // Fallback
+  // Fallback - this might still fail in Safari
+  console.warn('Failed to parse date:', dateString);
   return new Date(dateString);
 }
 

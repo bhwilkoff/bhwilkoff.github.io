@@ -41,10 +41,16 @@ export function StatsDashboard({ tweets, onHashtagClick, onMentionClick, onYearC
     responsive: true,
     maintainAspectRatio: false,
     onClick: (_event: any, elements: any[]) => {
-      if (elements.length > 0 && onYearClick) {
-        const index = elements[0].index;
-        const year = stats.tweetsByYear[index].year;
-        onYearClick(year);
+      if (elements && elements.length > 0 && onYearClick) {
+        try {
+          const index = elements[0].index;
+          const year = stats.tweetsByYear[index]?.year;
+          if (year && !isNaN(year)) {
+            onYearClick(year);
+          }
+        } catch (error) {
+          console.error('Error handling chart click:', error);
+        }
       }
     },
     plugins: {
@@ -53,11 +59,17 @@ export function StatsDashboard({ tweets, onHashtagClick, onMentionClick, onYearC
       },
       title: {
         display: true,
-        text: 'Tweet Activity Timeline (Click to filter by year)',
+        text: 'Tweet Activity Timeline (Click bars to filter by year)',
         color: '#374151',
         font: {
           size: 16,
           weight: 'bold' as const,
+        },
+      },
+      tooltip: {
+        enabled: true,
+        callbacks: {
+          footer: () => 'Click to filter by this year',
         },
       },
     },
@@ -68,6 +80,10 @@ export function StatsDashboard({ tweets, onHashtagClick, onMentionClick, onYearC
           precision: 0,
         },
       },
+    },
+    interaction: {
+      mode: 'nearest' as const,
+      intersect: true,
     },
   };
 

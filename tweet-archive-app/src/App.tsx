@@ -327,7 +327,8 @@ function App() {
 
   const mediaTweets = allTweets.filter((tweet) => hasMedia(tweet));
 
-  if (loading) {
+  // Only show full-page loading screen on initial data load (when no tweets loaded yet)
+  if (loading && allTweets.length === 0) {
     return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900 flex items-center justify-center">
         <div className="text-center">
@@ -539,28 +540,36 @@ function App() {
 
             <div className="grid lg:grid-cols-4 gap-6">
               <div className="lg:col-span-3">
-                <div className="space-y-4">
-                  {displayedTweets.slice(0, displayLimit).map((tweet) => (
-                    <TweetCard key={tweet.id_str} tweet={tweet} />
-                  ))}
-                  {displayedTweets.length === 0 && (
-                    <div className="text-center py-12">
-                      <p className="text-gray-500 dark:text-gray-400">
-                        No tweets found matching your criteria.
-                      </p>
-                    </div>
-                  )}
-                  {displayedTweets.length > displayLimit && (
-                    <div className="text-center py-8">
-                      <button
-                        onClick={handleLoadMore}
-                        className="px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors font-medium"
-                      >
-                        Load More ({displayedTweets.length - displayLimit} remaining)
-                      </button>
-                    </div>
-                  )}
-                </div>
+                {loading && allTweets.length > 0 && (
+                  <div className="flex items-center justify-center py-8">
+                    <Loader2 className="w-6 h-6 text-blue-500 animate-spin mr-2" />
+                    <p className="text-gray-600 dark:text-gray-400">Loading tweets...</p>
+                  </div>
+                )}
+                {!loading && (
+                  <div className="space-y-4">
+                    {displayedTweets.slice(0, displayLimit).map((tweet) => (
+                      <TweetCard key={tweet.id_str} tweet={tweet} />
+                    ))}
+                    {displayedTweets.length === 0 && (
+                      <div className="text-center py-12">
+                        <p className="text-gray-500 dark:text-gray-400">
+                          No tweets found matching your criteria.
+                        </p>
+                      </div>
+                    )}
+                    {displayedTweets.length > displayLimit && (
+                      <div className="text-center py-8">
+                        <button
+                          onClick={handleLoadMore}
+                          className="px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors font-medium"
+                        >
+                          Load More ({displayedTweets.length - displayLimit} remaining)
+                        </button>
+                      </div>
+                    )}
+                  </div>
+                )}
               </div>
 
               {showFilters && (

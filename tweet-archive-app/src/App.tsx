@@ -103,12 +103,15 @@ function App() {
 
     const hasFilters = Object.keys(filters).length > 0;
 
-    // Handle individual tweet permalink
+    // Handle individual tweet permalink - show only this tweet
     if (tweetId) {
       setActiveTab('tweets');
       setCurrentQuery('');
       setCurrentFilters({});
-      setDisplayedTweets(allTweets);
+
+      // Show only the specific tweet
+      const singleTweet = allTweets.filter(t => t.id_str === tweetId);
+      setDisplayedTweets(singleTweet);
 
       // Scroll to tweet after render
       setTimeout(() => {
@@ -370,8 +373,9 @@ function App() {
     setCurrentFilters({});
     setCurrentQuery('');
 
-    // Clear any filters and show all tweets
-    setDisplayedTweets(allTweets);
+    // Show only the specific tweet
+    const singleTweet = allTweets.filter(t => t.id_str === tweetId);
+    setDisplayedTweets(singleTweet);
 
     // Update URL with tweet ID
     const params = new URLSearchParams();

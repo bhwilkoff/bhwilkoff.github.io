@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Moon, Sun, BarChart3, Grid, List, Loader2, X } from 'lucide-react';
+import { Moon, Sun, BarChart3, Grid, List, Loader2, X, Clock } from 'lucide-react';
 import type { Tweet, UserDetails } from './types/tweet';
 import {
   loadTweetsFromJSON,
@@ -12,9 +12,10 @@ import { SearchBar } from './components/SearchBar';
 import { FilterPanel } from './components/FilterPanel';
 import { StatsDashboard } from './components/StatsDashboard';
 import { EnhancedAnalytics } from './components/EnhancedAnalytics';
+import { Timeline } from './components/Timeline';
 import { hasMedia, hasLinks, parseTwitterDate } from './lib/utils';
 
-type Tab = 'tweets' | 'analytics' | 'media';
+type Tab = 'tweets' | 'analytics' | 'media' | 'timeline';
 
 function App() {
   const [loading, setLoading] = useState(true);
@@ -90,6 +91,7 @@ function App() {
     const params = new URLSearchParams(window.location.search);
     const query = params.get('q') || '';
     const tab = params.get('tab') as Tab | null;
+    const tweetId = params.get('tweet');
 
     const filters: typeof currentFilters = {};
 
@@ -100,6 +102,27 @@ function App() {
     if (params.get('mentions') === 'true') filters.mentionsOnly = true;
 
     const hasFilters = Object.keys(filters).length > 0;
+
+    // Handle individual tweet permalink
+    if (tweetId) {
+      setActiveTab('tweets');
+      setCurrentQuery('');
+      setCurrentFilters({});
+      setDisplayedTweets(allTweets);
+
+      // Scroll to tweet after render
+      setTimeout(() => {
+        const element = document.getElementById(`tweet-${tweetId}`);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          element.classList.add('ring-2', 'ring-blue-500', 'ring-offset-2');
+          setTimeout(() => {
+            element.classList.remove('ring-2', 'ring-blue-500', 'ring-offset-2');
+          }, 3000);
+        }
+      }, 100);
+      return;
+    }
 
     // If there's a query, ALWAYS show tweets tab (ignore tab param to prevent flashing)
     if (query) {
@@ -113,7 +136,7 @@ function App() {
       setCurrentFilters(filters);
       setCurrentQuery('');
       handleApplyFilters(filters, true); // skipUrlUpdate = true
-    } else if (tab && ['tweets', 'analytics', 'media'].includes(tab)) {
+    } else if (tab && ['tweets', 'analytics', 'media', 'timeline'].includes(tab)) {
       // No query or filters - honor the tab parameter
       setActiveTab(tab);
     }
@@ -144,7 +167,7 @@ function App() {
       } else if (Object.keys(filters).length > 0) {
         setActiveTab('tweets');
         handleApplyFilters(filters, true); // skipUrlUpdate = true
-      } else if (tab && ['tweets', 'analytics', 'media'].includes(tab)) {
+      } else if (tab && ['tweets', 'analytics', 'media', 'timeline'].includes(tab)) {
         // No query or filters - honor the tab parameter
         setActiveTab(tab);
         setDisplayedTweets(allTweets);
@@ -520,6 +543,22 @@ function App() {
               <Grid className="w-4 h-4" />
               Media ({mediaTweets.length})
             </button>
+            <button
+              onClick={() => {
+                setActiveTab('timeline');
+                setCurrentQuery('');
+                setCurrentFilters({});
+                updateURL('timeline', '', {});
+              }}
+              className={`px-4 py-2 font-medium transition-colors flex items-center gap-2 ${
+                activeTab === 'timeline'
+                  ? 'text-blue-500 border-b-2 border-blue-500'
+                  : 'text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white'
+              }`}
+            >
+              <Clock className="w-4 h-4" />
+              Timeline
+            </button>
           </div>
         </div>
       </header>
@@ -728,6 +767,10 @@ function App() {
               )}
             </div>
           </div>
+        )}
+
+        {activeTab === 'timeline' && (
+          <Timeline tweets={allTweets} onTweetClick={handleTweetClick} />
         )}
       </main>
     </div>

@@ -79,6 +79,77 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
     return items;
   }, [tweets, viewportStart, viewportEnd]);
 
+  // Get appropriate scale markers based on zoom level
+  const getScaleMarkers = useMemo(() => {
+    const markers: Array<{ date: Date; label: string; type: 'major' | 'minor' }> = [];
+
+    if (zoomLevel >= 365) {
+      // Show years
+      for (let year = dateRange.start.getFullYear(); year <= dateRange.end.getFullYear(); year++) {
+        markers.push({
+          date: new Date(year, 0, 1),
+          label: year.toString(),
+          type: 'major'
+        });
+      }
+    } else if (zoomLevel >= 90) {
+      // Show months
+      const startDate = new Date(viewportStart);
+      startDate.setDate(1);
+      const endDate = new Date(viewportEnd);
+
+      let currentDate = new Date(startDate);
+      while (currentDate <= endDate) {
+        markers.push({
+          date: new Date(currentDate),
+          label: currentDate.toLocaleDateString('en-US', { month: 'short', year: 'numeric' }),
+          type: currentDate.getMonth() === 0 ? 'major' : 'minor'
+        });
+        currentDate.setMonth(currentDate.getMonth() + 1);
+      }
+    } else if (zoomLevel >= 30) {
+      // Show weeks
+      const startDate = new Date(viewportStart);
+      const endDate = new Date(viewportEnd);
+
+      let currentDate = new Date(startDate);
+      currentDate.setDate(currentDate.getDate() - currentDate.getDay()); // Start of week
+
+      let weekNum = 0;
+      while (currentDate <= endDate) {
+        const isMonthStart = currentDate.getDate() <= 7;
+        markers.push({
+          date: new Date(currentDate),
+          label: isMonthStart
+            ? currentDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
+            : currentDate.toLocaleDateString('en-US', { day: 'numeric' }),
+          type: isMonthStart ? 'major' : 'minor'
+        });
+        currentDate.setDate(currentDate.getDate() + 7);
+        weekNum++;
+      }
+    } else {
+      // Show days
+      const startDate = new Date(viewportStart);
+      const endDate = new Date(viewportEnd);
+
+      let currentDate = new Date(startDate);
+      while (currentDate <= endDate) {
+        const isMonthStart = currentDate.getDate() === 1;
+        markers.push({
+          date: new Date(currentDate),
+          label: isMonthStart
+            ? currentDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
+            : currentDate.toLocaleDateString('en-US', { day: 'numeric' }),
+          type: isMonthStart ? 'major' : 'minor'
+        });
+        currentDate.setDate(currentDate.getDate() + 1);
+      }
+    }
+
+    return markers;
+  }, [zoomLevel, viewportStart, viewportEnd, dateRange.start, dateRange.end]);
+
   // Calculate position on timeline (0-100%)
   const getPositionPercent = (date: Date): number => {
     const totalRange = dateRange.end.getTime() - dateRange.start.getTime();
@@ -295,21 +366,20 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
               }}
             ></div>
 
-            {/* Year markers */}
-            {Array.from({ length: dateRange.end.getFullYear() - dateRange.start.getFullYear() + 1 }, (_, i) => {
-              const year = dateRange.start.getFullYear() + i;
-              const yearDate = new Date(year, 0, 1);
-              const position = getPositionPercent(yearDate);
+            {/* Dynamic scale markers */}
+            {getScaleMarkers.map((marker, idx) => {
+              const position = getPositionPercent(marker.date);
+              const isMajor = marker.type === 'major';
 
               return (
                 <div
-                  key={year}
-                  className="absolute top-0 bottom-0 flex flex-col items-center justify-center"
+                  key={`marker-${idx}`}
+                  className="absolute top-0 bottom-0 flex flex-col items-center justify-center pointer-events-none"
                   style={{ left: `${position}%` }}
                 >
-                  <div className="w-px h-full bg-gray-400 dark:bg-gray-600"></div>
-                  <div className="absolute -bottom-5 text-xs font-medium text-gray-600 dark:text-gray-400">
-                    {year}
+                  <div className={`w-px h-full ${isMajor ? 'bg-gray-400 dark:bg-gray-600' : 'bg-gray-300 dark:bg-gray-700'}`}></div>
+                  <div className={`absolute -bottom-5 text-xs ${isMajor ? 'font-semibold' : 'font-normal'} text-gray-600 dark:text-gray-400 whitespace-nowrap`}>
+                    {marker.label}
                   </div>
                 </div>
               );
@@ -432,34 +502,57 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
               gray: 'bg-gray-50 dark:bg-gray-900/20 border-gray-200 dark:border-gray-800'
             };
 
+            const EventContent = (
+              <div className="flex items-start gap-3">
+                <Globe className="w-5 h-5 mt-0.5 flex-shrink-0 text-gray-600 dark:text-gray-400" />
+                <div className="flex-1">
+                  <div className="flex items-center gap-2 mb-1">
+                    <span className="text-xs font-medium uppercase tracking-wide text-gray-600 dark:text-gray-400">
+                      {event.category}
+                    </span>
+                    <span className="text-xs text-gray-500 dark:text-gray-500">
+                      {new Date(event.date).toLocaleDateString('en-US', {
+                        month: 'short',
+                        day: 'numeric',
+                        year: 'numeric'
+                      })}
+                    </span>
+                    {event.wikipedia && (
+                      <span className="text-xs text-blue-500 dark:text-blue-400">
+                        → Wikipedia
+                      </span>
+                    )}
+                  </div>
+                  <h3 className="font-semibold text-gray-900 dark:text-white mb-1">
+                    {event.title}
+                  </h3>
+                  <p className="text-sm text-gray-700 dark:text-gray-300">
+                    {event.description}
+                  </p>
+                </div>
+              </div>
+            );
+
+            if (event.wikipedia) {
+              return (
+                <a
+                  key={`item-${index}`}
+                  href={event.wikipedia}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={`block rounded-lg border-l-4 p-4 ${colorClasses[color as keyof typeof colorClasses]} hover:shadow-md transition-shadow cursor-pointer`}
+                >
+                  {EventContent}
+                </a>
+              );
+            }
+
             return (
               <div
                 key={`item-${index}`}
                 className={`rounded-lg border-l-4 p-4 ${colorClasses[color as keyof typeof colorClasses]}`}
               >
-                <div className="flex items-start gap-3">
-                  <Globe className="w-5 h-5 mt-0.5 flex-shrink-0 text-gray-600 dark:text-gray-400" />
-                  <div className="flex-1">
-                    <div className="flex items-center gap-2 mb-1">
-                      <span className="text-xs font-medium uppercase tracking-wide text-gray-600 dark:text-gray-400">
-                        {event.category}
-                      </span>
-                      <span className="text-xs text-gray-500 dark:text-gray-500">
-                        {new Date(event.date).toLocaleDateString('en-US', {
-                          month: 'short',
-                          day: 'numeric',
-                          year: 'numeric'
-                        })}
-                      </span>
-                    </div>
-                    <h3 className="font-semibold text-gray-900 dark:text-white mb-1">
-                      {event.title}
-                    </h3>
-                    <p className="text-sm text-gray-700 dark:text-gray-300">
-                      {event.description}
-                    </p>
-                  </div>
-                </div>
+                {EventContent}
               </div>
             );
           } else {

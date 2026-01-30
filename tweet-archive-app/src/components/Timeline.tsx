@@ -22,7 +22,9 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
   const [isDragging, setIsDragging] = useState(false);
   const [dragStart, setDragStart] = useState(0);
   const timelineRef = useRef<HTMLDivElement>(null);
+  const scrollContainerRef = useRef<HTMLDivElement>(null);
   const [zoomLevel, setZoomLevel] = useState(30); // days to show
+  const [scrollPosition, setScrollPosition] = useState(0);
 
   // Calculate date range of all tweets
   const dateRange = useMemo(() => {
@@ -35,17 +37,43 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
     return { start: minDate, end: maxDate };
   }, [tweets]);
 
+  // Calculate total days in timeline
+  const totalDays = useMemo(() => {
+    const msPerDay = 1000 * 60 * 60 * 24;
+    return Math.ceil((dateRange.end.getTime() - dateRange.start.getTime()) / msPerDay);
+  }, [dateRange]);
+
+  // Calculate pixels per day based on zoom level
+  // More zoom = more pixels per day = wider timeline
+  const pixelsPerDay = useMemo(() => {
+    // At zoom level 7 (max zoom), use 150 pixels per day
+    // At zoom level 365 (min zoom), use 3 pixels per day
+    const maxZoom = 7;
+    const minZoom = 365;
+    const maxPixels = 150;
+    const minPixels = 3;
+
+    // Linear interpolation
+    const zoomRatio = (zoomLevel - minZoom) / (maxZoom - minZoom);
+    return minPixels + (maxPixels - minPixels) * (1 - zoomRatio);
+  }, [zoomLevel]);
+
+  // Calculate total timeline width in pixels
+  const timelineWidth = useMemo(() => {
+    return totalDays * pixelsPerDay;
+  }, [totalDays, pixelsPerDay]);
+
   // Initialize viewport to most recent tweets
   useEffect(() => {
-    if (tweets.length > 0) {
-      const endDate = dateRange.end;
-      const startDate = new Date(endDate);
-      startDate.setDate(startDate.getDate() - zoomLevel);
-
-      setViewportEnd(endDate);
-      setViewportStart(startDate);
+    if (tweets.length > 0 && scrollContainerRef.current) {
+      // Scroll to the end (most recent)
+      setTimeout(() => {
+        if (scrollContainerRef.current) {
+          scrollContainerRef.current.scrollLeft = timelineWidth;
+        }
+      }, 100);
     }
-  }, [tweets.length, dateRange.end]);
+  }, [tweets.length, timelineWidth]);
 
   // Combine tweets and events into timeline items
   const timelineItems = useMemo(() => {
@@ -150,7 +178,14 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
     return markers;
   }, [zoomLevel, viewportStart, viewportEnd, dateRange.start, dateRange.end]);
 
-  // Calculate position on timeline (0-100%)
+  // Calculate position on timeline in pixels
+  const getPositionPixels = (date: Date): number => {
+    const msPerDay = 1000 * 60 * 60 * 24;
+    const daysFromStart = (date.getTime() - dateRange.start.getTime()) / msPerDay;
+    return daysFromStart * pixelsPerDay;
+  };
+
+  // Calculate position percentage for viewport indicator on mini timeline
   const getPositionPercent = (date: Date): number => {
     const totalRange = dateRange.end.getTime() - dateRange.start.getTime();
     const position = date.getTime() - dateRange.start.getTime();
@@ -159,20 +194,16 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
 
   // Navigate timeline
   const navigateByDays = (days: number) => {
-    const newStart = new Date(viewportStart);
-    newStart.setDate(newStart.getDate() + days);
-    const newEnd = new Date(viewportEnd);
-    newEnd.setDate(newEnd.getDate() + days);
+    if (!scrollContainerRef.current) return;
 
-    // Keep within bounds
-    if (newStart >= dateRange.start && newEnd <= dateRange.end) {
-      setViewportStart(newStart);
-      setViewportEnd(newEnd);
-    }
+    const scrollAmount = days * pixelsPerDay;
+    scrollContainerRef.current.scrollLeft += scrollAmount;
   };
 
-  // Handle timeline scrubbing
+  // Handle timeline scrubbing (on mini-timeline indicator)
   const handleTimelineClick = (e: React.MouseEvent<HTMLDivElement>) => {
+    if (!scrollContainerRef.current) return;
+
     const rect = e.currentTarget.getBoundingClientRect();
     const clickX = e.clientX - rect.left;
     const percent = clickX / rect.width;
@@ -180,79 +211,95 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
     const totalRange = dateRange.end.getTime() - dateRange.start.getTime();
     const clickDate = new Date(dateRange.start.getTime() + (totalRange * percent));
 
-    // Center viewport on clicked date
-    const halfZoom = zoomLevel / 2;
-    const newStart = new Date(clickDate);
-    newStart.setDate(newStart.getDate() - halfZoom);
-    const newEnd = new Date(clickDate);
-    newEnd.setDate(newEnd.getDate() + halfZoom);
-
-    setViewportStart(newStart);
-    setViewportEnd(newEnd);
+    // Scroll to center the clicked date
+    const clickPixels = getPositionPixels(clickDate);
+    const containerWidth = scrollContainerRef.current.clientWidth;
+    scrollContainerRef.current.scrollLeft = clickPixels - containerWidth / 2;
   };
 
-  // Handle mouse drag for scrubbing
+  // Handle mouse drag for scrubbing on mini-timeline
   const handleMouseDown = (e: React.MouseEvent) => {
     setIsDragging(true);
     setDragStart(e.clientX);
   };
 
   const handleMouseMove = (e: React.MouseEvent) => {
-    if (!isDragging) return;
+    if (!isDragging || !scrollContainerRef.current) return;
 
     const deltaX = e.clientX - dragStart;
     const rect = timelineRef.current?.getBoundingClientRect();
     if (!rect) return;
 
+    // Map delta on mini-timeline to scroll distance on main timeline
     const percentMove = deltaX / rect.width;
-    const totalRange = dateRange.end.getTime() - dateRange.start.getTime();
-    const timeMove = totalRange * percentMove;
+    const scrollDelta = percentMove * timelineWidth;
 
-    const newStart = new Date(viewportStart.getTime() - timeMove);
-    const newEnd = new Date(viewportEnd.getTime() - timeMove);
-
-    // Keep within bounds
-    if (newStart >= dateRange.start && newEnd <= dateRange.end) {
-      setViewportStart(newStart);
-      setViewportEnd(newEnd);
-      setDragStart(e.clientX);
-    }
+    scrollContainerRef.current.scrollLeft -= scrollDelta;
+    setDragStart(e.clientX);
   };
 
   const handleMouseUp = () => {
     setIsDragging(false);
   };
 
+  // Handle scroll to update viewport
+  const handleScroll = () => {
+    if (!scrollContainerRef.current) return;
+
+    const scrollLeft = scrollContainerRef.current.scrollLeft;
+    const containerWidth = scrollContainerRef.current.clientWidth;
+
+    // Calculate viewport dates based on scroll position
+    const msPerDay = 1000 * 60 * 60 * 24;
+    const startDays = scrollLeft / pixelsPerDay;
+    const endDays = (scrollLeft + containerWidth) / pixelsPerDay;
+
+    const newStart = new Date(dateRange.start.getTime() + startDays * msPerDay);
+    const newEnd = new Date(dateRange.start.getTime() + endDays * msPerDay);
+
+    setViewportStart(newStart);
+    setViewportEnd(newEnd);
+    setScrollPosition(scrollLeft);
+  };
+
   // Zoom controls
   const zoomIn = () => {
     if (zoomLevel > 7) {
       const newZoom = Math.max(7, zoomLevel - 7);
+
+      // Keep the center point the same
+      const center = new Date((viewportStart.getTime() + viewportEnd.getTime()) / 2);
+
       setZoomLevel(newZoom);
 
-      const center = new Date((viewportStart.getTime() + viewportEnd.getTime()) / 2);
-      const newStart = new Date(center);
-      newStart.setDate(newStart.getDate() - newZoom / 2);
-      const newEnd = new Date(center);
-      newEnd.setDate(newEnd.getDate() + newZoom / 2);
-
-      setViewportStart(newStart);
-      setViewportEnd(newEnd);
+      // After zoom level changes, scroll to keep center in view
+      setTimeout(() => {
+        if (scrollContainerRef.current) {
+          const centerPixels = getPositionPixels(center);
+          const containerWidth = scrollContainerRef.current.clientWidth;
+          scrollContainerRef.current.scrollLeft = centerPixels - containerWidth / 2;
+        }
+      }, 0);
     }
   };
 
   const zoomOut = () => {
     if (zoomLevel < 365) {
       const newZoom = Math.min(365, zoomLevel + 7);
+
+      // Keep the center point the same
+      const center = new Date((viewportStart.getTime() + viewportEnd.getTime()) / 2);
+
       setZoomLevel(newZoom);
 
-      const center = new Date((viewportStart.getTime() + viewportEnd.getTime()) / 2);
-      const newStart = new Date(center);
-      newStart.setDate(newStart.getDate() - newZoom / 2);
-      const newEnd = new Date(center);
-      newEnd.setDate(newEnd.getDate() + newZoom / 2);
-
-      setViewportStart(newStart);
-      setViewportEnd(newEnd);
+      // After zoom level changes, scroll to keep center in view
+      setTimeout(() => {
+        if (scrollContainerRef.current) {
+          const centerPixels = getPositionPixels(center);
+          const containerWidth = scrollContainerRef.current.clientWidth;
+          scrollContainerRef.current.scrollLeft = centerPixels - containerWidth / 2;
+        }
+      }, 0);
     }
   };
 
@@ -294,7 +341,7 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
         <div className="flex items-center gap-4">
           <button
             onClick={() => navigateByDays(-zoomLevel)}
-            disabled={viewportStart <= dateRange.start}
+            disabled={scrollPosition <= 0}
             className="p-2 rounded-lg bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
             title="Previous period"
           >
@@ -304,23 +351,23 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
           <div className="flex-1 flex items-center gap-2">
             <button
               onClick={zoomIn}
-              className="px-3 py-1 text-sm rounded bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 hover:bg-blue-200 dark:hover:bg-blue-800"
+              disabled={zoomLevel <= 7}
+              className="px-3 py-1 text-sm rounded bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 hover:bg-blue-200 dark:hover:bg-blue-800 disabled:opacity-50 disabled:cursor-not-allowed"
             >
               Zoom In
             </button>
             <button
               onClick={zoomOut}
-              className="px-3 py-1 text-sm rounded bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 hover:bg-blue-200 dark:hover:bg-blue-800"
+              disabled={zoomLevel >= 365}
+              className="px-3 py-1 text-sm rounded bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 hover:bg-blue-200 dark:hover:bg-blue-800 disabled:opacity-50 disabled:cursor-not-allowed"
             >
               Zoom Out
             </button>
             <button
               onClick={() => {
-                const endDate = dateRange.end;
-                const startDate = new Date(endDate);
-                startDate.setDate(startDate.getDate() - zoomLevel);
-                setViewportEnd(endDate);
-                setViewportStart(startDate);
+                if (scrollContainerRef.current) {
+                  scrollContainerRef.current.scrollLeft = timelineWidth;
+                }
               }}
               className="px-3 py-1 text-sm rounded bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300 hover:bg-green-200 dark:hover:bg-green-800"
             >
@@ -330,7 +377,7 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
 
           <button
             onClick={() => navigateByDays(zoomLevel)}
-            disabled={viewportEnd >= dateRange.end}
+            disabled={scrollContainerRef.current ? scrollPosition >= (scrollContainerRef.current.scrollWidth - scrollContainerRef.current.clientWidth) : false}
             className="p-2 rounded-lg bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
             title="Next period"
           >
@@ -466,6 +513,92 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
           <div className="flex items-center gap-2">
             <div className="w-3 h-3 rounded-full bg-gray-500"></div>
             <span>Disasters</span>
+          </div>
+        </div>
+
+        {/* Scrollable Horizontal Timeline */}
+        <div className="mt-6">
+          <div className="text-sm text-gray-600 dark:text-gray-400 mb-2">
+            Horizontally scrollable timeline (scroll or drag to navigate)
+          </div>
+          <div
+            ref={scrollContainerRef}
+            className="overflow-x-auto overflow-y-hidden bg-gray-100 dark:bg-gray-900 rounded-lg p-4"
+            onScroll={handleScroll}
+            style={{ height: '120px' }}
+          >
+            <div
+              className="relative bg-gray-200 dark:bg-gray-800 rounded"
+              style={{ width: `${timelineWidth}px`, height: '80px' }}
+            >
+              {/* Timeline track */}
+              <div className="absolute top-1/2 left-0 right-0 h-1 bg-gray-300 dark:bg-gray-700 transform -translate-y-1/2"></div>
+
+              {/* Dynamic scale markers */}
+              {getScaleMarkers.map((marker, idx) => {
+                const position = getPositionPixels(marker.date);
+                const isMajor = marker.type === 'major';
+
+                return (
+                  <div
+                    key={`marker-${idx}`}
+                    className="absolute top-0 bottom-0 flex flex-col items-center justify-center pointer-events-none"
+                    style={{ left: `${position}px` }}
+                  >
+                    <div className={`w-px h-full ${isMajor ? 'bg-gray-400 dark:bg-gray-600' : 'bg-gray-300 dark:bg-gray-700'}`}></div>
+                    <div className={`absolute top-2 text-xs ${isMajor ? 'font-semibold' : 'font-normal'} text-gray-600 dark:text-gray-400 whitespace-nowrap`}>
+                      {marker.label}
+                    </div>
+                  </div>
+                );
+              })}
+
+              {/* Event markers */}
+              {worldEvents.map((event, idx) => {
+                const eventDate = new Date(event.date);
+                if (eventDate >= dateRange.start && eventDate <= dateRange.end) {
+                  const position = getPositionPixels(eventDate);
+                  const color = getCategoryColor(event.category);
+                  const colorClass = {
+                    blue: 'bg-blue-500',
+                    red: 'bg-red-500',
+                    purple: 'bg-purple-500',
+                    green: 'bg-green-500',
+                    yellow: 'bg-yellow-500',
+                    orange: 'bg-orange-500',
+                    gray: 'bg-gray-500'
+                  };
+
+                  return (
+                    <div
+                      key={`event-${idx}`}
+                      className={`absolute top-1/2 w-3 h-3 rounded-full ${colorClass[color as keyof typeof colorClass]} transform -translate-x-1/2 -translate-y-1/2 cursor-pointer hover:scale-150 transition-transform`}
+                      style={{ left: `${position}px` }}
+                      title={event.title}
+                    ></div>
+                  );
+                }
+                return null;
+              })}
+
+              {/* Tweet markers */}
+              {tweets.map((tweet) => {
+                const tweetDate = parseTwitterDate(tweet.created_at);
+                if (tweetDate >= dateRange.start && tweetDate <= dateRange.end) {
+                  const position = getPositionPixels(tweetDate);
+
+                  return (
+                    <div
+                      key={`tweet-marker-${tweet.id_str}`}
+                      className="absolute top-1/2 w-2 h-2 rounded-full bg-blue-400 transform -translate-x-1/2 -translate-y-1/2"
+                      style={{ left: `${position}px` }}
+                      title="Tweet"
+                    ></div>
+                  );
+                }
+                return null;
+              })}
+            </div>
           </div>
         </div>
       </div>

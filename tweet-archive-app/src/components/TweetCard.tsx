@@ -10,9 +10,8 @@ interface TweetCardProps {
 export function TweetCard({ tweet, onTweetClick }: TweetCardProps) {
   const mediaUrls = getMediaUrls(tweet);
 
-  // Fallback for profile image - older tweets might have broken URLs
-  const profileImageUrl = tweet.user.profile_image_url_https ||
-                          'https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png';
+  // Use custom default profile photo for all tweets
+  const defaultProfilePhoto = '/profile-photo.jpg';
 
   return (
     <div
@@ -23,11 +22,11 @@ export function TweetCard({ tweet, onTweetClick }: TweetCardProps) {
       <div className="flex items-start mb-3">
         <div className="flex items-start gap-3 flex-1">
           <img
-            src={profileImageUrl}
+            src={defaultProfilePhoto}
             alt={tweet.user.name}
-            className="w-12 h-12 rounded-full"
+            className="w-12 h-12 rounded-full object-cover"
             onError={(e) => {
-              // Fallback to default avatar if image fails to load
+              // Fallback to Twitter default if custom photo fails to load
               e.currentTarget.src = 'https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png';
             }}
           />

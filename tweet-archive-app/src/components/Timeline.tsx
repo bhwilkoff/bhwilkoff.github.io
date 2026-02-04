@@ -41,10 +41,10 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
   }, [dateRange]);
 
   // Calculate pixels per day based on zoom level
-  // Zoom level 1 = 1000px per day (super zoomed in)
-  // Zoom level 100 = 2px per day (super zoomed out)
+  // Zoom level 1 = 100px per day (max zoom - reduced for performance)
+  // Zoom level 100 = 2px per day (min zoom)
   const pixelsPerDay = useMemo(() => {
-    const maxPixels = 1000; // Max zoom: 1000px per day
+    const maxPixels = 100; // Max zoom: 100px per day (reduced from 1000)
     const minPixels = 2;    // Min zoom: 2px per day
 
     // Exponential scale feels more natural
@@ -60,6 +60,18 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
   // Initialize viewport to start of timeline (fully zoomed in)
   useEffect(() => {
     if (tweets.length > 0 && scrollContainerRef.current) {
+      // Initialize viewport to show first week/days
+      const msPerDay = 1000 * 60 * 60 * 24;
+      const containerWidth = scrollContainerRef.current.clientWidth;
+      const viewportDays = containerWidth / pixelsPerDay;
+      const bufferDays = viewportDays * 2;
+
+      const newStart = dateRange.start;
+      const newEnd = new Date(dateRange.start.getTime() + (viewportDays + bufferDays) * msPerDay);
+
+      setViewportStart(newStart);
+      setViewportEnd(newEnd);
+
       // Start at the beginning, zoomed in
       setTimeout(() => {
         if (scrollContainerRef.current) {
@@ -67,7 +79,7 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
         }
       }, 100);
     }
-  }, [tweets.length]);
+  }, [tweets.length, dateRange.start, pixelsPerDay]);
 
   // Combine tweets and events into timeline items
   const timelineItems = useMemo(() => {
@@ -228,25 +240,38 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
     }
   };
 
-  // Handle scroll to update viewport
-  const handleScroll = () => {
-    if (!scrollContainerRef.current) return;
+  // Handle scroll to update viewport (debounced for performance)
+  const handleScroll = useMemo(() => {
+    let timeoutId: ReturnType<typeof setTimeout>;
+    return () => {
+      if (!scrollContainerRef.current) return;
 
-    const scrollLeft = scrollContainerRef.current.scrollLeft;
-    const containerWidth = scrollContainerRef.current.clientWidth;
+      // Clear previous timeout
+      clearTimeout(timeoutId);
 
-    // Calculate viewport dates based on scroll position
-    const msPerDay = 1000 * 60 * 60 * 24;
-    const startDays = scrollLeft / pixelsPerDay;
-    const endDays = (scrollLeft + containerWidth) / pixelsPerDay;
+      // Debounce scroll updates
+      timeoutId = setTimeout(() => {
+        if (!scrollContainerRef.current) return;
 
-    const newStart = new Date(dateRange.start.getTime() + startDays * msPerDay);
-    const newEnd = new Date(dateRange.start.getTime() + endDays * msPerDay);
+        const scrollLeft = scrollContainerRef.current.scrollLeft;
+        const containerWidth = scrollContainerRef.current.clientWidth;
 
-    setViewportStart(newStart);
-    setViewportEnd(newEnd);
-    setScrollPosition(scrollLeft);
-  };
+        // Calculate viewport dates based on scroll position
+        // Add buffer zone (2x viewport width on each side) for smooth scrolling
+        const msPerDay = 1000 * 60 * 60 * 24;
+        const bufferDays = (containerWidth * 2) / pixelsPerDay;
+        const startDays = Math.max(0, (scrollLeft / pixelsPerDay) - bufferDays);
+        const endDays = ((scrollLeft + containerWidth) / pixelsPerDay) + bufferDays;
+
+        const newStart = new Date(dateRange.start.getTime() + startDays * msPerDay);
+        const newEnd = new Date(dateRange.start.getTime() + endDays * msPerDay);
+
+        setViewportStart(newStart);
+        setViewportEnd(newEnd);
+        setScrollPosition(scrollLeft);
+      }, 50); // 50ms debounce
+    };
+  }, [pixelsPerDay, dateRange.start]);
 
   // Zoom controls - zoom level from 1 (max zoom) to 100 (min zoom)
   const zoomIn = () => {
@@ -437,10 +462,11 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
                 );
               })}
 
-              {/* Event markers */}
+              {/* Event markers - Only render visible items in viewport */}
               {worldEvents.map((event, idx) => {
                 const eventDate = new Date(event.date);
-                if (eventDate >= dateRange.start && eventDate <= dateRange.end) {
+                // Only render events within viewport (with buffer for smooth scrolling)
+                if (eventDate >= viewportStart && eventDate <= viewportEnd) {
                   const position = getPositionPixels(eventDate);
                   const color = getCategoryColor(event.category);
                   const colorClass = {
@@ -472,10 +498,11 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
                 return null;
               })}
 
-              {/* Tweet markers */}
+              {/* Tweet markers - Only render visible items in viewport */}
               {tweets.map((tweet) => {
                 const tweetDate = parseTwitterDate(tweet.created_at);
-                if (tweetDate >= dateRange.start && tweetDate <= dateRange.end) {
+                // Only render tweets within viewport (with buffer for smooth scrolling)
+                if (tweetDate >= viewportStart && tweetDate <= viewportEnd) {
                   const position = getPositionPixels(tweetDate);
 
                   // Scale dot size based on zoom level (slightly smaller than events)

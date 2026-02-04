@@ -126,31 +126,31 @@ export function extractDomain(url: string): string {
 export function enrichTweetText(tweet: Tweet): string {
   let text = tweet.full_text || tweet.text || '';
 
-  // Replace URLs
+  // Replace URLs with clickable links - ensure pointer-events are enabled
   tweet.entities.urls.forEach((url) => {
     const displayUrl = url.display_url || url.url;
     const expandedUrl = url.expanded_url || url.url;
     text = text.replace(
       url.url,
-      `<a href="${expandedUrl}" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline">${displayUrl}</a>`
+      `<a href="${expandedUrl}" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline cursor-pointer" style="pointer-events: auto;">${displayUrl}</a>`
     );
   });
 
-  // Replace mentions
+  // Replace mentions with clickable links
   tweet.entities.user_mentions.forEach((mention) => {
     const mentionText = `@${mention.screen_name}`;
     text = text.replace(
       new RegExp(`@${mention.screen_name}\\b`, 'g'),
-      `<a href="https://twitter.com/${mention.screen_name}" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline">${mentionText}</a>`
+      `<a href="https://twitter.com/${mention.screen_name}" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline cursor-pointer" style="pointer-events: auto;">${mentionText}</a>`
     );
   });
 
-  // Replace hashtags
+  // Replace hashtags with clickable links
   tweet.entities.hashtags.forEach((hashtag) => {
     const hashtagText = `#${hashtag.text}`;
     text = text.replace(
       new RegExp(`#${hashtag.text}\\b`, 'g'),
-      `<a href="https://twitter.com/hashtag/${hashtag.text}" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline">${hashtagText}</a>`
+      `<a href="https://twitter.com/hashtag/${hashtag.text}" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline cursor-pointer" style="pointer-events: auto;">${hashtagText}</a>`
     );
   });
 

@@ -55,6 +55,14 @@ export function TweetCard({ tweet, onTweetClick }: TweetCardProps) {
       <div
         className="text-gray-900 dark:text-gray-100 mb-3 whitespace-pre-wrap break-words"
         dangerouslySetInnerHTML={{ __html: enrichTweetText(tweet) }}
+        onClick={(e) => {
+          // Allow clicks on links within the tweet text to propagate normally
+          const target = e.target as HTMLElement;
+          if (target.tagName === 'A') {
+            // Let the browser handle the link click (don't prevent default)
+            return;
+          }
+        }}
       />
 
       {/* Media */}

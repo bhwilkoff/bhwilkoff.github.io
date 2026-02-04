@@ -479,8 +479,16 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
                     gray: 'bg-gray-500'
                   };
 
-                  // Scale dot size based on zoom level
-                  const dotSize = Math.min(Math.max(pixelsPerDay / 50, 4), 20);
+                  // Scale dot size based on zoom level - made larger for visibility
+                  const dotSize = Math.min(Math.max(pixelsPerDay / 30, 8), 25);
+
+                  // Find the event in timelineItems to scroll to it
+                  const handleEventClick = () => {
+                    const eventElement = document.querySelector(`[data-event-date="${event.date}"]`);
+                    if (eventElement) {
+                      eventElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    }
+                  };
 
                   return (
                     <div
@@ -492,6 +500,7 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
                         height: `${dotSize}px`
                       }}
                       title={event.title}
+                      onClick={handleEventClick}
                     ></div>
                   );
                 }
@@ -505,19 +514,36 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
                 if (tweetDate >= viewportStart && tweetDate <= viewportEnd) {
                   const position = getPositionPixels(tweetDate);
 
-                  // Scale dot size based on zoom level (slightly smaller than events)
-                  const dotSize = Math.min(Math.max(pixelsPerDay / 70, 3), 15);
+                  // Scale dot size based on zoom level - made larger for visibility
+                  const dotSize = Math.min(Math.max(pixelsPerDay / 40, 8), 22);
+
+                  // Position vertically based on time of day (0-23 hours)
+                  // Timeline height is 200px, map hours to vertical position
+                  const hour = tweetDate.getHours();
+                  const minute = tweetDate.getMinutes();
+                  const timeOfDayRatio = (hour + minute / 60) / 24; // 0-1 representing position in day
+                  const verticalPosition = 20 + (timeOfDayRatio * 160); // 20px to 180px (keeping margins)
+
+                  // Click handler to scroll to the tweet
+                  const handleTweetClick = () => {
+                    const tweetElement = document.getElementById(`tweet-${tweet.id_str}`);
+                    if (tweetElement) {
+                      tweetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    }
+                  };
 
                   return (
                     <div
                       key={`tweet-marker-${tweet.id_str}`}
-                      className="absolute top-1/2 rounded-full bg-blue-400 transform -translate-x-1/2 -translate-y-1/2 shadow"
+                      className="absolute rounded-full bg-blue-400 transform -translate-x-1/2 cursor-pointer hover:scale-150 hover:bg-blue-500 transition-all shadow-md"
                       style={{
                         left: `${position}px`,
+                        top: `${verticalPosition}px`,
                         width: `${dotSize}px`,
                         height: `${dotSize}px`
                       }}
-                      title="Tweet"
+                      title={`Tweet at ${tweetDate.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' })}`}
+                      onClick={handleTweetClick}
                     ></div>
                   );
                 }
@@ -595,6 +621,7 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
               return (
                 <a
                   key={`item-${index}`}
+                  data-event-date={event.date}
                   href={event.wikipedia}
                   target="_blank"
                   rel="noopener noreferrer"
@@ -608,6 +635,7 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
             return (
               <div
                 key={`item-${index}`}
+                data-event-date={event.date}
                 className={`rounded-lg border-l-4 p-4 ${colorClasses[color as keyof typeof colorClasses]}`}
               >
                 {EventContent}

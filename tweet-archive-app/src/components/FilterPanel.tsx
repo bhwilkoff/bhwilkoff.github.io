@@ -84,7 +84,7 @@ export function FilterPanel({ onApplyFilters, onClearFilters, tweets = [] }: Fil
   };
 
   return (
-    <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6 space-y-6">
+    <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-6 space-y-6">
       <div className="flex items-center justify-between">
         <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
           Filters
@@ -114,7 +114,7 @@ export function FilterPanel({ onApplyFilters, onClearFilters, tweets = [] }: Fil
               </label>
               <select
                 onChange={(e) => handleMonthSelect(e.target.value)}
-                className="w-full px-3 py-2 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white text-sm focus:outline-hidden focus:ring-2 focus:ring-blue-500"
                 defaultValue=""
               >
                 <option value="">Choose a month...</option>
@@ -136,7 +136,7 @@ export function FilterPanel({ onApplyFilters, onClearFilters, tweets = [] }: Fil
               </label>
               <select
                 onChange={(e) => handleYearSelect(parseInt(e.target.value))}
-                className="w-full px-3 py-2 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white text-sm focus:outline-hidden focus:ring-2 focus:ring-blue-500"
                 defaultValue=""
               >
                 <option value="">Choose a year...</option>
@@ -160,7 +160,7 @@ export function FilterPanel({ onApplyFilters, onClearFilters, tweets = [] }: Fil
               value={dateFrom}
               onChange={(e) => setDateFrom(e.target.value)}
               max={dateTo || undefined}
-              className="w-full px-3 py-2 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="w-full px-3 py-2 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white text-sm focus:outline-hidden focus:ring-2 focus:ring-blue-500"
             />
           </div>
           <div>
@@ -172,7 +172,7 @@ export function FilterPanel({ onApplyFilters, onClearFilters, tweets = [] }: Fil
               value={dateTo}
               onChange={(e) => setDateTo(e.target.value)}
               min={dateFrom || undefined}
-              className="w-full px-3 py-2 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="w-full px-3 py-2 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white text-sm focus:outline-hidden focus:ring-2 focus:ring-blue-500"
             />
           </div>
         </div>
@@ -189,7 +189,7 @@ export function FilterPanel({ onApplyFilters, onClearFilters, tweets = [] }: Fil
               type="checkbox"
               checked={hasMedia}
               onChange={(e) => setHasMedia(e.target.checked)}
-              className="w-4 h-4 text-blue-500 rounded focus:ring-2 focus:ring-blue-500"
+              className="w-4 h-4 text-blue-500 rounded-sm focus:ring-2 focus:ring-blue-500"
             />
             <Image className="w-4 h-4 text-gray-500" />
             <span className="text-sm text-gray-700 dark:text-gray-300">
@@ -201,7 +201,7 @@ export function FilterPanel({ onApplyFilters, onClearFilters, tweets = [] }: Fil
               type="checkbox"
               checked={hasLinks}
               onChange={(e) => setHasLinks(e.target.checked)}
-              className="w-4 h-4 text-blue-500 rounded focus:ring-2 focus:ring-blue-500"
+              className="w-4 h-4 text-blue-500 rounded-sm focus:ring-2 focus:ring-blue-500"
             />
             <LinkIcon className="w-4 h-4 text-gray-500" />
             <span className="text-sm text-gray-700 dark:text-gray-300">
@@ -213,7 +213,7 @@ export function FilterPanel({ onApplyFilters, onClearFilters, tweets = [] }: Fil
               type="checkbox"
               checked={mentionsOnly}
               onChange={(e) => setMentionsOnly(e.target.checked)}
-              className="w-4 h-4 text-blue-500 rounded focus:ring-2 focus:ring-blue-500"
+              className="w-4 h-4 text-blue-500 rounded-sm focus:ring-2 focus:ring-blue-500"
             />
             <AtSign className="w-4 h-4 text-gray-500" />
             <span className="text-sm text-gray-700 dark:text-gray-300">

@@ -108,7 +108,7 @@ export function EnhancedAnalytics({
 
       <div className="grid lg:grid-cols-2 gap-6">
         {/* Device/Source Breakdown */}
-        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6">
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-6">
           <div className="flex items-center gap-2 mb-4">
             <Smartphone className="w-5 h-5 text-blue-500" />
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
@@ -120,7 +120,7 @@ export function EnhancedAnalytics({
               <button
                 key={source}
                 onClick={() => onSourceClick?.(source)}
-                className="w-full text-left hover:bg-gray-50 dark:hover:bg-gray-700/50 p-2 rounded transition-colors cursor-pointer"
+                className="w-full text-left hover:bg-gray-50 dark:hover:bg-gray-700/50 p-2 rounded-sm transition-colors cursor-pointer"
               >
                 <div className="flex justify-between items-center mb-1">
                   <span className="text-sm text-gray-700 dark:text-gray-300 truncate">
@@ -145,7 +145,7 @@ export function EnhancedAnalytics({
         </div>
 
         {/* Time of Day Activity */}
-        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6">
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-6">
           <div className="flex items-center gap-2 mb-4">
             <Clock className="w-5 h-5 text-purple-500" />
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
@@ -185,7 +185,7 @@ export function EnhancedAnalytics({
         </div>
 
         {/* Top Shared Domains */}
-        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6">
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-6">
           <div className="flex items-center gap-2 mb-4">
             <Link2 className="w-5 h-5 text-green-500" />
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
@@ -198,7 +198,7 @@ export function EnhancedAnalytics({
                 <button
                   key={domain}
                   onClick={() => onDomainClick?.(domain)}
-                  className="w-full flex justify-between items-center hover:bg-gray-50 dark:hover:bg-gray-700/50 p-2 rounded transition-colors cursor-pointer"
+                  className="w-full flex justify-between items-center hover:bg-gray-50 dark:hover:bg-gray-700/50 p-2 rounded-sm transition-colors cursor-pointer"
                 >
                   <span className="text-sm text-blue-500 dark:text-blue-400 truncate flex-1 text-left">
                     {domain}
@@ -215,7 +215,7 @@ export function EnhancedAnalytics({
         </div>
 
         {/* Conversation Partners */}
-        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6">
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-6">
           <div className="flex items-center gap-2 mb-4">
             <MessageCircle className="w-5 h-5 text-orange-500" />
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
@@ -228,7 +228,7 @@ export function EnhancedAnalytics({
                 <button
                   key={username}
                   onClick={() => onDomainClick?.(`@${username}`)}
-                  className="w-full flex justify-between items-center hover:bg-gray-50 dark:hover:bg-gray-700/50 p-2 rounded transition-colors cursor-pointer"
+                  className="w-full flex justify-between items-center hover:bg-gray-50 dark:hover:bg-gray-700/50 p-2 rounded-sm transition-colors cursor-pointer"
                 >
                   <span className="text-sm text-blue-500 dark:text-blue-400">
                     @{username}
@@ -246,7 +246,7 @@ export function EnhancedAnalytics({
       </div>
 
       {/* Day of Week */}
-      <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6">
+      <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-6">
         <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">
           Activity by Day of Week
         </h3>
@@ -255,7 +255,7 @@ export function EnhancedAnalytics({
             <div key={day} className="flex flex-col items-center">
               <div className="text-xs text-gray-500 mb-2">{day.slice(0, 3)}</div>
               <div
-                className="w-full bg-blue-500 rounded transition-all"
+                className="w-full bg-blue-500 rounded-sm transition-all"
                 style={{
                   height: `${((dayData[index] || 0) / maxDayCount) * 120}px`,
                   minHeight: '4px',
@@ -272,7 +272,7 @@ export function EnhancedAnalytics({
 
       {/* Most Engaged Tweets */}
       {tweetsWithEngagement.length > 0 && (
-        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6">
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-6">
           <div className="mb-4">
             <div className="flex items-center gap-2 mb-1">
               <TrendingUp className="w-5 h-5 text-red-500" />
@@ -289,7 +289,7 @@ export function EnhancedAnalytics({
               <button
                 key={tweet.id_str}
                 onClick={() => onTweetClick?.(tweet.id_str)}
-                className="w-full text-left border-b border-gray-200 dark:border-gray-700 pb-4 last:border-0 hover:bg-gray-50 dark:hover:bg-gray-700/50 p-3 rounded transition-colors"
+                className="w-full text-left border-b border-gray-200 dark:border-gray-700 pb-4 last:border-0 hover:bg-gray-50 dark:hover:bg-gray-700/50 p-3 rounded-sm transition-colors"
               >
                 <p className="text-sm text-gray-900 dark:text-gray-100 mb-2 line-clamp-3">
                   {tweet.full_text || tweet.text}

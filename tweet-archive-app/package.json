@@ -11,7 +11,7 @@
     "convert": "node scripts/convert-tweets.js"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.23",
+    "@tailwindcss/postcss": "^4.3.3",
     "chart.js": "^4.5.1",
     "date-fns": "^4.1.0",
     "idb": "^8.0.3",

@@ -16,7 +16,7 @@ export function TweetCard({ tweet, onTweetClick }: TweetCardProps) {
   return (
     <div
       id={`tweet-${tweet.id_str}`}
-      className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-4 hover:shadow-md transition-shadow"
+      className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-4 hover:shadow-md transition-shadow"
     >
       {/* Header */}
       <div className="flex items-start mb-3">
@@ -53,7 +53,7 @@ export function TweetCard({ tweet, onTweetClick }: TweetCardProps) {
 
       {/* Tweet Text */}
       <div
-        className="text-gray-900 dark:text-gray-100 mb-3 whitespace-pre-wrap break-words"
+        className="text-gray-900 dark:text-gray-100 mb-3 whitespace-pre-wrap wrap-break-word"
         dangerouslySetInnerHTML={{ __html: enrichTweetText(tweet) }}
         onClick={(e) => {
           // Allow clicks on links within the tweet text to propagate normally

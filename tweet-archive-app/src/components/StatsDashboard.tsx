@@ -130,7 +130,7 @@ export function StatsDashboard({ tweets, onHashtagClick, onMentionClick, onYearC
       </div>
 
       {/* Timeline Chart */}
-      <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6">
+      <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-6">
         <div style={{ height: '300px' }}>
           <Bar data={chartData} options={chartOptions} />
         </div>
@@ -139,7 +139,7 @@ export function StatsDashboard({ tweets, onHashtagClick, onMentionClick, onYearC
       {/* Top Hashtags and Mentions */}
       <div className="grid md:grid-cols-2 gap-6">
         {/* Top Hashtags */}
-        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6">
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-6">
           <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4 flex items-center gap-2">
             <Hash className="w-5 h-5" />
             Top Hashtags
@@ -168,7 +168,7 @@ export function StatsDashboard({ tweets, onHashtagClick, onMentionClick, onYearC
         </div>
 
         {/* Top Mentions */}
-        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6">
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-6">
           <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4 flex items-center gap-2">
             <AtSign className="w-5 h-5" />
             Top Mentions
@@ -221,7 +221,7 @@ function StatCard({ icon, label, value, color }: StatCardProps) {
   };
 
   return (
-    <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-4">
+    <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-4">
       <div className={`inline-flex p-2 rounded-lg ${colorClasses[color]} mb-2`}>
         {icon}
       </div>

@@ -43,7 +43,7 @@ export function SearchBar({
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Search tweets..."
-            className="w-full pl-10 pr-10 py-3 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="w-full pl-10 pr-10 py-3 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-white placeholder-gray-500 focus:outline-hidden focus:ring-2 focus:ring-blue-500"
           />
           {query && (
             <button

@@ -325,7 +325,7 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
   return (
     <div className="space-y-6">
       {/* Header */}
-      <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-6">
+      <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-6">
         <div className="flex items-center justify-between mb-4">
           <div>
             <h2 className="text-2xl font-bold text-gray-900 dark:text-white flex items-center gap-2">
@@ -363,14 +363,14 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
             <button
               onClick={zoomIn}
               disabled={zoomLevel <= 1}
-              className="px-3 py-1 text-sm rounded bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 hover:bg-blue-200 dark:hover:bg-blue-800 disabled:opacity-50 disabled:cursor-not-allowed"
+              className="px-3 py-1 text-sm rounded-sm bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 hover:bg-blue-200 dark:hover:bg-blue-800 disabled:opacity-50 disabled:cursor-not-allowed"
             >
               Zoom In
             </button>
             <button
               onClick={zoomOut}
               disabled={zoomLevel >= 100}
-              className="px-3 py-1 text-sm rounded bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 hover:bg-blue-200 dark:hover:bg-blue-800 disabled:opacity-50 disabled:cursor-not-allowed"
+              className="px-3 py-1 text-sm rounded-sm bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 hover:bg-blue-200 dark:hover:bg-blue-800 disabled:opacity-50 disabled:cursor-not-allowed"
             >
               Zoom Out
             </button>
@@ -437,7 +437,7 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
             style={{ height: '250px' }}
           >
             <div
-              className="relative bg-gray-200 dark:bg-gray-800 rounded"
+              className="relative bg-gray-200 dark:bg-gray-800 rounded-sm"
               style={{ width: `${timelineWidth}px`, height: '200px' }}
             >
               {/* Timeline track */}
@@ -556,7 +556,7 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
 
       {/* Timeline Content - Events and Tweets */}
       <div className="space-y-4">
-        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-4">
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-4">
           <div className="flex items-center gap-2 mb-4">
             <div className="text-lg font-semibold text-gray-900 dark:text-white">
               {timelineItems.filter(i => i.type === 'tweet').length} Tweets • {timelineItems.filter(i => i.type === 'event').length} Events
@@ -565,7 +565,7 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
         </div>
 
         {timelineItems.length === 0 && (
-          <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 p-12 text-center">
+          <div className="bg-white dark:bg-gray-800 rounded-lg shadow-xs border border-gray-200 dark:border-gray-700 p-12 text-center">
             <p className="text-gray-500 dark:text-gray-400">
               No tweets or events in this time period. Try adjusting the timeline view.
             </p>
@@ -588,7 +588,7 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
 
             const EventContent = (
               <div className="flex items-start gap-3">
-                <Globe className="w-5 h-5 mt-0.5 flex-shrink-0 text-gray-600 dark:text-gray-400" />
+                <Globe className="w-5 h-5 mt-0.5 shrink-0 text-gray-600 dark:text-gray-400" />
                 <div className="flex-1">
                   <div className="flex items-center gap-2 mb-1">
                     <span className="text-xs font-medium uppercase tracking-wide text-gray-600 dark:text-gray-400">
@@ -645,7 +645,7 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
             const tweet = item.data as Tweet;
             return (
               <div key={`item-${index}`} className="flex items-start gap-3">
-                <Twitter className="w-5 h-5 mt-4 flex-shrink-0 text-blue-400" />
+                <Twitter className="w-5 h-5 mt-4 shrink-0 text-blue-400" />
                 <div className="flex-1">
                   <TweetCard tweet={tweet} onTweetClick={onTweetClick} />
                 </div>

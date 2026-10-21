@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import { Moon, Sun, BarChart3, Grid, List, Loader2, X, Clock } from 'lucide-react';
 import type { Tweet, UserDetails } from './types/tweet';
 import {
@@ -17,6 +17,104 @@ import { hasMedia, hasLinks, parseTwitterDate } from './lib/utils';
 
 type Tab = 'tweets' | 'analytics' | 'media' | 'timeline';
 
+const TABS: Tab[] = ['tweets', 'analytics', 'media', 'timeline'];
+
+type Filters = {
+  dateFrom?: string;
+  dateTo?: string;
+  hasMedia?: boolean;
+  hasLinks?: boolean;
+  mentionsOnly?: boolean;
+};
+
+const applyFilters = (tweets: Tweet[], filters: Filters): Tweet[] => {
+  let filtered = tweets;
+
+  if (filters.dateFrom) {
+    const fromDate = new Date(filters.dateFrom);
+    filtered = filtered.filter(
+      (tweet) => parseTwitterDate(tweet.created_at) >= fromDate
+    );
+  }
+
+  if (filters.dateTo) {
+    const toDate = new Date(filters.dateTo);
+    toDate.setHours(23, 59, 59, 999);
+    filtered = filtered.filter(
+      (tweet) => parseTwitterDate(tweet.created_at) <= toDate
+    );
+  }
+
+  if (filters.hasMedia) {
+    filtered = filtered.filter((tweet) => hasMedia(tweet));
+  }
+
+  if (filters.hasLinks) {
+    filtered = filtered.filter((tweet) => hasLinks(tweet));
+  }
+
+  if (filters.mentionsOnly) {
+    filtered = filtered.filter(
+      (tweet) => tweet.entities.user_mentions.length > 0
+    );
+  }
+
+  return filtered;
+};
+
+// Search tweets in memory, then apply filters, newest first
+const searchTweets = (tweets: Tweet[], query: string, filters: Filters): Tweet[] => {
+  let results = tweets;
+
+  if (query) {
+    const searchLower = query.toLowerCase();
+    results = tweets.filter((tweet) => {
+      const text = (tweet.full_text || tweet.text || '').toLowerCase();
+      const userName = tweet.user.screen_name.toLowerCase();
+      const userFullName = tweet.user.name.toLowerCase();
+
+      // Check if query matches text, username, or full name
+      if (text.includes(searchLower)) return true;
+      if (userName.includes(searchLower)) return true;
+      if (userFullName.includes(searchLower)) return true;
+
+      // Check hashtags
+      if (tweet.entities.hashtags.some(h => h.text.toLowerCase().includes(searchLower.replace('#', '')))) {
+        return true;
+      }
+
+      // Check mentions
+      if (tweet.entities.user_mentions.some(m =>
+        m.screen_name.toLowerCase().includes(searchLower.replace('@', ''))
+      )) {
+        return true;
+      }
+
+      return false;
+    });
+  }
+
+  // Copy before sorting so the allTweets state array is never mutated
+  return [...applyFilters(results, filters)].sort(
+    (a, b) =>
+      parseTwitterDate(b.created_at).getTime() - parseTwitterDate(a.created_at).getTime()
+  );
+};
+
+// Scroll to a tweet and briefly highlight it, after it has rendered
+const highlightTweet = (tweetId: string) => {
+  setTimeout(() => {
+    const element = document.getElementById(`tweet-${tweetId}`);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      element.classList.add('ring-2', 'ring-blue-500', 'ring-offset-2');
+      setTimeout(() => {
+        element.classList.remove('ring-2', 'ring-blue-500', 'ring-offset-2');
+      }, 3000);
+    }
+  }, 100);
+};
+
 function App() {
   const [loading, setLoading] = useState(true);
   const [loadingProgress, setLoadingProgress] = useState('');
@@ -33,13 +131,7 @@ function App() {
   const [userDetails, setUserDetails] = useState<UserDetails | null>(null);
   const [currentQuery, setCurrentQuery] = useState('');
   const [displayLimit, setDisplayLimit] = useState(50); // Show 50 tweets at a time
-  const [currentFilters, setCurrentFilters] = useState<{
-    dateFrom?: string;
-    dateTo?: string;
-    hasMedia?: boolean;
-    hasLinks?: boolean;
-    mentionsOnly?: boolean;
-  }>({});
+  const [currentFilters, setCurrentFilters] = useState<Filters>({});
 
   useEffect(() => {
     if (darkMode) {
@@ -51,7 +143,7 @@ function App() {
   }, [darkMode]);
 
   // Helper function to update URL with current state
-  const updateURL = (tab: Tab, query: string, filters: typeof currentFilters) => {
+  const updateURL = (tab: Tab, query: string, filters: Filters) => {
     const params = new URLSearchParams();
 
     // Add search query first
@@ -84,16 +176,14 @@ function App() {
     window.history.pushState({}, '', newUrl);
   };
 
-  // Restore state from URL on mount
-  useEffect(() => {
-    if (loading || allTweets.length === 0) return;
-
+  // Apply the state encoded in the URL (on initial load and on back/forward)
+  const applyURLState = useCallback((tweets: Tweet[]) => {
     const params = new URLSearchParams(window.location.search);
     const query = params.get('q') || '';
     const tab = params.get('tab') as Tab | null;
     const tweetId = params.get('tweet');
 
-    const filters: typeof currentFilters = {};
+    const filters: Filters = {};
 
     if (params.has('from')) filters.dateFrom = params.get('from')!;
     if (params.has('to')) filters.dateTo = params.get('to')!;
@@ -101,89 +191,37 @@ function App() {
     if (params.get('links') === 'true') filters.hasLinks = true;
     if (params.get('mentions') === 'true') filters.mentionsOnly = true;
 
-    const hasFilters = Object.keys(filters).length > 0;
-
     // Handle individual tweet permalink - show only this tweet
     if (tweetId) {
       setActiveTab('tweets');
       setCurrentQuery('');
       setCurrentFilters({});
-
-      // Show only the specific tweet
-      const singleTweet = allTweets.filter(t => t.id_str === tweetId);
-      setDisplayedTweets(singleTweet);
-
-      // Scroll to tweet after render
-      setTimeout(() => {
-        const element = document.getElementById(`tweet-${tweetId}`);
-        if (element) {
-          element.scrollIntoView({ behavior: 'smooth', block: 'center' });
-          element.classList.add('ring-2', 'ring-blue-500', 'ring-offset-2');
-          setTimeout(() => {
-            element.classList.remove('ring-2', 'ring-blue-500', 'ring-offset-2');
-          }, 3000);
-        }
-      }, 100);
+      setDisplayedTweets(tweets.filter(t => t.id_str === tweetId));
+      highlightTweet(tweetId);
       return;
     }
 
-    // If there's a query, ALWAYS show tweets tab (ignore tab param to prevent flashing)
-    if (query) {
+    setCurrentQuery(query);
+    setCurrentFilters(filters);
+    setDisplayLimit(50);
+
+    // If there's a query or filters, ALWAYS show tweets tab (ignore tab param to prevent flashing)
+    if (query || Object.keys(filters).length > 0) {
       setActiveTab('tweets');
-      setCurrentFilters(filters);
-      setCurrentQuery(query);
-      handleSearch(query, filters, true); // skipUrlUpdate = true
-    } else if (hasFilters) {
-      // Filters but no query - show tweets with filters
-      setActiveTab('tweets');
-      setCurrentFilters(filters);
-      setCurrentQuery('');
-      handleApplyFilters(filters, true); // skipUrlUpdate = true
-    } else if (tab && ['tweets', 'analytics', 'media', 'timeline'].includes(tab)) {
-      // No query or filters - honor the tab parameter
-      setActiveTab(tab);
+      setDisplayedTweets(searchTweets(tweets, query, filters));
+    } else {
+      // No query or filters - honor the tab parameter, defaulting to tweets
+      setActiveTab(tab && TABS.includes(tab) ? tab : 'tweets');
+      setDisplayedTweets(tweets);
     }
-  }, [allTweets.length, loading]); // Run when tweets are loaded
+  }, []);
 
   // Handle browser back/forward navigation
   useEffect(() => {
-    const handlePopState = () => {
-      const params = new URLSearchParams(window.location.search);
-      const query = params.get('q') || '';
-      const tab = params.get('tab') as Tab | null;
-
-      const filters: typeof currentFilters = {};
-
-      if (params.has('from')) filters.dateFrom = params.get('from')!;
-      if (params.has('to')) filters.dateTo = params.get('to')!;
-      if (params.get('media') === 'true') filters.hasMedia = true;
-      if (params.get('links') === 'true') filters.hasLinks = true;
-      if (params.get('mentions') === 'true') filters.mentionsOnly = true;
-
-      setCurrentQuery(query);
-      setCurrentFilters(filters);
-
-      // If there's a query, ALWAYS show tweets tab (ignore tab param)
-      if (query) {
-        setActiveTab('tweets');
-        handleSearch(query, filters, true); // skipUrlUpdate = true
-      } else if (Object.keys(filters).length > 0) {
-        setActiveTab('tweets');
-        handleApplyFilters(filters, true); // skipUrlUpdate = true
-      } else if (tab && ['tweets', 'analytics', 'media', 'timeline'].includes(tab)) {
-        // No query or filters - honor the tab parameter
-        setActiveTab(tab);
-        setDisplayedTweets(allTweets);
-      } else {
-        // Default to tweets
-        setActiveTab('tweets');
-        setDisplayedTweets(allTweets);
-      }
-    };
-
+    const handlePopState = () => applyURLState(allTweets);
     window.addEventListener('popstate', handlePopState);
     return () => window.removeEventListener('popstate', handlePopState);
-  }, [allTweets]);
+  }, [allTweets, applyURLState]);
 
   useEffect(() => {
     async function loadData() {
@@ -213,7 +251,8 @@ function App() {
         );
 
         setAllTweets(tweets);
-        setDisplayedTweets(tweets);
+        // Restore state from URL now that tweets are loaded
+        applyURLState(tweets);
       } catch (error) {
         console.error('Error loading tweets:', error);
         setLoadingProgress('Error loading tweets. Please refresh the page.');
@@ -223,61 +262,17 @@ function App() {
     }
 
     loadData();
-  }, []);
+  }, [applyURLState]);
 
-  const handleSearch = async (query: string, filters?: typeof currentFilters, skipUrlUpdate?: boolean) => {
-    setCurrentQuery(query);
-    setDisplayLimit(50); // Reset to showing first 50
-
+  const handleSearch = (query: string, filters?: Filters) => {
     // Use provided filters or fall back to current state filters
     const filtersToApply = filters !== undefined ? filters : currentFilters;
 
-    // Update URL unless we're restoring from URL
-    if (!skipUrlUpdate) {
-      updateURL(activeTab, query, filtersToApply);
-    }
-
-    // Search through allTweets in memory instead of querying database
-    let results = allTweets;
-
-    if (query) {
-      const searchLower = query.toLowerCase();
-      results = allTweets.filter((tweet) => {
-        const text = (tweet.full_text || tweet.text || '').toLowerCase();
-        const userName = tweet.user.screen_name.toLowerCase();
-        const userFullName = tweet.user.name.toLowerCase();
-
-        // Check if query matches text, username, or full name
-        if (text.includes(searchLower)) return true;
-        if (userName.includes(searchLower)) return true;
-        if (userFullName.includes(searchLower)) return true;
-
-        // Check hashtags
-        if (tweet.entities.hashtags.some(h => h.text.toLowerCase().includes(searchLower.replace('#', '')))) {
-          return true;
-        }
-
-        // Check mentions
-        if (tweet.entities.user_mentions.some(m =>
-          m.screen_name.toLowerCase().includes(searchLower.replace('@', ''))
-        )) {
-          return true;
-        }
-
-        return false;
-      });
-    }
-
-    // Apply filters
-    results = applyFilters(results, filtersToApply);
-
-    // Sort by date
-    results.sort(
-      (a, b) =>
-        parseTwitterDate(b.created_at).getTime() - parseTwitterDate(a.created_at).getTime()
-    );
-
-    setDisplayedTweets(results);
+    setCurrentQuery(query);
+    setCurrentFilters(filtersToApply);
+    setDisplayLimit(50); // Reset to showing first 50
+    updateURL(activeTab, query, filtersToApply);
+    setDisplayedTweets(searchTweets(allTweets, query, filtersToApply));
   };
 
   const handleLoadMore = () => {
@@ -383,72 +378,13 @@ function App() {
     window.history.pushState({}, '', `?${params.toString()}`);
 
     // Scroll to tweet after a short delay to ensure it's rendered
-    setTimeout(() => {
-      const element = document.getElementById(`tweet-${tweetId}`);
-      if (element) {
-        element.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        element.classList.add('ring-2', 'ring-blue-500', 'ring-offset-2');
-        setTimeout(() => {
-          element.classList.remove('ring-2', 'ring-blue-500', 'ring-offset-2');
-        }, 3000);
-      }
-    }, 100);
+    highlightTweet(tweetId);
   };
 
-  const applyFilters = (
-    tweets: Tweet[],
-    filters: typeof currentFilters
-  ): Tweet[] => {
-    let filtered = tweets;
-
-    if (filters.dateFrom) {
-      const fromDate = new Date(filters.dateFrom);
-      filtered = filtered.filter(
-        (tweet) => parseTwitterDate(tweet.created_at) >= fromDate
-      );
-    }
-
-    if (filters.dateTo) {
-      const toDate = new Date(filters.dateTo);
-      toDate.setHours(23, 59, 59, 999);
-      filtered = filtered.filter(
-        (tweet) => parseTwitterDate(tweet.created_at) <= toDate
-      );
-    }
-
-    if (filters.hasMedia) {
-      filtered = filtered.filter((tweet) => hasMedia(tweet));
-    }
-
-    if (filters.hasLinks) {
-      filtered = filtered.filter((tweet) => hasLinks(tweet));
-    }
-
-    if (filters.mentionsOnly) {
-      filtered = filtered.filter(
-        (tweet) => tweet.entities.user_mentions.length > 0
-      );
-    }
-
-    return filtered;
-  };
-
-  const handleApplyFilters = (filters: typeof currentFilters, skipUrlUpdate?: boolean) => {
+  const handleApplyFilters = (filters: Filters) => {
     setCurrentFilters(filters);
-
-    // Update URL unless we're restoring from URL
-    if (!skipUrlUpdate) {
-      updateURL(activeTab, currentQuery, filters);
-    }
-
-    let results = applyFilters(allTweets, filters);
-
-    results.sort(
-      (a, b) =>
-        parseTwitterDate(b.created_at).getTime() - parseTwitterDate(a.created_at).getTime()
-    );
-
-    setDisplayedTweets(results);
+    updateURL(activeTab, currentQuery, filters);
+    setDisplayedTweets(searchTweets(allTweets, '', filters));
   };
 
   const handleClearFilters = () => {

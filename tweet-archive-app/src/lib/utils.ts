@@ -11,7 +11,7 @@ export function parseTwitterDate(dateString: string): Date {
     if (!isNaN(isoDate.getTime())) {
       return isoDate;
     }
-  } catch (e) {
+  } catch {
     // Fall through to other formats
   }
 

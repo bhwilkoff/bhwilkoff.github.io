@@ -1,4 +1,4 @@
-import { useState, useMemo, useEffect, useRef } from 'react';
+import { useState, useMemo, useEffect, useRef, useCallback } from 'react';
 import { Calendar, Globe, Twitter, ChevronLeft, ChevronRight } from 'lucide-react';
 import type { Tweet } from '../types/tweet';
 import { TweetCard } from './TweetCard';
@@ -22,6 +22,8 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
   const scrollContainerRef = useRef<HTMLDivElement>(null);
   const [zoomLevel, setZoomLevel] = useState(1); // 1 = max zoom, 100 = min zoom
   const [scrollPosition, setScrollPosition] = useState(0);
+  const [maxScrollPosition, setMaxScrollPosition] = useState<number | null>(null);
+  const scrollTimeoutRef = useRef<ReturnType<typeof setTimeout> | undefined>(undefined);
 
   // Calculate date range of all tweets
   const dateRange = useMemo(() => {
@@ -241,36 +243,34 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
   };
 
   // Handle scroll to update viewport (debounced for performance)
-  const handleScroll = useMemo(() => {
-    let timeoutId: ReturnType<typeof setTimeout>;
-    return () => {
+  const handleScroll = useCallback(() => {
+    if (!scrollContainerRef.current) return;
+
+    // Clear previous timeout
+    clearTimeout(scrollTimeoutRef.current);
+
+    // Debounce scroll updates
+    scrollTimeoutRef.current = setTimeout(() => {
       if (!scrollContainerRef.current) return;
 
-      // Clear previous timeout
-      clearTimeout(timeoutId);
+      const scrollLeft = scrollContainerRef.current.scrollLeft;
+      const containerWidth = scrollContainerRef.current.clientWidth;
 
-      // Debounce scroll updates
-      timeoutId = setTimeout(() => {
-        if (!scrollContainerRef.current) return;
+      // Calculate viewport dates based on scroll position
+      // Add buffer zone (2x viewport width on each side) for smooth scrolling
+      const msPerDay = 1000 * 60 * 60 * 24;
+      const bufferDays = (containerWidth * 2) / pixelsPerDay;
+      const startDays = Math.max(0, (scrollLeft / pixelsPerDay) - bufferDays);
+      const endDays = ((scrollLeft + containerWidth) / pixelsPerDay) + bufferDays;
 
-        const scrollLeft = scrollContainerRef.current.scrollLeft;
-        const containerWidth = scrollContainerRef.current.clientWidth;
+      const newStart = new Date(dateRange.start.getTime() + startDays * msPerDay);
+      const newEnd = new Date(dateRange.start.getTime() + endDays * msPerDay);
 
-        // Calculate viewport dates based on scroll position
-        // Add buffer zone (2x viewport width on each side) for smooth scrolling
-        const msPerDay = 1000 * 60 * 60 * 24;
-        const bufferDays = (containerWidth * 2) / pixelsPerDay;
-        const startDays = Math.max(0, (scrollLeft / pixelsPerDay) - bufferDays);
-        const endDays = ((scrollLeft + containerWidth) / pixelsPerDay) + bufferDays;
-
-        const newStart = new Date(dateRange.start.getTime() + startDays * msPerDay);
-        const newEnd = new Date(dateRange.start.getTime() + endDays * msPerDay);
-
-        setViewportStart(newStart);
-        setViewportEnd(newEnd);
-        setScrollPosition(scrollLeft);
-      }, 50); // 50ms debounce
-    };
+      setViewportStart(newStart);
+      setViewportEnd(newEnd);
+      setScrollPosition(scrollLeft);
+      setMaxScrollPosition(scrollContainerRef.current.scrollWidth - containerWidth);
+    }, 50); // 50ms debounce
   }, [pixelsPerDay, dateRange.start]);
 
   // Zoom controls - zoom level from 1 (max zoom) to 100 (min zoom)
@@ -381,7 +381,7 @@ export function Timeline({ tweets, onTweetClick }: TimelineProps) {
 
           <button
             onClick={() => navigate('right')}
-            disabled={scrollContainerRef.current ? scrollPosition >= (scrollContainerRef.current.scrollWidth - scrollContainerRef.current.clientWidth) : false}
+            disabled={maxScrollPosition !== null && scrollPosition >= maxScrollPosition}
             className="p-2 rounded-lg bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
             title="Navigate right"
           >

@@ -1,5 +1,5 @@
 import { Search, X, SlidersHorizontal } from 'lucide-react';
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 
 interface SearchBarProps {
   onSearch: (query: string) => void;
@@ -17,11 +17,13 @@ export function SearchBar({
   currentQuery = '',
 }: SearchBarProps) {
   const [query, setQuery] = useState(currentQuery);
+  const [prevCurrentQuery, setPrevCurrentQuery] = useState(currentQuery);
 
-  // Update local state when parent changes query
-  useEffect(() => {
+  // Update local state when parent changes query (adjusted during render, not in an effect)
+  if (currentQuery !== prevCurrentQuery) {
+    setPrevCurrentQuery(currentQuery);
     setQuery(currentQuery);
-  }, [currentQuery]);
+  }
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();

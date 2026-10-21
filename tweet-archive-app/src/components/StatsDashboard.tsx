@@ -7,6 +7,8 @@ import {
   Title,
   Tooltip,
   Legend,
+  type ActiveElement,
+  type ChartEvent,
 } from 'chart.js';
 import { Hash, AtSign, TrendingUp, Image, Link as LinkIcon, MessageCircle } from 'lucide-react';
 import type { Tweet } from '../types/tweet';
@@ -40,7 +42,7 @@ export function StatsDashboard({ tweets, onHashtagClick, onMentionClick, onYearC
   const chartOptions = {
     responsive: true,
     maintainAspectRatio: false,
-    onClick: (_event: any, elements: any[]) => {
+    onClick: (_event: ChartEvent, elements: ActiveElement[]) => {
       if (elements && elements.length > 0 && onYearClick) {
         try {
           const index = elements[0].index;
